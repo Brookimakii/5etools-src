@@ -280,7 +280,7 @@ Parser.getAbilityModifier = function (abilityScore) {
 	return `${modifier}`;
 };
 
-Parser.getSpeedString = (ent, {isMetric = false, isSkipZeroWalk = false, isLongForm = false, styleHint = null} = {}) => {
+Parser.getSpeedString = (ent, {isMetric = true, isSkipZeroWalk = false, isLongForm = false, styleHint = null} = {}) => {
 	if (ent.speed == null) return "\u2014";
 
 	styleHint ||= VetoolsConfig.get("styleSwitcher", "style");

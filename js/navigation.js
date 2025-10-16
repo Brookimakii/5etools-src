@@ -46,32 +46,32 @@ class NavBar {
 		this._addElement_li(null, "index.html", "Home", {isRoot: true});
 
 		this._addElement_dropdown(null, NavBar._CAT_RULES);
-		this._addElement_li(NavBar._CAT_RULES, "variantrules.html", "Rules Glossary");
+		this._addElement_li(NavBar._CAT_RULES, "variantrules.html", "Glossaire de Règles");
 		this._addElement_li(NavBar._CAT_RULES, "tables.html", "Tables");
 		this._addElement_divider(NavBar._CAT_RULES);
 		this._addElement_dropdown(NavBar._CAT_RULES, NavBar._CAT_BOOKS, {isSide: true, page: "books.html"});
-		this._addElement_li(NavBar._CAT_BOOKS, "books.html", "View All/Homebrew");
+		this._addElement_li(NavBar._CAT_BOOKS, "books.html", "Voir Tout/Homebrew");
 		this._addElement_divider(NavBar._CAT_RULES);
-		this._addElement_li(NavBar._CAT_RULES, "quickreference.html", "Quick Reference (2014)");
+		this._addElement_li(NavBar._CAT_RULES, "quickreference.html", "Références Rapide (2014)");
 
 		this._addElement_dropdown(null, NavBar._CAT_PLAYER);
 		this._addElement_li(NavBar._CAT_PLAYER, "classes.html", "Classes");
-		this._addElement_li(NavBar._CAT_PLAYER, "backgrounds.html", "Backgrounds");
-		this._addElement_li(NavBar._CAT_PLAYER, "feats.html", "Feats");
-		this._addElement_li(NavBar._CAT_PLAYER, "races.html", "Species");
-		this._addElement_li(NavBar._CAT_PLAYER, "charcreationoptions.html", "Other Character Creation Options");
-		this._addElement_li(NavBar._CAT_PLAYER, "optionalfeatures.html", "Other Options & Features");
+		this._addElement_li(NavBar._CAT_PLAYER, "backgrounds.html", "Historique");
+		this._addElement_li(NavBar._CAT_PLAYER, "feats.html", "Dons");
+		this._addElement_li(NavBar._CAT_PLAYER, "races.html", "Espèces");
+		this._addElement_li(NavBar._CAT_PLAYER, "charcreationoptions.html", "Autres Options de Création de Personnages");
+		this._addElement_li(NavBar._CAT_PLAYER, "optionalfeatures.html", "Autres Options & Capacitées");
 		this._addElement_divider(NavBar._CAT_PLAYER);
-		this._addElement_li(NavBar._CAT_PLAYER, "statgen.html", "Stat Generator");
+		this._addElement_li(NavBar._CAT_PLAYER, "statgen.html", "Générateur de stats");
 		this._addElement_divider(NavBar._CAT_PLAYER);
-		this._addElement_li(NavBar._CAT_PLAYER, "lifegen.html", "This Is Your Life");
-		this._addElement_li(NavBar._CAT_PLAYER, "names.html", "Names");
+		this._addElement_li(NavBar._CAT_PLAYER, "lifegen.html", "C'est votre vie");
+		this._addElement_li(NavBar._CAT_PLAYER, "names.html", "Noms");
 
 		this._addElement_dropdown(null, NavBar._CAT_DUNGEON_MASTER);
-		this._addElement_li(NavBar._CAT_DUNGEON_MASTER, "dmscreen.html", "DM Screen");
+		this._addElement_li(NavBar._CAT_DUNGEON_MASTER, "dmscreen.html", "Ecran de MJ");
 		this._addElement_divider(NavBar._CAT_DUNGEON_MASTER);
 		this._addElement_dropdown(NavBar._CAT_DUNGEON_MASTER, NavBar._CAT_ADVENTURES, {isSide: true, page: "adventures.html"});
-		this._addElement_li(NavBar._CAT_ADVENTURES, "adventures.html", "View All/Homebrew");
+		this._addElement_li(NavBar._CAT_ADVENTURES, "adventures.html", "Voir Tout/Homebrew");
 		this._addElement_li(NavBar._CAT_DUNGEON_MASTER, "cultsboons.html", "Cults & Supernatural Boons");
 		this._addElement_li(NavBar._CAT_DUNGEON_MASTER, "objects.html", "Objects");
 		this._addElement_li(NavBar._CAT_DUNGEON_MASTER, "trapshazards.html", "Traps & Hazards");
@@ -80,7 +80,7 @@ class NavBar {
 		this._addElement_li(NavBar._CAT_DUNGEON_MASTER, "encountergen.html", "Encounter Generator");
 		this._addElement_li(NavBar._CAT_DUNGEON_MASTER, "lootgen.html", "Loot Generator");
 		this._addElement_divider(NavBar._CAT_DUNGEON_MASTER);
-		this._addElement_li(NavBar._CAT_DUNGEON_MASTER, "maps.html", "Maps");
+		this._addElement_li(NavBar._CAT_DUNGEON_MASTER, "maps.html", "Cartes");
 
 		this._addElement_dropdown(null, NavBar._CAT_REFERENCES);
 		this._addElement_li(NavBar._CAT_REFERENCES, "actions.html", "Actions");
@@ -850,15 +850,15 @@ NavBar._ALT_CHILD_PAGES = {
 	"book.html": "books.html",
 	"adventure.html": "adventures.html",
 };
-NavBar._CAT_RULES = "Rules";
-NavBar._CAT_BOOKS = "Books";
-NavBar._CAT_PLAYER = "Player";
-NavBar._CAT_DUNGEON_MASTER = "Dungeon Master";
-NavBar._CAT_ADVENTURES = "Adventures";
-NavBar._CAT_REFERENCES = "References";
-NavBar._CAT_UTILITIES = "Utilities";
-NavBar._CAT_SETTINGS = "Settings";
-NavBar._CAT_CACHE = "Preload Data";
+NavBar._CAT_RULES = "Règles";
+NavBar._CAT_BOOKS = "Livres";
+NavBar._CAT_PLAYER = "Joueur";
+NavBar._CAT_DUNGEON_MASTER = "Maitre de Jeu";
+NavBar._CAT_ADVENTURES = "Aventures";
+NavBar._CAT_REFERENCES = "Références";
+NavBar._CAT_UTILITIES = "Utilitaire";
+NavBar._CAT_SETTINGS = "Paramères";
+NavBar._CAT_CACHE = "Précharger les Données";
 
 NavBar._navbar = null;
 
