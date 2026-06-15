@@ -4222,7 +4222,7 @@
 					}
 				},
 				{
-					"name": "Warlock Spells",
+					"name": "Occultiste Spells",
 					"ability": "cha",
 					"innate": {
 						"_": {
@@ -5824,7 +5824,7 @@
 					}
 				},
 				{
-					"name": "Warlock Spells",
+					"name": "Occultiste Spells",
 					"ability": "cha",
 					"innate": {
 						"_": {
@@ -7092,7 +7092,7 @@
 					}
 				},
 				{
-					"name": "Warlock Spells",
+					"name": "Occultiste Spells",
 					"ability": "cha",
 					"known": {
 						"_": [

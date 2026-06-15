@@ -234,7 +234,7 @@
 			"bonusSpellAttack": "+1",
 			"bonusSpellSaveDc": "+1",
 			"entries": [
-				"While holding this rod, you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your {@filter Warlock spells|spells|class=Warlock}.",
+				"While holding this rod, you gain a +1 bonus to spell attack rolls and to the saving throw DCs of your {@filter Occultiste spells|spells|class=Warlock}.",
 				"In addition, you can regain one spell slot as a {@action Magic|XPHB} action while holding the rod. You can't use this property again until you finish a {@variantrule Long Rest|XPHB}."
 			]
 		},
@@ -569,7 +569,7 @@
 			"bonusSpellAttack": "+2",
 			"bonusSpellSaveDc": "+2",
 			"entries": [
-				"While holding this rod, you gain a +2 bonus to spell attack rolls and to the saving throw DCs of your {@filter Warlock spells|spells|class=Warlock}.",
+				"While holding this rod, you gain a +2 bonus to spell attack rolls and to the saving throw DCs of your {@filter Occultiste spells|spells|class=Warlock}.",
 				"In addition, you can regain one spell slot as a {@action Magic|XPHB} action while holding the rod. You can't use this property again until you finish a {@variantrule Long Rest|XPHB}."
 			],
 			"lootTables": [
@@ -923,7 +923,7 @@
 			"bonusSpellAttack": "+3",
 			"bonusSpellSaveDc": "+3",
 			"entries": [
-				"While holding this rod, you gain a +3 bonus to spell attack rolls and to the saving throw DCs of your {@filter Warlock spells|spells|class=Warlock}.",
+				"While holding this rod, you gain a +3 bonus to spell attack rolls and to the saving throw DCs of your {@filter Occultiste spells|spells|class=Warlock}.",
 				"In addition, you can regain one spell slot as a {@action Magic|XPHB} action while holding the rod. You can't use this property again until you finish a {@variantrule Long Rest|XPHB}."
 			],
 			"lootTables": [
@@ -15422,14 +15422,14 @@
 					"type": "entries",
 					"name": "Spellcasting Focus",
 					"entries": [
-						"You can use the amulet as a {@variantrule Spellcasting Focus|XPHB} for your Warlock spells."
+						"You can use the amulet as a {@variantrule Spellcasting Focus|XPHB} for your Occultiste spells."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Unknown Spell",
 					"entries": [
-						"As a {@action Magic|XPHB} action, you can try to cast a cantrip that you don't know. The cantrip must be on the Warlock spell list and have a casting time of an action, and you make a {@dc 10} Intelligence ({@skill Arcana|XPHB}) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast it is wasted. In either case, you can't use this property again until you finish a {@variantrule Long Rest|XPHB}."
+						"As a {@action Magic|XPHB} action, you can try to cast a cantrip that you don't know. The cantrip must be on the Occultiste spell list and have a casting time of an action, and you make a {@dc 10} Intelligence ({@skill Arcana|XPHB}) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast it is wasted. In either case, you can't use this property again until you finish a {@variantrule Long Rest|XPHB}."
 					]
 				}
 			],

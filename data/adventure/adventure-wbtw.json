@@ -839,11 +839,11 @@
 								"If you like, you can replace Madryck Roslof with a different NPC who better suits your campaign. Whether Madryck or someone else gives the quest, the characters must travel across the land of Prismeer to reach the Palace of Heart's Desire (described in {@adventure chapter 5|WBtW|5}), where Zybilna is frozen in time. Because this quest is more difficult than the one tied to the \"Lost Things\" adventure hook, the potential rewards are greater.",
 								{
 									"type": "inset",
-									"name": "Warlocks of the Archfey",
+									"name": "Occultistes of the Archfey",
 									"page": 18,
 									"id": "055",
 									"entries": [
-										"If the adventuring party includes a warlock whose otherworldly patron is the Archfey, consider allowing that character's player to choose Zybilna as the warlock's patron. Warlocks who make pacts with Zybilna regard her as a generous, fairy godmother-like figure."
+										"If the adventuring party includes a warlock whose otherworldly patron is the Archfey, consider allowing that character's player to choose Zybilna as the warlock's patron. Occultistes who make pacts with Zybilna regard her as a generous, fairy godmother-like figure."
 									]
 								},
 								{

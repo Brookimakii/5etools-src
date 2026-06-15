@@ -9179,7 +9179,7 @@
 						"{@creature Draegloth|VGM}",
 						"{@creature Elder Brain|VGM}",
 						"{@creature Fire Giant Dreadnought|VGM}",
-						"{@creature Firenewt Warlock of Imix|VGM}",
+						"{@creature Firenewt Occultiste of Imix|VGM}",
 						"{@creature Firenewt Warrior|VGM}",
 						"{@creature Flail Snail|VGM}",
 						"{@creature Flind|VGM}",
@@ -9248,7 +9248,7 @@
 						"{@creature Wood Woad|VGM}",
 						"{@creature Xvart|VGM}",
 						"{@creature Xvart Speaker|VGM}",
-						"{@creature Xvart Warlock of Raxivort|VGM}",
+						"{@creature Xvart Occultiste of Raxivort|VGM}",
 						"{@creature Yeth Hound|VGM}",
 						"{@creature Yuan-ti Anathema|VGM}",
 						"{@creature Yuan-ti Broodguard|VGM}",
@@ -9312,9 +9312,9 @@
 						"{@creature Swashbuckler|VGM}",
 						"{@creature Transmuter|VGM}",
 						"{@creature War Priest|VGM}",
-						"{@creature Warlock of the Archfey|VGM}",
-						"{@creature Warlock of the Fiend|VGM}",
-						"{@creature Warlock of the Great Old One|VGM}",
+						"{@creature Occultiste of the Archfey|VGM}",
+						"{@creature Occultiste of the Fiend|VGM}",
+						"{@creature Occultiste of the Great Old One|VGM}",
 						"{@creature Warlord|VGM}"
 					]
 				}

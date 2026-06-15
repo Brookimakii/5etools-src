@@ -3777,7 +3777,7 @@
 			"source": "VGM",
 			"page": 42,
 			"_copy": {
-				"name": "Warlock of the Archfey",
+				"name": "Occultiste of the Archfey",
 				"source": "VGM",
 				"_templates": [
 					{
@@ -3809,7 +3809,7 @@
 			"source": "VGM",
 			"page": 42,
 			"_copy": {
-				"name": "Warlock of the Fiend",
+				"name": "Occultiste of the Fiend",
 				"source": "VGM",
 				"_templates": [
 					{
@@ -3841,7 +3841,7 @@
 			"source": "VGM",
 			"page": 42,
 			"_copy": {
-				"name": "Warlock of the Great Old One",
+				"name": "Occultiste of the Great Old One",
 				"source": "VGM",
 				"_templates": [
 					{
@@ -7269,7 +7269,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Firenewt Warlock of Imix",
+			"name": "Firenewt Occultiste of Imix",
 			"source": "VGM",
 			"page": 143,
 			"otherSources": [
@@ -7278,7 +7278,7 @@
 				}
 			],
 			"reprintedAs": [
-				"Firenewt Warlock of Imix|MPMM"
+				"Firenewt Occultiste of Imix|MPMM"
 			],
 			"size": [
 				"M"
@@ -18904,11 +18904,11 @@
 			"hasFluff": true
 		},
 		{
-			"name": "Warlock of the Archfey",
+			"name": "Occultiste of the Archfey",
 			"source": "VGM",
 			"page": 219,
 			"reprintedAs": [
-				"Warlock of the Archfey|MPMM"
+				"Occultiste of the Archfey|MPMM"
 			],
 			"size": [
 				"M"
@@ -19087,7 +19087,7 @@
 			"hasFluff": true
 		},
 		{
-			"name": "Warlock of the Fiend",
+			"name": "Occultiste of the Fiend",
 			"source": "VGM",
 			"page": 219,
 			"otherSources": [
@@ -19096,7 +19096,7 @@
 				}
 			],
 			"reprintedAs": [
-				"Warlock of the Fiend|MPMM"
+				"Occultiste of the Fiend|MPMM"
 			],
 			"size": [
 				"M"
@@ -19291,7 +19291,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Warlock of the Great Old One",
+			"name": "Occultiste of the Great Old One",
 			"source": "VGM",
 			"page": 220,
 			"otherSources": [
@@ -19300,7 +19300,7 @@
 				}
 			],
 			"reprintedAs": [
-				"Warlock of the Great Old One|MPMM"
+				"Occultiste of the Great Old One|MPMM"
 			],
 			"size": [
 				"M"
@@ -20123,11 +20123,11 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Xvart Warlock of Raxivort",
+			"name": "Xvart Occultiste of Raxivort",
 			"source": "VGM",
 			"page": 200,
 			"reprintedAs": [
-				"Xvart Warlock of Raxivort|MPMM"
+				"Xvart Occultiste of Raxivort|MPMM"
 			],
 			"size": [
 				"S"

@@ -1899,7 +1899,7 @@
 								],
 								[
 									"Warlock",
-									"{@dice 4d4×10|4d4 × 10|Warlock Starting Wealth} gp"
+									"{@dice 4d4×10|4d4 × 10|Occultiste Starting Wealth} gp"
 								],
 								[
 									"Wizard",
@@ -10515,7 +10515,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Warlock Spells",
+					"name": "Occultiste Spells",
 					"entries": [
 						{
 							"type": "list",

@@ -2841,7 +2841,7 @@
 			]
 		},
 		{
-			"name": "Firenewt Warlock of Imix",
+			"name": "Firenewt Occultiste of Imix",
 			"source": "MPMM",
 			"_copy": {
 				"name": "Firenewts",
@@ -6807,7 +6807,7 @@
 			]
 		},
 		{
-			"name": "Warlock of the Archfey",
+			"name": "Occultiste of the Archfey",
 			"source": "MPMM",
 			"_copy": {
 				"name": "Warlocks",
@@ -6818,7 +6818,7 @@
 						"items": {
 							"type": "entries",
 							"entries": [
-								"Warlocks of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as {@creature boggle|MPMM|boggles}, {@creature quickling|MPMM|quicklings}, and {@creature redcap|MPMM|redcaps} (all appear in {@book this book|MPMM}) or even {@creature satyr||satyrs} and {@creature sprite||sprites}."
+								"Occultistes of the Archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser Fey creatures such as {@creature boggle|MPMM|boggles}, {@creature quickling|MPMM|quicklings}, and {@creature redcap|MPMM|redcaps} (all appear in {@book this book|MPMM}) or even {@creature satyr||satyrs} and {@creature sprite||sprites}."
 							]
 						}
 					}
@@ -6826,7 +6826,7 @@
 			}
 		},
 		{
-			"name": "Warlock of the Fiend",
+			"name": "Occultiste of the Fiend",
 			"source": "MPMM",
 			"_copy": {
 				"name": "Warlocks",
@@ -6837,7 +6837,7 @@
 						"items": {
 							"type": "entries",
 							"entries": [
-								"Warlocks of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep {@creature imp||imps} or {@creature quasit||quasits} as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults."
+								"Occultistes of the Fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep {@creature imp||imps} or {@creature quasit||quasits} as companions, and they tend toward philosophical extremes: consorting with fiendish cults or dedicating their lives to destroying such cults."
 							]
 						}
 					}
@@ -6845,7 +6845,7 @@
 			}
 		},
 		{
-			"name": "Warlock of the Great Old One",
+			"name": "Occultiste of the Great Old One",
 			"source": "MPMM",
 			"_copy": {
 				"name": "Warlocks",
@@ -6856,7 +6856,7 @@
 						"items": {
 							"type": "entries",
 							"entries": [
-								"Warlocks of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as Aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the chaos and wickedness inspired by bizarre beings from beyond the stars."
+								"Occultistes of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as Aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the chaos and wickedness inspired by bizarre beings from beyond the stars."
 							]
 						}
 					}
@@ -6867,7 +6867,7 @@
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "bestiary/MPMM/Warlock of the Great Old One.webp"
+						"path": "bestiary/MPMM/Occultiste of the Great Old One.webp"
 					},
 					"credit": "Valera Lutfullina"
 				}
@@ -6881,7 +6881,7 @@
 					"type": "section",
 					"name": "Warlocks",
 					"entries": [
-						"Warlocks gain arcane might through magical pacts with mysterious entities. While some use their abilities to serve the sources of their power, others use them to undermine or even destroy these entities."
+						"Occultistes gain arcane might through magical pacts with mysterious entities. While some use their abilities to serve the sources of their power, others use them to undermine or even destroy these entities."
 					]
 				}
 			]
@@ -7140,7 +7140,7 @@
 			]
 		},
 		{
-			"name": "Xvart Warlock of Raxivort",
+			"name": "Xvart Occultiste of Raxivort",
 			"source": "MPMM",
 			"_copy": {
 				"name": "Xvarts",

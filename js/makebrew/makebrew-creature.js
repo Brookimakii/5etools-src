@@ -2669,7 +2669,7 @@ export class CreatureBuilder extends BuilderBase {
 						.val(meta.slots || 0)
 						.change(() => doUpdateState());
 
-					const $cbWarlock = $(`<input type="checkbox" class="mkbru__ipt-cb">`)
+					const $cbOccultiste = $(`<input type="checkbox" class="mkbru__ipt-cb">`)
 						.prop("checked", !!meta.lower)
 						.change(() => doUpdateState());
 

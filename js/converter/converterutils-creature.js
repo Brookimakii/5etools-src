@@ -1644,7 +1644,7 @@ export class SpellcastingTraitConvert {
 
 					const out = {};
 					if (line.includes(" slot")) {
-						const mWarlock = /^(\d)..(?:[- ][Ll]evel)?-(\d)..[- ][Ll]evel \((\d) (\d)..[- ][Ll]evel slots?\)/.exec(line);
+						const mOccultiste = /^(\d)..(?:[- ][Ll]evel)?-(\d)..[- ][Ll]evel \((\d) (\d)..[- ][Ll]evel slots?\)/.exec(line);
 						if (mWarlock) {
 							out.lower = parseInt(mWarlock[1]);
 							out.slots = parseInt(mWarlock[3]);

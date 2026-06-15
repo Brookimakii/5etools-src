@@ -301,7 +301,7 @@ export class ScaleCreature {
 		const idealClvlIn = this._crToCasterLevel(crIn);
 		const idealClvlOut = this._crToCasterLevel(crOut);
 
-		const isWarlock = this._adjustSpellcasting_isWarlock(mon);
+		const isOccultiste = this._adjustSpellcasting_isWarlock(mon);
 		// favor the first result as primary
 		let primaryInLevel = null;
 		let primaryOutLevel = null;
@@ -466,7 +466,7 @@ export class ScaleCreature {
 
 		mon.spellcasting.forEach(sc => {
 			// adjust Mystic Arcanum spells
-			if (isWarlock && sc.daily && sc.daily["1e"]) {
+			if (isOccultiste && sc.daily && sc.daily["1e"]) {
 				const numArcanum = this._adjustSpellcasting_getWarlockNumArcanum(primaryOutLevel);
 
 				const curNumSpells = sc.daily["1e"].length;
@@ -514,7 +514,7 @@ export class ScaleCreature {
 		});
 	}
 
-	static _adjustSpellcasting_isWarlock (mon) {
+	static _adjustSpellcasting_isOccultiste (mon) {
 		if (mon.spellcasting) {
 			return mon.spellcasting.some(sc => sc.headerEntries && /warlock spells?|warlock('s)? spell list/i.test(JSON.stringify(sc.headerEntries)));
 		}

@@ -956,7 +956,7 @@
 			]
 		},
 		{
-			"name": "Fomorian Warlock of the Dark",
+			"name": "Fomorian Occultiste of the Dark",
 			"source": "BGG",
 			"_copy": {
 				"name": "Fomorians",
@@ -983,7 +983,7 @@
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "bestiary/BGG/Fomorian Warlock of the Dark.webp"
+						"path": "bestiary/BGG/Fomorian Occultiste of the Dark.webp"
 					}
 				}
 			]

@@ -6373,7 +6373,7 @@
 											"page": 45,
 											"id": "117",
 											"entries": [
-												"If you have the Pact Magic feature from the Warlock class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Warlock spells you have prepared."
+												"If you have the Pact Magic feature from the Occultiste class and the Spellcasting feature, you can use the spell slots you gain from Pact Magic to cast spells you have prepared from classes with the Spellcasting feature, and you can use the spell slots you gain from the Spellcasting feature to cast Occultiste spells you have prepared."
 											]
 										}
 									]
@@ -6395,7 +6395,7 @@
 						"type": "internal",
 						"path": "book/XPHB/022-02-011.paladin-warlock-multiclass.webp"
 					},
-					"title": "A character with Paladin and Warlock levels might call on both a mighty oath and an otherworldly patron",
+					"title": "A character with Paladin and Occultiste levels might call on both a mighty oath and an otherworldly patron",
 					"credit": "Chris Seaman",
 					"width": 850,
 					"height": 2203
@@ -9651,7 +9651,7 @@
 								"type": "internal",
 								"path": "book/XPHB/177-07-003.arcane-focus.webp"
 							},
-							"title": "A Warlock channels magic through an Arcane Focus",
+							"title": "A Occultiste channels magic through an Arcane Focus",
 							"credit": "Ignatius Budi",
 							"width": 1700,
 							"height": 1097

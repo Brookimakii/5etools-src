@@ -761,7 +761,7 @@
 				"Eldritch Invocation Options|Warlock|XPHB|1",
 				"Magical Cunning|Warlock|XPHB|2",
 				{
-					"classFeature": "Warlock Subclass|Warlock|XPHB|3",
+					"classFeature": "Occultiste Subclass|Warlock|XPHB|3",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Warlock|XPHB|4",
@@ -788,7 +788,7 @@
 				"Epic Boon|Warlock|XPHB|19",
 				"Eldritch Master|Warlock|XPHB|20"
 			],
-			"subclassTitle": "Warlock Subclass",
+			"subclassTitle": "Occultiste Subclass",
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
@@ -1792,14 +1792,14 @@
 					"type": "entries",
 					"name": "Cantrips",
 					"entries": [
-						"You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Warlock table."
+						"You know two cantrips of your choice from the warlock spell list. You learn additional warlock cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Occultiste table."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Spell Slots",
 					"entries": [
-						"The Warlock table shows how many spell slots you have to cast your {@filter warlock spells|spells|class=warlock} of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.",
+						"The Occultiste table shows how many spell slots you have to cast your {@filter warlock spells|spells|class=warlock} of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.",
 						"For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell {@spell witch bolt}, you must spend one of those slots, and you cast it as a 3rd-level spell."
 					]
 				},
@@ -1808,7 +1808,7 @@
 					"name": "Spells Known of 1st Level and Higher",
 					"entries": [
 						"At 1st level, you know two 1st-level spells of your choice from the warlock spell list.",
-						"The Spells Known column of the Warlock table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.",
+						"The Spells Known column of the Occultiste table shows when you learn more warlock spells of your choice of 1st level and higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach 6th level, for example, you learn a new warlock spell, which can be 1st, 2nd, or 3rd level.",
 						"Additionally, when you gain a level in this class, you can choose one of the warlock spells you know and replace it with another spell from the warlock spell list, which also must be of a level for which you have spell slots."
 					]
 				},
@@ -1852,7 +1852,7 @@
 			"level": 2,
 			"entries": [
 				"In your study of occult lore, you have unearthed eldritch invocations, fragments of forbidden knowledge that imbue you with an abiding magical ability.",
-				"At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the {@filter Optional Features|optionalfeatures|Feature Type=EI} page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Warlock table.",
+				"At 2nd level, you gain two eldritch invocations of your choice. A list of the available options can be found on the {@filter Optional Features|optionalfeatures|Feature Type=EI} page. When you gain certain warlock levels, you gain additional invocations of your choice, as shown in the Invocations Known column of the Occultiste table.",
 				"Additionally, when you gain a level in this class, you can choose one of the invocations you know and replace it with another invocation that you could learn at that level.",
 				"If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class."
 			]
@@ -2312,19 +2312,19 @@
 							"type": "entries",
 							"name": "Prerequisites",
 							"entries": [
-								"If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5."
+								"If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Occultiste level 5."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Replacing and Gaining Invocations",
 							"entries": [
-								"Whenever you gain a Warlock level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have."
+								"Whenever you gain a Occultiste level, you can replace one of your invocations with another one for which you qualify. You can't replace an invocation if it's a prerequisite for another invocation that you have."
 							]
 						}
 					]
 				},
-				"When you gain certain Warlock levels, you gain more invocations of your choice, as shown in the Invocations column of the Warlock Features table.",
+				"When you gain certain Occultiste levels, you gain more invocations of your choice, as shown in the Invocations column of the Occultiste Features table.",
 				"You can't pick the same invocation more than once unless its description says otherwise."
 			]
 		},
@@ -2338,7 +2338,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows\u2014its identity unclear\u2014but its boon to you is concrete: the ability to cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Warlock spells, which appear in the {@filter Warlock spell list|spells|class=Warlock} later in the class's description.",
+				"Through occult ceremony, you have formed a pact with a mysterious entity to gain magical powers. The entity is a voice in the shadows\u2014its identity unclear\u2014but its boon to you is concrete: the ability to cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Occultiste spells, which appear in the {@filter Occultiste spell list|spells|class=Warlock} later in the class's description.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2346,15 +2346,15 @@
 							"type": "entries",
 							"name": "Cantrips",
 							"entries": [
-								"You know two Warlock cantrips of your choice. {@spell Eldritch Blast|XPHB} and {@spell Prestidigitation|XPHB} are recommended. Whenever you gain a Warlock level, you can replace one of your cantrips from this feature with another Warlock cantrip of your choice.",
-								"When you reach Warlock levels 4 and 10, you learn another Warlock cantrip of your choice, as shown in the Cantrips column of the Warlock Features table."
+								"You know two Occultiste cantrips of your choice. {@spell Eldritch Blast|XPHB} and {@spell Prestidigitation|XPHB} are recommended. Whenever you gain a Occultiste level, you can replace one of your cantrips from this feature with another Occultiste cantrip of your choice.",
+								"When you reach Occultiste levels 4 and 10, you learn another Occultiste cantrip of your choice, as shown in the Cantrips column of the Occultiste Features table."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spell Slots",
 							"entries": [
-								"The Warlock Features table shows how many spell slots you have to cast your Warlock spells of levels 1\u20135. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}.",
+								"The Occultiste Features table shows how many spell slots you have to cast your Occultiste spells of levels 1\u20135. The table also shows the level of those slots, all of which are the same level. You regain all expended Pact Magic spell slots when you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}.",
 								"For example, when you're a level 5 Warlock, you have two level 3 spell slots. To cast the level 1 spell {@spell Witch Bolt|XPHB}, you must spend one of those slots, and you cast it as a level 3 spell."
 							]
 						},
@@ -2362,13 +2362,13 @@
 							"type": "entries",
 							"name": "Prepared Spells of Level 1+",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Warlock spells. {@spell Charm Person|XPHB} and {@spell Hex|XPHB} are recommended."
+								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Occultiste spells. {@spell Charm Person|XPHB} and {@spell Hex|XPHB} are recommended."
 							]
 						}
 					]
 				},
-				"The number of spells on your list increases as you gain Warlock levels, as shown in the Prepared Spells column of the Warlock Features table. Whenever that number increases, choose additional Warlock spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Warlock spell, which can be of levels 1\u20133.",
-				"If another Warlock feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Warlock spells for you.",
+				"The number of spells on your list increases as you gain Occultiste levels, as shown in the Prepared Spells column of the Occultiste Features table. Whenever that number increases, choose additional Occultiste spells until the number of spells on your list matches the number in the table. The chosen spells must be of a level no higher than what's shown in the table's Slot Level column for your level. When you reach level 6, for example, you learn a new Occultiste spell, which can be of levels 1\u20133.",
+				"If another Occultiste feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Occultiste spells for you.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2376,21 +2376,21 @@
 							"type": "entries",
 							"name": "Changing Your Prepared Spells",
 							"entries": [
-								"Whenever you gain a Warlock level, you can replace one spell on your list with another Warlock spell of an eligible level."
+								"Whenever you gain a Occultiste level, you can replace one spell on your list with another Occultiste spell of an eligible level."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Ability",
 							"entries": [
-								"Charisma is the spellcasting ability for your Warlock spells."
+								"Charisma is the spellcasting ability for your Occultiste spells."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Focus",
 							"entries": [
-								"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Warlock spells."
+								"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Occultiste spells."
 							]
 						}
 					]
@@ -2411,7 +2411,7 @@
 			]
 		},
 		{
-			"name": "Warlock Subclass",
+			"name": "Occultiste Subclass",
 			"source": "XPHB",
 			"page": 154,
 			"srd52": true,
@@ -2420,7 +2420,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Warlock subclass of your choice. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass's features that are of your Warlock level or lower."
+				"You gain a Occultiste subclass of your choice. A subclass is a specialization that grants you features at certain Occultiste levels. For the rest of your career, you gain each of your subclass's features that are of your Occultiste level or lower."
 			]
 		},
 		{
@@ -2433,7 +2433,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Warlock levels 8, 12, and 16."
+				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Occultiste levels 8, 12, and 16."
 			]
 		},
 		{
@@ -2446,7 +2446,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain a feature from your Warlock subclass."
+				"You gain a feature from your Occultiste subclass."
 			]
 		},
 		{
@@ -2486,7 +2486,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You gain a feature from your Warlock subclass."
+				"You gain a feature from your Occultiste subclass."
 			]
 		},
 		{
@@ -2499,10 +2499,10 @@
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"Your patron grants you a magical secret called an arcanum. Choose one level 6 Warlock spell as this arcanum.",
+				"Your patron grants you a magical secret called an arcanum. Choose one level 6 Occultiste spell as this arcanum.",
 				"You can cast your arcanum spell once without expending a spell slot, and you must finish a {@variantrule Long Rest|XPHB} before you can cast it in this way again.",
-				"As shown in the Warlock Features table, you gain another Warlock spell of your choice that can be cast in this way when you reach Warlock levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a {@variantrule Long Rest|XPHB}.",
-				"Whenever you gain a Warlock level, you can replace one of your arcanum spells with another Warlock spell of the same level."
+				"As shown in the Occultiste Features table, you gain another Occultiste spell of your choice that can be cast in this way when you reach Occultiste levels 13 (level 7 spell), 15 (level 8 spell), and 17 (level 9 spell). You regain all uses of your Mystic Arcanum when you finish a {@variantrule Long Rest|XPHB}.",
+				"Whenever you gain a Occultiste level, you can replace one of your arcanum spells with another Occultiste spell of the same level."
 			]
 		},
 		{
@@ -2528,7 +2528,7 @@
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
-				"You gain a level 7 Warlock Spell of your choice."
+				"You gain a level 7 Occultiste Spell of your choice."
 			]
 		},
 		{
@@ -2541,7 +2541,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You gain a feature from your Warlock subclass."
+				"You gain a feature from your Occultiste subclass."
 			]
 		},
 		{
@@ -2554,7 +2554,7 @@
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"You gain a level 8 Warlock Spell of your choice."
+				"You gain a level 8 Occultiste Spell of your choice."
 			]
 		},
 		{
@@ -2580,7 +2580,7 @@
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"You gain a level 9 Warlock Spell of your choice."
+				"You gain a level 9 Occultiste Spell of your choice."
 			]
 		},
 		{
@@ -4171,12 +4171,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Archfey Spells table, you thereafter always have the listed spells prepared.",
+				"The magic of your patron ensures you always have certain spells ready; when you reach a Occultiste level specified in the Archfey Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Archfey Spells",
 					"colLabels": [
-						"Warlock Level",
+						"Occultiste Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4334,12 +4334,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Celestial Spells table, you thereafter always have the listed spells prepared.",
+				"The magic of your patron ensures you always have certain spells ready; when you reach a Occultiste level specified in the Celestial Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Celestial Spells",
 					"colLabels": [
-						"Warlock Level",
+						"Occultiste Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4378,7 +4378,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Warlock level.",
+				"You gain the ability to channel celestial energy to heal wounds. You have a pool of d6s to fuel this healing. The number of dice in the pool equals 1 plus your Occultiste level.",
 				"As a {@variantrule Bonus Action|XPHB}, you can heal yourself or one creature you can see within 60 feet of yourself, expending dice from the pool. The maximum number of dice you can expend at once equals your Charisma modifier (minimum of one die). Roll the dice you expend, and restore a number of {@variantrule Hit Points|XPHB} equal to the roll's total. Your pool regains all expended dice when you finish a {@variantrule Long Rest|XPHB}."
 			]
 		},
@@ -4407,7 +4407,7 @@
 			"level": 10,
 			"header": 2,
 			"entries": [
-				"You gain {@variantrule Temporary Hit Points|XPHB} whenever you use your Magical Cunning feature or finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}. These {@variantrule Temporary Hit Points|XPHB} equal your Warlock level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain {@variantrule Temporary Hit Points|XPHB} equal to half your Warlock level plus your Charisma modifier."
+				"You gain {@variantrule Temporary Hit Points|XPHB} whenever you use your Magical Cunning feature or finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}. These {@variantrule Temporary Hit Points|XPHB} equal your Occultiste level plus your Charisma modifier. Additionally, choose up to five creatures you can see when you gain the points. Those creatures each gain {@variantrule Temporary Hit Points|XPHB} equal to half your Occultiste level plus your Charisma modifier."
 			]
 		},
 		{
@@ -4462,7 +4462,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"When you reduce an enemy to 0 {@variantrule Hit Points|XPHB}, you gain {@variantrule Temporary Hit Points|XPHB} equal to your Charisma modifier plus your Warlock level (minimum of 1 {@variantrule Temporary Hit Points|XPHB|Temporary Hit Point}). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 {@variantrule Hit Points|XPHB}."
+				"When you reduce an enemy to 0 {@variantrule Hit Points|XPHB}, you gain {@variantrule Temporary Hit Points|XPHB} equal to your Charisma modifier plus your Occultiste level (minimum of 1 {@variantrule Temporary Hit Points|XPHB|Temporary Hit Point}). You also gain this benefit if someone else reduces an enemy within 10 feet of you to 0 {@variantrule Hit Points|XPHB}."
 			]
 		},
 		{
@@ -4478,12 +4478,12 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Fiend Spells table, you thereafter always have the listed spells prepared.",
+				"The magic of your patron ensures you always have certain spells ready; when you reach a Occultiste level specified in the Fiend Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Fiend Spells",
 					"colLabels": [
-						"Warlock Level",
+						"Occultiste Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4599,7 +4599,7 @@
 			"header": 1,
 			"entries": [
 				"You can form a telepathic connection between your mind and the mind of another. As a {@variantrule Bonus Action|XPHB}, choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.",
-				"The telepathic connection lasts for a number of minutes equal to your Warlock level. It ends early if you use this feature to connect with a different creature."
+				"The telepathic connection lasts for a number of minutes equal to your Occultiste level. It ends early if you use this feature to connect with a different creature."
 			]
 		},
 		{
@@ -4613,12 +4613,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"The magic of your patron ensures you always have certain spells ready; when you reach a Warlock level specified in the Great Old One Spells table, you thereafter always have the listed spells prepared.",
+				"The magic of your patron ensures you always have certain spells ready; when you reach a Occultiste level specified in the Great Old One Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Great Old One Spells",
 					"colLabels": [
-						"Warlock Level",
+						"Occultiste Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4657,7 +4657,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you cast a Warlock spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Warlock spell that is an Enchantment or {@variantrule Illusions|XPHB|Illusion}, you can do so without Verbal or Somatic components."
+				"When you cast a Occultiste spell that deals damage, you can change its damage type to Psychic. In addition, when you cast a Occultiste spell that is an Enchantment or {@variantrule Illusions|XPHB|Illusion}, you can do so without Verbal or Somatic components."
 			]
 		},
 		{
@@ -4714,7 +4714,7 @@
 			"level": 14,
 			"header": 2,
 			"entries": [
-				"When you cast {@spell Summon Aberration|XPHB}, you can modify it so that it doesn't require {@status Concentration|XPHB}. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of {@variantrule Temporary Hit Points|XPHB} equal to your Warlock level plus your Charisma modifier.",
+				"When you cast {@spell Summon Aberration|XPHB}, you can modify it so that it doesn't require {@status Concentration|XPHB}. If you do so, the spell's duration becomes 1 minute for that casting, and when summoned, the Aberration has a number of {@variantrule Temporary Hit Points|XPHB} equal to your Occultiste level plus your Charisma modifier.",
 				"In addition, the first time each turn the Aberration hits a creature under the effect of your {@spell Hex|XPHB}, the Aberration deals extra Psychic damage to the target equal to the bonus damage of that spell."
 			]
 		}

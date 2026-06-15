@@ -5004,7 +5004,7 @@
 									"page": 74,
 									"id": "0db",
 									"entries": [
-										"Stone giant artisans find inspiration in the Endless Rockslide and create beautiful works from its material, but a {@creature fomorian warlock of the dark|BGG} (see {@book chapter 6|BGG|6|Fomorian Warlock of the Dark}) curses the crafts to bring misfortune. The stone giants ask the characters to find the fomorian and end the curse before they're overwhelmed with creatures drawn from the {@book Fomorian Encounters|BGG|3|Fomorian Encounters} and {@book Giant Kin Encounters|BGG|3|Giant Kin Encounters} tables in {@book chapter 3|BGG|3}."
+										"Stone giant artisans find inspiration in the Endless Rockslide and create beautiful works from its material, but a {@creature fomorian warlock of the dark|BGG} (see {@book chapter 6|BGG|6|Fomorian Occultiste of the Dark}) curses the crafts to bring misfortune. The stone giants ask the characters to find the fomorian and end the curse before they're overwhelmed with creatures drawn from the {@book Fomorian Encounters|BGG|3|Fomorian Encounters} and {@book Giant Kin Encounters|BGG|3|Giant Kin Encounters} tables in {@book chapter 3|BGG|3}."
 									]
 								},
 								{
@@ -7940,7 +7940,7 @@
 						{
 							"type": "item",
 							"name": "Magic-Using Giants",
-							"entry": "Each of the giants of the ordning has new variants in this chapter. The {@book cloud giant destiny gambler|BGG|6|Cloud Giant Destiny Gambler}, {@book fire giant forgecaller|BGG|6|Fire Giant Forgecaller}, {@book frost giant ice shaper|BGG|6|Frost Giant Ice Shaper}, {@book hill giant avalancher|BGG|6|Hill Giant Avalancher}, {@book stone giant rockspeaker|BGG|6|Stone Giant Rockspeaker}, and {@book storm giant tempest caller|BGG|6|Storm Giant Tempest Caller} all wield the traditional rune magic of their kind. They are joined by the {@book death giant shrouded one|BGG|6|Death Giant Shrouded One} and the {@book fomorian warlock of the dark|BGG|6|Fomorian Warlock of the Dark}, giants outside the ordning that nevertheless wield rune magic."
+							"entry": "Each of the giants of the ordning has new variants in this chapter. The {@book cloud giant destiny gambler|BGG|6|Cloud Giant Destiny Gambler}, {@book fire giant forgecaller|BGG|6|Fire Giant Forgecaller}, {@book frost giant ice shaper|BGG|6|Frost Giant Ice Shaper}, {@book hill giant avalancher|BGG|6|Hill Giant Avalancher}, {@book stone giant rockspeaker|BGG|6|Stone Giant Rockspeaker}, and {@book storm giant tempest caller|BGG|6|Storm Giant Tempest Caller} all wield the traditional rune magic of their kind. They are joined by the {@book death giant shrouded one|BGG|6|Death Giant Shrouded One} and the {@book fomorian warlock of the dark|BGG|6|Fomorian Occultiste of the Dark}, giants outside the ordning that nevertheless wield rune magic."
 						},
 						{
 							"type": "item",
@@ -8031,7 +8031,7 @@
 								"{@creature Flesh Colossus|BGG}",
 								"{@creature Fomorian Deep Crawler|BGG}",
 								"{@creature Fomorian Noble|BGG}",
-								"{@creature Fomorian Warlock of the Dark|BGG}",
+								"{@creature Fomorian Occultiste of the Dark|BGG}",
 								"{@creature Frost Giant Ice Shaper|BGG}",
 								"{@creature Frost Giant of Evil Water|BGG}",
 								"{@creature Frostmourn|BGG}",

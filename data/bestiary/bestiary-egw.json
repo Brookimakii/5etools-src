@@ -3202,7 +3202,7 @@
 			"hasToken": true
 		},
 		{
-			"name": "Sahuagin Warlock of Uk'otoa",
+			"name": "Sahuagin Occultiste of Uk'otoa",
 			"source": "EGW",
 			"page": 297,
 			"size": [
@@ -3390,7 +3390,7 @@
 			"hasFluffImages": true,
 			"_versions": [
 				{
-					"name": "Sahuagin Warlock of Uk'otoa (Rod of Retribution)",
+					"name": "Sahuagin Occultiste of Uk'otoa (Rod of Retribution)",
 					"source": "EGW",
 					"_mod": {
 						"trait": {

@@ -56,7 +56,7 @@
 							"value": "@abilities.cha.mod"
 						}
 					],
-					"description": "Choose one of your known Warlock cantrips that deals damage. You can add your Charisma modifier to that spell's damage rolls."
+					"description": "Choose one of your known Occultiste cantrips that deals damage. You can add your Charisma modifier to that spell's damage rolls."
 				}
 			],
 			"migrationVersion": 3
@@ -3981,7 +3981,7 @@
 							"value": ", Repelling"
 						}
 					],
-					"description": "Choose one of your known Warlock cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you."
+					"description": "Choose one of your known Occultiste cantrips that requires an attack roll. When you hit a Large or smaller creature with that cantrip, you can push the creature up to 10 feet straight away from you."
 				}
 			],
 			"migrationVersion": 3

@@ -17268,7 +17268,7 @@
 									"id": "11f",
 									"entries": [
 										"In these chambers, the dwarves stored supplies of every kind, from food to leather aprons to protective goggles to parchment and ink. The firenewts looted all of it. Now the chief features of these rooms are \"nests\" of ancient dwarven clothing, insulated gloves, and other padded material that the firenewts sleep on in shifts. The smell in this area is horrid, like burning hair mixed with burning rubber. A disturbance in any of the chambers awakens and draws in all the firenewts in the storage area.",
-										"The northwest room is unoccupied. In the northeast room, three {@creature Firenewt Warrior|VGM|firenewt warriors} play knucklebones with dwarven knuckles. Four {@creature Firenewt Warrior|VGM|firenewt warriors} sleep in a heap in the middle of the southwest room. The southeast room contains two {@creature Firenewt Warlock of Imix|VGM|firenewt warlocks of Imix} arguing quietly over whether to denounce the warlock in {@area area 4|11d|x} for heresy against Imix. See {@adventure appendix D|ToA|9} for the firenewts' statistics."
+										"The northwest room is unoccupied. In the northeast room, three {@creature Firenewt Warrior|VGM|firenewt warriors} play knucklebones with dwarven knuckles. Four {@creature Firenewt Warrior|VGM|firenewt warriors} sleep in a heap in the middle of the southwest room. The southeast room contains two {@creature Firenewt Occultiste of Imix|VGM|firenewt warlocks of Imix} arguing quietly over whether to denounce the warlock in {@area area 4|11d|x} for heresy against Imix. See {@adventure appendix D|ToA|9} for the firenewts' statistics."
 									]
 								},
 								{
@@ -17332,7 +17332,7 @@
 												"The reek of sulfur and burning flesh assaults your nostrils as the tunnel opens into a small chamber. At the northern end of the room is a five-foot-tall statue made of iron, copper, gold, and silver, crudely hammered together into a form suggesting something vaguely humanoid but also fiery. Four firenewts worship before it."
 											]
 										},
-										"The worshipers are two {@creature Firenewt Warlock of Imix|VGM|firenewt warlocks of Imix} and two {@creature Firenewt Warrior|VGM|firenewt warriors} (see {@adventure appendix D|ToA|9} for the firenewts' statistics). They fight to the death.",
+										"The worshipers are two {@creature Firenewt Occultiste of Imix|VGM|firenewt warlocks of Imix} and two {@creature Firenewt Warrior|VGM|firenewt warriors} (see {@adventure appendix D|ToA|9} for the firenewts' statistics). They fight to the death.",
 										"The statue weighs 150 pounds and represents Imix, the evil, fiery primordial at the center of the firenewts' militarized, theological society. The statue has little artistic merit (firenewts are passable smiths but poor artists). If the gold and silver are separated from the other metals, they're worth 20 gp and 400 sp, respectively. An albino dwarf or a character skilled at smithing could smelt out the valuable metals with the equipment in Hrakhamar in a few hours.",
 										"A character who makes a successful {@dc 13} Wisdom ({@skill Perception}) check while examining (or smelting down) the statue of Imix recognizes an object hammered into its flames as having once been part of a key. It's the only bit of adamantine on the statue, and only the toughness of adamantine prevented it from being hammered out of all recognition. Once the adamantine fragment is picked out, a more careful search turns up a second fragment of gold, so thoroughly hammered that it's barely recognizable. These keys once unlocked the door to the treasury ({@area area 6|120|x}) and are beyond repair; so little of them remains that not even a {@spell mending} spell can fix them."
 									]
@@ -49815,7 +49815,7 @@
 						"{@creature Dragonbait|ToA}",
 						"{@creature Eblis|ToA}",
 						"{@creature Firenewt Warrior|VGM}",
-						"{@creature Firenewt Warlock of Imix|VGM}",
+						"{@creature Firenewt Occultiste of Imix|VGM}",
 						"{@creature Flail Snail|VGM}",
 						"{@creature Flying Monkey|ToA}",
 						"{@creature Froghemoth|VGM}",

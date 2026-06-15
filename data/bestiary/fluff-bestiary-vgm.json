@@ -571,7 +571,7 @@
 								{
 									"name": "Unreliable Allies",
 									"entries": [
-										"A boggle makes a decent servant for a strong-willed master, and wicked creatures such as fomorians and hags sometimes shelter boggles in their lairs. Warlocks who form pacts with archfey have also been known to command boggles, and charismatic individuals who make the right offers have enjoyed temporary alliances with these little tricksters. A bored boggle always finds some way to entertain itself."
+										"A boggle makes a decent servant for a strong-willed master, and wicked creatures such as fomorians and hags sometimes shelter boggles in their lairs. Occultistes who form pacts with archfey have also been known to command boggles, and charismatic individuals who make the right offers have enjoyed temporary alliances with these little tricksters. A bored boggle always finds some way to entertain itself."
 									],
 									"type": "entries"
 								}
@@ -1604,7 +1604,7 @@
 			]
 		},
 		{
-			"name": "Firenewt Warlock of Imix",
+			"name": "Firenewt Occultiste of Imix",
 			"source": "VGM",
 			"entries": [
 				{
@@ -1627,7 +1627,7 @@
 									"name": "Religious Militants",
 									"entries": [
 										"Firenewt society and culture are based on the worship of Imix, the Prince of Evil Fire. This veneration of Imix leads firenewts to be aggressive, wrathful, and cruel. Firenewt warlocks of Imix teach that by demonstrating these qualities, a firenewt warrior in combat can become \"touched by the Fire Lord,\" entering a nearly unstoppable battle rage.",
-										"Warlocks of Imix command warriors to prove their worth by going on raids to bring back treasure and captives. The warlocks take the choicest loot as a tithe to Imix, and then those who participated in the raid divide the rest according to merit. Prisoners that have no apparent usefulness are sacrificed to Imix and then eaten. Those that are deemed capable of mining and performing other chores around the lair are kept as slaves for a while before meeting the same fate.",
+										"Occultistes of Imix command warriors to prove their worth by going on raids to bring back treasure and captives. The warlocks take the choicest loot as a tithe to Imix, and then those who participated in the raid divide the rest according to merit. Prisoners that have no apparent usefulness are sacrificed to Imix and then eaten. Those that are deemed capable of mining and performing other chores around the lair are kept as slaves for a while before meeting the same fate.",
 										"When firenewts muster for war, rather than merely staging occasional raids, they take no prisoners. Their goal is nothing less than the annihilation of their foes\u2014and they reserve their greatest animosity for others of their kind. If two groups of firenewts come upon each other, it's likely that they're in competition for the same territory, and a bloody battle is the usual result."
 									],
 									"type": "entries"
@@ -1686,7 +1686,7 @@
 									"name": "Religious Militants",
 									"entries": [
 										"Firenewt society and culture are based on the worship of Imix, the Prince of Evil Fire. This veneration of Imix leads firenewts to be aggressive, wrathful, and cruel. Firenewt warlocks of Imix teach that by demonstrating these qualities, a firenewt warrior in combat can become \"touched by the Fire Lord,\" entering a nearly unstoppable battle rage.",
-										"Warlocks of Imix command warriors to prove their worth by going on raids to bring back treasure and captives. The warlocks take the choicest loot as a tithe to Imix, and then those who participated in the raid divide the rest according to merit. Prisoners that have no apparent usefulness are sacrificed to Imix and then eaten. Those that are deemed capable of mining and performing other chores around the lair are kept as slaves for a while before meeting the same fate.",
+										"Occultistes of Imix command warriors to prove their worth by going on raids to bring back treasure and captives. The warlocks take the choicest loot as a tithe to Imix, and then those who participated in the raid divide the rest according to merit. Prisoners that have no apparent usefulness are sacrificed to Imix and then eaten. Those that are deemed capable of mining and performing other chores around the lair are kept as slaves for a while before meeting the same fate.",
 										"When firenewts muster for war, rather than merely staging occasional raids, they take no prisoners. Their goal is nothing less than the annihilation of their foes\u2014and they reserve their greatest animosity for others of their kind. If two groups of firenewts come upon each other, it's likely that they're in competition for the same territory, and a bloody battle is the usual result."
 									],
 									"type": "entries"
@@ -2028,7 +2028,7 @@
 									"name": "Religious Militants",
 									"entries": [
 										"Firenewt society and culture are based on the worship of Imix, the Prince of Evil Fire. This veneration of Imix leads firenewts to be aggressive, wrathful, and cruel. Firenewt warlocks of Imix teach that by demonstrating these qualities, a firenewt warrior in combat can become \"touched by the Fire Lord,\" entering a nearly unstoppable battle rage.",
-										"Warlocks of Imix command warriors to prove their worth by going on raids to bring back treasure and captives. The warlocks take the choicest loot as a tithe to Imix, and then those who participated in the raid divide the rest according to merit. Prisoners that have no apparent usefulness are sacrificed to Imix and then eaten. Those that are deemed capable of mining and performing other chores around the lair are kept as slaves for a while before meeting the same fate.",
+										"Occultistes of Imix command warriors to prove their worth by going on raids to bring back treasure and captives. The warlocks take the choicest loot as a tithe to Imix, and then those who participated in the raid divide the rest according to merit. Prisoners that have no apparent usefulness are sacrificed to Imix and then eaten. Those that are deemed capable of mining and performing other chores around the lair are kept as slaves for a while before meeting the same fate.",
 										"When firenewts muster for war, rather than merely staging occasional raids, they take no prisoners. Their goal is nothing less than the annihilation of their foes\u2014and they reserve their greatest animosity for others of their kind. If two groups of firenewts come upon each other, it's likely that they're in competition for the same territory, and a bloody battle is the usual result."
 									],
 									"type": "entries"
@@ -5192,25 +5192,25 @@
 			]
 		},
 		{
-			"name": "Warlock of the Archfey",
+			"name": "Occultiste of the Archfey",
 			"source": "VGM",
 			"entries": [
 				{
 					"type": "entries",
 					"entries": [
-						"Warlocks of the archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser fey creatures such as boggles, quicklings, redcaps, satyrs, and sprites."
+						"Occultistes of the archfey gain their powers through magical pacts forged with lords of the Feywild. These warlocks commonly associate with lesser fey creatures such as boggles, quicklings, redcaps, satyrs, and sprites."
 					]
 				}
 			]
 		},
 		{
-			"name": "Warlock of the Fiend",
+			"name": "Occultiste of the Fiend",
 			"source": "VGM",
 			"entries": [
 				{
 					"type": "entries",
 					"entries": [
-						"Warlocks of the fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep imps or quasits as companions, and they tend toward extremes of behavior: consorting with fiend-worshiping cultists or dedicating their lives to destroying fiendish cults."
+						"Occultistes of the fiend gain their powers through magical pacts forged with archfiends of the Lower Planes. These warlocks often keep imps or quasits as companions, and they tend toward extremes of behavior: consorting with fiend-worshiping cultists or dedicating their lives to destroying fiendish cults."
 					]
 				}
 			],
@@ -5219,19 +5219,19 @@
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "bestiary/VGM/Warlock of the Fiend.webp"
+						"path": "bestiary/VGM/Occultiste of the Fiend.webp"
 					}
 				}
 			]
 		},
 		{
-			"name": "Warlock of the Great Old One",
+			"name": "Occultiste of the Great Old One",
 			"source": "VGM",
 			"entries": [
 				{
 					"type": "entries",
 					"entries": [
-						"Warlocks of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the insanity and wickedness inspired by bizarre beings from beyond the stars."
+						"Occultistes of the Great Old One gain their powers through magical pacts forged with eldritch entities from strange and distant realms of existence. Some of these warlocks associate with cultists devoted to these entities, as well as aberrations that share their goals, yet other warlocks of the Great Old One are experts at rooting out the insanity and wickedness inspired by bizarre beings from beyond the stars."
 					]
 				}
 			]
@@ -5404,7 +5404,7 @@
 			}
 		},
 		{
-			"name": "Xvart Warlock of Raxivort",
+			"name": "Xvart Occultiste of Raxivort",
 			"source": "VGM",
 			"entries": [
 				{

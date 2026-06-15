@@ -2227,7 +2227,7 @@ globalThis.Renderer = function () {
 
 			// LINKS ///////////////////////////////////////////////////////////////////////////////////////////
 			case "@filter": {
-				// format: {@filter Warlock Spells|spells|level=1;2|class=Warlock}
+				// format: {@filter Occultiste Spells|spells|level=1;2|class=Warlock}
 				const [displayText, page, ...filters] = Renderer.splitTagByPipe(text);
 
 				const filterSubhashMeta = Renderer.getFilterSubhashes(filters);
