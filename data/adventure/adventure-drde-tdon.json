@@ -548,7 +548,7 @@
 								"Thirteen monks of various species dwell in the {@area Najkir Monastery|191|x}, including Hierarch Anish, who is an aasimar. All monks are Lawful Neutral {@creature Commoner|XMM|Commoners} and Friendly toward visitors. They wear wool robes and wooden clogs.",
 								{
 									"type": "entries",
-									"name": "Monk Names",
+									"name": "Moine Names",
 									"id": "193",
 									"entries": [
 										"If you need a name for a monk, make one up or choose a name from the following list:",

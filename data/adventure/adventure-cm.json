@@ -23042,7 +23042,7 @@
 								"Members of the order live in a modest single-story building built on raised posts. Its shingled roof provides protection from the elements, and its sliding exterior wall panels can be opened and closed to meet the needs of the order. The walls of the living quarters are made of paper on wood frames, offering little privacy. The dwelling is within view of the Jagged Sanctum ({@area area L5|41e|x}), but far enough away to provide {@creature Bak Mei|CM} with solitude he requires.",
 								{
 									"type": "entries",
-									"name": "L2a. Monk Quarters",
+									"name": "L2a. Moine Quarters",
 									"page": 165,
 									"id": "408",
 									"entries": [
@@ -23100,7 +23100,7 @@
 									"page": 165,
 									"id": "40e",
 									"entries": [
-										"A long table made from a tree trunk cut lengthwise dominates this room, surrounded by stools made from small tree stumps. Monks take their meals in shifts. {@creature Bak Mei|CM} usually keeps to himself, rarely eating among his students."
+										"A long table made from a tree trunk cut lengthwise dominates this room, surrounded by stools made from small tree stumps. Moines take their meals in shifts. {@creature Bak Mei|CM} usually keeps to himself, rarely eating among his students."
 									]
 								},
 								{

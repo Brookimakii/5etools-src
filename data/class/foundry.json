@@ -1634,7 +1634,7 @@
 						"foundryActivities": [
 							{
 								"foundryId": "martialArts",
-								"name": "Monk Attack",
+								"name": "Moine Attack",
 								"type": "attack",
 								"activation": {
 									"type": "action",
@@ -4193,14 +4193,14 @@
 							"type": "entries",
 							"name": "Martial Arts Die",
 							"entries": [
-								"You can roll [[lookup @scale.monk.die]] in place of the normal damage of your Unarmed Strike or Monk weapons. This die changes as you gain Monk levels, as shown in the Martial Arts column of the Monk Features table."
+								"You can roll [[lookup @scale.monk.die]] in place of the normal damage of your Unarmed Strike or Moine weapons. This die changes as you gain Moine levels, as shown in the Martial Arts column of the Moine Features table."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Dexterous Attacks",
 							"entries": [
-								"You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Monk weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC."
+								"You can use your Dexterity modifier instead of your Strength modifier for the attack and damage rolls of your Unarmed Strikes and Moine weapons. In addition, when you use the Grapple or Shove option of your Unarmed Strike, you can use your Dexterity modifier instead of your Strength modifier to determine the save DC."
 							]
 						}
 					]
@@ -4607,7 +4607,7 @@
 					"type": "save",
 					"activation": {
 						"type": "",
-						"condition": "Once per turn when you hit a creature with a Monk weapon or an Unarmed Strike"
+						"condition": "Once per turn when you hit a creature with a Moine weapon or an Unarmed Strike"
 					},
 					"consumption": {
 						"targets": [
@@ -9320,7 +9320,7 @@
 						"foundryActivities": [
 							{
 								"foundryId": "martialArts",
-								"name": "Monk Attack",
+								"name": "Moine Attack",
 								"type": "attack",
 								"activation": {
 									"type": "action",
