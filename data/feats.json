@@ -4130,7 +4130,7 @@
 			],
 			"additionalSpells": [
 				{
-					"name": "Bard Spells",
+					"name": "Barde Spells",
 					"ability": "cha",
 					"innate": {
 						"_": {
@@ -5760,7 +5760,7 @@
 			],
 			"additionalSpells": [
 				{
-					"name": "Bard Spells",
+					"name": "Barde Spells",
 					"ability": "cha",
 					"innate": {
 						"_": {
@@ -7044,7 +7044,7 @@
 			],
 			"additionalSpells": [
 				{
-					"name": "Bard Spells",
+					"name": "Barde Spells",
 					"ability": "cha",
 					"known": {
 						"_": [

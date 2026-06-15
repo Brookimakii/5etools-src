@@ -411,7 +411,7 @@
 					"name": "Running for One Character",
 					"id": "34e",
 					"entries": [
-						"You can run this adventure for a single character of level 12. A Bard is a good choice, given the role that music and storytelling play in the adventure. Ideally, the character should have proficiency in at least two of the following skills:",
+						"You can run this adventure for a single character of level 12. A Barde is a good choice, given the role that music and storytelling play in the adventure. Ideally, the character should have proficiency in at least two of the following skills:",
 						{
 							"type": "list",
 							"columns": 2,
@@ -3765,7 +3765,7 @@
 											"id": "392",
 											"entries": [
 												"Lying atop the stone slab is the human Yemi Moonsybil (Medium, Chaotic Good {@creature Performer Maestro|XMM}). Yemi has the {@condition Invisible|XPHB} condition and is in a state of suspended animation, both courtesy of a {@spell Sequester|XPHB} spell. Nakari keeps dust and other detritus from accumulating on the slab and Yemi's resting form.",
-												"Yemi wears a glass key keepsake on a copper chain around her neck, and she gently clasps an {@item Instrument of the Bards, Ollamh Harp|XDMG|Instrument of the Bards (Ollamh harp)}, which she acquired in her youth. Taking the harp, plucking one of its strings, or removing the glass key from around Yemi's neck ends the {@spell Sequester|XPHB} spell early.",
+												"Yemi wears a glass key keepsake on a copper chain around her neck, and she gently clasps an {@item Instrument of the Bards, Ollamh Harp|XDMG|Instrument of the Bardes (Ollamh harp)}, which she acquired in her youth. Taking the harp, plucking one of its strings, or removing the glass key from around Yemi's neck ends the {@spell Sequester|XPHB} spell early.",
 												"Yemi, who has been in stasis for almost a century, looks to be in her fifties. She knows all the lost verses of the Awakening Song.",
 												"Once she is no longer under the {@spell Sequester|XPHB} spell's effect, Yemi is hungry for news. If the characters explain their quest, she sympathizes with the dire situation in Godsbreath and agrees to share the lost verses of the Awakening Song and return to Promise. However, Yemi won't leave Nakari's lair without first saying goodbye to the dragon. Yemi is familiar with the lair and can find her way around it; if Nakari is still alive, the dragon opens any secret door in Yemi's way."
 											]

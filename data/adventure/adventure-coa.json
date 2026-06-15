@@ -423,7 +423,7 @@
 													"type": "item",
 													"name": "Patron Objectives",
 													"entries": [
-														"{@item Cloak of Invisibility}, {@item Instrument of the Bards, Ollamh Harp||Instrument of the Bards (Ollamh Harp)}, {@item Horn of Valhalla, Iron||Iron Horn of Valhalla}, {@item Wrought-Iron Tower|CoA} ({@adventure see appendix D|CoA|16})"
+														"{@item Cloak of Invisibility}, {@item Instrument of the Bards, Ollamh Harp||Instrument of the Bardes (Ollamh Harp)}, {@item Horn of Valhalla, Iron||Iron Horn of Valhalla}, {@item Wrought-Iron Tower|CoA} ({@adventure see appendix D|CoA|16})"
 													]
 												}
 											]
@@ -2097,7 +2097,7 @@
 											"type": "item",
 											"name": "Bard",
 											"entries": [
-												"{@item Instrument of the Bards, Ollamh Harp||Instrument of the Bards (Ollamh Harp)}, which can be found in Dis at the Agora of Floating Knives."
+												"{@item Instrument of the Bards, Ollamh Harp||Instrument of the Bardes (Ollamh Harp)}, which can be found in Dis at the Agora of Floating Knives."
 											]
 										},
 										{
@@ -3235,7 +3235,7 @@
 									"The Agora of Floating Knives, Dis (2nd layer)",
 									"Bounty, The Chosen One, Patricide",
 									"\u2014",
-									"{@item Cloak of Invisibility}, {@item Instrument of the Bards, Ollamh Harp||Instrument of the Bards (Ollamh Harp)}, {@item Horn of Valhalla, Iron||Iron Horn of Valhalla}",
+									"{@item Cloak of Invisibility}, {@item Instrument of the Bards, Ollamh Harp||Instrument of the Bardes (Ollamh Harp)}, {@item Horn of Valhalla, Iron||Iron Horn of Valhalla}",
 									"{@item Wrought-Iron Tower|CoA}"
 								],
 								[
@@ -7070,7 +7070,7 @@
 									],
 									"rows": [
 										[
-											"{@item Instrument of the Bards, Ollamh Harp||Instrument of the Bards (Ollamh Harp)}",
+											"{@item Instrument of the Bards, Ollamh Harp||Instrument of the Bardes (Ollamh Harp)}",
 											"The Agora of Floating Knives: Barges of Theater"
 										],
 										[
@@ -7844,10 +7844,10 @@
 										"Woe betide any visitor who shows distress at such theatre. With the Agora being so readily accessible, Orishada keeps a watching legion of {@creature imp||imps} haunting the rooftops like pigeons, watching for any intruders who lack the appropriate immoral fiber. Those who do are followed by the imps until a squad of four bone devils arrive to exterminate them.",
 										{
 											"type": "entries",
-											"name": "Conclave (Bard)\u2014Instrument of the Bards (Ollamh Harp)",
+											"name": "Conclave (Bard)\u2014Instrument of the Bardes (Ollamh Harp)",
 											"page": 88,
 											"entries": [
-												"Gazrak (chaotic evil, tiefling {@creature archmage}) sells all manner of grotesque musical instruments, but he also owns an {@item Instrument of the Bards, Ollamh Harp||Instrument of the Bards (Ollamh Harp)}. He is fond of the harp but also greedy. He suggests an outrageous price at first\u201430 {@item Soul Coin|CoA|Soul Coins}. A successful {@dc 17} Charisma ({@skill Persuasion}) check can either lower the price to 20 {@item Soul Coin|CoA|Soul Coins} or allow the characters to pay 100,000 gp instead of using {@item Soul Coin|CoA|Soul Coins}. Giving him a rare or very rare magic item as part of the exchange reduces the price by half."
+												"Gazrak (chaotic evil, tiefling {@creature archmage}) sells all manner of grotesque musical instruments, but he also owns an {@item Instrument of the Bards, Ollamh Harp||Instrument of the Bardes (Ollamh Harp)}. He is fond of the harp but also greedy. He suggests an outrageous price at first\u201430 {@item Soul Coin|CoA|Soul Coins}. A successful {@dc 17} Charisma ({@skill Persuasion}) check can either lower the price to 20 {@item Soul Coin|CoA|Soul Coins} or allow the characters to pay 100,000 gp instead of using {@item Soul Coin|CoA|Soul Coins}. Giving him a rare or very rare magic item as part of the exchange reduces the price by half."
 											],
 											"id": "151"
 										}

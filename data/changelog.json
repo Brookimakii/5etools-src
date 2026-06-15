@@ -514,7 +514,7 @@
 		"ver": "1.81.1",
 		"date": "2019-09-18",
 		"title": "Most of the Way to Hell",
-		"txt": "- Added Baldur's Gate: Descent Into Avernus https://5e.tools/adventure.html#bgdia\n- Added UA: Bard and Paladin"
+		"txt": "- Added Baldur's Gate: Descent Into Avernus https://5e.tools/adventure.html#bgdia\n- Added UA: Barde and Paladin"
 	},
 	{
 		"ver": "1.81.2",
@@ -1711,7 +1711,7 @@
 	{
 		"ver": "1.131.3",
 		"date": "2021-06-21",
-		"txt": "- Improved loading times of Bestiary, Items, and Spells pages\n- Reworked Bestiary and Spells Page \"Source\" filter behavior on removing all sources, to load a default source set, rather than display only the sources which have already been loaded\n- Fixed Classes/Subclasses failing to render in DM Screen\n- Fixed Classes Page Subclass Comparison View crashing on attempting to load Bard subclasses\n- (Homebrew) Improved detection of \"Proficiency Bonus\" line in Creature Text Converter, and improved joining of \"+ PB\" term in rolls\n- (Fixed typos/added tags)"
+		"txt": "- Improved loading times of Bestiary, Items, and Spells pages\n- Reworked Bestiary and Spells Page \"Source\" filter behavior on removing all sources, to load a default source set, rather than display only the sources which have already been loaded\n- Fixed Classes/Subclasses failing to render in DM Screen\n- Fixed Classes Page Subclass Comparison View crashing on attempting to load Barde subclasses\n- (Homebrew) Improved detection of \"Proficiency Bonus\" line in Creature Text Converter, and improved joining of \"+ PB\" term in rolls\n- (Fixed typos/added tags)"
 	},
 	{
 		"ver": "1.131.4",

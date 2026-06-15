@@ -443,7 +443,7 @@
 								"You gain class features in the {@book Player's Handbook|PHB} when you reach certain levels in your class. This section offers additional features that you can gain as a bard. Unlike the features in the {@book Player's Handbook|PHB}, you don't gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature's description. These features can be selected separately from one another; you can use some, all, or none of them.",
 								{
 									"type": "entries",
-									"name": "Additional Bard Spells",
+									"name": "Additional Barde Spells",
 									"page": 27,
 									"id": "08d",
 									"entries": [
@@ -472,11 +472,11 @@
 						},
 						{
 							"type": "entries",
-							"name": "Bard Colleges",
+							"name": "Barde Colleges",
 							"page": 28,
 							"id": "091",
 							"entries": [
-								"At 3rd level, a bard gains the Bard College feature, which offers you the choice of a subclass. The following options are available to you when making that choice: College of Creation and College of Eloquence.",
+								"At 3rd level, a bard gains the Barde College feature, which offers you the choice of a subclass. The following options are available to you when making that choice: College of Creation and College of Eloquence.",
 								{
 									"type": "list",
 									"columns": 2,
@@ -507,7 +507,7 @@
 										"type": "internal",
 										"path": "book/TCE/014-01-017.webp"
 									},
-									"title": "Drow Bard of Eloquence",
+									"title": "Drow Barde of Eloquence",
 									"width": 800,
 									"height": 1527,
 									"credit": "Andrew Mar"

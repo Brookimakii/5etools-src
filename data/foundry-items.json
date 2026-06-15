@@ -10660,7 +10660,7 @@
 					}
 				},
 				{
-					"name": "Bard Attack",
+					"name": "Barde Attack",
 					"type": "attack",
 					"activation": {
 						"type": "action"

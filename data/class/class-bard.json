@@ -551,7 +551,7 @@
 				"Song of Rest (d6)|Bard||2",
 				"Magical Inspiration|Bard||2|TCE",
 				{
-					"classFeature": "Bard College|Bard||3",
+					"classFeature": "Barde College|Bard||3",
 					"gainSubclassFeature": true
 				},
 				"Expertise|Bard||3",
@@ -561,7 +561,7 @@
 				"Font of Inspiration|Bard||5",
 				"Countercharm|Bard||6",
 				{
-					"classFeature": "Bard College feature|Bard||6",
+					"classFeature": "Barde College feature|Bard||6",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Bard||8",
@@ -573,7 +573,7 @@
 				"Song of Rest (d10)|Bard||13",
 				"Magical Secrets|Bard||14",
 				{
-					"classFeature": "Bard College feature|Bard||14",
+					"classFeature": "Barde College feature|Bard||14",
 					"gainSubclassFeature": true
 				},
 				"Bardic Inspiration (d12)|Bard||15",
@@ -583,7 +583,7 @@
 				"Ability Score Improvement|Bard||19",
 				"Superior Inspiration|Bard||20"
 			],
-			"subclassTitle": "Bard College",
+			"subclassTitle": "Barde College",
 			"hasFluff": true,
 			"hasFluffImages": true
 		},
@@ -1331,7 +1331,7 @@
 				"Expertise|Bard|XPHB|2",
 				"Jack of All Trades|Bard|XPHB|2",
 				{
-					"classFeature": "Bard Subclass|Bard|XPHB|3",
+					"classFeature": "Barde Subclass|Bard|XPHB|3",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Bard|XPHB|4",
@@ -1354,7 +1354,7 @@
 				"Epic Boon|Bard|XPHB|19",
 				"Words of Creation|Bard|XPHB|20"
 			],
-			"subclassTitle": "Bard Subclass",
+			"subclassTitle": "Barde Subclass",
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
@@ -1933,7 +1933,7 @@
 					"type": "entries",
 					"name": "Spell Slots",
 					"entries": [
-						"The Bard table shows how many spell slots you have to cast your {@filter bard spells|spells|class=bard} of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Barde table shows how many spell slots you have to cast your {@filter bard spells|spells|class=bard} of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
 						"For example, if you know the 1st-level spell {@spell cure wounds} and have a 1st-level and a 2nd-level spell slot available, you can cast {@spell cure wounds} using either slot."
 					]
 				},
@@ -2022,7 +2022,7 @@
 			]
 		},
 		{
-			"name": "Bard College",
+			"name": "Barde College",
 			"source": "PHB",
 			"page": 51,
 			"srd": true,
@@ -2104,7 +2104,7 @@
 			]
 		},
 		{
-			"name": "Bard College feature",
+			"name": "Barde College feature",
 			"source": "PHB",
 			"page": 51,
 			"srd": true,
@@ -2112,7 +2112,7 @@
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
-				"At 6th level, you gain a feature from your Bard College."
+				"At 6th level, you gain a feature from your Barde College."
 			]
 		},
 		{
@@ -2185,8 +2185,8 @@
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
-				"By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.",
-				"The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table.",
+				"By 10th level, you have plundered magical knowledge from a wide spectrum of disciplines. Choose two spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Barde table, or a cantrip.",
+				"The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Barde table.",
 				"You learn two additional spells from any classes at 14th level and again at 18th level."
 			]
 		},
@@ -2216,7 +2216,7 @@
 			]
 		},
 		{
-			"name": "Bard College feature",
+			"name": "Barde College feature",
 			"source": "PHB",
 			"page": 51,
 			"srd": true,
@@ -2224,7 +2224,7 @@
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
-				"At 14th level, you gain a feature from your Bard College."
+				"At 14th level, you gain a feature from your Barde College."
 			]
 		},
 		{
@@ -2236,8 +2236,8 @@
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
-				"At 14th level, choose two additional spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.",
-				"The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+				"At 14th level, choose two additional spells from any classes, including this one. A spell you choose must be of a level you can cast, as shown on the Barde table, or a cantrip.",
+				"The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Barde table."
 			]
 		},
 		{
@@ -2286,8 +2286,8 @@
 			"classSource": "PHB",
 			"level": 18,
 			"entries": [
-				"At 18th level, choose two additional spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip.",
-				"The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Bard table."
+				"At 18th level, choose two additional spells from any class, including this one. A spell you choose must be of a level you can cast, as shown on the Barde table, or a cantrip.",
+				"The chosen spells count as bard spells for you and are included in the number in the Spells Known column of the Barde table."
 			]
 		},
 		{
@@ -2348,7 +2348,7 @@
 							"type": "entries",
 							"name": "At Higher Levels",
 							"entries": [
-								"Your Bardic Inspiration die changes when you reach certain Bard levels, as shown in the Bardic Die column of the Bard Features table. The die becomes a {@dice d8} at level 5, a {@dice d10} at level 10, and a {@dice d12} at level 15."
+								"Your Bardic Inspiration die changes when you reach certain Barde levels, as shown in the Bardic Die column of the Barde Features table. The die becomes a {@dice d8} at level 5, a {@dice d10} at level 10, and a {@dice d12} at level 15."
 							]
 						}
 					]
@@ -2365,7 +2365,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have learned to cast spells through your bardic arts. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Bard spells, which appear in the {@filter Bard spell list|spells|class=Bard} later in the class's description.",
+				"You have learned to cast spells through your bardic arts. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Barde spells, which appear in the {@filter Barde spell list|spells|class=Bard} later in the class's description.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2373,46 +2373,46 @@
 							"type": "entries",
 							"name": "Cantrips",
 							"entries": [
-								"You know two cantrips of your choice from the {@filter Bard spell list|spells|class=Bard}. {@spell Dancing Lights|XPHB} and {@spell Vicious Mockery|XPHB} are recommended.",
-								"Whenever you gain a Bard level, you can replace one of your cantrips with another cantrip of your choice from the {@filter Bard spell list|spells|class=Bard}.",
-								"When you reach Bard levels 4 and 10, you learn another cantrip of your choice from the {@filter Bard spell list|spells|class=Bard}, as shown in the Cantrips column of the Bard Features table."
+								"You know two cantrips of your choice from the {@filter Barde spell list|spells|class=Bard}. {@spell Dancing Lights|XPHB} and {@spell Vicious Mockery|XPHB} are recommended.",
+								"Whenever you gain a Barde level, you can replace one of your cantrips with another cantrip of your choice from the {@filter Barde spell list|spells|class=Bard}.",
+								"When you reach Barde levels 4 and 10, you learn another cantrip of your choice from the {@filter Barde spell list|spells|class=Bard}, as shown in the Cantrips column of the Barde Features table."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spell Slots",
 							"entries": [
-								"The Bard Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
+								"The Barde Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Prepared Spells of Level 1+",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the {@filter Bard spell list|spells|class=Bard}. {@spell Charm Person|XPHB}, {@spell Color Spray|XPHB}, {@spell Dissonant Whispers|XPHB}, and {@spell Healing Word|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Bard levels, as shown in the Prepared Spells column of the Bard Features table. Whenever that number increases, choose additional spells from the {@filter Bard spell list|spells|class=Bard} until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.",
-								"If another Bard feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Bard spells for you."
+								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the {@filter Barde spell list|spells|class=Bard}. {@spell Charm Person|XPHB}, {@spell Color Spray|XPHB}, {@spell Dissonant Whispers|XPHB}, and {@spell Healing Word|XPHB} are recommended.",
+								"The number of spells on your list increases as you gain Barde levels, as shown in the Prepared Spells column of the Barde Features table. Whenever that number increases, choose additional spells from the {@filter Barde spell list|spells|class=Bard} until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Bard, your list of prepared spells can include six spells of levels 1 and 2 in any combination.",
+								"If another Barde feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Barde spells for you."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Changing Your Prepared Spells",
 							"entries": [
-								"Whenever you gain a Bard level, you can replace one spell on your list with another Bard spell for which you have spell slots."
+								"Whenever you gain a Barde level, you can replace one spell on your list with another Barde spell for which you have spell slots."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Ability",
 							"entries": [
-								"Charisma is your spellcasting ability for your Bard spells."
+								"Charisma is your spellcasting ability for your Barde spells."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Focus",
 							"entries": [
-								"You can use a {@item Musical Instrument|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Bard spells."
+								"You can use a {@item Musical Instrument|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Barde spells."
 							]
 						}
 					]
@@ -2430,7 +2430,7 @@
 			"level": 2,
 			"entries": [
 				"You gain {@variantrule Expertise|XPHB} in two of your skill proficiencies of your choice. {@skill Performance|XPHB} and {@skill Persuasion|XPHB} are recommended if you have proficiency in them.",
-				"At Bard level 9, you gain {@variantrule Expertise|XPHB} in two more of your skill proficiencies of your choice."
+				"At Barde level 9, you gain {@variantrule Expertise|XPHB} in two more of your skill proficiencies of your choice."
 			]
 		},
 		{
@@ -2449,14 +2449,14 @@
 					"type": "inset",
 					"name": "A Bard's Repertoire",
 					"entries": [
-						"Does your Bard beat a {@item drum|XPHB} while chanting the deeds of ancient heroes? Strum a {@item lute|XPHB} while crooning romantic tunes? Perform arias of stirring power? Recite dramatic monologues from classic tragedies? Use the rhythm of a folk dance to coordinate the movement of allies in battle? Compose naughty limericks?",
+						"Does your Barde beat a {@item drum|XPHB} while chanting the deeds of ancient heroes? Strum a {@item lute|XPHB} while crooning romantic tunes? Perform arias of stirring power? Recite dramatic monologues from classic tragedies? Use the rhythm of a folk dance to coordinate the movement of allies in battle? Compose naughty limericks?",
 						"When you play a Bard, consider the style of artistic performance you favor, the moods you might invoke, and the themes that inspire your own creations. Are your poems inspired by moments of natural beauty, or are they brooding reflections on loss? Do you prefer lofty hymns or rowdy tavern songs? Are you drawn to laments for the fallen or celebrations of joy? Do you dance merry jigs or perform elaborate interpretive choreography? Do you focus on one style of performance or strive to master them all?"
 					]
 				}
 			]
 		},
 		{
-			"name": "Bard Subclass",
+			"name": "Barde Subclass",
 			"source": "XPHB",
 			"page": 60,
 			"srd52": true,
@@ -2465,7 +2465,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Bard subclass of your choice. A subclass is a specialization that grants you features at certain Bard levels. For the rest of your career, you gain each of your subclass's features that are of your Bard level or lower."
+				"You gain a Barde subclass of your choice. A subclass is a specialization that grants you features at certain Barde levels. For the rest of your career, you gain each of your subclass's features that are of your Barde level or lower."
 			]
 		},
 		{
@@ -2478,7 +2478,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Bard levels 8, 12, and 16."
+				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Barde levels 8, 12, and 16."
 			]
 		},
 		{
@@ -2505,7 +2505,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain a feature from your Bard Subclass."
+				"You gain a feature from your Barde Subclass."
 			]
 		},
 		{
@@ -2557,7 +2557,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You've learned secrets from various magical traditions. Whenever you reach a Bard level (including this level) and the Prepared Spells number in the Bard Features table increases, you can choose any of your new prepared spells from the {@filter Bard|spells|class=Bard}, {@filter Cleric|spells|class=Cleric}, {@filter Druid|spells|class=Druid}, and {@filter Wizard spell list|spells|class=Wizard}s, and the chosen spells count as Bard spells for you (see a class's section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists."
+				"You've learned secrets from various magical traditions. Whenever you reach a Barde level (including this level) and the Prepared Spells number in the Barde Features table increases, you can choose any of your new prepared spells from the {@filter Bard|spells|class=Bard}, {@filter Cleric|spells|class=Cleric}, {@filter Druid|spells|class=Druid}, and {@filter Wizard spell list|spells|class=Wizard}s, and the chosen spells count as Barde spells for you (see a class's section for its spell list). In addition, whenever you replace a spell prepared for this class, you can replace it with a spell from those lists."
 			]
 		},
 		{
@@ -2583,7 +2583,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You gain a feature from your Bard Subclass."
+				"You gain a feature from your Barde Subclass."
 			]
 		},
 		{
@@ -2651,7 +2651,7 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"Bards of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.",
+				"Bardes of the College of Lore know something about most things, collecting bits of knowledge from sources as diverse as scholarly tomes and peasant tales. Whether singing folk ballads in taverns or elaborate compositions in royal courts, these bards use their gifts to hold audiences spellbound. When the applause dies down, the audience members might find themselves questioning everything they held to be true, from their faith in the priesthood of the local temple to their loyalty to the king.",
 				"The loyalty of these bards lies in the pursuit of beauty and truth, not in fealty to a monarch or following the tenets of a deity. A noble who keeps such a bard as a herald or advisor knows that the bard would rather be honest than politic.",
 				"The college's members gather in libraries and sometimes in actual colleges, complete with classrooms and dormitories, to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.",
 				{
@@ -2706,7 +2706,7 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Bard table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know."
+				"At 6th level, you learn two spells of your choice from any class. A spell you choose must be of a level you can cast, as shown on the Barde table, or a cantrip. The chosen spells count as bard spells for you but don't count against the number of bard spells you know."
 			]
 		},
 		{
@@ -2734,7 +2734,7 @@
 			"subclassSource": "PHB",
 			"level": 3,
 			"entries": [
-				"Bards of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. These bards gather in mead halls or around great bonfires to sing the deeds of the mighty, both past and present. They travel the land to witness great events firsthand and to ensure that the memory of those events doesn't pass from the world. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old.",
+				"Bardes of the College of Valor are daring skalds whose tales keep alive the memory of the great heroes of the past, and thereby inspire a new generation of heroes. These bards gather in mead halls or around great bonfires to sing the deeds of the mighty, both past and present. They travel the land to witness great events firsthand and to ensure that the memory of those events doesn't pass from the world. With their songs, they inspire others to reach the same heights of accomplishment as the heroes of old.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bonus Proficiencies|Bard||Valor||3"
@@ -2811,7 +2811,7 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"Bards believe the cosmos is a work of art-the creation of the first dragons and gods. That creative work included harmonies that continue to resound through existence today, a power known as the Song of Creation. The bards of the College of Creation draw on that primeval song through dance, music, and poetry, and their teachers share this lesson:",
+				"Bardes believe the cosmos is a work of art-the creation of the first dragons and gods. That creative work included harmonies that continue to resound through existence today, a power known as the Song of Creation. The bards of the College of Creation draw on that primeval song through dance, music, and poetry, and their teachers share this lesson:",
 				"\"Before the sun and the moon, there was the Song, and its music awoke the first dawn. Its melodies so delighted the stones and trees that some of them gained a voice of their own. And now they sing too. Learn the Song, students, and you too can teach the mountains to sing and dance.\"",
 				"Dwarves and gnomes often encourage their bards to become students of the Song of Creation. And among dragonborn, the Song of Creation is revered, for legends portray Bahamut and Tiamat-the greatest of dragons-as two of the song's first singers.",
 				{
@@ -3138,7 +3138,7 @@
 			"subclassSource": "VRGR",
 			"level": 3,
 			"entries": [
-				"Bards of the College of Spirits seek tales with inherent power\u2014be they legends, histories, or fictions\u2014and bring their subjects to life. Using occult trappings, these bards conjure spiritual embodiments of powerful forces to change the world once more. Such spirits are capricious, though, and what a bard summons isn't always entirely under their control.",
+				"Bardes of the College of Spirits seek tales with inherent power\u2014be they legends, histories, or fictions\u2014and bring their subjects to life. Using occult trappings, these bards conjure spiritual embodiments of powerful forces to change the world once more. Such spirits are capricious, though, and what a bard summons isn't always entirely under their control.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Guiding Whispers|Bard||Spirits|VRGR|3"
@@ -3405,7 +3405,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"Bards of the College of Swords are called blades, and they entertain through daring feats of weapon prowess. Blades perform stunts such as sword swallowing, knife throwing and juggling, and mock combats. Though they use their weapons to entertain, they are also highly trained and skilled warriors in their own right.",
+				"Bardes of the College of Swords are called blades, and they entertain through daring feats of weapon prowess. Blades perform stunts such as sword swallowing, knife throwing and juggling, and mock combats. Though they use their weapons to entertain, they are also highly trained and skilled warriors in their own right.",
 				"Their talent with weapons inspires many blades to lead double lives. One blade might use a circus troupe as cover for nefarious deeds such as assassination, robbery, and blackmail. Other blades strike at the wicked, bringing justice to bear against the cruel and powerful. Most troupes are happy to accept a blade's talent for the excitement it adds to a performance, but few entertainers fully trust a blade in their ranks.",
 				"Blades who abandon their lives as entertainers have often run into trouble that makes maintaining their secret activities impossible. A blade caught stealing or engaging in vigilante justice is too great a liability for most troupes. With their weapon skills and magic, these blades either take up work as enforcers for thieves' guilds or strike out on their own as adventurers.",
 				{
@@ -3574,7 +3574,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"Most folk are happy to welcome a bard into their midst. Bards of the College of Whispers use this to their advantage. They appear to be like other bards, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.",
+				"Most folk are happy to welcome a bard into their midst. Bardes of the College of Whispers use this to their advantage. They appear to be like other bards, sharing news, singing songs, and telling tales to the audiences they gather. In truth, the College of Whispers teaches its students that they are wolves among sheep. These bards use their knowledge and magic to uncover secrets and turn them against others through extortion and threats.",
 				"Many other bards hate the College of Whispers, viewing it as a parasite that uses a bard's reputation to acquire wealth and power. For this reason, members of this college rarely reveal their true nature. They typically claim to follow some other college, or they keep their actual calling secret in order to infiltrate and exploit royal courts and other settings of power.",
 				{
 					"type": "refSubclassFeature",
@@ -3667,7 +3667,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Move in Harmony with the Cosmos}",
-				"Bards of the College of Dance know that the Words of Creation can't be contained within speech or song; the words are uttered by the movements of celestial bodies and flow through the motions of the smallest creatures. These Bards practice a way of being in harmony with the whirling cosmos that emphasizes agility, speed, and grace.",
+				"Bardes of the College of Dance know that the Words of Creation can't be contained within speech or song; the words are uttered by the movements of celestial bodies and flow through the motions of the smallest creatures. These Bardes practice a way of being in harmony with the whirling cosmos that emphasizes agility, speed, and grace.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Dazzling Footwork|Bard|XPHB|Dance|XPHB|3"
@@ -3815,7 +3815,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Weave Beguiling Fey Magic}",
-				"The College of Glamour traces its origins to the beguiling magic of the Feywild. Bards who study this magic weave threads of beauty and terror into their songs and stories, and the mightiest among them can cloak themselves in otherworldly majesty. Their performances stir up wistful longing for forgotten innocence, evoke unconscious memories of long-held fears, and tug at the emotions of even the most hard-hearted listeners.",
+				"The College of Glamour traces its origins to the beguiling magic of the Feywild. Bardes who study this magic weave threads of beauty and terror into their songs and stories, and the mightiest among them can cloak themselves in otherworldly majesty. Their performances stir up wistful longing for forgotten innocence, evoke unconscious memories of long-held fears, and tug at the emotions of even the most hard-hearted listeners.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Beguiling Magic|Bard|XPHB|Glamour|XPHB|3"
@@ -3901,7 +3901,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Plumb the Depths of Magical Knowledge}",
-				"Bards of the College of Lore collect spells and secrets from diverse sources, such as scholarly tomes, mystical rites, and peasant tales. The college's members gather in libraries and universities to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.",
+				"Bardes of the College of Lore collect spells and secrets from diverse sources, such as scholarly tomes, mystical rites, and peasant tales. The college's members gather in libraries and universities to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Bonus Proficiencies|Bard|XPHB|Lore|XPHB|3"
@@ -3957,8 +3957,8 @@
 			"level": 6,
 			"header": 2,
 			"entries": [
-				"You learn two spells of your choice. These spells can come from the {@filter Cleric|spells|class=Cleric}, {@filter Druid|spells|class=Druid}, or {@filter Wizard spell list|spells|class=Wizard} or any combination thereof (see a class's section for its spell list). A spell you choose must be a cantrip or a spell for which you have spell slots, as shown in the Bard Features table.",
-				"You always have the chosen spells prepared, and whenever you gain a Bard level, you can replace one of the spells with another spell that meets these requirements."
+				"You learn two spells of your choice. These spells can come from the {@filter Cleric|spells|class=Cleric}, {@filter Druid|spells|class=Druid}, or {@filter Wizard spell list|spells|class=Wizard} or any combination thereof (see a class's section for its spell list). A spell you choose must be a cantrip or a spell for which you have spell slots, as shown in the Barde Features table.",
+				"You always have the chosen spells prepared, and whenever you gain a Barde level, you can replace one of the spells with another spell that meets these requirements."
 			]
 		},
 		{
@@ -3988,7 +3988,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Sing the Deeds of Ancient Heroes}",
-				"Bards of the College of Valor are daring storytellers whose tales preserve the memory of the great heroes of the past. These Bards sing the deeds of the mighty in vaulted halls or to crowds gathered around great bonfires. They travel to witness great events firsthand and to ensure that the memory of these events doesn't pass away. With their songs, they inspire new generations to reach the same heights of accomplishment as the heroes of old.",
+				"Bardes of the College of Valor are daring storytellers whose tales preserve the memory of the great heroes of the past. These Bardes sing the deeds of the mighty in vaulted halls or to crowds gathered around great bonfires. They travel to witness great events firsthand and to ensure that the memory of these events doesn't pass away. With their songs, they inspire new generations to reach the same heights of accomplishment as the heroes of old.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Combat Inspiration|Bard|XPHB|Valor|XPHB|3"
@@ -4039,7 +4039,7 @@
 			"header": 2,
 			"entries": [
 				"You gain proficiency with {@filter Martial weapons|items|type=martial weapon} and training with {@filter Medium armor|items|type=Medium Armor} and {@item Shield|XPHB|Shields}.",
-				"In addition, you can use a Simple or Martial weapon as a {@variantrule Spellcasting Focus|XPHB} to cast spells from your {@filter Bard spell list|spells|class=Bard}."
+				"In addition, you can use a Simple or Martial weapon as a {@variantrule Spellcasting Focus|XPHB} to cast spells from your {@filter Barde spell list|spells|class=Bard}."
 			]
 		},
 		{

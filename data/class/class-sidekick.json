@@ -704,7 +704,7 @@
 						],
 						[
 							"Prodigy",
-							"{@filter Bard and Warlock|spells|class=Bard;Warlock}",
+							"{@filter Barde and Warlock|spells|class=Bard;Warlock}",
 							"Charisma"
 						]
 					]

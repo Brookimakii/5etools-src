@@ -7505,7 +7505,7 @@
 							"entries": [
 								"When the characters are fighting a large number of monsters, it's not always practical to use miniatures on a battle grid or some other visual aid. So how do you determine how many monsters are affected by the Wizard's {@spell Fireball|XPHB} spell or some other area of effect?",
 								"The Targets in Area of Effect table offers a guideline. To use the table, find the column for the shape of the area, then read down until you find its size. Then check the rightmost column to see about how many creatures are caught in the area. If you imagine that the targets are spread out, decrease the number by {@dice 1d3}. If they're bunched up, you can increase the number by {@dice 1d3}. Of course, an area can't encompass more creatures than are present in an encounter.",
-								"Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Bard centers a {@spell Shatter|XPHB} spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} includes only three creatures.",
+								"Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Barde centers a {@spell Shatter|XPHB} spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} includes only three creatures.",
 								{
 									"type": "table",
 									"caption": "Targets in Area of Effect",
@@ -7633,7 +7633,7 @@
 							"entries": [
 								"The following scenario shows examples of how you as the DM can apply the guidelines described in the rest of this section.",
 								"Eight {@creature Zombie|XMM|Zombies} surround and attack a Fighter. The zombies' attack bonus is +3, and the Fighter's AC is 18, so the roll needed is 15 (18\u22123). Finding 15 in the \"Normal\" column and reading across to the \"Out of 8\" column, the DM gets a result of 2/8\u2014two of the zombies hit. Using the zombies' average damage (4 Bludgeoning damage), the Fighter takes 8 Bludgeoning damage.",
-								"After seeing the Fighter mauled by zombies, the Bard casts {@spell Shatter|XPHB}, centering the spell on the Fighter. (The Bard trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere}, and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16\u22123). Finding 13 in the \"Normal\" column and reading across to the \"Out of 8\" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.",
+								"After seeing the Fighter mauled by zombies, the Barde casts {@spell Shatter|XPHB}, centering the spell on the Fighter. (The Barde trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere}, and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16\u22123). Finding 13 in the \"Normal\" column and reading across to the \"Out of 8\" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.",
 								"Seeing a larger crowd of zombies in the distance, the Wizard casts {@spell Fireball|XPHB}. The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds {@dice 1d3}, rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is \u22122, and the Wizard's spell save DC is 16, so the roll needed is 18 (16\u2212[\u22122]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save."
 							]
 						}
@@ -28298,7 +28298,7 @@
 										],
 										[
 											"36\u201342",
-											"{@item Instrument of the Bards, Anstruth Harp|XDMG|Instrument of the Bards (Anstruth harp)}"
+											"{@item Instrument of the Bards, Anstruth Harp|XDMG|Instrument of the Bardes (Anstruth harp)}"
 										],
 										[
 											"43\u201349",
@@ -30261,7 +30261,7 @@
 					"page": 356,
 					"id": "7ae",
 					"entries": [
-						"Tessalynde is a young elf Rogue who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she's gathered isn't the stuff of legend yet, she's confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Fighter too stubborn to stay down; Cazrin, a self-taught, human Wizard determined to test her theoretical mettle against the real world; Baldric, a dwarf Clerc who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Bard with as many secrets as songs; and Uggie, a pet otyugh."
+						"Tessalynde is a young elf Rogue who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she's gathered isn't the stuff of legend yet, she's confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Fighter too stubborn to stay down; Cazrin, a self-taught, human Wizard determined to test her theoretical mettle against the real world; Baldric, a dwarf Clerc who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Barde with as many secrets as songs; and Uggie, a pet otyugh."
 					]
 				},
 				{
@@ -30533,7 +30533,7 @@
 					"page": 360,
 					"id": "7c8",
 					"entries": [
-						"Otto {@i (AW-toe)} is an affable dwarf Bard with a taste for fine food, good music, and expensively tailored clothes. His sociable and outgoing personality masks the fact that he's also a member of the {@book Circle of Eight|XDMG|4|Circle of Eight} (see {@book chapter 5|XDMG|4|Circle of Eight}) and committed to the goals of that organization. He is well-known across the multiverse for his creation of the {@spell Otto's Irresistible Dance|XPHB} spell."
+						"Otto {@i (AW-toe)} is an affable dwarf Barde with a taste for fine food, good music, and expensively tailored clothes. His sociable and outgoing personality masks the fact that he's also a member of the {@book Circle of Eight|XDMG|4|Circle of Eight} (see {@book chapter 5|XDMG|4|Circle of Eight}) and committed to the goals of that organization. He is well-known across the multiverse for his creation of the {@spell Otto's Irresistible Dance|XPHB} spell."
 					]
 				},
 				{
