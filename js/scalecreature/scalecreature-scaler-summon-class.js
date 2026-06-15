@@ -127,7 +127,7 @@ export class ScaleClassSummonedCreature extends ScaleSummonedCreature {
 
 		ptBase = ptBase
 			// "5 + five times your ranger level"
-			// "5 plus five times your Ranger level"
+			// "5 plus five times your Rôdeur level"
 			.replace(/(?<base>\d+)\s*(?:\+|plus)\s*(?<perLevel>\d+|[a-z]+) times your (?:(?<className>[^(]*) )?level/g, (...m) => {
 				const numTimes = isNaN(m.last().perLevel) ? Parser.textToNumber(m.last().perLevel) : Number(m.last().perLevel);
 				return `${Number(m.last().base) + (numTimes * toClassLevel)}`;

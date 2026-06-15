@@ -397,7 +397,7 @@
 				"Spellcasting|Ranger||2",
 				"Spellcasting Focus|Ranger||2|TCE",
 				{
-					"classFeature": "Ranger Archetype|Ranger||3",
+					"classFeature": "Rôdeur Archetype|Ranger||3",
 					"gainSubclassFeature": true
 				},
 				"Primeval Awareness|Ranger||3",
@@ -408,7 +408,7 @@
 				"Favored Enemy and Natural Explorer improvements|Ranger||6",
 				"Deft Explorer Improvement|Ranger||6|TCE",
 				{
-					"classFeature": "Ranger Archetype feature|Ranger||7",
+					"classFeature": "Rôdeur Archetype feature|Ranger||7",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Ranger||8",
@@ -418,14 +418,14 @@
 				"Natural Explorer improvement|Ranger||10",
 				"Deft Explorer Improvement|Ranger||10|TCE",
 				{
-					"classFeature": "Ranger Archetype feature|Ranger||11",
+					"classFeature": "Rôdeur Archetype feature|Ranger||11",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Ranger||12",
 				"Vanish|Ranger||14",
 				"Favored Enemy improvement|Ranger||14",
 				{
-					"classFeature": "Ranger Archetype feature|Ranger||15",
+					"classFeature": "Rôdeur Archetype feature|Ranger||15",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Ranger||16",
@@ -433,7 +433,7 @@
 				"Ability Score Improvement|Ranger||19",
 				"Foe Slayer|Ranger||20"
 			],
-			"subclassTitle": "Ranger Archetype",
+			"subclassTitle": "Rôdeur Archetype",
 			"hasFluff": true,
 			"hasFluffImages": true
 		},
@@ -909,7 +909,7 @@
 				"Deft Explorer|Ranger|XPHB|2",
 				"Fighting Style|Ranger|XPHB|2",
 				{
-					"classFeature": "Ranger Subclass|Ranger|XPHB|3",
+					"classFeature": "Rôdeur Subclass|Ranger|XPHB|3",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Ranger|XPHB|4",
@@ -939,7 +939,7 @@
 				"Epic Boon|Ranger|XPHB|19",
 				"Foe Slayer|Ranger|XPHB|20"
 			],
-			"subclassTitle": "Ranger Subclass",
+			"subclassTitle": "Rôdeur Subclass",
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
@@ -1641,7 +1641,7 @@
 					"type": "entries",
 					"name": "Spell Slots",
 					"entries": [
-						"The Ranger table shows how many spell slots you have to cast your {@filter ranger spells|spells|class=ranger} of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Rôdeur table shows how many spell slots you have to cast your {@filter ranger spells|spells|class=ranger} of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
 						"For example, if you know the 1st-level spell {@spell animal friendship} and have a 1st-level and a 2nd-level spell slot available, you can cast {@spell animal friendship} using either slot."
 					]
 				},
@@ -1650,7 +1650,7 @@
 					"name": "Spells Known of 1st Level and Higher",
 					"entries": [
 						"You know two 1st-level spells of your choice from the ranger spell list.",
-						"The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.",
+						"The Spells Known column of the Rôdeur table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.",
 						"Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots."
 					]
 				},
@@ -1705,7 +1705,7 @@
 					"type": "table",
 					"caption": "Primal Awareness Spells",
 					"colLabels": [
-						"Ranger Level",
+						"Rôdeur Level",
 						"Spell"
 					],
 					"colStyles": [
@@ -1751,7 +1751,7 @@
 			]
 		},
 		{
-			"name": "Ranger Archetype",
+			"name": "Rôdeur Archetype",
 			"source": "PHB",
 			"page": 89,
 			"srd": true,
@@ -1833,7 +1833,7 @@
 			]
 		},
 		{
-			"name": "Ranger Archetype feature",
+			"name": "Rôdeur Archetype feature",
 			"source": "PHB",
 			"page": 89,
 			"srd": true,
@@ -1841,7 +1841,7 @@
 			"classSource": "PHB",
 			"level": 7,
 			"entries": [
-				"At 7th level, you gain a feature granted to you by your Ranger Archetype."
+				"At 7th level, you gain a feature granted to you by your Rôdeur Archetype."
 			]
 		},
 		{
@@ -1930,7 +1930,7 @@
 			]
 		},
 		{
-			"name": "Ranger Archetype feature",
+			"name": "Rôdeur Archetype feature",
 			"source": "PHB",
 			"page": 89,
 			"srd": true,
@@ -1938,7 +1938,7 @@
 			"classSource": "PHB",
 			"level": 11,
 			"entries": [
-				"At 11th level, you gain a feature granted to you by your Ranger Archetype."
+				"At 11th level, you gain a feature granted to you by your Rôdeur Archetype."
 			]
 		},
 		{
@@ -1979,7 +1979,7 @@
 			]
 		},
 		{
-			"name": "Ranger Archetype feature",
+			"name": "Rôdeur Archetype feature",
 			"source": "PHB",
 			"page": 89,
 			"srd": true,
@@ -1987,7 +1987,7 @@
 			"classSource": "PHB",
 			"level": 15,
 			"entries": [
-				"At 15th level, you gain a feature granted to you by your Ranger Archetype."
+				"At 15th level, you gain a feature granted to you by your Rôdeur Archetype."
 			]
 		},
 		{
@@ -2051,7 +2051,7 @@
 			"level": 1,
 			"entries": [
 				"You always have the {@spell Hunter's Mark|XPHB} spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a {@variantrule Long Rest|XPHB}.",
-				"The number of times you can cast the spell without a spell slot increases when you reach certain Ranger levels, as shown in the Favored Enemy column of the Ranger Features table."
+				"The number of times you can cast the spell without a spell slot increases when you reach certain Rôdeur levels, as shown in the Favored Enemy column of the Rôdeur Features table."
 			]
 		},
 		{
@@ -2064,7 +2064,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have learned to channel the magical essence of nature to cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Ranger spells, which appear in the {@filter Ranger spell list|spells|class=Ranger} later in the class's description.",
+				"You have learned to channel the magical essence of nature to cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Rôdeur spells, which appear in the {@filter Rôdeur spell list|spells|class=Ranger} later in the class's description.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2072,37 +2072,37 @@
 							"type": "entries",
 							"name": "Spell Slots",
 							"entries": [
-								"The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
+								"The Rôdeur Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Prepared Spells of Level 1+",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two {@filter level 1 Ranger spells|spells|class=Ranger|level=1}. {@spell Cure Wounds|XPHB} and {@spell Ensnaring Strike|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.",
-								"If another Ranger feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you."
+								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two {@filter level 1 Rôdeur spells|spells|class=Ranger|level=1}. {@spell Cure Wounds|XPHB} and {@spell Ensnaring Strike|XPHB} are recommended.",
+								"The number of spells on your list increases as you gain Rôdeur levels, as shown in the Prepared Spells column of the Rôdeur Features table. Whenever that number increases, choose additional Rôdeur spells until the number of spells on your list matches the number in the Rôdeur Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 5 Ranger, your list of prepared spells can include six Rôdeur spells of level 1 or 2 in any combination.",
+								"If another Rôdeur feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Rôdeur spells for you."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Changing Your Prepared Spells",
 							"entries": [
-								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can replace one spell on your list with another Ranger spell for which you have spell slots."
+								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can replace one spell on your list with another Rôdeur spell for which you have spell slots."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Ability",
 							"entries": [
-								"Wisdom is your spellcasting ability for your Ranger spells."
+								"Wisdom is your spellcasting ability for your Rôdeur spells."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Focus",
 							"entries": [
-								"You can use a {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Ranger spells."
+								"You can use a {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Rôdeur spells."
 							]
 						}
 					]
@@ -2178,7 +2178,7 @@
 			]
 		},
 		{
-			"name": "Ranger Subclass",
+			"name": "Rôdeur Subclass",
 			"source": "XPHB",
 			"page": 120,
 			"srd52": true,
@@ -2187,7 +2187,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass's features that are of your Ranger level or lower."
+				"You gain a Rôdeur subclass of your choice. A subclass is a specialization that grants you features at certain Rôdeur levels. For the rest of your career, you gain each of your subclass's features that are of your Rôdeur level or lower."
 			]
 		},
 		{
@@ -2200,7 +2200,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16."
+				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Rôdeur levels 8, 12, and 16."
 			]
 		},
 		{
@@ -2239,7 +2239,7 @@
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"You gain a feature from your Ranger Subclass."
+				"You gain a feature from your Rôdeur Subclass."
 			]
 		},
 		{
@@ -2310,7 +2310,7 @@
 			"classSource": "XPHB",
 			"level": 11,
 			"entries": [
-				"You gain a feature from your Ranger Subclass."
+				"You gain a feature from your Rôdeur Subclass."
 			]
 		},
 		{
@@ -2363,7 +2363,7 @@
 			"classSource": "XPHB",
 			"level": 15,
 			"entries": [
-				"You gain a feature from your Ranger Subclass."
+				"You gain a feature from your Rôdeur Subclass."
 			]
 		},
 		{
@@ -3114,7 +3114,7 @@
 					"type": "table",
 					"caption": "Fey Wanderer Spells",
 					"colLabels": [
-						"Ranger Level",
+						"Rôdeur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -3350,7 +3350,7 @@
 					"type": "table",
 					"caption": "Swarmkeeper Spells",
 					"colLabels": [
-						"Ranger Level",
+						"Rôdeur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -3493,7 +3493,7 @@
 					"type": "table",
 					"caption": "Gloom Stalker Spells",
 					"colLabels": [
-						"Ranger Level",
+						"Rôdeur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -3639,7 +3639,7 @@
 					"type": "table",
 					"caption": "Horizon Walker Spells",
 					"colLabels": [
-						"Ranger Level",
+						"Rôdeur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -3786,7 +3786,7 @@
 					"type": "table",
 					"caption": "Monster Slayer Spells",
 					"colLabels": [
-						"Ranger Level",
+						"Rôdeur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4009,7 +4009,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can augment your weapon strikes with mind-scarring magic drawn from the murky hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra {@damage 1d4} Psychic damage to the target, which can take this extra damage only once per turn. The extra damage increases to {@damage 1d6} when you reach Ranger level 11."
+				"You can augment your weapon strikes with mind-scarring magic drawn from the murky hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra {@damage 1d4} Psychic damage to the target, which can take this extra damage only once per turn. The extra damage increases to {@damage 1d6} when you reach Rôdeur level 11."
 			]
 		},
 		{
@@ -4023,12 +4023,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Ranger level specified in the Fey Wanderer Spells table, you thereafter always have the listed spells prepared.",
+				"When you reach a Rôdeur level specified in the Fey Wanderer Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Fey Wanderer Spells",
 					"colLabels": [
-						"Ranger Level",
+						"Rôdeur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4229,12 +4229,12 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"When you reach a Ranger level specified in the Gloom Stalker Spells table, you thereafter always have the listed spells prepared.",
+				"When you reach a Rôdeur level specified in the Gloom Stalker Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Gloom Stalker Spells",
 					"colLabels": [
-						"Ranger Level",
+						"Rôdeur Level",
 						"Spells"
 					],
 					"colStyles": [

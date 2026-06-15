@@ -1887,7 +1887,7 @@
 								],
 								[
 									"Ranger",
-									"{@dice 5d4×10|5d4 × 10|Ranger Starting Wealth} gp"
+									"{@dice 5d4×10|5d4 × 10|Rôdeur Starting Wealth} gp"
 								],
 								[
 									"Rogue",
@@ -10206,7 +10206,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Ranger Spells",
+					"name": "Rôdeur Spells",
 					"entries": [
 						{
 							"type": "list",

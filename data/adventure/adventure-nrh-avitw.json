@@ -60,7 +60,7 @@
 						{
 							"type": "list",
 							"items": [
-								"Red the Ranger receives a mysterious message from a \"Mr. Honeycutt\" to meet Elowen Greenleaf at Old Oak Grove. If Red gets there in time, they avoid an ambush.",
+								"Red the Rôdeur receives a mysterious message from a \"Mr. Honeycutt\" to meet Elowen Greenleaf at Old Oak Grove. If Red gets there in time, they avoid an ambush.",
 								"Elowen tells Red that she's part of a secret society known as the Lorekeepers. They're trying to discover who or what is causing the \"color outages.\" Elowen has a map to find a magic gem that'll help them in their quest.",
 								"They travel to Lemondrop Ledges and find the entrance to the temple. But first they must cross a ravine and climb a cliff to get there.",
 								"They must then face the Scarlet Sentinel, a living statue that guards the Crimson Gem."
@@ -129,7 +129,7 @@
 							],
 							"id": "00b"
 						},
-						"If Red goes to investigate, the sapling, a young {@creature awakened shrub}, introduces herself as Elowen Greenleaf. She knows all about Red the Ranger and recommended Red to Mr. Honeycutt to help unravel and solve the mystery of the color outages.",
+						"If Red goes to investigate, the sapling, a young {@creature awakened shrub}, introduces herself as Elowen Greenleaf. She knows all about Red the Rôdeur and recommended Red to Mr. Honeycutt to help unravel and solve the mystery of the color outages.",
 						{
 							"type": "entries",
 							"name": "Meeting Elowen",

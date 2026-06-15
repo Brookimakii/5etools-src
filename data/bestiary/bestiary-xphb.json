@@ -373,7 +373,7 @@
 				}
 			],
 			"hp": {
-				"special": "5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level)"
+				"special": "5 plus five times your Rôdeur level (the beast has a number of Hit Dice [d8s] equal to your Rôdeur level)"
 			},
 			"speed": {
 				"walk": 40,
@@ -436,7 +436,7 @@
 				}
 			],
 			"hp": {
-				"special": "5 plus five times your Ranger level (the beast has a number of Hit Dice [d8s] equal to your Ranger level)"
+				"special": "5 plus five times your Rôdeur level (the beast has a number of Hit Dice [d8s] equal to your Rôdeur level)"
 			},
 			"speed": {
 				"walk": 5,
@@ -508,7 +508,7 @@
 				}
 			],
 			"hp": {
-				"special": "4 plus four times your Ranger level (the beast has a number of Hit Dice [d6s] equal to your Ranger level)"
+				"special": "4 plus four times your Rôdeur level (the beast has a number of Hit Dice [d6s] equal to your Rôdeur level)"
 			},
 			"speed": {
 				"walk": 10,

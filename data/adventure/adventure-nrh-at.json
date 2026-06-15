@@ -139,7 +139,7 @@
 									"name": "Saving the Cublets",
 									"page": 4,
 									"entries": [
-										"The party hears a strange sound that Red the Ranger identifies as the hoot-roars of an owlbear. If they investigate, the party sees that a mother {@creature owlbear} is calling to her two cublets who have fallen into a crevasse. The owlbear has no interest in attacking the party, only rescuing her cubs.",
+										"The party hears a strange sound that Red the Rôdeur identifies as the hoot-roars of an owlbear. If they investigate, the party sees that a mother {@creature owlbear} is calling to her two cublets who have fallen into a crevasse. The owlbear has no interest in attacking the party, only rescuing her cubs.",
 										"However, if the characters try to help, the protective mother owlbear attacks the party unless one of the characters succeeds on a {@dc 15} Wisdom ({@skill Animal Handling}) check. On a failure, no one can approach the owlbear cublets without being attacked by the mother. Each character can only attempt the check once.",
 										{
 											"type": "entries",

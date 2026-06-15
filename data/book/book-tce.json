@@ -1446,7 +1446,7 @@
 								"{@classFeature Favored Foe|Ranger|PHB|1|TCE} ({@i 1st-level ranger feature, which replaces the Favored Enemy feature and works with the Foe Slayer feature})",
 								{
 									"type": "entries",
-									"name": "Additional Ranger Spells",
+									"name": "Additional Rôdeur Spells",
 									"page": 57,
 									"id": "157",
 									"entries": [
@@ -1492,11 +1492,11 @@
 						},
 						{
 							"type": "entries",
-							"name": "Ranger Archetypes",
+							"name": "Rôdeur Archetypes",
 							"page": 58,
 							"id": "161",
 							"entries": [
-								"At 3rd level, a ranger gains the Ranger Archetype feature, which offers you the choice of a subclass. The following options are available to you when making that choice: the Fey Wanderer and the Swarmkeeper.",
+								"At 3rd level, a ranger gains the Rôdeur Archetype feature, which offers you the choice of a subclass. The following options are available to you when making that choice: the Fey Wanderer and the Swarmkeeper.",
 								{
 									"type": "list",
 									"columns": 2,
@@ -1516,7 +1516,7 @@
 										"type": "internal",
 										"path": "book/TCE/039-01-048.webp"
 									},
-									"title": "A Halfling Ranger explores the wilds",
+									"title": "A Halfling Rôdeur explores the wilds",
 									"width": 800,
 									"height": 1000,
 									"credit": "Zuzanna Wužyk"

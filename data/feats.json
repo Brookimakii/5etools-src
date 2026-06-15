@@ -2121,7 +2121,7 @@
 			"prerequisite": [
 				{
 					"otherSummary": {
-						"entry": "When Gaining the Level 2 Ranger \"Fighting Style\" Feature",
+						"entry": "When Gaining the Level 2 Rôdeur \"Fighting Style\" Feature",
 						"entrySummary": "Special"
 					}
 				}
@@ -2140,7 +2140,7 @@
 				}
 			],
 			"entries": [
-				"You learn two {@filter Druide cantrips|spells|level=0|class=druid} of your choice. {@spell Guidance|XPHB} and {@spell Starry Wisp|XPHB} are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druide cantrip."
+				"You learn two {@filter Druide cantrips|spells|level=0|class=druid} of your choice. {@spell Guidance|XPHB} and {@spell Starry Wisp|XPHB} are recommended. The chosen cantrips count as Rôdeur spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Rôdeur level, you can replace one of these cantrips with another Druide cantrip."
 			]
 		},
 		{
