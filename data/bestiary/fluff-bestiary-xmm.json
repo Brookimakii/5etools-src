@@ -3264,7 +3264,7 @@
 									"entries": [
 										"It lives, though it looks dead. In an age long past, someone staked a vampire to the earth on this very spot. The wooden stake was yet green and took root. And so grew the Gulthias Tree, reverberating with primal power."
 									],
-									"by": "Belak the Outcast, Druid of the Twilight Grove"
+									"by": "Belak the Outcast, Druide of the Twilight Grove"
 								}
 							]
 						}
@@ -6695,13 +6695,13 @@
 								}
 							]
 						},
-						"Druids use primal magic, traditional teachings, and bonds with animals and eldritch beings to guard the natural world and heal its ills. These magic-users might be recluses devoted to a particular land, or they might be part of a mystic organization. Roll on or choose a result from the Druidic Traditions table to inspire a druid's magical practices.",
+						"Druides use primal magic, traditional teachings, and bonds with animals and eldritch beings to guard the natural world and heal its ills. These magic-users might be recluses devoted to a particular land, or they might be part of a mystic organization. Roll on or choose a result from the Druidic Traditions table to inspire a druid's magical practices.",
 						{
 							"type": "table",
-							"caption": "Druid Traditions",
+							"caption": "Druide Traditions",
 							"colLabels": [
 								"1d6",
-								"The Druid Is..."
+								"The Druide Is..."
 							],
 							"colStyles": [
 								"col-2 text-center",

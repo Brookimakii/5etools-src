@@ -1099,7 +1099,7 @@
 			]
 		},
 		{
-			"name": "Druid of the Old Ways",
+			"name": "Druide of the Old Ways",
 			"source": "GGR",
 			"entries": [
 				{
@@ -1131,7 +1131,7 @@
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "bestiary/GGR/Druid of the Old Ways.webp"
+						"path": "bestiary/GGR/Druide of the Old Ways.webp"
 					},
 					"credit": "Daarken"
 				}

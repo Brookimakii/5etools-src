@@ -23466,11 +23466,11 @@
 							"entries": [
 								{
 									"type": "entries",
-									"name": "Frost Druid and Friends",
+									"name": "Frost Druide and Friends",
 									"page": 108,
 									"id": "29f",
 									"entries": [
-										"A {@creature frost druid|IDRotF} (see {@adventure appendix C|IDRotF|21}) approaches the characters in the form of a mountain goat or a snowy owl. The frost druid, who is human and can be of any gender, is joined by three creatures that are beneficiaries of the druid's {@spell awaken} spell. These awakened beasts and plants serve as the druid's companions and spies, and they share the druid's evil disposition. Roll a {@dice d4} and consult the Frost Druid Friends table to determine each creature, or just roll once and assume all the creatures are the same kind of beast or plant. (It's okay if multiples of the same kind of creature are present, since the druid might favor a certain kind of beast or plant.)",
+										"A {@creature frost druid|IDRotF} (see {@adventure appendix C|IDRotF|21}) approaches the characters in the form of a mountain goat or a snowy owl. The frost druid, who is human and can be of any gender, is joined by three creatures that are beneficiaries of the druid's {@spell awaken} spell. These awakened beasts and plants serve as the druid's companions and spies, and they share the druid's evil disposition. Roll a {@dice d4} and consult the Frost Druide Friends table to determine each creature, or just roll once and assume all the creatures are the same kind of beast or plant. (It's okay if multiples of the same kind of creature are present, since the druid might favor a certain kind of beast or plant.)",
 										{
 											"type": "entries",
 											"name": "Running the Encounter",
@@ -23481,7 +23481,7 @@
 												"One of the frost druid's prepared spells is {@spell moonbeam}, which can reveal the true form of any character who has the Doppelganger secret (see {@area appendix B|6ec|x}).",
 												{
 													"type": "table",
-													"caption": "Frost Druid Friends",
+													"caption": "Frost Druide Friends",
 													"colLabels": [
 														"d4",
 														"Encounter"

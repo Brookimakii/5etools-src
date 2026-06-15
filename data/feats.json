@@ -2140,7 +2140,7 @@
 				}
 			],
 			"entries": [
-				"You learn two {@filter Druid cantrips|spells|level=0|class=druid} of your choice. {@spell Guidance|XPHB} and {@spell Starry Wisp|XPHB} are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip."
+				"You learn two {@filter Druide cantrips|spells|level=0|class=druid} of your choice. {@spell Guidance|XPHB} and {@spell Starry Wisp|XPHB} are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druide cantrip."
 			]
 		},
 		{
@@ -4176,7 +4176,7 @@
 					}
 				},
 				{
-					"name": "Druid Spells",
+					"name": "Druide Spells",
 					"ability": "wis",
 					"innate": {
 						"_": {
@@ -4314,7 +4314,7 @@
 					}
 				},
 				{
-					"name": "Druid Spells",
+					"name": "Druide Spells",
 					"ability": {
 						"choose": [
 							"int",
@@ -5792,7 +5792,7 @@
 					}
 				},
 				{
-					"name": "Druid Spells",
+					"name": "Druide Spells",
 					"ability": "wis",
 					"innate": {
 						"_": {
@@ -7068,7 +7068,7 @@
 					}
 				},
 				{
-					"name": "Druid Spells",
+					"name": "Druide Spells",
 					"ability": "wis",
 					"known": {
 						"_": [

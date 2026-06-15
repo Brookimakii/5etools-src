@@ -643,7 +643,7 @@
 								"You gain class features in the {@book Player's Handbook|PHB} when you reach certain levels in your class. This section offers additional features that you can gain as a druid. Unlike the features in the {@book Player's Handbook|PHB}, you don't gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature's description. These features can be selected separately from one another; you can use some, all, or none of them.",
 								{
 									"type": "entries",
-									"name": "Additional Druid Spells",
+									"name": "Additional Druide Spells",
 									"page": 35,
 									"id": "0c0",
 									"entries": [
@@ -671,11 +671,11 @@
 						},
 						{
 							"type": "entries",
-							"name": "Druid Circles",
+							"name": "Druide Circles",
 							"page": 36,
 							"id": "0c4",
 							"entries": [
-								"At 2nd level, a druid gains the Druid Circle feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Circle of Spores, Circle of Stars, and Circle of Wildfire.",
+								"At 2nd level, a druid gains the Druide Circle feature, which offers you the choice of a subclass. The following options are available to you when making that choice: Circle of Spores, Circle of Stars, and Circle of Wildfire.",
 								{
 									"type": "list",
 									"columns": 3,
@@ -696,7 +696,7 @@
 										"type": "internal",
 										"path": "book/TCE/021-01-026.webp"
 									},
-									"title": "Druid with Wild Companion",
+									"title": "Druide with Wild Companion",
 									"width": 822,
 									"height": 1000,
 									"credit": "Kieran Yanner"
@@ -718,7 +718,7 @@
 										"type": "internal",
 										"path": "book/TCE/023-01-028.webp"
 									},
-									"title": "Tiefling Druid of Stars",
+									"title": "Tiefling Druide of Stars",
 									"width": 675,
 									"height": 1000,
 									"credit": "Kieran Yanner"
@@ -729,7 +729,7 @@
 										"type": "internal",
 										"path": "book/TCE/024-01-029.webp"
 									},
-									"title": "Dwarf Druid of Wildfire",
+									"title": "Dwarf Druide of Wildfire",
 									"width": 1200,
 									"height": 832,
 									"credit": "Shawn Wood"

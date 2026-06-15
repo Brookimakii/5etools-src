@@ -9858,7 +9858,7 @@
 									"classSource": "PHB",
 									"collapsed": true
 								},
-								"{@note The Blighted Druid also introduces the {@creature Blighted Sapling|TDCSR} statblock below.}",
+								"{@note The Blighted Druide also introduces the {@creature Blighted Sapling|TDCSR} statblock below.}",
 								{
 									"type": "statblock",
 									"name": "Blighted Sapling",
@@ -10896,7 +10896,7 @@
 								"{@creature Sagacitous Erusaire|TDCSR}"
 							]
 						},
-						"{@note Additionally the summonable Blighted Sapling supports the new {@class druid|PHB|Blighted Druid Subclass|Blighted|TDCSR}:}",
+						"{@note Additionally the summonable Blighted Sapling supports the new {@class druid|PHB|Blighted Druide Subclass|Blighted|TDCSR}:}",
 						{
 							"type": "list",
 							"style": "list-no-bullets",

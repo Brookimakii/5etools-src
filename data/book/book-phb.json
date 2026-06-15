@@ -1453,7 +1453,7 @@
 								"{@b Neutral good} (NG) folk do the best they can to help others according to their needs. Many celestials are neutral good.",
 								"{@b Chaotic good} (CG) creatures act as their conscience directs, with little regard for what others expect. Copper dragons and unicorns are typically chaotic good.",
 								"{@b Lawful neutral} (LN) individuals act in accordance with law, tradition, or personal codes. Modrons and many wizards and monks are lawful neutral.",
-								"{@b Neutral} (N) is the alignment of those who prefer to steer clear of moral questions and don't take sides, doing what seems best at the time. Druids are traditionally neutral, as are typical townsfolk.",
+								"{@b Neutral} (N) is the alignment of those who prefer to steer clear of moral questions and don't take sides, doing what seems best at the time. Druides are traditionally neutral, as are typical townsfolk.",
 								"{@b Chaotic neutral} (CN) creatures follow their whims, holding their personal freedom above all else. Many rogues and bards are chaotic neutral.",
 								"{@b Lawful evil} (LE) creatures methodically take what they want, within the limits of a code of tradition, loyalty, or order. Devils and blue dragons are typically lawful evil.",
 								"{@b Neutral evil} (NE) is the alignment of those who do whatever they can get away with, without compassion or qualms. Yugoloths are typically neutral evil.",
@@ -1871,7 +1871,7 @@
 								],
 								[
 									"Druid",
-									"{@dice 2d4×10|2d4 × 10|Druid Starting Wealth} gp"
+									"{@dice 2d4×10|2d4 × 10|Druide Starting Wealth} gp"
 								],
 								[
 									"Fighter",
@@ -9917,7 +9917,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Druid Spells",
+					"name": "Druide Spells",
 					"entries": [
 						{
 							"type": "list",

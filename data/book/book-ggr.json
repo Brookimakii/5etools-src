@@ -1178,7 +1178,7 @@
 							"name": "Druid",
 							"page": 23,
 							"entries": [
-								"Druid characters are typically associated with the Golgari Swarm, the Gruul Clans, the Selesnya Conclave, and the Simic Combine. Druid circles do not cross guild boundaries; the fact that a Golgari druid and a Selesnya druid both belong to the Circle of the Land does not necessarily create common ground between them.",
+								"Druide characters are typically associated with the Golgari Swarm, the Gruul Clans, the Selesnya Conclave, and the Simic Combine. Druide circles do not cross guild boundaries; the fact that a Golgari druid and a Selesnya druid both belong to the Circle of the Land does not necessarily create common ground between them.",
 								{
 									"type": "table",
 									"caption": "Druid",
@@ -1614,7 +1614,7 @@
 					"entries": [
 						"Two classes receive subclass options in this section: the cleric and the druid.",
 						"At 1st level, a cleric chooses a Divine Domain. This source adds the {@class cleric|phb|Order Domain|Order|TCE} to the options available to the cleric making that choice.",
-						"At 2nd level, a druid chooses a Druid Circle. This source adds the {@class druid|phb|Circle of Spores|Spores|TCE} to the options available to the druid making that choice."
+						"At 2nd level, a druid chooses a Druide Circle. This source adds the {@class druid|phb|Circle of Spores|Spores|TCE} to the options available to the druid making that choice."
 					],
 					"id": "02f"
 				}
@@ -11949,7 +11949,7 @@
 												],
 												[
 													"7",
-													"{@creature Druid of the Old Ways|GGR}",
+													"{@creature Druide of the Old Ways|GGR}",
 													"{@i GGR}"
 												],
 												[
@@ -13410,7 +13410,7 @@
 								],
 								[
 									"Druid",
-									"{@creature Druid of the Old Ways|GGR}*"
+									"{@creature Druide of the Old Ways|GGR}*"
 								],
 								[
 									"Scout",
@@ -13485,7 +13485,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Druid of the Old Ways",
+							"name": "Druide of the Old Ways",
 							"page": 237,
 							"entries": [
 								"The druids of the Old Ways are the keepers of ancient Gruul traditions devoted to the primal ferocity of animal gods such as Ilharg the Raze-Boar and Kashath the Stalker.",

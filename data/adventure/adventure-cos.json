@@ -2735,7 +2735,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "Druid and Twig Blights",
+									"name": "Druide and Twig Blights",
 									"page": 30,
 									"id": "0ca",
 									"entries": [
@@ -45724,7 +45724,7 @@
 							"entries": [
 								"You can allow this event to unfold regardless of whether the characters have visited Yester Hill. Even if the characters don't experience this event as it happens, they can still deal with the aftermath (see \"{@area Wintersplinter Attacks|5cb|x}\" in the \"Special Events\" section in {@adventure chapter 12|CoS|13}).",
 								"{@creature Strahd von Zarovich|CoS|Strahd} travels to Yester Hill, arriving astride his {@creature nightmare}, {@creature Beucephalus|CoS} (assuming the characters didn't kill it in the catacombs of Castle Ravenloft), or in bat form.",
-								"Strahd's arrival prompts the druids in {@area area Y3|679|x} to rise from their \"graves\" and begin their ritual. When the ritual begins, the druids use their actions to chant and dance about. To complete the ritual, the druids must chant for 10 consecutive rounds, with at least one of them chanting each round. If a round goes by and none of the druids are able to chant on their turn, the ritual is ruined and must be started anew. If the Gulthias tree ({@area area Y4|67e|x}) has been reduced to 0 hit points, the ritual won't work. Druids who realize that the tree has been destroyed know enough not to attempt the ritual.",
+								"Strahd's arrival prompts the druids in {@area area Y3|679|x} to rise from their \"graves\" and begin their ritual. When the ritual begins, the druids use their actions to chant and dance about. To complete the ritual, the druids must chant for 10 consecutive rounds, with at least one of them chanting each round. If a round goes by and none of the druids are able to chant on their turn, the ritual is ruined and must be started anew. If the Gulthias tree ({@area area Y4|67e|x}) has been reduced to 0 hit points, the ritual won't work. Druides who realize that the tree has been destroyed know enough not to attempt the ritual.",
 								"Strahd observes the proceedings, defending the druids if they are attacked and retreating if outmatched.",
 								{
 									"type": "entries",

@@ -3900,7 +3900,7 @@
 									"entries": [
 										"Over my lifetime, the isle of Gwynneth has become ever more fey and mysterious, home to the elven realm of Sarifal, under the rule of High Lady Ordalf.",
 										"Sarifal shares the island with the reclusive mountain kingdom of Synnoria, the home of the Llewyr elves, plus a few small shield dwarf settlements, and the ruins of Caer Corwell, the former Ffolk settlement on Gwynneth. High King Derid wants to reclaim the old citadel and rebuild it as an embassy, but has yet to secure Lady Ordalf's consent to do so.",
-										"Gwynneth is also home to Myrloch Vale, a lush valley nestled in the mountains with the shimmering waters of the Myrloch to the south. Druid circles are active in the Vale, allied with the elves and the fey creatures of this area.",
+										"Gwynneth is also home to Myrloch Vale, a lush valley nestled in the mountains with the shimmering waters of the Myrloch to the south. Druide circles are active in the Vale, allied with the elves and the fey creatures of this area.",
 										"In the north of the island, High Lady Ordalf's son, Prince Araithe, leads the struggle against the darker fey of the forest of Winterglen. The prince is a pragmatist willing to accept aid in fending off his people's foes, and so has been known to allow adventuring companies to cross the Strait of Alaron and land on Gwynneth, if they pledge to aid the cause."
 									],
 									"id": "0c5"
@@ -7139,7 +7139,7 @@
 				},
 				{
 					"type": "section",
-					"name": "Druid Circles",
+					"name": "Druide Circles",
 					"page": 126,
 					"entries": [
 						{
@@ -7152,7 +7152,7 @@
 							"height": 1000
 						},
 						"Druidic ways are ancient and largely practiced in secret, away from the eyes of the uninitiated. In many lands, the Old Ways of the First Circle have given way to new churches and temples, but druids and their followers still gather to honor the cycles of nature and to ensure the natural balance isn't threatened. People who dwell in or near wild lands do well to learn if a druid circle operates nearby, seeking the circle's blessing before hunting or farming on the lands they protect.",
-						"The druid habit of gathering in clearings, wooded groves, or around sacred pools gave rise to the tradition of circles. In a circle, all are equal, and while respect is given to age and accomplishment, the circle reaches decisions as a whole. Those who disagree are free to argue their point, or even to leave the circle, if they wish, but the circle acts as one for the good of all. Druid circles often include non-druid allies, such as rangers, wood elves, and the fey creatures of the land where the circle meets, all given equal voice.",
+						"The druid habit of gathering in clearings, wooded groves, or around sacred pools gave rise to the tradition of circles. In a circle, all are equal, and while respect is given to age and accomplishment, the circle reaches decisions as a whole. Those who disagree are free to argue their point, or even to leave the circle, if they wish, but the circle acts as one for the good of all. Druide circles often include non-druid allies, such as rangers, wood elves, and the fey creatures of the land where the circle meets, all given equal voice.",
 						"Numerous circles are found across Faerûn, usually made up of no more than a dozen or so druids, plus their allies. They include the High Dance, guarding the Dancing Place in the high valleys of the Thunder Peaks, alongside their fey allies. The Watchers of Sevreld meet in Old Mushroom Grove in the High Forest, northeast of Secomber, and the Starwater Circle gathers around their namesake pool in the northern forest of Mir.",
 						{
 							"type": "entries",
@@ -7160,7 +7160,7 @@
 							"page": 127,
 							"entries": [
 								"Protectors of the Neverwinter Wood, the Circle of Swords drives destructive humanoids like hobgoblins, bugbears, and their kin from the wood, while also safeguarding it against exploitation at the hands of civilized folk and protecting the wood's ancient ruins and sacred sites from looters.",
-								"In the Druid Circle class feature in the Player's Handbook, the Circle of the Moon is common for Circle of Swords druids, although some belong to the Circle of the Land (Forest)."
+								"In the Druide Circle class feature in the Player's Handbook, the Circle of the Moon is common for Circle of Swords druids, although some belong to the Circle of the Land (Forest)."
 							],
 							"id": "1a8"
 						},
@@ -7171,7 +7171,7 @@
 							"entries": [
 								"Less a druid circle and more a loose confederation of circles and their allies, the Emerald Enclave is devoted to protecting the redoubt of civilization in the North from destruction. Elsewhere in the world, the Emerald Enclave must pursue a more balanced path, but the vast wilderness of the North holds far more danger to people than they pose to it.",
 								"Founded in the Vilhon Reach over a thousand years ago, the Emerald Enclave has spread across much of Faerûn. Its members include druids, rangers, barbarians, and others who live in the wilderness and know and respect its ways. They wear an article of emerald green clothing as a symbol of their membership, often bearing the emblem of a stag's head.",
-								"In the Druid Circle class feature in the Player's Handbook, Emerald Enclave druids belong to the Circle of the Land and Circle of the Moon in equal measure."
+								"In the Druide Circle class feature in the Player's Handbook, Emerald Enclave druids belong to the Circle of the Land and Circle of the Moon in equal measure."
 							],
 							"id": "1a9"
 						},
@@ -7181,7 +7181,7 @@
 							"page": 127,
 							"entries": [
 								"The folk of the Moonshae Isles venerate the land as the great goddess they call the Earthmother. Their circles gather around sacred pools known as moonwells, their link between the natural world and the goddess, ringed by standing stone circles, raised by their ancient ancestors.",
-								"In the Druid Circle class feature in the Player's Handbook, Moonshae druids most often belong to the Circle of the Land (Coast, Forest, and Mountain).",
+								"In the Druide Circle class feature in the Player's Handbook, Moonshae druids most often belong to the Circle of the Land (Coast, Forest, and Mountain).",
 								{
 									"type": "entries",
 									"name": "Moonwells",
@@ -7197,7 +7197,7 @@
 									"type": "inset",
 									"name": "The Harpers and Druids",
 									"entries": [
-										"Druid circles in the North are often allied with the Harpers, as they have common purpose, with bards and rangers serving as go-betweens. Individual Harpers can usually expect a circle to at least grant them food and shelter, and an opportunity to attend a gathering and speak, if they wish.",
+										"Druide circles in the North are often allied with the Harpers, as they have common purpose, with bards and rangers serving as go-betweens. Individual Harpers can usually expect a circle to at least grant them food and shelter, and an opportunity to attend a gathering and speak, if they wish.",
 										"Still, the Harpers aren't a druidic organization and, despite what some common folk might believe, not every druid or druid circle is allied with, or even friendly toward, the Harpers and their cause. Indeed, some druids consider the Harpers busybodies who threaten the natural balance almost as much as the evils that they fight against."
 									],
 									"id": "1ac"

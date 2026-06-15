@@ -462,25 +462,25 @@
 				"Wild Shape|Druid||2",
 				"Wild Companion|Druid||2|TCE",
 				{
-					"classFeature": "Druid Circle|Druid||2",
+					"classFeature": "Druide Circle|Druid||2",
 					"gainSubclassFeature": true
 				},
 				"Wild Shape Improvement|Druid||4",
 				"Ability Score Improvement|Druid||4",
 				"Cantrip Versatility|Druid||4|TCE",
 				{
-					"classFeature": "Druid Circle feature|Druid||6",
+					"classFeature": "Druide Circle feature|Druid||6",
 					"gainSubclassFeature": true
 				},
 				"Wild Shape Improvement|Druid||8",
 				"Ability Score Improvement|Druid||8",
 				{
-					"classFeature": "Druid Circle feature|Druid||10",
+					"classFeature": "Druide Circle feature|Druid||10",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Druid||12",
 				{
-					"classFeature": "Druid Circle feature|Druid||14",
+					"classFeature": "Druide Circle feature|Druid||14",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Druid||16",
@@ -489,7 +489,7 @@
 				"Ability Score Improvement|Druid||19",
 				"Archdruid|Druid||20"
 			],
-			"subclassTitle": "Druid Circle",
+			"subclassTitle": "Druide Circle",
 			"hasFluff": true,
 			"hasFluffImages": true
 		},
@@ -1017,7 +1017,7 @@
 				"Wild Companion|Druid|XPHB|2",
 				"Wild Shape|Druid|XPHB|2",
 				{
-					"classFeature": "Druid Subclass|Druid|XPHB|3",
+					"classFeature": "Druide Subclass|Druid|XPHB|3",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Druid|XPHB|4",
@@ -1043,7 +1043,7 @@
 				"Epic Boon|Druid|XPHB|19",
 				"Archdruid|Druid|XPHB|20"
 			],
-			"subclassTitle": "Druid Subclass",
+			"subclassTitle": "Druide Subclass",
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
@@ -2015,14 +2015,14 @@
 					"type": "entries",
 					"name": "Cantrips",
 					"entries": [
-						"At 1st level, you know two cantrips of your choice from the {@filter druid spell list|spells|level=0|class=druid}. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druid table."
+						"At 1st level, you know two cantrips of your choice from the {@filter druid spell list|spells|level=0|class=druid}. You learn additional druid cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Druide table."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Preparing and Casting Spells",
 					"entries": [
-						"The Druid table shows how many spell slots you have to cast your {@filter druid spells|spells|class=druid} of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Druide table shows how many spell slots you have to cast your {@filter druid spells|spells|class=druid} of 1st level and higher. To cast one of these druid spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
 						"You prepare the list of druid spells that are available for you to cast, choosing from the druid spell list. When you do so, choose a number of druid spells equal to your Wisdom modifier + your druid level (minimum of one spell). The spells must be of a level for which you have spell slots.",
 						"For example, if you are a 3rd-level druid, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell {@spell cure wounds}, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.",
 						"You can also change your list of prepared spells when you finish a long rest. Preparing a new list of druid spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list."
@@ -2066,7 +2066,7 @@
 			]
 		},
 		{
-			"name": "Druid Circle",
+			"name": "Druide Circle",
 			"source": "PHB",
 			"page": 64,
 			"srd": true,
@@ -2194,7 +2194,7 @@
 			]
 		},
 		{
-			"name": "Druid Circle feature",
+			"name": "Druide Circle feature",
 			"source": "PHB",
 			"page": 64,
 			"srd": true,
@@ -2202,7 +2202,7 @@
 			"classSource": "PHB",
 			"level": 6,
 			"entries": [
-				"At 6th level, you gain a feature granted by your Druid Circle."
+				"At 6th level, you gain a feature granted by your Druide Circle."
 			]
 		},
 		{
@@ -2231,7 +2231,7 @@
 			]
 		},
 		{
-			"name": "Druid Circle feature",
+			"name": "Druide Circle feature",
 			"source": "PHB",
 			"page": 64,
 			"srd": true,
@@ -2239,7 +2239,7 @@
 			"classSource": "PHB",
 			"level": 10,
 			"entries": [
-				"At 10th level, you gain a feature granted by your Druid Circle feature."
+				"At 10th level, you gain a feature granted by your Druide Circle feature."
 			]
 		},
 		{
@@ -2256,7 +2256,7 @@
 			]
 		},
 		{
-			"name": "Druid Circle feature",
+			"name": "Druide Circle feature",
 			"source": "PHB",
 			"page": 64,
 			"srd": true,
@@ -2264,7 +2264,7 @@
 			"classSource": "PHB",
 			"level": 14,
 			"entries": [
-				"At 14th level, you gain a feature granted by your Druid Circle feature."
+				"At 14th level, you gain a feature granted by your Druide Circle feature."
 			]
 		},
 		{
@@ -2354,7 +2354,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You know one extra cantrip from the {@filter Druid spell list|spells|class=Druid}. In addition, your mystical connection to nature gives you a bonus to your Intelligence ({@skill Arcana|XPHB} or {@skill Nature|XPHB}) checks. The bonus equals your Wisdom modifier (minimum bonus of +1)."
+				"You know one extra cantrip from the {@filter Druide spell list|spells|class=Druid}. In addition, your mystical connection to nature gives you a bonus to your Intelligence ({@skill Arcana|XPHB} or {@skill Nature|XPHB}) checks. The bonus equals your Wisdom modifier (minimum bonus of +1)."
 			]
 		},
 		{
@@ -2394,7 +2394,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have learned to cast spells through studying the mystical forces of nature. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Druid spells, which appear on the {@filter Druid spell list|spells|class=Druid} later in the class's description.",
+				"You have learned to cast spells through studying the mystical forces of nature. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Druide spells, which appear on the {@filter Druide spell list|spells|class=Druid} later in the class's description.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2402,46 +2402,46 @@
 							"type": "entries",
 							"name": "Cantrips",
 							"entries": [
-								"You know two cantrips of your choice from the {@filter Druid spell list|spells|class=Druid}. {@spell Druidcraft|XPHB} and {@spell Produce Flame|XPHB} are recommended.",
-								"Whenever you gain a Druid level, you can replace one of your cantrips with another cantrip of your choice from the {@filter Druid spell list|spells|class=Druid}.",
-								"When you reach Druid levels 4 and 10, you learn another cantrip of your choice from the {@filter Druid spell list|spells|class=Druid}, as shown in the Cantrips column of the Druid Features table."
+								"You know two cantrips of your choice from the {@filter Druide spell list|spells|class=Druid}. {@spell Druidcraft|XPHB} and {@spell Produce Flame|XPHB} are recommended.",
+								"Whenever you gain a Druide level, you can replace one of your cantrips with another cantrip of your choice from the {@filter Druide spell list|spells|class=Druid}.",
+								"When you reach Druide levels 4 and 10, you learn another cantrip of your choice from the {@filter Druide spell list|spells|class=Druid}, as shown in the Cantrips column of the Druide Features table."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spell Slots",
 							"entries": [
-								"The Druid Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
+								"The Druide Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Prepared Spells of Level 1+",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the {@filter Druid spell list|spells|class=Druid}. {@spell Animal Friendship|XPHB}, {@spell Cure Wounds|XPHB}, {@spell Faerie Fire|XPHB}, and {@spell Thunderwave|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Druid levels, as shown in the Prepared Spells column of the Druid Features table. Whenever that number increases, choose additional spells from the {@filter Druid spell list|spells|class=Druid} until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.",
-								"If another Druid feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Druid spells for you."
+								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the {@filter Druide spell list|spells|class=Druid}. {@spell Animal Friendship|XPHB}, {@spell Cure Wounds|XPHB}, {@spell Faerie Fire|XPHB}, and {@spell Thunderwave|XPHB} are recommended.",
+								"The number of spells on your list increases as you gain Druide levels, as shown in the Prepared Spells column of the Druide Features table. Whenever that number increases, choose additional spells from the {@filter Druide spell list|spells|class=Druid} until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Druid, your list of prepared spells can include six spells of levels 1 and 2 in any combination.",
+								"If another Druide feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Druide spells for you."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Changing Your Prepared Spells",
 							"entries": [
-								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can change your list of prepared spells, replacing any of the spells with other Druid spells for which you have spell slots."
+								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can change your list of prepared spells, replacing any of the spells with other Druide spells for which you have spell slots."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Ability",
 							"entries": [
-								"Wisdom is your spellcasting ability for your Druid spells."
+								"Wisdom is your spellcasting ability for your Druide spells."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Focus",
 							"entries": [
-								"You can use a {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Druid spells."
+								"You can use a {@item Druidic Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Druide spells."
 							]
 						}
 					]
@@ -2485,7 +2485,7 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"The power of nature allows you to assume the form of an animal. As a {@variantrule Bonus Action|XPHB}, you shape-shift into a Beast form that you have learned for this feature (see \"Known Forms\" below). You stay in that form for a number of hours equal to half your Druid level or until you use Wild Shape again, have the {@condition Incapacitated|XPHB} condition, or die. You can also leave the form early as a {@variantrule Bonus Action|XPHB}.",
+				"The power of nature allows you to assume the form of an animal. As a {@variantrule Bonus Action|XPHB}, you shape-shift into a Beast form that you have learned for this feature (see \"Known Forms\" below). You stay in that form for a number of hours equal to half your Druide level or until you use Wild Shape again, have the {@condition Incapacitated|XPHB} condition, or die. You can also leave the form early as a {@variantrule Bonus Action|XPHB}.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2494,7 +2494,7 @@
 							"name": "Number of Uses",
 							"entries": [
 								"You can use Wild Shape twice. You regain one expended use when you finish a {@variantrule Short Rest|XPHB}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}.",
-								"You gain additional uses when you reach certain Druid levels, as shown in the Wild Shape column of the Druid Features table."
+								"You gain additional uses when you reach certain Druide levels, as shown in the Wild Shape column of the Druide Features table."
 							]
 						},
 						{
@@ -2502,7 +2502,7 @@
 							"name": "Known Forms",
 							"entries": [
 								"You know four Beast forms for this feature, chosen from among Beast stat blocks that have a maximum {@variantrule Challenge Rating|XPHB} of 1/4 and that lack a {@variantrule Fly Speed|XPHB} (see appendix B for stat block options). The {@creature Rat|XMM}, {@creature Riding Horse|XMM}, {@creature Spider|XMM}, and {@creature Wolf|XMM} are recommended. Whenever you finish a {@variantrule Long Rest|XPHB}, you can replace one of your known forms with another eligible form.",
-								"When you reach certain Druid levels, your number of known forms and the maximum {@variantrule Challenge Rating|XPHB} for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a {@variantrule Fly Speed|XPHB}.",
+								"When you reach certain Druide levels, your number of known forms and the maximum {@variantrule Challenge Rating|XPHB} for those forms increases, as shown in the Beast Shapes table. In addition, starting at level 8, you can adopt a form that has a {@variantrule Fly Speed|XPHB}.",
 								"When choosing known forms, you may look in the {@book Monster Manual|XMM} or elsewhere for eligible Beasts if the Dungeon Master permits you to do so."
 							]
 						},
@@ -2510,7 +2510,7 @@
 							"type": "table",
 							"caption": "Beast Shapes",
 							"colLabels": [
-								"Druid Level",
+								"Druide Level",
 								"Known Forms",
 								"Max CR",
 								"Fly Speed"
@@ -2554,7 +2554,7 @@
 											"type": "item",
 											"name": "Temporary Hit Points",
 											"entries": [
-												"When you assume a Wild Shape form, you gain a number of {@variantrule Temporary Hit Points|XPHB} equal to your Druid level."
+												"When you assume a Wild Shape form, you gain a number of {@variantrule Temporary Hit Points|XPHB} equal to your Druide level."
 											]
 										},
 										{
@@ -2587,7 +2587,7 @@
 			]
 		},
 		{
-			"name": "Druid Subclass",
+			"name": "Druide Subclass",
 			"source": "XPHB",
 			"page": 81,
 			"srd52": true,
@@ -2596,7 +2596,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Druid subclass of your choice. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass's features that are of your Druid level or lower."
+				"You gain a Druide subclass of your choice. A subclass is a specialization that grants you features at certain Druide levels. For the rest of your career, you gain each of your subclass's features that are of your Druide level or lower."
 			]
 		},
 		{
@@ -2609,7 +2609,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Druid levels 8, 12, and 16."
+				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Druide levels 8, 12, and 16."
 			]
 		},
 		{
@@ -2636,7 +2636,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain a feature from your Druid Subclass."
+				"You gain a feature from your Druide Subclass."
 			]
 		},
 		{
@@ -2676,7 +2676,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Add your Wisdom modifier to the damage you deal with any Druid cantrip."
+				"Add your Wisdom modifier to the damage you deal with any Druide cantrip."
 			]
 		},
 		{
@@ -2716,7 +2716,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You gain a feature from your Druid Subclass."
+				"You gain a feature from your Druide Subclass."
 			]
 		},
 		{
@@ -2742,7 +2742,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You gain a feature from your Druid Subclass."
+				"You gain a feature from your Druide Subclass."
 			]
 		},
 		{
@@ -2763,7 +2763,7 @@
 							"type": "entries",
 							"name": "Potent Spellcasting",
 							"entries": [
-								"When you cast a Druid cantrip with a range of 10 feet or greater, the spell's range increases by 300 feet."
+								"When you cast a Druide cantrip with a range of 10 feet or greater, the spell's range increases by 300 feet."
 							]
 						},
 						{
@@ -2916,7 +2916,7 @@
 					"type": "table",
 					"caption": "Arctic",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -2946,7 +2946,7 @@
 					"type": "table",
 					"caption": "Coast",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -2976,7 +2976,7 @@
 					"type": "table",
 					"caption": "Desert",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -3006,7 +3006,7 @@
 					"type": "table",
 					"caption": "Forest",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -3036,7 +3036,7 @@
 					"type": "table",
 					"caption": "Grassland",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -3066,7 +3066,7 @@
 					"type": "table",
 					"caption": "Mountain",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -3096,7 +3096,7 @@
 					"type": "table",
 					"caption": "Swamp",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -3126,7 +3126,7 @@
 					"type": "table",
 					"caption": "Underdark",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -3227,7 +3227,7 @@
 			"subclassSource": "PHB",
 			"level": 2,
 			"entries": [
-				"Druids of the Circle of the Moon are fierce guardians of the wilds. Their order gathers under the full moon to share news and trade warnings. They haunt the deepest parts of the wilderness, where they might go for weeks on end before crossing paths with another humanoid creature, let alone another druid.",
+				"Druides of the Circle of the Moon are fierce guardians of the wilds. Their order gathers under the full moon to share news and trade warnings. They haunt the deepest parts of the wilderness, where they might go for weeks on end before crossing paths with another humanoid creature, let alone another druid.",
 				"Changeable as the moon, a druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and crash through the undergrowth in bear form to drive off a trespassing monster. The wild is in the druid's blood.",
 				{
 					"type": "refSubclassFeature",
@@ -3387,9 +3387,9 @@
 			"subclassSource": "TCE",
 			"level": 2,
 			"entries": [
-				"Druids of the Circle of Spores find beauty in decay. They see within mold and other fungi the ability to transform lifeless material into abundant, albeit somewhat strange, life.",
+				"Druides of the Circle of Spores find beauty in decay. They see within mold and other fungi the ability to transform lifeless material into abundant, albeit somewhat strange, life.",
 				"These druids believe that life and death are parts of a grand cycle, with one leading to the other and then back again. Death isn't the end of life, but instead a change of state that sees life shift into a new form.",
-				"Druids of this circle have a complex relationship with the undead. Unlike most other druids, they see nothing inherently wrong with undeath, which they consider to be a companion to life and death. But these druids believe that the natural cycle is healthiest when each segment of it is vibrant and changing. Undead that seek to replace all life with undeath, or that try to avoid passing to a final rest, violate the cycle and must be thwarted.",
+				"Druides of this circle have a complex relationship with the undead. Unlike most other druids, they see nothing inherently wrong with undeath, which they consider to be a companion to life and death. But these druids believe that the natural cycle is healthiest when each segment of it is vibrant and changing. Undead that seek to replace all life with undeath, or that try to avoid passing to a final rest, violate the cycle and must be thwarted.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Circle Spells|Druid||Spores|TCE|2"
@@ -3427,7 +3427,7 @@
 					"type": "table",
 					"caption": "Circle of Spores Spells",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -3802,7 +3802,7 @@
 			"subclassSource": "TCE",
 			"level": 2,
 			"entries": [
-				"Druids within the Circle of Wildfire understand that destruction is sometimes the precursor of creation, such as when a forest fire promotes later growth. These druids bond with a primal spirit that harbors both destructive and creative power, allowing the druids to create controlled flames that burn away one thing but give life to another.",
+				"Druides within the Circle of Wildfire understand that destruction is sometimes the precursor of creation, such as when a forest fire promotes later growth. These druids bond with a primal spirit that harbors both destructive and creative power, allowing the druids to create controlled flames that burn away one thing but give life to another.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Circle Spells|Druid||Wildfire|TCE|2"
@@ -3831,7 +3831,7 @@
 					"type": "table",
 					"caption": "Circle of Wildfire Spells",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -4123,7 +4123,7 @@
 			"subclassSource": "XGE",
 			"level": 2,
 			"entries": [
-				"Druids who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids' guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.",
+				"Druides who are members of the Circle of Dreams hail from regions that have strong ties to the Feywild and its dreamlike realms. The druids' guardianship of the natural world makes for a natural alliance between them and good-aligned fey. These druids seek to fill the world with dreamy wonder. Their magic mends wounds and brings joy to downcast hearts, and the realms they protect are gleaming, fruitful places, where dream and reality blur together and where the weary can find rest.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Balm of the Summer Court|Druid||Dreams|XGE|2"
@@ -4204,7 +4204,7 @@
 			"subclassSource": "XGE",
 			"level": 2,
 			"entries": [
-				"Druids of the Circle of the Shepherd commune with the spirits of nature, especially the spirits of beasts and the fey, and call to those spirits for aid. These druids recognize that all living things play a role in the natural world, yet they focus on protecting animals and fey creatures that have difficulty defending themselves. Shepherds, as they are known, see such creatures as their charges. They ward off monsters that threaten them, rebuke hunters who kill more prey than necessary, and prevent civilization from encroaching on rare animal habitats and on sites sacred to the fey. Many of these druids are happiest far from cities and towns, content to spend their days in the company of animals and the fey creatures of the wilds.",
+				"Druides of the Circle of the Shepherd commune with the spirits of nature, especially the spirits of beasts and the fey, and call to those spirits for aid. These druids recognize that all living things play a role in the natural world, yet they focus on protecting animals and fey creatures that have difficulty defending themselves. Shepherds, as they are known, see such creatures as their charges. They ward off monsters that threaten them, rebuke hunters who kill more prey than necessary, and prevent civilization from encroaching on rare animal habitats and on sites sacred to the fey. Many of these druids are happiest far from cities and towns, content to spend their days in the company of animals and the fey creatures of the wilds.",
 				"Members of this circle become adventurers to oppose forces that threaten their charges or to seek knowledge and power that will help them safeguard their charges better. Wherever these druids go, the spirits of the wilderness are with them.",
 				{
 					"type": "refSubclassFeature",
@@ -4501,7 +4501,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Celebrate Connection to the Natural World}",
-				"The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.",
+				"The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druides meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Circle of the Land Spells|Druid|XPHB|Land|XPHB|3"
@@ -4524,12 +4524,12 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"Whenever you finish a {@variantrule Long Rest|XPHB}, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druid level and lower prepared.",
+				"Whenever you finish a {@variantrule Long Rest|XPHB}, choose one type of land: arid, polar, temperate, or tropical. Consult the table below that corresponds to the chosen type; you have the spells listed for your Druide level and lower prepared.",
 				{
 					"type": "table",
 					"caption": "Arid Land",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -4559,7 +4559,7 @@
 					"type": "table",
 					"caption": "Polar Land",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -4589,7 +4589,7 @@
 					"type": "table",
 					"caption": "Temperate Land",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -4619,7 +4619,7 @@
 					"type": "table",
 					"caption": "Tropical Land",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Circle Spells"
 					],
 					"colStyles": [
@@ -4660,7 +4660,7 @@
 			"level": 3,
 			"entries": [
 				"As a {@action Magic|XPHB} action, you can expend a use of your Wild Shape and choose a point within 60 feet of yourself. Vitality-giving flowers and life-draining thorns appear for a moment in a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} centered on that point. Each creature of your choice in the {@variantrule Sphere [Area of Effect]|XPHB|Sphere} must make a Constitution saving throw against your spell save DC, taking {@damage 2d6} Necrotic damage on a failed save or half as much damage on a successful one. One creature of your choice in that area regains {@dice 2d6} {@variantrule Hit Points|XPHB}.",
-				"The damage and healing increase by {@dice 1d6} when you reach Druid levels 10 ({@dice 3d6}) and 14 ({@dice 4d6})."
+				"The damage and healing increase by {@dice 1d6} when you reach Druide levels 10 ({@dice 3d6}) and 14 ({@dice 4d6})."
 			]
 		},
 		{
@@ -4677,7 +4677,7 @@
 			"header": 2,
 			"entries": [
 				"You can cast one of the level 1+ spells that you have prepared from your Circle Spells feature without expending a spell slot, and you must finish a {@variantrule Long Rest|XPHB} before you do so again.",
-				"In addition, when you finish a {@variantrule Short Rest|XPHB}, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druid level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}."
+				"In addition, when you finish a {@variantrule Short Rest|XPHB}, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your Druide level (round up), and none of them can be level 6+. For example, if you're a level 6 Druid, you can recover up to three levels' worth of spell slots. You can recover a level 3 spell slot, a level 2 and a level 1 spell slot, or three level 1 spell slots. Once you recover spell slots with this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -4766,7 +4766,7 @@
 							"type": "entries",
 							"name": "Challenge Rating",
 							"entries": [
-								"The maximum {@variantrule Challenge Rating|XPHB} for the form equals your Druid level divided by 3 (round down)."
+								"The maximum {@variantrule Challenge Rating|XPHB} for the form equals your Druide level divided by 3 (round down)."
 							]
 						},
 						{
@@ -4780,7 +4780,7 @@
 							"type": "entries",
 							"name": "Temporary Hit Points",
 							"entries": [
-								"You gain a number of {@variantrule Temporary Hit Points|XPHB} equal to three times your Druid level."
+								"You gain a number of {@variantrule Temporary Hit Points|XPHB} equal to three times your Druide level."
 							]
 						}
 					]
@@ -4798,8 +4798,8 @@
 			"level": 3,
 			"entries": [
 				"{@i Adopt Animal Forms to Guard the Wilds}",
-				"Druids of the Circle of the Moon draw on lunar magic to transform themselves. Their order gathers under the moon to share news and perform rituals.",
-				"Changeable as the moon, a Druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and then crash through undergrowth as a bear to drive off a trespassing monster. The wild is in the Druid's blood.",
+				"Druides of the Circle of the Moon draw on lunar magic to transform themselves. Their order gathers under the moon to share news and perform rituals.",
+				"Changeable as the moon, a Druide of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and then crash through undergrowth as a bear to drive off a trespassing monster. The wild is in the Druid's blood.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Circle of the Moon Spells|Druid|XPHB|Moon|XPHB|3"
@@ -4820,13 +4820,13 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"When you reach a Druid level specified in the Circle of the Moon Spells table, you thereafter always have the listed spells prepared.",
+				"When you reach a Druide level specified in the Circle of the Moon Spells table, you thereafter always have the listed spells prepared.",
 				"In addition, you can cast the spells from this feature while you're in a Wild Shape form.",
 				{
 					"type": "table",
 					"caption": "Circle of the Moon Spells",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Prepared Spells"
 					],
 					"colStyles": [
@@ -4946,7 +4946,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Become One with Tides and Storms}",
-				"Druids of the Circle of the Sea draw on the tempestuous forces of oceans and storms. Some view themselves as embodiments of nature's wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.",
+				"Druides of the Circle of the Sea draw on the tempestuous forces of oceans and storms. Some view themselves as embodiments of nature's wrath, seeking vengeance against those who despoil nature. Others seek mystical unity with nature by attuning themselves to the ebb and flow of the tides, following the rush of currents and waves and listening to the inscrutable whispers and roars of the winds.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Circle of the Sea Spells|Druid|XPHB|Sea|XPHB|3"
@@ -4967,12 +4967,12 @@
 			"subclassSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"When you reach a Druid level specified in the Circle of the Sea Spells table, you thereafter always have the listed spells prepared.",
+				"When you reach a Druide level specified in the Circle of the Sea Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Circle of the Sea Spells",
 					"colLabels": [
-						"Druid Level",
+						"Druide Level",
 						"Prepared Spells"
 					],
 					"colStyles": [
@@ -5083,7 +5083,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Harness Secrets Hidden in Constellations}",
-				"The Circle of the Stars has tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By understanding these secrets, the Druids of this circle seek to harness the powers of the cosmos.",
+				"The Circle of the Stars has tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By understanding these secrets, the Druides of this circle seek to harness the powers of the cosmos.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Star Map|Druid|XPHB|Stars|XPHB|3"
@@ -5105,7 +5105,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You've created a star chart as part of your heavenly studies. It is a Tiny object, and you can use it as a {@variantrule Spellcasting Focus|XPHB} for your Druid spells. You determine its form by rolling on the Star Map table or by choosing one.",
+				"You've created a star chart as part of your heavenly studies. It is a Tiny object, and you can use it as a {@variantrule Spellcasting Focus|XPHB} for your Druide spells. You determine its form by rolling on the Star Map table or by choosing one.",
 				"While holding the map, you have the {@spell Guidance|XPHB} and {@spell Guiding Bolt|XPHB} spells prepared, and you can cast {@spell Guiding Bolt|XPHB} without expending a spell slot. You can cast it in that way a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}.",
 				"If you lose the map, you can perform a 1-hour ceremony to magically create a replacement. This ceremony can be performed during a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}, and it destroys the previous map.",
 				{

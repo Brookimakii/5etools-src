@@ -53,7 +53,7 @@ The primary source for an entity should be that under which it was first release
 
 Within this ordering, the following prioritisation should be made:
 - text that directly refers to or describes a language, in order of first appearance in the product (i.e. if a language is mentioned on page 2 and 10 of a book, the entry on page 2 should be taken as the primary source)
-- text that is given for player use (e.g. the "Druidic" feature of the Druid class) (the text of which may have to be adapted to fit a reference format; i.e. changing "You can understand..." to "A speaker or X language can understand...).
+- text that is given for player use (e.g. the "Druidic" feature of the Druide class) (the text of which may have to be adapted to fit a reference format; i.e. changing "You can understand..." to "A speaker or X language can understand...).
 
 ### Target JavaScript Version
 
