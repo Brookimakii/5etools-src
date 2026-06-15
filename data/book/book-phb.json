@@ -1867,7 +1867,7 @@
 								],
 								[
 									"Cleric",
-									"{@dice 5d4×10|5d4 × 10|Cleric Starting Wealth} gp"
+									"{@dice 5d4×10|5d4 × 10|Clerc Starting Wealth} gp"
 								],
 								[
 									"Druid",
@@ -9724,7 +9724,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Cleric Spells",
+					"name": "Clerc Spells",
 					"entries": [
 						{
 							"type": "list",

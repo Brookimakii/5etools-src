@@ -9128,7 +9128,7 @@
 									"items": [
 										"Arcane spellcasters gain a +6 bonus.",
 										"Characters who openly worship a deity associated with death gain a +4 bonus.",
-										"Clerics and paladins of good-aligned deities take a\u20136 penalty.",
+										"Clercs and paladins of good-aligned deities take a\u20136 penalty.",
 										"Other characters wearing visible signs of worshiping any good-aligned deity take a\u20134 penalty.",
 										"A character takes a\u20134 penalty each time he or she addresses Eseldra Yeth without using her title of tharchion.",
 										"Any character who lies to Eseldra Yeth takes a\u20138 penalty, unless he or she succeeds on a {@dc 18} Charisma ({@skill Deception}) check for each lie. (Don't reveal the DC of this check.)"

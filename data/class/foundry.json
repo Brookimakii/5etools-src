@@ -3411,7 +3411,7 @@
 					"type": "heal",
 					"activation": {
 						"type": "",
-						"condition": "When you cast a Cleric cantrip and deal damage to a creature with it"
+						"condition": "When you cast a Clerc cantrip and deal damage to a creature with it"
 					},
 					"target": {
 						"affects": {

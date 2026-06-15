@@ -6877,7 +6877,7 @@
 							"id": "183",
 							"entries": [
 								"Gods aren't defined by mortal conceptions of alignment, and different mortal worshipers might interpret a god's behavior and teachings through the lens of different alignments. That said, gods tend to live on the {@book Outer Planes|XDMG|5|Outer Planes} that most closely match their general alignment tendencies, so it's safe to assume that the teachings of a god who resides in {@book Pandemonium|XDMG|5|Pandemonium} (a plane of rampant chaos and evil), encourage behavior that is Chaotic Evil, while a god who resides in {@book Elysium|XDMG|5|Elysium} (the plane of pure good) encourages Neutral Good behavior.",
-								"People can worship a god without obeying that god's tenets or conforming to the god's presumed alignment. People from all walks of life might participate in the annual festival of innocent mischief associated with a trickster god\u2014even people whose alignment is generally lawful and opposed to the trickster's teachings. To stave off disease, good-hearted people might make offerings to appease the wrath of a god associated with plague. Even Cleric characters don't need to have any particular alignment to serve their gods."
+								"People can worship a god without obeying that god's tenets or conforming to the god's presumed alignment. People from all walks of life might participate in the annual festival of innocent mischief associated with a trickster god\u2014even people whose alignment is generally lawful and opposed to the trickster's teachings. To stave off disease, good-hearted people might make offerings to appease the wrath of a god associated with plague. Even Clerc characters don't need to have any particular alignment to serve their gods."
 							]
 						},
 						{
@@ -6888,7 +6888,7 @@
 							"entries": [
 								"Divine magic\u2014which includes the spells cast by Clerics, Druids, Paladins, and Rangers\u2014is mediated through beings and forces that are categorized as divine. These can include gods but also include the primal forces of nature, the beneficent power of ancestral spirits, the sacred weight of a Paladin's oath, and impersonal principles or entities such as Fate or the order of the universe. These beings and forces grant characters the power to wield the magic of their planar domains.",
 								"For game purposes, wielding divine power isn't dependent on the gods' ongoing approval or the strength of a character's devotion. The power is a gift offered to a select few; once given, it can't be rescinded.",
-								"That said, characters' relationships with the divine forces they access to wield their magic, much like Warlocks' relationships with their patrons, are ripe for exploration. A Cleric might accompany every casting of a spell with a litany of complaints directed at the gods. The {@class Paladin|XPHB|Paladin class description} in the {@book Player's Handbook|XPHB} offers some suggestions for how a player might roleplay a situation where their Paladin has broken their oath. You can also decide how NPCs react to a character whose behavior doesn't square with the ideals implied by the Holy Symbol the character wears."
+								"That said, characters' relationships with the divine forces they access to wield their magic, much like Warlocks' relationships with their patrons, are ripe for exploration. A Clerc might accompany every casting of a spell with a litany of complaints directed at the gods. The {@class Paladin|XPHB|Paladin class description} in the {@book Player's Handbook|XPHB} offers some suggestions for how a player might roleplay a situation where their Paladin has broken their oath. You can also decide how NPCs react to a character whose behavior doesn't square with the ideals implied by the Holy Symbol the character wears."
 							]
 						},
 						{
@@ -6941,7 +6941,7 @@
 										{
 											"type": "item",
 											"name": "Miracles",
-											"entry": "As the simplest form of miracle, a god can produce the effect of any spell that devotees of that god might cast (typically Cleric or Druid spells). But a god's direct intervention can take any form you choose, often reflecting the god's nature."
+											"entry": "As the simplest form of miracle, a god can produce the effect of any spell that devotees of that god might cast (typically Clerc or Druid spells). But a god's direct intervention can take any form you choose, often reflecting the god's nature."
 										}
 									]
 								}
@@ -24754,7 +24754,7 @@
 														{
 															"type": "item",
 															"name": "Random Determination:",
-															"entry": "Use the tables at the end of this chapter to randomly determine starting items. Use the {@book Arcana tables|XDMG|6|Arcana Tables} for Sorcerers, Warlocks, and Wizards. Use the {@book Armaments tables|XDMG|6|Armaments Tables} for Barbarians, Fighters, Paladins, and Rangers. Use the {@book Implements tables|XDMG|6|Implements Tables} for Bards, Monks, and Rogues. Use the {@book Relics tables|XDMG|6|Relics Tables} for Clerics and Druids. Feel free to vary the tables you use to give each character a mix of useful items and to match character themes. For example, for a Fighter with the Eldritch Knight subclass, you might choose one item from the {@book Arcana tables|XDMG|6|Arcana Tables} and the rest of the character's items from the {@book Armaments tables|XDMG|6|Armaments Tables}."
+															"entry": "Use the tables at the end of this chapter to randomly determine starting items. Use the {@book Arcana tables|XDMG|6|Arcana Tables} for Sorcerers, Warlocks, and Wizards. Use the {@book Armaments tables|XDMG|6|Armaments Tables} for Barbarians, Fighters, Paladins, and Rangers. Use the {@book Implements tables|XDMG|6|Implements Tables} for Bards, Monks, and Rogues. Use the {@book Relics tables|XDMG|6|Relics Tables} for Clercs and Druids. Feel free to vary the tables you use to give each character a mix of useful items and to match character themes. For example, for a Fighter with the Eldritch Knight subclass, you might choose one item from the {@book Arcana tables|XDMG|6|Arcana Tables} and the rest of the character's items from the {@book Armaments tables|XDMG|6|Armaments Tables}."
 														}
 													]
 												}
@@ -28887,7 +28887,7 @@
 					"id": "709",
 					"entries": [
 						"If you allow Bastions in your campaign, characters acquire their Bastions when they reach level 5. You and the players can decide together how these Bastions come into being. A character might inherit or receive a parcel of land on which to build their Bastion (see \"{@book Marks of Prestige|XDMG|2|Marks of Prestige}\" in {@book chapter 3|XDMG|2}), or they might take a preexisting structure and refurbish it. It's fair to assume that work has been going on behind the scenes of the campaign during a character's early adventuring career, so the Bastion is ready when the character reaches level 5.",
-						"The shape, style, and function of a character's Bastion are up to the player to determine. For example, a Wizard might build a tower, a Cleric might establish a shrine, a Fighter might build a fortified keep or similar stronghold, and a Rogue might establish a guildhall or lodge. Characters of other classes might choose one of these forms or combine them\u2014a Paladin's Bastion might be similar to a Cleric's shrine but as fortified as a Fighter's stronghold. And multiple characters can combine their Bastions to form a single large structure (see \"{@book Bastion Map|XDMG|7|Bastion Map}\").",
+						"The shape, style, and function of a character's Bastion are up to the player to determine. For example, a Wizard might build a tower, a Clerc might establish a shrine, a Fighter might build a fortified keep or similar stronghold, and a Rogue might establish a guildhall or lodge. Characters of other classes might choose one of these forms or combine them\u2014a Paladin's Bastion might be similar to a Cleric's shrine but as fortified as a Fighter's stronghold. And multiple characters can combine their Bastions to form a single large structure (see \"{@book Bastion Map|XDMG|7|Bastion Map}\").",
 						"Every Bastion has facilities that serve basic needs as well as special ones, such as libraries, menageries, and workshops (see \"{@book Basic Facilities|XDMG|7|Basic Facilities}\" and \"{@book Special Facilities|XDMG|7|Special Facilities}\")."
 					]
 				},
@@ -30261,7 +30261,7 @@
 					"page": 356,
 					"id": "7ae",
 					"entries": [
-						"Tessalynde is a young elf Rogue who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she's gathered isn't the stuff of legend yet, she's confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Fighter too stubborn to stay down; Cazrin, a self-taught, human Wizard determined to test her theoretical mettle against the real world; Baldric, a dwarf Cleric who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Bard with as many secrets as songs; and Uggie, a pet otyugh."
+						"Tessalynde is a young elf Rogue who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she's gathered isn't the stuff of legend yet, she's confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Fighter too stubborn to stay down; Cazrin, a self-taught, human Wizard determined to test her theoretical mettle against the real world; Baldric, a dwarf Clerc who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Bard with as many secrets as songs; and Uggie, a pet otyugh."
 					]
 				},
 				{
@@ -30731,7 +30731,7 @@
 					"entries": [
 						"The noble adventuring party known as Valor's Call was founded by Strongheart, a resolute human Paladin committed to destroying evil wherever it rears its head. Strongheart alone determines who can become a member of this prestigious group, and he is always looking for courageous heroes willing to devote themselves to a good cause.",
 						"Only good-aligned characters can join Valor's Call. The group enjoys the patronage of {@book Yolande|XDMG|8|Yolande}, the queen of Celene, and carries out missions on her behalf both in the Greyhawk setting (see {@book chapter 5|XDMG|4}) and in the {@book Feywild|XDMG|5|Feywild} (see {@book chapter 6|XDMG|5|Feywild}).",
-						"Prominent members of Valor's Call include the dwarf Fighter Elkhorn, the human Cleric Mercion, the human Rogue Molliver, and the human Wizard Ringlerun."
+						"Prominent members of Valor's Call include the dwarf Fighter Elkhorn, the human Clerc Mercion, the human Rogue Molliver, and the human Wizard Ringlerun."
 					]
 				},
 				{

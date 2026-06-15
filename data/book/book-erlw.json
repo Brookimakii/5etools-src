@@ -8975,7 +8975,7 @@
 							"colLabels": [
 								"The Sovereign Host",
 								"Province",
-								"Suggested Cleric Domains",
+								"Suggested Clerc Domains",
 								"Common Symbol"
 							],
 							"colStyles": [
@@ -9046,7 +9046,7 @@
 							"colLabels": [
 								"The Dark Six",
 								"Province",
-								"Suggested Cleric Domains",
+								"Suggested Clerc Domains",
 								"Common Symbol"
 							],
 							"colStyles": [
@@ -9099,7 +9099,7 @@
 							"colLabels": [
 								"Other Faiths",
 								"Province",
-								"Suggested Cleric Domains",
+								"Suggested Clerc Domains",
 								"Common Symbol"
 							],
 							"colStyles": [
@@ -9441,7 +9441,7 @@
 						},
 						{
 							"type": "insetReadaloud",
-							"name": "Voice of Breland\u2014Corpse Cleric Condemns Claw",
+							"name": "Voice of Breland\u2014Corpse Clerc Condemns Claw",
 							"page": 145,
 							"id": "2f7",
 							"entries": [

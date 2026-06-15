@@ -534,7 +534,7 @@
 											"name": "{@class Cleric}",
 											"page": 8,
 											"entries": [
-												"Clerics of the Church of Dusk typically choose the {@class Cleric||Death|Death|DMG}, {@class Cleric||Life|Life}, or {@class Cleric||War|War} domains."
+												"Clercs of the Church of Dusk typically choose the {@class Cleric||Death|Death|DMG}, {@class Cleric||Life|Life}, or {@class Cleric||War|War} domains."
 											],
 											"id": "017"
 										},

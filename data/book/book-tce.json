@@ -533,7 +533,7 @@
 								"If you take a feature that replaces another feature, you gain no benefit from the replaced one and don't qualify for anything in the game that requires it.",
 								{
 									"type": "entries",
-									"name": "Additional Cleric Spells",
+									"name": "Additional Clerc Spells",
 									"page": 30,
 									"id": "09f",
 									"entries": [
@@ -596,7 +596,7 @@
 										"type": "internal",
 										"path": "book/TCE/017-01-021.webp"
 									},
-									"title": "Dragonborn Cleric of Order",
+									"title": "Dragonborn Clerc of Order",
 									"width": 800,
 									"height": 1643,
 									"credit": "Nikki Dawes"
@@ -607,7 +607,7 @@
 										"type": "internal",
 										"path": "book/TCE/018-01-022.webp"
 									},
-									"title": "Human Cleric of Peace",
+									"title": "Human Clerc of Peace",
 									"width": 800,
 									"height": 1535,
 									"credit": "Nikki Dawes"
@@ -618,7 +618,7 @@
 										"type": "internal",
 										"path": "book/TCE/019-01-023.webp"
 									},
-									"title": "Human Cleric of Twilight",
+									"title": "Human Clerc of Twilight",
 									"width": 800,
 									"height": 1072,
 									"credit": "Shawn Wood"

@@ -61,7 +61,7 @@
 						{
 							"type": "list",
 							"items": [
-								"Yellow the Cleric is approached by the mysterious Mr. Honeycutt while meditating at the Monastery of Inspiration.",
+								"Yellow the Clerc is approached by the mysterious Mr. Honeycutt while meditating at the Monastery of Inspiration.",
 								"Mr. Honeycutt informs Yellow that he is looking for the Saffron Gem. He believes the gem is hidden in a nearby temple.",
 								"Yellow travels to the temple and finds a tunnel that leads to a spider's lair.",
 								"After dealing with the spider, Yellow unlocks a puzzle chest that contains the Saffron Gem."
@@ -86,7 +86,7 @@
 					"name": "Adventure 6: A Sticky Situation",
 					"page": 3,
 					"entries": [
-						"When play starts, Yellow the Cleric is in the meditation gardens within the Monastery of Inspiration. Read or paraphrase the following:",
+						"When play starts, Yellow the Clerc is in the meditation gardens within the Monastery of Inspiration. Read or paraphrase the following:",
 						{
 							"type": "insetReadaloud",
 							"page": 3,

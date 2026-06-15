@@ -1235,7 +1235,7 @@
 								{
 									"type": "item",
 									"name": "Craft:",
-									"entry": "Spell Scroll. You commission the facility's hireling to scribe a {@item Spell Scroll|XDMG} containing one Cleric or Wizard spell of level 3 or lower. The facility has the necessary {@item Calligrapher's Supplies|XPHB}, and the hireling meets all the prerequisites needed to scribe the scroll. The \"{@book Crafting Equipment|XPHB|6|Crafting Equipment}\" section in the {@book Player's Handbook|XPHB} specifies the time needed to scribe the scroll and the cost of the scroll, which you must pay."
+									"entry": "Spell Scroll. You commission the facility's hireling to scribe a {@item Spell Scroll|XDMG} containing one Clerc or Wizard spell of level 3 or lower. The facility has the necessary {@item Calligrapher's Supplies|XPHB}, and the hireling meets all the prerequisites needed to scribe the scroll. The \"{@book Crafting Equipment|XPHB|6|Crafting Equipment}\" section in the {@book Player's Handbook|XPHB} specifies the time needed to scribe the scroll and the cost of the scroll, which you must pay."
 								},
 								{
 									"type": "item",

@@ -5991,7 +5991,7 @@
 							"page": 44,
 							"id": "10c",
 							"entries": [
-								"The Experience Point cost to gain a level is based on your total character level, not your level in a particular class, as shown in the {@book Character Advancement table|XPHB|2|Character Advancement} in this chapter. For example, if you are a level 6 Cleric / level 1 Fighter, you must gain enough XP to reach level 8 before you can take your second level as a Fighter or your seventh level as a Cleric."
+								"The Experience Point cost to gain a level is based on your total character level, not your level in a particular class, as shown in the {@book Character Advancement table|XPHB|2|Character Advancement} in this chapter. For example, if you are a level 6 Clerc / level 1 Fighter, you must gain enough XP to reach level 8 before you can take your second level as a Fighter or your seventh level as a Cleric."
 							]
 						},
 						{
@@ -6001,7 +6001,7 @@
 							"id": "10d",
 							"entries": [
 								"You gain the Hit Points from your new class as described for levels after 1. You gain the level 1 Hit Points for a class only when your total character level is 1.",
-								"Add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If these dice are the same die type, you can pool them together. For example, both the Fighter and the Paladin have a {@dice d10} Hit Die, so if you are a level 5 Fighter / level 5 Paladin, you have ten {@dice d10} Hit Dice. If your classes give you Hit Dice of different types, track them separately. If you are a level 5 Cleric / level 5 Paladin, for example, you have five {@dice d8} Hit Dice and five {@dice d10} Hit Dice."
+								"Add together the Hit Dice granted by all your classes to form your pool of Hit Dice. If these dice are the same die type, you can pool them together. For example, both the Fighter and the Paladin have a {@dice d10} Hit Die, so if you are a level 5 Fighter / level 5 Paladin, you have ten {@dice d10} Hit Dice. If your classes give you Hit Dice of different types, track them separately. If you are a level 5 Clerc / level 5 Paladin, for example, you have five {@dice d8} Hit Dice and five {@dice d10} Hit Dice."
 							]
 						},
 						{
@@ -10561,7 +10561,7 @@
 									"page": 226,
 									"id": "6cf",
 									"entries": [
-										"A Holy Symbol takes one of the forms in the Holy Symbol table and is bejeweled or painted to channel divine magic. A Cleric or Paladin can use a Holy Symbol as a Spellcasting Focus.",
+										"A Holy Symbol takes one of the forms in the Holy Symbol table and is bejeweled or painted to channel divine magic. A Clerc or Paladin can use a Holy Symbol as a Spellcasting Focus.",
 										"The table indicates whether a Holy Symbol needs to be held, worn, or borne on fabric (such as a tabard or banner) or a Shield.",
 										{
 											"type": "table",
@@ -12590,7 +12590,7 @@
 									"page": 238,
 									"id": "748",
 									"entries": [
-										"The effects of different spells add together while their durations overlap. In contrast, the effects of the same spell cast multiple times don't combine. Instead, the most potent effect\u2014such as the highest bonus\u2014from those castings applies while their durations overlap. The most recent effect applies if the castings are equally potent and their durations overlap. For example, if two Clerics cast {@spell Bless|XPHB} on the same target, that target gains the spell's benefit only once; the target doesn't receive two bonus dice. But if the durations of the spells overlap, the effect continues until the duration of the second {@i Bless} ends.",
+										"The effects of different spells add together while their durations overlap. In contrast, the effects of the same spell cast multiple times don't combine. Instead, the most potent effect\u2014such as the highest bonus\u2014from those castings applies while their durations overlap. The most recent effect applies if the castings are equally potent and their durations overlap. For example, if two Clercs cast {@spell Bless|XPHB} on the same target, that target gains the spell's benefit only once; the target doesn't receive two bonus dice. But if the durations of the spells overlap, the effect continues until the duration of the second {@i Bless} ends.",
 										{
 											"type": "inset",
 											"name": "Identifying an Ongoing Spell",

@@ -187,7 +187,7 @@
 		"ver": "1.66.0",
 		"date": "2018-11-11",
 		"title": "Just Fuck My Weekend Up",
-		"txt": "- Added Guildmasters' Guide to Ravnica, including...  \n- 10 Backgrounds  \n- A single spell  \n- A mini-adventure; \"Krenko's Way\" https://5e.tools/adventure.html#KKW  \n- A Cleric subclass and a Druid subclass (Order and Circle of Spores, respectively; both in UA previously)  \n- A bunch of creatures  \n- A bunch of items  \n- Some \"Other Rewards\" (charms)  \n- The book itself https://5e.tools/book.html#GGR"
+		"txt": "- Added Guildmasters' Guide to Ravnica, including...  \n- 10 Backgrounds  \n- A single spell  \n- A mini-adventure; \"Krenko's Way\" https://5e.tools/adventure.html#KKW  \n- A Clerc subclass and a Druid subclass (Order and Circle of Spores, respectively; both in UA previously)  \n- A bunch of creatures  \n- A bunch of items  \n- Some \"Other Rewards\" (charms)  \n- The book itself https://5e.tools/book.html#GGR"
 	},
 	{
 		"ver": "1.66.1",
@@ -237,7 +237,7 @@
 		"date": "2018-12-02",
 		"title": "Bothersome Headers",
 		"titleAlt": "Spent 12+ Hours Making Characters This Weekend",
-		"txt": "Added Bestiary \"Spellcasting Ability\" filter options (e.g. \"Spellcaster, Wisdom\") (under \"Miscellaneous\")\n- Statblock Converter:  \n- Is now called \"Text Converter,\" and has been cleaned up. Options are now in a side-menu  \n- Now has a \"Table\" mode, where it converts HTML tables to 5etools JSON. If you find it unable to process a certain format of table, please do send me a sample.\n- Homebrew:  \n- Magic Variants are now supported (e.g. the \"+4 Weapon\" sample available in the homebrew repo)  \n- Deity custom properties can now be used to display @tagged text (see the sample). This allows e.g. \"Life\" domain to be linked to the Life Cleric subclass.  \n- Minor Homebrew Manager interface cleanup  \n- Classes page now auto-adds the \"Homebrew\" source filter after loading a class homebrew\n- Fixed various #known-issues:  \n- Pages may fail to load with cookies disabled/unavailable  \n- Bestiary tokens can get \"stuck\" over the encounter builder  \n- A handful of list columns are wider than they should be, breaking some layouts  \n- Pinning items on the Variant Rules page is broken  \n- (Source) filters on the spells/bestiary pages are broken  \n- Fixed homebrew deletes not always removing matching entries from list(s)\n- Fixed various unknown issues\n- Added a currency converter to the DM screen (although forgot to add a \"Don't Convert\" option, to allow summing/weighing coins; Soon™)\n- Added ToA diseases to Conditions & Diseases page\n- Added a sick animation when re-rolling generated creatures from the Encounter Generator\n- Navbar now loads faster/earlier, potentially fixing delays on slower connections [genuinely unrelated to the disappearing header, in case you were wondering]\n- (Fixed (a great deal of) typos/added tags)"
+		"txt": "Added Bestiary \"Spellcasting Ability\" filter options (e.g. \"Spellcaster, Wisdom\") (under \"Miscellaneous\")\n- Statblock Converter:  \n- Is now called \"Text Converter,\" and has been cleaned up. Options are now in a side-menu  \n- Now has a \"Table\" mode, where it converts HTML tables to 5etools JSON. If you find it unable to process a certain format of table, please do send me a sample.\n- Homebrew:  \n- Magic Variants are now supported (e.g. the \"+4 Weapon\" sample available in the homebrew repo)  \n- Deity custom properties can now be used to display @tagged text (see the sample). This allows e.g. \"Life\" domain to be linked to the Life Clerc subclass.  \n- Minor Homebrew Manager interface cleanup  \n- Classes page now auto-adds the \"Homebrew\" source filter after loading a class homebrew\n- Fixed various #known-issues:  \n- Pages may fail to load with cookies disabled/unavailable  \n- Bestiary tokens can get \"stuck\" over the encounter builder  \n- A handful of list columns are wider than they should be, breaking some layouts  \n- Pinning items on the Variant Rules page is broken  \n- (Source) filters on the spells/bestiary pages are broken  \n- Fixed homebrew deletes not always removing matching entries from list(s)\n- Fixed various unknown issues\n- Added a currency converter to the DM screen (although forgot to add a \"Don't Convert\" option, to allow summing/weighing coins; Soon™)\n- Added ToA diseases to Conditions & Diseases page\n- Added a sick animation when re-rolling generated creatures from the Encounter Generator\n- Navbar now loads faster/earlier, potentially fixing delays on slower connections [genuinely unrelated to the disappearing header, in case you were wondering]\n- (Fixed (a great deal of) typos/added tags)"
 	},
 	{
 		"ver": "1.67.11",
@@ -895,7 +895,7 @@
 	{
 		"ver": "1.97.1",
 		"date": "2020-02-15",
-		"txt": "- Added Love Cleric subclass spells to Spells page\n- (Homebrew) Improved class name text shortening method in Optional Features list\n- (Fixed typos/added tags)"
+		"txt": "- Added Love Clerc subclass spells to Spells page\n- (Homebrew) Improved class name text shortening method in Optional Features list\n- (Fixed typos/added tags)"
 	},
 	{
 		"ver": "1.98.0",

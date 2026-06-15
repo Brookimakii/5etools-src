@@ -1344,7 +1344,7 @@
 																		{
 																			"type": "item",
 																			"name": "Example",
-																			"entry": "A Cleric gives the wyrmling 10 GP and then hums a tune to soothe it. The Cleric takes the {@action Influence|XPHB} action and makes a Charisma ({@skill Performance|XPHB}) check with Advantage. The player rolls two d20s: 15 and 6. The player uses the higher roll and adds the Cleric's {@skill Performance|XPHB} modifier (+2) for a total of 17, which exceeds the DC of 10, and the check succeeds. If the check had been made with Disadvantage instead, the total of 8 would've failed."
+																			"entry": "A Clerc gives the wyrmling 10 GP and then hums a tune to soothe it. The Clerc takes the {@action Influence|XPHB} action and makes a Charisma ({@skill Performance|XPHB}) check with Advantage. The player rolls two d20s: 15 and 6. The player uses the higher roll and adds the Cleric's {@skill Performance|XPHB} modifier (+2) for a total of 17, which exceeds the DC of 10, and the check succeeds. If the check had been made with Disadvantage instead, the total of 8 would've failed."
 																		}
 																	]
 																}
@@ -12003,7 +12003,7 @@
 																{
 																	"type": "item",
 																	"name": "Example",
-																	"entry": "The Cleric searches the wagon and makes a Wisdom ({@skill Perception|XPHB}) check. The player rolls a {@dice d20} and adds their character's {@skill Perception|XPHB} modifier (+5) for a total of 17. The check succeeds, and the Cleric finds the treasure."
+																	"entry": "The Clerc searches the wagon and makes a Wisdom ({@skill Perception|XPHB}) check. The player rolls a {@dice d20} and adds their character's {@skill Perception|XPHB} modifier (+5) for a total of 17. The check succeeds, and the Clerc finds the treasure."
 																}
 															]
 														}

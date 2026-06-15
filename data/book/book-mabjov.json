@@ -3311,7 +3311,7 @@
 														{
 															"type": "item",
 															"name": "Classes:",
-															"entry": "Barbarians, Clerics (Knowledge Domain), Druids, Monks, Paladins (Oath of the Ancients) Rangers"
+															"entry": "Barbarians, Clercs (Knowledge Domain), Druids, Monks, Paladins (Oath of the Ancients) Rangers"
 														}
 													]
 												}
@@ -3330,7 +3330,7 @@
 														{
 															"type": "item",
 															"name": "Classes:",
-															"entry": "Bards, Clerics (non-Knowledge Domain), Fighters, Rogues"
+															"entry": "Bards, Clercs (non-Knowledge Domain), Fighters, Rogues"
 														}
 													]
 												}
@@ -3618,7 +3618,7 @@
 							"height": 485
 						},
 						"Sune is the goddess of beauty, also known as Lady Firehair and the Lady of Love. She represents not only physical beauty, but the beauty of music, fragrances and delicious foods. Her worshippers seek out the pleasure that comes from experiencing beauty in all its forms.",
-						"The Church of Sune believes that all mortals deserve the opportunity to experience beauty during their brief lives. The church goes about ensuring that this opportunity exists in two manners. The first is the support of artistic endeavors. This covers a wide variety of ventures including culinary arts, music, painting, sculpting and others. Clerics of Sune seek out exceptional artistic talent and provide them with monetary grants or help them become members of prestigious organizations.",
+						"The Church of Sune believes that all mortals deserve the opportunity to experience beauty during their brief lives. The church goes about ensuring that this opportunity exists in two manners. The first is the support of artistic endeavors. This covers a wide variety of ventures including culinary arts, music, painting, sculpting and others. Clercs of Sune seek out exceptional artistic talent and provide them with monetary grants or help them become members of prestigious organizations.",
 						"The second focus of the church is much more pragmatic. The church uses its vast monetary resources to support civilization in all its forms; for without cities, towns and roads, there would not be theaters, restaurants, art galleries and all of the other venues that allow for the appreciation of beauty. The church pays for the construction of roads, forts and caravansaries so that travel between cities is less dangerous. They donate to military orders that defend civilization such as the Order of the Gauntlet and the Harpers. They work hard to make sure that the Lords' Alliance is well funded and try to smooth over squabbles between the city states that make up its membership. Because of this, there are more worshippers of Sune amongst the nobility of the Lords' Alliance than any other god or goddess.",
 						"Temples to Sune often include venues for appreciating the arts or are built within a city district that includes them. A temple might include a vast public bathhouse with heated plumbing, or a multistory theater to allow for nightly plays or musical performances.",
 						{
@@ -3650,7 +3650,7 @@
 														{
 															"type": "item",
 															"name": "Classes:",
-															"entry": "Cleric (of Sune), Paladin (of Sune)"
+															"entry": "Clerc (of Sune), Paladin (of Sune)"
 														}
 													]
 												}
@@ -3688,7 +3688,7 @@
 														{
 															"type": "item",
 															"name": "Classes:",
-															"entry": "Artificers, Cleric (not of Sune), Druids, Sorcerers, Warlocks, Wizards"
+															"entry": "Artificers, Clerc (not of Sune), Druids, Sorcerers, Warlocks, Wizards"
 														}
 													]
 												}
@@ -4052,7 +4052,7 @@
 														{
 															"type": "item",
 															"name": "Classes:",
-															"entry": "Barbarians, Clerics ({@skill Nature} Domain), Druids, Monks, Paladins (Oath of the Ancients), Rangers"
+															"entry": "Barbarians, Clercs ({@skill Nature} Domain), Druids, Monks, Paladins (Oath of the Ancients), Rangers"
 														}
 													]
 												}
@@ -4071,7 +4071,7 @@
 														{
 															"type": "item",
 															"name": "Classes:",
-															"entry": "Bards, Clerics (non-Nature Domain), Fighters, Rogues"
+															"entry": "Bards, Clercs (non-Nature Domain), Fighters, Rogues"
 														}
 													]
 												}

@@ -15859,7 +15859,7 @@
 					"type": "entries",
 					"name": "Building a Lorehold Character",
 					"entries": [
-						"Any class or subclass that deals with knowledge of the past can be a good fit in Lorehold. Bards thrive in Lorehold, and wizards (particularly those of the {@class Wizard|PHB|School of Divination|Divination|PHB}) are numerous among its students. Clerics (often with the {@class Cleric|PHB|Knowledge|Knowledge|PHB} or {@class Cleric|PHB|Light|Light|PHB} domains) are also quite common.",
+						"Any class or subclass that deals with knowledge of the past can be a good fit in Lorehold. Bards thrive in Lorehold, and wizards (particularly those of the {@class Wizard|PHB|School of Divination|Divination|PHB}) are numerous among its students. Clercs (often with the {@class Cleric|PHB|Knowledge|Knowledge|PHB} or {@class Cleric|PHB|Light|Light|PHB} domains) are also quite common.",
 						"For a more unusual take on a Lorehold student, you could consider playing a barbarian with a primal connection to the past (perhaps adopting the {@class Barbarian|PHB|Path of the Ancestral Guardian|Ancestral Guardian|XGE} from {@book Xanathar's Guide to Everything|XGE}) or a paladin whose {@class Paladin|PHB|Oath of the Ancients|Ancients|PHB} gives a concrete link to history.",
 						{
 							"type": "entries",
@@ -19422,7 +19422,7 @@
 					"type": "entries",
 					"name": "Building a Prismari Character",
 					"entries": [
-						"Any class or subclass that wields elemental forces of cold, fire, lightning, and wind can be a good fit in Prismari. Druids and sorcerers are common in Prismari, and wizards who study the Schools of {@class Wizard|PHB|Evocation|Evocation|PHB} or {@class Wizard|PHB|Transmutation|Transmutation|PHB} are also well represented. Clerics aren't very common in this school, but some with the {@class Cleric|PHB|Tempest domain|Tempest|PHB} end up here.",
+						"Any class or subclass that wields elemental forces of cold, fire, lightning, and wind can be a good fit in Prismari. Druids and sorcerers are common in Prismari, and wizards who study the Schools of {@class Wizard|PHB|Evocation|Evocation|PHB} or {@class Wizard|PHB|Transmutation|Transmutation|PHB} are also well represented. Clercs aren't very common in this school, but some with the {@class Cleric|PHB|Tempest domain|Tempest|PHB} end up here.",
 						"Beyond the ranks of traditional spellcasters, Prismari students also include monks who follow the {@class Monk|PHB|Way of the Four Elements|Four Elements|PHB}. Some acrobatic rogues and fighters (including those who emulate the archetype of the {@class Fighter|PHB|Eldritch Knight|Eldritch Knight|PHB}) also delight in the athleticism of Prismari performance.",
 						{
 							"type": "entries",
@@ -23524,7 +23524,7 @@
 					"type": "entries",
 					"name": "Building a Silverquill Character",
 					"entries": [
-						"Many bards find a home in Silverquill, putting the power of their voices to use with Silverquill magic. Wizards (especially those who study the Schools of {@class Wizard|PHB|Illusion|Illusion|PHB} and {@class Wizard|PHB|Enchantment|Enchantment|PHB}) are common in Silverquill, as are warlocks. Clerics with the Divine Domains of {@class Cleric|PHB|Light|Light|PHB} and {@class Cleric|PHB|Trickery|Trickery|PHB} also fit in well among the mages of Silverquill.",
+						"Many bards find a home in Silverquill, putting the power of their voices to use with Silverquill magic. Wizards (especially those who study the Schools of {@class Wizard|PHB|Illusion|Illusion|PHB} and {@class Wizard|PHB|Enchantment|Enchantment|PHB}) are common in Silverquill, as are warlocks. Clercs with the Divine Domains of {@class Cleric|PHB|Light|Light|PHB} and {@class Cleric|PHB|Trickery|Trickery|PHB} also fit in well among the mages of Silverquill.",
 						"A number of both paladins and rogues attend Silverquill College as well, highlighting the diversity of the student body.",
 						{
 							"type": "entries",

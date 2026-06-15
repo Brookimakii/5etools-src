@@ -1001,7 +1001,7 @@
 				"Divine Order|Cleric|XPHB|1",
 				"Channel Divinity|Cleric|XPHB|2",
 				{
-					"classFeature": "Cleric Subclass|Cleric|XPHB|3",
+					"classFeature": "Clerc Subclass|Cleric|XPHB|3",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Cleric|XPHB|4",
@@ -1023,7 +1023,7 @@
 				"Epic Boon|Cleric|XPHB|19",
 				"Greater Divine Intervention|Cleric|XPHB|20"
 			],
-			"subclassTitle": "Cleric Subclass",
+			"subclassTitle": "Clerc Subclass",
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
@@ -2923,14 +2923,14 @@
 					"type": "entries",
 					"name": "Cantrips",
 					"entries": [
-						"At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Cleric table."
+						"At 1st level, you know three cantrips of your choice from the cleric spell list. You learn additional cleric cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Clerc table."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Preparing and Casting Spells",
 					"entries": [
-						"The Cleric table shows how many spell slots you have to cast your {@filter cleric spells|spells|class=cleric} of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Clerc table shows how many spell slots you have to cast your {@filter cleric spells|spells|class=cleric} of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
 						"You prepare the list of cleric spells that are available for you to cast, choosing from the cleric spell list. When you do so, choose a number of cleric spells equal to your Wisdom modifier + your cleric level (minimum of one spell). The spells must be of a level for which you have spell slots.",
 						"For example, if you are a 3rd-level cleric, you have four 1st-level and two 2nd-level spell slots. With a Wisdom of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell {@spell cure wounds}, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.",
 						"You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list."
@@ -3331,7 +3331,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You have learned to cast spells through prayer and meditation. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Cleric spells, which appear on the {@filter Cleric spell list|spells|class=Cleric} later in the class's description.",
+				"You have learned to cast spells through prayer and meditation. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Clerc spells, which appear on the {@filter Clerc spell list|spells|class=Cleric} later in the class's description.",
 				{
 					"type": "entries",
 					"entries": [
@@ -3339,46 +3339,46 @@
 							"type": "entries",
 							"name": "Cantrips",
 							"entries": [
-								"You know three cantrips of your choice from the {@filter Cleric spell list|spells|class=Cleric}. {@spell Guidance|XPHB}, {@spell Sacred Flame|XPHB}, and {@spell Thaumaturgy|XPHB} are recommended.",
-								"Whenever you gain a Cleric level, you can replace one of your cantrips with another cantrip of your choice from the {@filter Cleric spell list|spells|class=Cleric}.",
-								"When you reach Cleric levels 4 and 10, you learn another cantrip of your choice from the {@filter Cleric spell list|spells|class=Cleric}, as shown in the Cantrips column of the Cleric Features table."
+								"You know three cantrips of your choice from the {@filter Clerc spell list|spells|class=Cleric}. {@spell Guidance|XPHB}, {@spell Sacred Flame|XPHB}, and {@spell Thaumaturgy|XPHB} are recommended.",
+								"Whenever you gain a Clerc level, you can replace one of your cantrips with another cantrip of your choice from the {@filter Clerc spell list|spells|class=Cleric}.",
+								"When you reach Clerc levels 4 and 10, you learn another cantrip of your choice from the {@filter Clerc spell list|spells|class=Cleric}, as shown in the Cantrips column of the Clerc Features table."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spell Slots",
 							"entries": [
-								"The Cleric Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
+								"The Clerc Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Prepared Spells of Level 1+",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the {@filter Cleric spell list|spells|class=Cleric}. {@spell Bless|XPHB}, {@spell Cure Wounds|XPHB}, {@spell Guiding Bolt|XPHB}, and {@spell Shield of Faith|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Cleric levels, as shown in the Prepared Spells column of the Cleric Features table. Whenever that number increases, choose additional spells from the {@filter Cleric spell list|spells|class=Cleric} until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.",
-								"If another Cleric feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Cleric spells for you."
+								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose four level 1 spells from the {@filter Clerc spell list|spells|class=Cleric}. {@spell Bless|XPHB}, {@spell Cure Wounds|XPHB}, {@spell Guiding Bolt|XPHB}, and {@spell Shield of Faith|XPHB} are recommended.",
+								"The number of spells on your list increases as you gain Clerc levels, as shown in the Prepared Spells column of the Clerc Features table. Whenever that number increases, choose additional spells from the {@filter Clerc spell list|spells|class=Cleric} until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Cleric, your list of prepared spells can include six spells of levels 1 and 2 in any combination.",
+								"If another Clerc feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Clerc spells for you."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Changing Your Prepared Spells",
 							"entries": [
-								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can change your list of prepared spells, replacing any of the spells there with other Cleric spells for which you have spell slots."
+								"Whenever you finish a {@variantrule Long Rest|XPHB}, you can change your list of prepared spells, replacing any of the spells there with other Clerc spells for which you have spell slots."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Ability",
 							"entries": [
-								"Wisdom is your spellcasting ability for your Cleric spells."
+								"Wisdom is your spellcasting ability for your Clerc spells."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Focus",
 							"entries": [
-								"You can use a {@item Holy Symbol|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Cleric spells."
+								"You can use a {@item Holy Symbol|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Clerc spells."
 							]
 						}
 					]
@@ -3395,7 +3395,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"You know one extra cantrip from the {@filter Cleric spell list|spells|class=Cleric}. In addition, your mystical connection to the divine gives you a bonus to your Intelligence ({@skill Arcana|XPHB} or {@skill Religion|XPHB}) checks. The bonus equals your Wisdom modifier (minimum of +1)."
+				"You know one extra cantrip from the {@filter Clerc spell list|spells|class=Cleric}. In addition, your mystical connection to the divine gives you a bonus to your Intelligence ({@skill Arcana|XPHB} or {@skill Religion|XPHB}) checks. The bonus equals your Wisdom modifier (minimum of +1)."
 			]
 		},
 		{
@@ -3408,8 +3408,8 @@
 			"classSource": "XPHB",
 			"level": 2,
 			"entries": [
-				"You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class's Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Cleric levels.",
-				"You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a {@variantrule Short Rest|XPHB}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}. You gain additional uses when you reach certain Cleric levels, as shown in the Channel Divinity column of the Cleric Features table.",
+				"You can channel divine energy directly from the Outer Planes to fuel magical effects. You start with two such effects: Divine Spark and Turn Undead, each of which is described below. Each time you use this class's Channel Divinity, choose which Channel Divinity effect from this class to create. You gain additional effect options at higher Clerc levels.",
+				"You can use this class's Channel Divinity twice. You regain one of its expended uses when you finish a {@variantrule Short Rest|XPHB}, and you regain all expended uses when you finish a {@variantrule Long Rest|XPHB}. You gain additional uses when you reach certain Clerc levels, as shown in the Channel Divinity column of the Clerc Features table.",
 				"If a Channel Divinity effect requires a saving throw, the DC equals the spell save DC from this class's Spellcasting feature.",
 				{
 					"type": "entries",
@@ -3441,7 +3441,7 @@
 			},
 			"entries": [
 				"As a {@action Magic|XPHB} action, you point your {@item Holy Symbol|XPHB} at another creature you can see within 30 feet of yourself and focus divine energy at it. Roll {@dice 1d8} and add your Wisdom modifier. You either restore {@variantrule Hit Points|XPHB} to the creature equal to that total or force the creature to make a Constitution saving throw. On a failed save, the creature takes Necrotic or Radiant damage (your choice) equal to that total. On a successful save, the creature takes half as much damage (round down).",
-				"You roll an additional {@dice d8} when you reach Cleric levels 7 ({@dice 2d8}), 13 ({@dice 3d8}), and 18 ({@dice 4d8})."
+				"You roll an additional {@dice d8} when you reach Clerc levels 7 ({@dice 2d8}), 13 ({@dice 3d8}), and 18 ({@dice 4d8})."
 			]
 		},
 		{
@@ -3462,7 +3462,7 @@
 			]
 		},
 		{
-			"name": "Cleric Subclass",
+			"name": "Clerc Subclass",
 			"source": "XPHB",
 			"page": 71,
 			"srd52": true,
@@ -3471,7 +3471,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Cleric subclass of your choice. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass's features that are of your Cleric level or lower."
+				"You gain a Clerc subclass of your choice. A subclass is a specialization that grants you features at certain Clerc levels. For the rest of your career, you gain each of your subclass's features that are of your Clerc level or lower."
 			]
 		},
 		{
@@ -3484,7 +3484,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Cleric levels 8, 12, and 16."
+				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Clerc levels 8, 12, and 16."
 			]
 		},
 		{
@@ -3510,7 +3510,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain a feature from your Cleric Subclass."
+				"You gain a feature from your Clerc Subclass."
 			]
 		},
 		{
@@ -3523,7 +3523,7 @@
 			"classSource": "XPHB",
 			"level": 7,
 			"entries": [
-				"Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Cleric subclass in an older book, use only the option you choose for this feature).",
+				"Divine power infuses you in battle. You gain one of the following options of your choice (if you get either option from a Clerc subclass in an older book, use only the option you choose for this feature).",
 				{
 					"type": "entries",
 					"entries": [
@@ -3564,7 +3564,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"Add your Wisdom modifier to the damage you deal with any Cleric cantrip."
+				"Add your Wisdom modifier to the damage you deal with any Clerc cantrip."
 			]
 		},
 		{
@@ -3590,7 +3590,7 @@
 			"classSource": "XPHB",
 			"level": 10,
 			"entries": [
-				"You can call on your deity or pantheon to intervene on your behalf. As a {@action Magic|XPHB} action, choose any Cleric spell of level 5 or lower that doesn't require a {@variantrule Reaction|XPHB} to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a {@variantrule Long Rest|XPHB}."
+				"You can call on your deity or pantheon to intervene on your behalf. As a {@action Magic|XPHB} action, choose any Clerc spell of level 5 or lower that doesn't require a {@variantrule Reaction|XPHB} to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can't use this feature again until you finish a {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -3631,7 +3631,7 @@
 							"type": "entries",
 							"name": "Potent Spellcasting",
 							"entries": [
-								"When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of {@variantrule Temporary Hit Points|XPHB} equal to twice your Wisdom modifier."
+								"When you cast a Clerc cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of {@variantrule Temporary Hit Points|XPHB} equal to twice your Wisdom modifier."
 							]
 						}
 					]
@@ -3661,7 +3661,7 @@
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"You gain a feature from your Cleric Subclass."
+				"You gain a feature from your Clerc Subclass."
 			]
 		},
 		{
@@ -3708,7 +3708,7 @@
 					"type": "table",
 					"caption": "Death Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -3868,7 +3868,7 @@
 					"type": "table",
 					"caption": "Knowledge Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4043,7 +4043,7 @@
 					"type": "table",
 					"caption": "Life Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4209,13 +4209,13 @@
 			"subclassSource": "PHB",
 			"level": 1,
 			"entries": [
-				"Gods of light\u2014including {@deity Helm}, {@deity Lathander}, {@deity Pholtus|Greyhawk}, {@deity Branchala|Dragonlance}, {@deity the Silver Flame|Eberron}, {@deity Belenus|Celtic}, {@deity Apollo|Greek}, and {@deity Re-Horakhty|Egyptian}\u2014promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul's improvement. Clerics of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.",
+				"Gods of light\u2014including {@deity Helm}, {@deity Lathander}, {@deity Pholtus|Greyhawk}, {@deity Branchala|Dragonlance}, {@deity the Silver Flame|Eberron}, {@deity Belenus|Celtic}, {@deity Apollo|Greek}, and {@deity Re-Horakhty|Egyptian}\u2014promote the ideals of rebirth and renewal, truth, vigilance, and beauty, often using the symbol of the sun. Some of these gods are portrayed as the sun itself or as a charioteer who guides the sun across the sky. Others are tireless sentinels whose eyes pierce every shadow and see through every deception. Some are deities of beauty and artistry, who teach that art is a vehicle for the soul's improvement. Clercs of a god of light are enlightened souls infused with radiance and the power of their gods' discerning vision, charged with chasing away lies and burning away darkness.",
 				"At each indicated cleric level, you add the listed spells to your spells prepared.",
 				{
 					"type": "table",
 					"caption": "Light Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4376,7 +4376,7 @@
 					"type": "table",
 					"caption": "Nature Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4536,7 +4536,7 @@
 					"type": "table",
 					"caption": "Tempest Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4697,7 +4697,7 @@
 					"type": "table",
 					"caption": "Trickery Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4844,7 +4844,7 @@
 					"type": "table",
 					"caption": "War Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -5012,7 +5012,7 @@
 					"type": "table",
 					"caption": "Ambition Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -5189,7 +5189,7 @@
 					"type": "table",
 					"caption": "Solidarity Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -5355,7 +5355,7 @@
 					"type": "table",
 					"caption": "Strength Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -5520,7 +5520,7 @@
 					"type": "table",
 					"caption": "Zeal Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -5684,7 +5684,7 @@
 					"type": "table",
 					"caption": "Arcana Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -5756,7 +5756,7 @@
 					"type": "table",
 					"caption": "Arcane Banishment",
 					"colLabels": [
-						"Cleric level",
+						"Clerc level",
 						"Banishes Creatures of CR..."
 					],
 					"colStyles": [
@@ -5863,14 +5863,14 @@
 			"level": 1,
 			"entries": [
 				"The Order Domain represents discipline, as well as devotion to a society or an institution and strict obedience to the laws governing it. On Ravnica, the domain is favored by clerics of the Azorius Senate, who use it to maintain and enforce the law, and of the Orzhov Syndicate, who exploit law and order for their personal gain. On other worlds, gods who grant access to this domain include {@deity Bane}, {@deity Tyr}, {@deity Majere|Dragonlance}, {@deity Erathis|Dawn War|DMG}, {@deity Pholtus|Greyhawk}, {@deity Wee Jas|Greyhawk}, {@deity Aureon|Eberron}, {@deity Maglubiyet|Nonhuman}, {@deity Nuada|Celtic}, {@deity Athena|Greek}, {@deity Anubis|Egyptian}, {@deity Forseti|Norse}, and {@deity Asmodeus|Dawn War|DMG}.",
-				"The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clerics of order are typically concerned with how things are done, rather than whether an action's results are just. Following the law and obeying its edicts is critical, especially when it benefits these clerics and their guilds or deities.",
+				"The ideal of order is obedience to the law above all else, rather than to a specific individual or the passing influence of emotion or popular rule. Clercs of order are typically concerned with how things are done, rather than whether an action's results are just. Following the law and obeying its edicts is critical, especially when it benefits these clerics and their guilds or deities.",
 				"Law establishes hierarchies. Those selected by the law to lead must be obeyed. Those who obey must do so to the best of their ability. In this manner, law creates an intricate web of obligations that allows society to forge order and security in a chaotic multiverse.",
 				"At each indicated cleric level, you add the listed spells to your spells prepared.",
 				{
 					"type": "table",
 					"caption": "Order Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -6064,7 +6064,7 @@
 			"level": 1,
 			"entries": [
 				"The balm of peace thrives at the heart of healthy communities, between friendly nations, and in the souls of the kindhearted. The gods of peace inspire people of all sorts to resolve conflict and to stand up against those forces that try to prevent peace from flourishing. See the Peace Deities table for a list of some of the gods associated with this domain.",
-				"Clerics of the Peace Domain preside over the signing of treaties, and they are often asked to arbitrate in disputes. These clerics' blessings draw people together and help them shoulder one another's burdens, and the clerics' magic aids those who are driven to fight for the way of peace.",
+				"Clercs of the Peace Domain preside over the signing of treaties, and they are often asked to arbitrate in disputes. These clerics' blessings draw people together and help them shoulder one another's burdens, and the clerics' magic aids those who are driven to fight for the way of peace.",
 				{
 					"type": "table",
 					"caption": "Peace Deities",
@@ -6121,7 +6121,7 @@
 							"type": "table",
 							"caption": "Peace Domain Spells",
 							"colLabels": [
-								"Cleric Level",
+								"Clerc Level",
 								"Spells"
 							],
 							"colStyles": [
@@ -6284,7 +6284,7 @@
 			"level": 1,
 			"entries": [
 				"The twilit transition from light into darkness often brings calm and even joy, as the day's labors end and the hours of rest begin. The darkness can also bring terrors, but the gods of twilight guard against the horrors of the night.",
-				"Clerics who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.",
+				"Clercs who serve these deities-examples of which appear on the Twilight Deities table-bring comfort to those who seek rest and protect them by venturing into the encroaching darkness to ensure that the dark is a comfort, not a terror.",
 				{
 					"type": "table",
 					"caption": "Twilight Deities",
@@ -6341,7 +6341,7 @@
 							"type": "table",
 							"caption": "Twilight Domain Spells",
 							"colLabels": [
-								"Cleric Level",
+								"Clerc Level",
 								"Spells"
 							],
 							"colStyles": [
@@ -6532,7 +6532,7 @@
 			"header": 1,
 			"entries": [
 				"Developed in {@book Wildemount|TDCSR|3|Wildemount} by the {@book Claret Orders|TDCSR|2|Claret Orders}, the Blood Domain centers around the understanding of the natural life force as it exists within the body, and the divine conduit it can become. Those who take up this domain understand that the power of blood is the power of sacrifice, the balance of life and death, and the spirit's anchor within the mortal shell.",
-				"Gods who grant the power of the Blood Domain, including {@deity The Ruiner|Exandria|TDCSR} and {@deity The Matron of Ravens|Exandria|TDCSR}, direct their followers to tap into the connection between body and soul, exploit the hidden reserves of will within one's own vitality, and corrupt the bodies of others through the secret rites of {@variantrule hemocraft|TDCSR}. Clerics of good gods use {@variantrule hemocraft|TDCSR} to fill their self-sacrifice with purpose and power, while clerics with fewer morals use the blood of others to achieve their own malevolent ends.",
+				"Gods who grant the power of the Blood Domain, including {@deity The Ruiner|Exandria|TDCSR} and {@deity The Matron of Ravens|Exandria|TDCSR}, direct their followers to tap into the connection between body and soul, exploit the hidden reserves of will within one's own vitality, and corrupt the bodies of others through the secret rites of {@variantrule hemocraft|TDCSR}. Clercs of good gods use {@variantrule hemocraft|TDCSR} to fill their self-sacrifice with purpose and power, while clerics with fewer morals use the blood of others to achieve their own malevolent ends.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Domain Spells|Cleric|PHB|Blood|TDCSR|1"
@@ -6591,7 +6591,7 @@
 					"type": "table",
 					"caption": "Blood Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -6757,7 +6757,7 @@
 			"header": 1,
 			"entries": [
 				"Since the {@book Founding|TDCSR|1|The Founding}, all mortal creatures have looked to the skies and sensed the power and mystery carried by {@book Catha and Ruidus|TDCSR|1|Catha and Ruidus}, the two moons of Exandria. The {@deity The Moonweaver|Exandria|TDCSR} herself is said to guide her worshipers from within the pale glow of Catha, revealing hidden paths and granting inspired dreams to those who pray to that moon. Distant, dark Ruidus is often regarded with awe and apprehension, considered a portent for fell deeds and bad luck.",
-				"Clerics of the Moon Domain draw on their divine connection to the moons to wield light and shadow, invoke good fortune and ill favor, and reveal or conceal as they see fit. Most Moon clerics worship the {@deity The Moonweaver|Exandria|TDCSR|Moonweaver} herself, but her followers are as varied as the stars in the sky. Some seek to protect the vulnerable and do good in the world, while others meddle with impunity and distort the truth for selfish gain. Other Moon clerics worship not the gods but the moons themselves, especially those with an innate connection to the lunar cycles through {@variantrule Player Characters as Lycanthropes|MM|lycanthropy}.",
+				"Clercs of the Moon Domain draw on their divine connection to the moons to wield light and shadow, invoke good fortune and ill favor, and reveal or conceal as they see fit. Most Moon clerics worship the {@deity The Moonweaver|Exandria|TDCSR|Moonweaver} herself, but her followers are as varied as the stars in the sky. Some seek to protect the vulnerable and do good in the world, while others meddle with impunity and distort the truth for selfish gain. Other Moon clerics worship not the gods but the moons themselves, especially those with an innate connection to the lunar cycles through {@variantrule Player Characters as Lycanthropes|MM|lycanthropy}.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Domain Spells|Cleric|PHB|Moon|TDCSR|1"
@@ -6799,7 +6799,7 @@
 					"type": "table",
 					"caption": "Moon Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -6926,13 +6926,13 @@
 			"subclassSource": "XGE",
 			"level": 1,
 			"entries": [
-				"The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clerics of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include {@deity Gond}, {@deity Reorx|Dragonlance}, {@deity Onatar|Eberron}, {@deity Moradin|Nonhuman}, {@deity Hephaestus|Greek}, and {@deity Goibhniu|Celtic}.",
+				"The gods of the forge are patrons of artisans who work with metal, from a humble blacksmith who keeps a village in horseshoes and plow blades to the mighty elf artisan whose diamond-tipped arrows of mithral have felled demon lords. The gods of the forge teach that, with patience and hard work, even the most intractable metal can be transformed from a lump of ore to a beautifully wrought object. Clercs of these deities search for objects lost to the forces of darkness, liberate mines overrun by orcs, and uncover rare and wondrous materials necessary to create potent magic items. Followers of these gods take great pride in their work, and they are willing to craft and use heavy armor and powerful weapons to protect them. Deities of this domain include {@deity Gond}, {@deity Reorx|Dragonlance}, {@deity Onatar|Eberron}, {@deity Moradin|Nonhuman}, {@deity Hephaestus|Greek}, and {@deity Goibhniu|Celtic}.",
 				"At each indicated cleric level, add the listed spells to your spells prepared.",
 				{
 					"type": "table",
 					"caption": "Forge Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -7107,7 +7107,7 @@
 					"type": "table",
 					"caption": "Grave Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -8132,8 +8132,8 @@
 			"level": 3,
 			"entries": [
 				"{@i Soothe the Hurts of the World}",
-				"The Life Domain focuses on the positive energy that helps sustain all life in the multiverse. Clerics who tap into this domain are masters of healing, using that life force to cure many hurts.",
-				"Existence itself relies on the positive energy associated with this domain, so a Cleric of almost any religious tradition might choose it. This domain is particularly associated with agricultural deities, gods of healing or endurance, and gods of home and community. Religious orders of healing also seek the magic of this domain.",
+				"The Life Domain focuses on the positive energy that helps sustain all life in the multiverse. Clercs who tap into this domain are masters of healing, using that life force to cure many hurts.",
+				"Existence itself relies on the positive energy associated with this domain, so a Clerc of almost any religious tradition might choose it. This domain is particularly associated with agricultural deities, gods of healing or endurance, and gods of home and community. Religious orders of healing also seek the magic of this domain.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Life Domain Spells|Cleric|XPHB|Life|XPHB|3"
@@ -8177,12 +8177,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.",
+				"Your connection to this divine domain ensures you always have certain spells ready. When you reach a Clerc level specified in the Life Domain Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Life Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Prepared Spells"
 					],
 					"colStyles": [
@@ -8226,7 +8226,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you present your {@item Holy Symbol|XPHB} and expend a use of your Channel Divinity to evoke healing energy that can restore a number of {@variantrule Hit Points|XPHB} equal to five times your Cleric level. Choose {@status Bloodied|XPHB} creatures within 30 feet of yourself (which can include you), and divide those {@variantrule Hit Points|XPHB} among them. This feature can restore a creature to no more than half its {@variantrule Hit Points|XPHB|Hit Point} maximum."
+				"As a {@action Magic|XPHB} action, you present your {@item Holy Symbol|XPHB} and expend a use of your Channel Divinity to evoke healing energy that can restore a number of {@variantrule Hit Points|XPHB} equal to five times your Clerc level. Choose {@status Bloodied|XPHB} creatures within 30 feet of yourself (which can include you), and divide those {@variantrule Hit Points|XPHB} among them. This feature can restore a creature to no more than half its {@variantrule Hit Points|XPHB|Hit Point} maximum."
 			]
 		},
 		{
@@ -8272,7 +8272,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Bring Light to Banish Darkness}",
-				"The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities' discerning vision, charged with chasing away lies and burning away darkness.",
+				"The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clercs who wield this power are enlightened souls infused with radiance and the power of their deities' discerning vision, charged with chasing away lies and burning away darkness.",
 				"The Light Domain is associated with gods of truth, vigilance, beauty, insight, and renewal. Some of these gods are identified with the sun or as charioteers who guide the sun across the sky. Others are sentinels who pierce deception. Some are deities of beauty and artistry who teach that art is a vehicle for the soul's improvement.",
 				{
 					"type": "refSubclassFeature",
@@ -8299,12 +8299,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Light Domain Spells table, you thereafter always have the listed spells prepared.",
+				"Your connection to this divine domain ensures you always have certain spells ready. When you reach a Clerc level specified in the Light Domain Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Light Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Prepared Spells"
 					],
 					"colStyles": [
@@ -8346,7 +8346,7 @@
 				"name": "Channel Divinity"
 			},
 			"entries": [
-				"As a {@action Magic|XPHB} action, you present your {@item Holy Symbol|XPHB} and expend a use of your Channel Divinity to emit a flash of light in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from yourself. Any magical {@variantrule Darkness|XPHB}\u2014such as that created by the {@spell Darkness|XPHB} spell\u2014in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to {@dice 2d10} plus your Cleric level on a failed save or half as much damage on a successful one."
+				"As a {@action Magic|XPHB} action, you present your {@item Holy Symbol|XPHB} and expend a use of your Channel Divinity to emit a flash of light in a 30-foot {@variantrule Emanation [Area of Effect]|XPHB|Emanation} originating from yourself. Any magical {@variantrule Darkness|XPHB}\u2014such as that created by the {@spell Darkness|XPHB} spell\u2014in that area is dispelled. Additionally, each creature of your choice in that area must make a Constitution saving throw, taking Radiant damage equal to {@dice 2d10} plus your Clerc level on a failed save or half as much damage on a successful one."
 			]
 		},
 		{
@@ -8405,7 +8405,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Make Mischief and Challenge Authority}",
-				"The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation.",
+				"The Trickery Domain offers magic of deception, illusion, and stealth. Clercs who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation.",
 				"Gods of trickery are mischief-makers and instigators who stand as a constant challenge to the accepted order among both gods and mortals. They embody the forces of change and social upheaval, and they're patrons of thieves, scoundrels, gamblers, rebels, and liberators. Religious orders that operate in secret, especially those that seek to undermine oppressive governments or hierarchies, also draw on the power of the Trickery Domain.",
 				{
 					"type": "refSubclassFeature",
@@ -8484,12 +8484,12 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the Trickery Domain Spells table, you thereafter always have the listed spells prepared.",
+				"Your connection to this divine domain ensures you always have certain spells ready. When you reach a Clerc level specified in the Trickery Domain Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Trickery Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Prepared Spells"
 					],
 					"colStyles": [
@@ -8557,7 +8557,7 @@
 							"type": "entries",
 							"name": "Healing Illusion",
 							"entries": [
-								"When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of {@variantrule Hit Points|XPHB} equal to your Cleric level."
+								"When the illusion ends, you or a creature of your choice within 5 feet of it regains a number of {@variantrule Hit Points|XPHB} equal to your Clerc level."
 							]
 						}
 					]
@@ -8575,7 +8575,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Inspire Valor and Smite Foes}",
-				"War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clerics who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.",
+				"War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clercs who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.",
 				"Gods of the War Domain watch over warriors and reward them for their great deeds. They include champions of honor and chivalry as well as gods of destruction and pillage. Other war gods take a more neutral stance, promoting war in all its manifestations and supporting warriors in any circumstance.",
 				{
 					"type": "refSubclassFeature",
@@ -8619,12 +8619,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Your connection to this divine domain ensures you always have certain spells ready. When you reach a Cleric level specified in the War Domain Spells table, you thereafter always have the listed spells prepared.",
+				"Your connection to this divine domain ensures you always have certain spells ready. When you reach a Clerc level specified in the War Domain Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "War Domain Spells",
 					"colLabels": [
-						"Cleric Level",
+						"Clerc Level",
 						"Prepared Spells"
 					],
 					"colStyles": [

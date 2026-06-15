@@ -754,7 +754,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Death, Grave (described in {@book Xanathar's Guide to Everything|XGE})"
 											]
@@ -3333,7 +3333,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Knowledge, Light"
 											]
@@ -3694,7 +3694,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Death, Trickery"
 											]
@@ -5027,7 +5027,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Light"
 											]
@@ -5803,7 +5803,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"War"
 											]
@@ -6231,7 +6231,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Life, Nature"
 											]
@@ -6605,7 +6605,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Knowledge, Tempest"
 											]
@@ -6999,7 +6999,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Knowledge, War"
 											]
@@ -7435,7 +7435,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Knowledge, Trickery"
 											]
@@ -8794,7 +8794,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"War"
 											]
@@ -9684,7 +9684,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Nature"
 											]
@@ -10395,7 +10395,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Death, Knowledge, Life"
 											]
@@ -10669,7 +10669,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Trickery"
 											]
@@ -11031,7 +11031,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Forge (described in {@book Xanathar's Guide to Everything|XGE}), Knowledge"
 											]
@@ -13055,7 +13055,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Suggested Cleric Domains",
+											"name": "Suggested Clerc Domains",
 											"entries": [
 												"Knowledge, Tempest"
 											]
@@ -15442,7 +15442,7 @@
 			},
 			"entries": [
 				"The realm of the Wildmother extends to wherever the seas shift and the land grows over. As the keeper of the wilderness, she represents the wild creatures of nature, the rush of the angry rapids, and the heat-heavy stillness of the desert. Hunters, druids, and nomads worship her, seeking her blessing to live in harmony with lands that still bear their wild fangs. Likewise, those seeking safe passage across dangerous waters pray to her to guide them.",
-				"The druids of the Wildmother and clerics of her lover, the {@deity The Lawbearer|Exandria|TDCSR|Lawbearer}, work together to preserve the balance of nature and civilization. It is said that the two goddesses grow furious when this balance is upset, and this fury manifests as devastating natural disasters. Clerics of the {@deity The Matron of Ravens|Exandria|TDCSR|Matron of Ravens} also pay homage to the Wildmother, for the work she begins is the work that their deity must respectfully end.",
+				"The druids of the Wildmother and clerics of her lover, the {@deity The Lawbearer|Exandria|TDCSR|Lawbearer}, work together to preserve the balance of nature and civilization. It is said that the two goddesses grow furious when this balance is upset, and this fury manifests as devastating natural disasters. Clercs of the {@deity The Matron of Ravens|Exandria|TDCSR|Matron of Ravens} also pay homage to the Wildmother, for the work she begins is the work that their deity must respectfully end.",
 				{
 					"type": "entries",
 					"entries": [

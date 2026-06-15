@@ -5033,7 +5033,7 @@
 			"page": 44,
 			"id": "105",
 			"entries": [
-				"Magic permeates the worlds of D&D and most often appears in the form of a spell. This chapter provides the rules for casting spells. Clerics and wizards have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.",
+				"Magic permeates the worlds of D&D and most often appears in the form of a spell. This chapter provides the rules for casting spells. Clercs and wizards have distinctive ways of learning and preparing their spells, and monsters use spells in unique ways. Regardless of its source, a spell follows the rules here.",
 				{
 					"type": "image",
 					"href": {
@@ -5111,7 +5111,7 @@
 							"page": 45,
 							"id": "10a",
 							"entries": [
-								"Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind. Clerics and wizards undergo a process of preparing spells. {@highlight The number of spells a caster can have fixed in mind at any given time is shown on the character sheets.}",
+								"Before a spellcaster can use a spell, he or she must have the spell firmly fixed in mind. Clercs and wizards undergo a process of preparing spells. {@highlight The number of spells a caster can have fixed in mind at any given time is shown on the character sheets.}",
 								"A character can change this list of prepared spells upon finishing a long rest (see {@book chapter 3|RMR|2}). Preparing a new list of spells requires time spent in meditation or study: at least 1 minute per spell level for each spell on the list.",
 								{
 									"type": "inset",
@@ -5657,7 +5657,7 @@
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Cleric Spells",
+							"name": "Clerc Spells",
 							"page": 49,
 							"id": "136",
 							"entries": [

@@ -1103,7 +1103,7 @@
 					},
 					"spellcasting": [
 						{
-							"name": "Cleric Spellcasting",
+							"name": "Clerc Spellcasting",
 							"headerEntries": [
 								"{@note The {@creature Priest|MM} has been used as an example Cleric.}",
 								"The vampire is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save {@dc 13}, {@hit 5} to hit with spell attacks). The vampire has the following cleric spells prepared:"
