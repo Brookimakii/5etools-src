@@ -2319,7 +2319,7 @@ Parser.featCategoryFromFull = (full) => {
 
 // NOTE: These need to be reflected in omnidexer.js to be indexed
 Parser.OPT_FEATURE_TYPE_TO_FULL = {
-	"AI": "Artificer Infusion",
+	"AI": "Artificier Infusion",
 	"ED": "Elemental Discipline",
 	"EI": "Eldritch Invocation",
 	"MM": "Metamagic",
@@ -2650,7 +2650,7 @@ Parser.spClassesToCurrentAndLegacy = function (fromClassList) {
 	const current = [];
 	const legacy = [];
 	fromClassList.forEach(cls => {
-		if ((cls.name === "Artificer" && cls.source === "UAArtificer") || (cls.name === "Artificer (Revisited)" && cls.source === "UAArtificerRevisited")) legacy.push(cls);
+		if ((cls.name === "Artificer" && cls.source === "UAArtificer") || (cls.name === "Artificier (Revisited)" && cls.source === "UAArtificerRevisited")) legacy.push(cls);
 		else current.push(cls);
 	});
 	return [current, legacy];

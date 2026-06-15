@@ -1667,8 +1667,8 @@
 					"headers": [
 						"Class: Artificer",
 						"Class Features",
-						"Artificer Specialists",
-						"Artificer Infusions"
+						"Artificier Specialists",
+						"Artificier Infusions"
 					]
 				},
 				{
@@ -2534,7 +2534,7 @@
 						"Artificer",
 						{
 							"depth": 1,
-							"header": "Artificers in Many Worlds"
+							"header": "Artificiers in Many Worlds"
 						},
 						"Barbarian",
 						"Bard",

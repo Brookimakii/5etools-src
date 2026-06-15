@@ -293,7 +293,7 @@
 		"ver": "1.71.1",
 		"date": "2019-02-03",
 		"title": "Sponsored by Apex Legends",
-		"txt": "- Added Artificer Revisited content\n- Added Homebrew Builder, currently only supports creatures, and should be considered \"beta\" (i.e. likely full of bugs); find it here: https://5e.tools/makebrew.html  \n- The text-editing part (e.g. for action descriptions) is \"placeholder\" at best, and has a hidden rule: indented text (e.g. one or more leading spaces/tabs) is treated as raw JSON data.\n- Bestiary  \n- Fixed CR scaled creatures breaking add/subtract buttons  \n- Fixed some broken encounter XP calculations  \n- Fixed filtering bug where entries could be hidden on re-filtering  \n- Fixed filtering bug where all shapeshifters/a few others were always hidden\n- Items:  \n- Added hover links to beneficial/detrimental property tables to artifacts\n- DM Screen  \n- All tab types may now be renamed  \n- Initiative Tracker can now load pinned lists exported from Bestiary  \n- Fixed additional column layout in player view\n- Books/Adventures  \n- Fixed \"view entire book\" button layout when zooming via browser\n- Text Converter  \n- Added caption support to MD table converter  \n- Fixed bug where certain line-endings weren't handled correctly  \n- Statblock converter now handles a few additional alignments\n- Fixed some nightmode styling issues (toggle buttons; focused elements)\n- Changed hover window functionality on some touchscreens (single tap now opens the hover window; long tap to do the usual link behavior)\n- Fixed some inconsistencies in loading local homebrew\n- Fixed some wording in the CR Calculator, and added a confirmation prompt when clicking the stats-at-CR-X table\n- (Fixed typos/added tags, including a major pass on all rollable tables to hopefully ensure their validity)"
+		"txt": "- Added Artificier Revisited content\n- Added Homebrew Builder, currently only supports creatures, and should be considered \"beta\" (i.e. likely full of bugs); find it here: https://5e.tools/makebrew.html  \n- The text-editing part (e.g. for action descriptions) is \"placeholder\" at best, and has a hidden rule: indented text (e.g. one or more leading spaces/tabs) is treated as raw JSON data.\n- Bestiary  \n- Fixed CR scaled creatures breaking add/subtract buttons  \n- Fixed some broken encounter XP calculations  \n- Fixed filtering bug where entries could be hidden on re-filtering  \n- Fixed filtering bug where all shapeshifters/a few others were always hidden\n- Items:  \n- Added hover links to beneficial/detrimental property tables to artifacts\n- DM Screen  \n- All tab types may now be renamed  \n- Initiative Tracker can now load pinned lists exported from Bestiary  \n- Fixed additional column layout in player view\n- Books/Adventures  \n- Fixed \"view entire book\" button layout when zooming via browser\n- Text Converter  \n- Added caption support to MD table converter  \n- Fixed bug where certain line-endings weren't handled correctly  \n- Statblock converter now handles a few additional alignments\n- Fixed some nightmode styling issues (toggle buttons; focused elements)\n- Changed hover window functionality on some touchscreens (single tap now opens the hover window; long tap to do the usual link behavior)\n- Fixed some inconsistencies in loading local homebrew\n- Fixed some wording in the CR Calculator, and added a confirmation prompt when clicking the stats-at-CR-X table\n- (Fixed typos/added tags, including a major pass on all rollable tables to hopefully ensure their validity)"
 	},
 	{
 		"ver": "1.71.2",
@@ -310,7 +310,7 @@
 		"ver": "1.73.1",
 		"date": "2019-03-17",
 		"title": "Brexit Waiting Room",
-		"txt": "- Homebrew builder:  \n- Added fluff support  \n- Attack generator no longer resets when being accidentally closed (now has a reset button)  \n- Actions/etc can now be dragged to re-order  \n- Fixed editing/saving existing homebrew  \n- Fixed incorrect JSON meta output structure\n- DM Screen:  \n- Panel tab bar is now hidden where possible (e.g. after closing the second-last tab)  \n- Fixed bug where names in top-left of panels wouldn't update on tab change\n- Bestiary:  \n- Added \"Damage Inflicted\" filter  \n- Added ability to save/load multiple encounters (thanks to JeffreyStocker for the original implementation)  \n- Can also be loaded into DM Screen tracker\n- Items:  \n- Added \"Found On\" filter to Items page, showing Magic Item tables  \n- Items show the Magic Item tables they can be found on as part of their entries\n- Added ability to save/load entire site state (homebrew, blocklists, etc...) to/from files  \n- In the new \"Settings\" dropdown in the navbar, which also contains the nightmode toggle  \n- Will only work for newly-saved data; load some homebrew or add a panel to the DM Screen to ensure they get registered\n- Added \"Save as Homebrew\" button to Text Converter (statblocks only)  \n- Text Converter now uses the same source input as the Homebrew Builder\n- Added Ravnica backgrounds as sources to appropriate spells\n- Fixed display of Artificer Infusions in omnisearch results\n- (Fixed typos/added tags)"
+		"txt": "- Homebrew builder:  \n- Added fluff support  \n- Attack generator no longer resets when being accidentally closed (now has a reset button)  \n- Actions/etc can now be dragged to re-order  \n- Fixed editing/saving existing homebrew  \n- Fixed incorrect JSON meta output structure\n- DM Screen:  \n- Panel tab bar is now hidden where possible (e.g. after closing the second-last tab)  \n- Fixed bug where names in top-left of panels wouldn't update on tab change\n- Bestiary:  \n- Added \"Damage Inflicted\" filter  \n- Added ability to save/load multiple encounters (thanks to JeffreyStocker for the original implementation)  \n- Can also be loaded into DM Screen tracker\n- Items:  \n- Added \"Found On\" filter to Items page, showing Magic Item tables  \n- Items show the Magic Item tables they can be found on as part of their entries\n- Added ability to save/load entire site state (homebrew, blocklists, etc...) to/from files  \n- In the new \"Settings\" dropdown in the navbar, which also contains the nightmode toggle  \n- Will only work for newly-saved data; load some homebrew or add a panel to the DM Screen to ensure they get registered\n- Added \"Save as Homebrew\" button to Text Converter (statblocks only)  \n- Text Converter now uses the same source input as the Homebrew Builder\n- Added Ravnica backgrounds as sources to appropriate spells\n- Fixed display of Artificier Infusions in omnisearch results\n- (Fixed typos/added tags)"
 	},
 	{
 		"ver": "1.73.2",
@@ -331,7 +331,7 @@
 	{
 		"ver": "1.73.6",
 		"date": "2019-04-11",
-		"txt": "- Added UA (Artificer Returns) content"
+		"txt": "- Added UA (Artificier Returns) content"
 	},
 	{
 		"ver": "1.74.0",
@@ -591,7 +591,7 @@
 		"ver": "1.85.0",
 		"date": "2019-10-24",
 		"title": "Various Conversions",
-		"txt": "- Updated HotDQ and RoT to their new and improved re-released versions\n- Added the combined/updated Tyranny of Dragons Roll20 module, credit to @ Aghanim\n- Added the Sage Advice Compendium (under Rules)\n- Added OG UA Artificer Alchemical Formulas to the Options/Features page\n- Added images to conditions on the Conditions and Diseases page\n- (Fixed typos/added tags)"
+		"txt": "- Updated HotDQ and RoT to their new and improved re-released versions\n- Added the combined/updated Tyranny of Dragons Roll20 module, credit to @ Aghanim\n- Added the Sage Advice Compendium (under Rules)\n- Added OG UA Artificier Alchemical Formulas to the Options/Features page\n- Added images to conditions on the Conditions and Diseases page\n- (Fixed typos/added tags)"
 	},
 	{
 		"ver": "1.85.1",
@@ -699,7 +699,7 @@
 	{
 		"ver": "1.89.5",
 		"date": "2019-11-23",
-		"txt": "- Added ERLW Artificer spells to Spells page Subclass filter\n- Fixed text display regression in Spells page Subclass filter\n- Fixed certain item links failing to load on hover on the Items page\n- (Fixed typos/added tags)"
+		"txt": "- Added ERLW Artificier spells to Spells page Subclass filter\n- Fixed text display regression in Spells page Subclass filter\n- Fixed certain item links failing to load on hover on the Items page\n- (Fixed typos/added tags)"
 	},
 	{
 		"ver": "1.90.0",
@@ -2243,7 +2243,7 @@
 	{
 		"ver": "1.169.1",
 		"date": "2022-11-05",
-		"txt": "- Fixed Names/Encounters Page tables not being visible in Omnisearch/DM Screen search\n- Fixed Names/Encounters Page tables failing to display `x-00` results correctly\n- Fixed Classes page list race condition resulting in UA Artificer being displayed on initial load\n- (Brew) Added \"Status\" filter to Get Homebrew dialogue, allowing self-reported WIP/invalid brews to be filtered out\n- (Brew) Added \"circular reference\" check/errors, (hopefully) avoiding infinite loads caused by malformed brew\n- (Brew) Added support for initially-collapsed `statblock` and `statblockInline` entries\n- (Brew) Added support for `\"hidden\"` speeds, allowing e.g. `0 ft.` walk speeds to be hidden\n- Added automatic changelog generation to GitHub releases (thanks @ cum pope)\n- (Fixed typos/added tags)"
+		"txt": "- Fixed Names/Encounters Page tables not being visible in Omnisearch/DM Screen search\n- Fixed Names/Encounters Page tables failing to display `x-00` results correctly\n- Fixed Classes page list race condition resulting in UA Artificier being displayed on initial load\n- (Brew) Added \"Status\" filter to Get Homebrew dialogue, allowing self-reported WIP/invalid brews to be filtered out\n- (Brew) Added \"circular reference\" check/errors, (hopefully) avoiding infinite loads caused by malformed brew\n- (Brew) Added support for initially-collapsed `statblock` and `statblockInline` entries\n- (Brew) Added support for `\"hidden\"` speeds, allowing e.g. `0 ft.` walk speeds to be hidden\n- Added automatic changelog generation to GitHub releases (thanks @ cum pope)\n- (Fixed typos/added tags)"
 	},
 	{
 		"ver": "1.169.2",

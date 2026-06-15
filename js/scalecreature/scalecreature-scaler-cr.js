@@ -228,7 +228,7 @@ export class ScaleCreature {
 				if (typeof mon.passive === "number") {
 					mon.passive = mon.passive + diff;
 				} else {
-					// Passive perception can be a string in e.g. the case of Artificer Steel Defender
+					// Passive perception can be a string in e.g. the case of Artificier Steel Defender
 					delete mon.passive;
 				}
 			}
