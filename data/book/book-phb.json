@@ -1859,7 +1859,7 @@
 							"rows": [
 								[
 									"Barbarian",
-									"{@dice 2d4×10|2d4 × 10|Barbarian Starting Wealth} gp"
+									"{@dice 2d4×10|2d4 × 10|Barbare Starting Wealth} gp"
 								],
 								[
 									"Bard",

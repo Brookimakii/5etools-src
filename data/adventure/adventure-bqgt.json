@@ -250,7 +250,7 @@
 									"id": "00e",
 									"entries": [
 										"The 20-sided die ({@dice d20}) is the most-used die in D&D. It is rolled whenever a character or a creature tries to do something important. Things a character might try to do are listed under \"Attacks\" and \"Skills\" on the character sheets. If a character is about to be attacked or influenced by a physical or mental effect, they might need to make a \"Saving Throw.\"",
-										"Next to attacks, skills, and {@variantrule Saving Throw|XPHB|saving throws} are numbers, such as \"+5.\" This is the number a player adds to their die roll when their character uses that attack, skill, or saving throw. For example, the character sheet for Bobby the Barbarian shows \"+5\" next to \"Greataxe\" under \"Attacks,\" so if the Barbarian wants to attack a monster with their Greataxe, the player rolls a {@dice d20} and adds their +5 bonus. If the die roll is a 10, the +5 bonus is added, and the final total for the attack roll is 15.",
+										"Next to attacks, skills, and {@variantrule Saving Throw|XPHB|saving throws} are numbers, such as \"+5.\" This is the number a player adds to their die roll when their character uses that attack, skill, or saving throw. For example, the character sheet for Bobby the Barbare shows \"+5\" next to \"Greataxe\" under \"Attacks,\" so if the Barbare wants to attack a monster with their Greataxe, the player rolls a {@dice d20} and adds their +5 bonus. If the die roll is a 10, the +5 bonus is added, and the final total for the attack roll is 15.",
 										"How does the player know if their roll succeeds or fails? That's determined by the {@b Armor Class} or {@b Difficulty Class}, which are described below!"
 									]
 								},
@@ -286,8 +286,8 @@
 									"id": "012",
 									"entries": [
 										"Like the Armor Class determining whether an attack roll succeeds or fails, the Difficulty Class (DC) determines if an ability check or saving throw succeeds or fails. The DC of an ability check or saving throw is the number that a player's roll must equal or exceed to succeed.",
-										"For example, if the Barbarian wants to move a heavy boulder blocking the mouth of a cave, that requires a skill called {@skill Athletics|XPHB}. Under \"Skills\" on their character sheet, it says \"Athletics +5,\" so the Barbarian's player rolls a 20-sided die and adds their +5 bonus to the number on the die.",
-										"If the Difficulty Class to move the boulder is 12, the player would need to roll a 7 or higher for the Barbarian to move the boulder. An adventure's text gives the Difficulty Class of actions a character can attempt, but in general, a Difficulty Class of 10 ({@dc 10}) is easy, while a DC of 15 ({@dc 15}) is challenging. The DM can change DCs if circumstances make an action easier or harder."
+										"For example, if the Barbare wants to move a heavy boulder blocking the mouth of a cave, that requires a skill called {@skill Athletics|XPHB}. Under \"Skills\" on their character sheet, it says \"Athletics +5,\" so the Barbarian's player rolls a 20-sided die and adds their +5 bonus to the number on the die.",
+										"If the Difficulty Class to move the boulder is 12, the player would need to roll a 7 or higher for the Barbare to move the boulder. An adventure's text gives the Difficulty Class of actions a character can attempt, but in general, a Difficulty Class of 10 ({@dc 10}) is easy, while a DC of 15 ({@dc 15}) is challenging. The DM can change DCs if circumstances make an action easier or harder."
 									]
 								}
 							]
@@ -413,7 +413,7 @@
 									"name": "Narrating Successes and Failures",
 									"id": "01a",
 									"entries": [
-										"When a {@dice d20} roll succeeds or fails, the DM and the players can turn that result into a part of the ongoing story. What does it look like when a monster is defeated? What does the Gnome Barbarian say or do if the heavy boulder blocking the cave doesn't budge? These points in the game can spark great storytelling and acting moments.",
+										"When a {@dice d20} roll succeeds or fails, the DM and the players can turn that result into a part of the ongoing story. What does it look like when a monster is defeated? What does the Gnome Barbare say or do if the heavy boulder blocking the cave doesn't budge? These points in the game can spark great storytelling and acting moments.",
 										"Remember, though, that part of the DM's job is to keep the game's story moving forward. If describing every single attack roll in a long combat gets boring, just say how much damage the attack deals and get to the next exciting moment."
 									]
 								}

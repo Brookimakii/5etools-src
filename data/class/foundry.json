@@ -12368,7 +12368,7 @@
 						"value": "30"
 					},
 					"roll": {
-						"name": "Barbarian Level",
+						"name": "Barbare Level",
 						"formula": "@classes.barbarian.levels"
 					}
 				},
@@ -12446,7 +12446,7 @@
 							"type": "entries",
 							"name": "Revivification",
 							"entries": [
-								"When a creature within 30 feet of you would drop to 0 Hit Points, you can take a Reaction to expend a use of your Rage to instead change the target's Hit Points to a number equal to your Barbarian level."
+								"When a creature within 30 feet of you would drop to 0 Hit Points, you can take a Reaction to expend a use of your Rage to instead change the target's Hit Points to a number equal to your Barbare level."
 							]
 						}
 					]

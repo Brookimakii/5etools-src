@@ -471,7 +471,7 @@
 	{
 		"ver": "1.79.8",
 		"date": "2019-08-15",
-		"txt": "- Added UA: Barbarian and Monk. Click the \"Official Sources\" cycler to have it show UA.\n- Fixed \"table\" files failing to appear in the Homebrew Manager browser\n- Fixed \"cursed\" generic variant items not showing up when \"Cursed\" filter was applied\n- Fixed CSV table export producing garbage in the presence of nested tables\n- Fixed clicking on search results in books/adventures not jumping to the header if the result was in the same chapter as the currently visible one"
+		"txt": "- Added UA: Barbare and Monk. Click the \"Official Sources\" cycler to have it show UA.\n- Fixed \"table\" files failing to appear in the Homebrew Manager browser\n- Fixed \"cursed\" generic variant items not showing up when \"Cursed\" filter was applied\n- Fixed CSV table export producing garbage in the presence of nested tables\n- Fixed clicking on search results in books/adventures not jumping to the header if the result was in the same chapter as the currently visible one"
 	},
 	{
 		"ver": "1.79.9",
