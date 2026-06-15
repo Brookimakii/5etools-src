@@ -1405,7 +1405,7 @@
 							"name": "Rogue",
 							"page": 24,
 							"entries": [
-								"Rogues are most at home in House Dimir, the Golgari Swarm, and the Orzhov Syndicate.",
+								"Roublards are most at home in House Dimir, the Golgari Swarm, and the Orzhov Syndicate.",
 								{
 									"type": "table",
 									"caption": "Rogue",
@@ -1458,7 +1458,7 @@
 							"page": 25,
 							"entries": [
 								"Ravnica's sorcerers usually attribute their magical power not to bloodlines or cosmic forces, but to laboratory experiments\u2014often ones gone awry. Thus, they are most often found among the Izzet.",
-								"{@creature Niv-Mizzet|GGR}, the guildmaster of the Izzet, is a dragon. Sorcerers who gain their elemental powers from laboratory incidents often claim that they have been infused with some of {@creature Niv-Mizzet|GGR}'s power.",
+								"{@creature Niv-Mizzet|GGR}, the guildmaster of the Izzet, is a dragon. Ensorceleurs who gain their elemental powers from laboratory incidents often claim that they have been infused with some of {@creature Niv-Mizzet|GGR}'s power.",
 								{
 									"type": "table",
 									"caption": "Sorcerer",
@@ -3708,7 +3708,7 @@
 									"name": "Enforcer",
 									"page": 72,
 									"entries": [
-										"Enforcers guard Orzhov property and protect the guild's bureaucrats, administrators, and aristocrats. You might be the muscle who collects protection money and debt payments from the syndicate's clients, or an assassin (euphemistically called a euthanist) who brings speedy ends to lives deemed to have gone on too long. Most Orzhov enforcers are fighters. Rogue enforcers typically emulate the Thief or Assassin archetype."
+										"Enforcers guard Orzhov property and protect the guild's bureaucrats, administrators, and aristocrats. You might be the muscle who collects protection money and debt payments from the syndicate's clients, or an assassin (euphemistically called a euthanist) who brings speedy ends to lives deemed to have gone on too long. Most Orzhov enforcers are fighters. Roublard enforcers typically emulate the Thief or Assassin archetype."
 									],
 									"id": "0a5"
 								},

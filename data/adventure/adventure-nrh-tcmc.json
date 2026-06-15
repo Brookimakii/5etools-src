@@ -60,7 +60,7 @@
 						{
 							"type": "list",
 							"items": [
-								"Pink the Rogue receives a mysterious message to meet a \"{@creature Mr. Honeycutt|NRH-TCMC}\" at the central marketplace.",
+								"Pink the Roublard receives a mysterious message to meet a \"{@creature Mr. Honeycutt|NRH-TCMC}\" at the central marketplace.",
 								"After hanging out in the marketplace, Pink meets {@creature Mr. Honeycutt|NRH-TCMC}, who asks them to find and recover the Coral Gem in the abandoned mine under Candy Mountain. {@creature Mr. Honeycutt|NRH-TCMC} gives Pink two ways to get there (as the DM, you may find you like a particular path, so you can choose to have {@creature Mr. Honeycutt|NRH-TCMC} give Pink only one option).",
 								"Path 1 is a long tunnel that has a nasty monster, {@creature Slurmy|NRH-TCMC}, who tries to eat Pink. Path 2 is an infiltration over the wall, past guards and into the mine.",
 								"Pink eventually gets into the abandoned mine, avoids the traps, opens the treasure box, gets past the kobolds, and recovers the gem."

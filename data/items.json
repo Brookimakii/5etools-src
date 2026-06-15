@@ -16984,7 +16984,7 @@
 						"{@item Knight Card|BMT}",
 						"{@item Moon Card|BMT}",
 						"{@item Puzzle Card|BMT}",
-						"{@item Rogue Card|BMT}",
+						"{@item Roublard Card|BMT}",
 						"{@item Ruin Card|BMT}",
 						"{@item Sage Card|BMT}",
 						"{@item Skull Card|BMT}",
@@ -17010,7 +17010,7 @@
 				"Knight Card|BMT",
 				"Moon Card|BMT",
 				"Puzzle Card|BMT",
-				"Rogue Card|BMT",
+				"Roublard Card|BMT",
 				"Ruin Card|BMT",
 				"Sage Card|BMT",
 				"Skull Card|BMT",
@@ -17662,7 +17662,7 @@
 					"name": "A Question of Enmity",
 					"entries": [
 						"Two of the cards in the Deck of Many Things can earn a character the enmity of another being. With the Flames card, the enmity is overt. The character should experience the devil's malevolent efforts on multiple occasions. Seeking out the fiend shouldn't be a simple task, and the adventurer should clash with the devil's allies and followers a few times before being able to confront the devil.",
-						"In the case of the Rogue card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer."
+						"In the case of the Roublard card, the enmity is secret and should come from someone thought to be a friend or an ally. As Dungeon Master, you should wait for a dramatically appropriate moment to reveal this enmity, leaving the adventurer guessing who is likely to become a betrayer."
 					]
 				},
 				{
@@ -52627,7 +52627,7 @@
 			}
 		},
 		{
-			"name": "Rogue Card",
+			"name": "Roublard Card",
 			"source": "BMT",
 			"page": 14,
 			"rarity": "legendary",

@@ -1134,7 +1134,7 @@
 				"Metamagic|Sorcerer|XPHB|2",
 				"Metamagic Options|Sorcerer|XPHB|2",
 				{
-					"classFeature": "Sorcerer Subclass|Sorcerer|XPHB|3",
+					"classFeature": "Ensorceleur Subclass|Sorcerer|XPHB|3",
 					"gainSubclassFeature": true
 				},
 				"Ability Score Improvement|Sorcerer|XPHB|4",
@@ -1160,7 +1160,7 @@
 				"Epic Boon|Sorcerer|XPHB|19",
 				"Arcane Apotheosis|Sorcerer|XPHB|20"
 			],
-			"subclassTitle": "Sorcerer Subclass",
+			"subclassTitle": "Ensorceleur Subclass",
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
@@ -2258,7 +2258,7 @@
 					"type": "entries",
 					"name": "Spell Slots",
 					"entries": [
-						"The Sorcerer table shows how many spell slots you have to cast your {@filter sorcerer spells|spells|class=sorcerer} of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"The Ensorceleur table shows how many spell slots you have to cast your {@filter sorcerer spells|spells|class=sorcerer} of 1st level and higher. To cast one of these sorcerer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
 						"For example, if you know the 1st-level spell {@spell burning hands} and have a 1st-level and a 2nd-level spell slot available, you can cast {@spell burning hands} using either slot."
 					]
 				},
@@ -2689,8 +2689,8 @@
 				{
 					"type": "list",
 					"items": [
-						"The spell save DC of your Sorcerer spells increases by 1.",
-						"You have {@variantrule Advantage|XPHB} on the attack rolls of Sorcerer spells you cast."
+						"The spell save DC of your Ensorceleur spells increases by 1.",
+						"You have {@variantrule Advantage|XPHB} on the attack rolls of Ensorceleur spells you cast."
 					]
 				},
 				"You can use this feature twice, and you regain all expended uses of it when you finish a {@variantrule Long Rest|XPHB}."
@@ -2706,7 +2706,7 @@
 			"classSource": "XPHB",
 			"level": 1,
 			"entries": [
-				"Drawing from your innate magic, you can cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Sorcerer spells, which appear in the {@filter Sorcerer spell list|spells|class=Sorcerer} later in the class's description.",
+				"Drawing from your innate magic, you can cast spells. See {@book chapter 7|XPHB|7} for the rules on spellcasting. The information below details how you use those rules with Ensorceleur spells, which appear in the {@filter Ensorceleur spell list|spells|class=Sorcerer} later in the class's description.",
 				{
 					"type": "entries",
 					"entries": [
@@ -2714,45 +2714,45 @@
 							"type": "entries",
 							"name": "Cantrips",
 							"entries": [
-								"You know four Sorcerer cantrips of your choice. {@spell Light|XPHB}, {@spell Prestidigitation|XPHB}, {@spell Shocking Grasp|XPHB}, and {@spell Sorcerous Burst|XPHB} are recommended. Whenever you gain a Sorcerer level, you can replace one of your cantrips from this feature with another Sorcerer cantrip of your choice.",
-								"When you reach Sorcerer levels 4 and 10, you learn another Sorcerer cantrip of your choice, as shown in the Cantrips column of the Sorcerer Features table."
+								"You know four Ensorceleur cantrips of your choice. {@spell Light|XPHB}, {@spell Prestidigitation|XPHB}, {@spell Shocking Grasp|XPHB}, and {@spell Sorcerous Burst|XPHB} are recommended. Whenever you gain a Ensorceleur level, you can replace one of your cantrips from this feature with another Ensorceleur cantrip of your choice.",
+								"When you reach Ensorceleur levels 4 and 10, you learn another Ensorceleur cantrip of your choice, as shown in the Cantrips column of the Ensorceleur Features table."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spell Slots",
 							"entries": [
-								"The Sorcerer Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
+								"The Ensorceleur Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a {@variantrule Long Rest|XPHB}."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Prepared Spells of Level 1+",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Sorcerer spells. {@spell Burning Hands|XPHB} and {@spell Detect Magic|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Sorcerer levels, as shown in the Prepared Spells column of the Sorcerer Features table. Whenever that number increases, choose additional Sorcerer spells until the number of spells on your list matches the number in the Sorcerer Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Sorcerer spells of level 1 or 2 in any combination.",
-								"If another Sorcerer feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Sorcerer spells for you."
+								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ensorceleur spells. {@spell Burning Hands|XPHB} and {@spell Detect Magic|XPHB} are recommended.",
+								"The number of spells on your list increases as you gain Ensorceleur levels, as shown in the Prepared Spells column of the Ensorceleur Features table. Whenever that number increases, choose additional Ensorceleur spells until the number of spells on your list matches the number in the Ensorceleur Features table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 3 Sorcerer, your list of prepared spells can include six Ensorceleur spells of level 1 or 2 in any combination.",
+								"If another Ensorceleur feature gives you spells that you always have prepared, those spells don't count against the number of spells you can prepare with this feature, but those spells otherwise count as Ensorceleur spells for you."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Changing Your Prepared Spells",
 							"entries": [
-								"Whenever you gain a Sorcerer level, you can replace one spell on your list with another Sorcerer spell for which you have spell slots."
+								"Whenever you gain a Ensorceleur level, you can replace one spell on your list with another Ensorceleur spell for which you have spell slots."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Ability",
 							"entries": [
-								"Charisma is your spellcasting ability for your Sorcerer spells."
+								"Charisma is your spellcasting ability for your Ensorceleur spells."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "Spellcasting Focus",
 							"entries": [
-								"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Sorcerer spells."
+								"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Ensorceleur spells."
 							]
 						}
 					]
@@ -2770,7 +2770,7 @@
 			"level": 2,
 			"entries": [
 				"You can tap into the wellspring of magic within yourself. This wellspring is represented by Sorcery Points, which allow you to create a variety of magical effects.",
-				"You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a {@variantrule Long Rest|XPHB}.",
+				"You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Ensorceleur Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a {@variantrule Long Rest|XPHB}.",
 				"You can use your Sorcery Points to fuel the options below, along with other features, such as Metamagic, that use those points.",
 				{
 					"type": "entries",
@@ -2786,7 +2786,7 @@
 							"type": "entries",
 							"name": "Creating Spell Slots",
 							"entries": [
-								"As a {@variantrule Bonus Action|XPHB}, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Sorcerer level you must be to create a slot. You can create a spell slot no higher than level 5.",
+								"As a {@variantrule Bonus Action|XPHB}, you can transform unexpended Sorcery Points into one spell slot. The Creating Spell Slots table shows the cost of creating a spell slot of a given level, and it lists the minimum Ensorceleur level you must be to create a slot. You can create a spell slot no higher than level 5.",
 								"Any spell slot you create with this feature vanishes when you finish a {@variantrule Long Rest|XPHB}.",
 								{
 									"type": "table",
@@ -2794,7 +2794,7 @@
 									"colLabels": [
 										"Spell Slot Level",
 										"Sorcery Point Cost",
-										"Min. Sorcerer Level"
+										"Min. Ensorceleur Level"
 									],
 									"colStyles": [
 										"col-3 text-center",
@@ -2847,7 +2847,7 @@
 			"entries": [
 				"Because your magic flows from within, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from \"{@filter Metamagic Options|optionalfeatures|feature type=MM|source=XPHB}\" later in this class's description. You use the chosen options to temporarily modify spells you cast. To use an option, you must spend the number of Sorcery Points that it costs.",
 				"You can use only one Metamagic option on a spell when you cast it unless otherwise noted in one of those options.",
-				"Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17."
+				"Whenever you gain a Ensorceleur level, you can replace one of your Metamagic options with one you don't know. You gain two more options at Ensorceleur level 10 and two more at Ensorceleur level 17."
 			]
 		},
 		{
@@ -2940,7 +2940,7 @@
 			]
 		},
 		{
-			"name": "Sorcerer Subclass",
+			"name": "Ensorceleur Subclass",
 			"source": "XPHB",
 			"page": 141,
 			"srd52": true,
@@ -2949,7 +2949,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Sorcerer subclass of your choice. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass's features that are of your Sorcerer level or lower."
+				"You gain a Ensorceleur subclass of your choice. A subclass is a specialization that grants you features at certain Ensorceleur levels. For the rest of your career, you gain each of your subclass's features that are of your Ensorceleur level or lower."
 			]
 		},
 		{
@@ -2962,7 +2962,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Sorcerer levels 8, 12, and 16."
+				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Ensorceleur levels 8, 12, and 16."
 			]
 		},
 		{
@@ -2975,7 +2975,7 @@
 			"classSource": "XPHB",
 			"level": 5,
 			"entries": [
-				"When you finish a {@variantrule Short Rest|XPHB}, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}."
+				"When you finish a {@variantrule Short Rest|XPHB}, you can regain expended Sorcery Points, but no more than a number equal to half your Ensorceleur level (round down). Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}."
 			]
 		},
 		{
@@ -2988,7 +2988,7 @@
 			"classSource": "XPHB",
 			"level": 6,
 			"entries": [
-				"You gain a feature from your Sorcerer subclass."
+				"You gain a feature from your Ensorceleur subclass."
 			]
 		},
 		{
@@ -3034,7 +3034,7 @@
 			"entries": [
 				"Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the \"{@filter Metamagic Options|optionalfeatures|feature type=MM|source=XPHB}\" section later in this class's description.",
 				"You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.",
-				"Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know."
+				"Whenever you gain a Ensorceleur level, you can replace one of your Metamagic options with one you don't know."
 			]
 		},
 		{
@@ -3060,7 +3060,7 @@
 			"classSource": "XPHB",
 			"level": 14,
 			"entries": [
-				"You gain a feature from your Sorcerer subclass."
+				"You gain a feature from your Ensorceleur subclass."
 			]
 		},
 		{
@@ -3088,7 +3088,7 @@
 			"entries": [
 				"Because your magic flows from within you, you can alter your spells to suit your needs; you gain two Metamagic options of your choice from the \"{@filter Metamagic Options|optionalfeatures|feature type=MM|source=XPHB}\" section later in this class's description.",
 				"You can use only one Metamagic option on a spell when you cast it, unless otherwise noted in one of those options.",
-				"Whenever you gain a Sorcerer level, you can replace one of your Metamagic options with one you don't know."
+				"Whenever you gain a Ensorceleur level, you can replace one of your Metamagic options with one you don't know."
 			]
 		},
 		{
@@ -3101,7 +3101,7 @@
 			"classSource": "XPHB",
 			"level": 18,
 			"entries": [
-				"You gain a feature from your Sorcerer subclass."
+				"You gain a feature from your Ensorceleur subclass."
 			]
 		},
 		{
@@ -3171,7 +3171,7 @@
 					"type": "table",
 					"caption": "Lunar Spells",
 					"colLabels": [
-						"Sorcerer Level",
+						"Ensorceleur Level",
 						"Full Moon Spell",
 						"New Moon Spell",
 						"Crescent Moon Spell"
@@ -4008,7 +4008,7 @@
 					"type": "table",
 					"caption": "Psionic Spells",
 					"colLabels": [
-						"Sorcerer Level",
+						"Ensorceleur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4166,7 +4166,7 @@
 					"type": "table",
 					"caption": "Clockwork Spells",
 					"colLabels": [
-						"Sorcerer Level",
+						"Ensorceleur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4388,7 +4388,7 @@
 					"type": "table",
 					"caption": "Runic Spells",
 					"colLabels": [
-						"Sorcerer Level",
+						"Ensorceleur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -4662,10 +4662,10 @@
 			"level": 1,
 			"entries": [
 				"You are a creature of shadow, for your innate magic comes from the Shadowfell itself. You might trace your lineage to an entity from that place, or perhaps you were exposed to its fell energy and transformed by it.",
-				"The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Sorcerer Quirks table to create a quirk for your character.",
+				"The power of shadow magic casts a strange pall over your physical presence. The spark of life that sustains you is muffled, as if it struggles to remain viable against the dark energy that imbues your soul. At your option, you can pick from or roll on the Shadow Ensorceleur Quirks table to create a quirk for your character.",
 				{
 					"type": "table",
-					"caption": "Shadow Sorcerer Quirks",
+					"caption": "Shadow Ensorceleur Quirks",
 					"colLabels": [
 						"d6",
 						"Quirk"
@@ -5156,12 +5156,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Sorcerer level specified in the Psionic Spells table, you thereafter always have the listed spells prepared.",
+				"When you reach a Ensorceleur level specified in the Psionic Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Psionic Spells",
 					"colLabels": [
-						"Sorcerer Level",
+						"Ensorceleur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -5201,7 +5201,7 @@
 			"header": 1,
 			"entries": [
 				"You can form a telepathic connection between your mind and the mind of another. As a {@variantrule Bonus Action|XPHB}, choose one creature you can see within 30 feet of yourself. You and the chosen creature can communicate telepathically with each other while the two of you are within a number of miles of each other equal to your Charisma modifier (minimum of 1 mile). To understand each other, you each must mentally use a language the other knows.",
-				"The telepathic connection lasts for a number of minutes equal to your Sorcerer level. It ends early if you use this ability to form a connection with a different creature."
+				"The telepathic connection lasts for a number of minutes equal to your Ensorceleur level. It ends early if you use this ability to form a connection with a different creature."
 			]
 		},
 		{
@@ -5331,12 +5331,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Sorcerer level specified in the Clockwork Spells table, you thereafter always have the listed spells prepared.",
+				"When you reach a Ensorceleur level specified in the Clockwork Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Clockwork Spells",
 					"colLabels": [
-						"Sorcerer Level",
+						"Ensorceleur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -5362,7 +5362,7 @@
 						]
 					]
 				},
-				"In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.",
+				"In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Ensorceleur spells.",
 				{
 					"type": "table",
 					"caption": "Manifestations of Order",
@@ -5538,12 +5538,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"When you reach a Sorcerer level specified in the Draconic Spells table, you thereafter always have the listed spells prepared.",
+				"When you reach a Ensorceleur level specified in the Draconic Spells table, you thereafter always have the listed spells prepared.",
 				{
 					"type": "table",
 					"caption": "Draconic Spells",
 					"colLabels": [
-						"Sorcerer Level",
+						"Ensorceleur Level",
 						"Spells"
 					],
 					"colStyles": [
@@ -5584,7 +5584,7 @@
 			"level": 3,
 			"header": 2,
 			"entries": [
-				"The magic in your body manifests physical traits of your draconic gift. Your {@variantrule Hit Points|XPHB|Hit Point} maximum increases by 3, and it increases by 1 whenever you gain another Sorcerer level.",
+				"The magic in your body manifests physical traits of your draconic gift. Your {@variantrule Hit Points|XPHB|Hit Point} maximum increases by 3, and it increases by 1 whenever you gain another Ensorceleur level.",
 				"Parts of you are also covered by dragon-like scales. While you aren't wearing armor, your base {@variantrule Armor Class|XPHB} equals 10 plus your Dexterity and Charisma modifiers."
 			]
 		},
@@ -5676,8 +5676,8 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You can manipulate chaos itself to give yourself {@variantrule Advantage|XPHB} on one {@variantrule D20 Test|XPHB} before you roll the {@dice d20}. Once you do so, you must cast a Sorcerer spell with a spell slot or finish a {@variantrule Long Rest|XPHB} before you can use this feature again.",
-				"If you do cast a Sorcerer spell with a spell slot before you finish a {@variantrule Long Rest|XPHB}, you automatically roll on the {@table Wild Magic Surge|XPHB} table."
+				"You can manipulate chaos itself to give yourself {@variantrule Advantage|XPHB} on one {@variantrule D20 Test|XPHB} before you roll the {@dice d20}. Once you do so, you must cast a Ensorceleur spell with a spell slot or finish a {@variantrule Long Rest|XPHB} before you can use this feature again.",
+				"If you do cast a Ensorceleur spell with a spell slot before you finish a {@variantrule Long Rest|XPHB}, you automatically roll on the {@table Wild Magic Surge|XPHB} table."
 			]
 		},
 		{
@@ -5691,7 +5691,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Your spellcasting can unleash surges of untamed magic. Once per turn, you can roll {@dice 1d20} immediately after you cast a Sorcerer spell with a spell slot. If you roll a 20, roll on the Wild Magic Surge table to create a magical effect.",
+				"Your spellcasting can unleash surges of untamed magic. Once per turn, you can roll {@dice 1d20} immediately after you cast a Ensorceleur spell with a spell slot. If you roll a 20, roll on the Wild Magic Surge table to create a magical effect.",
 				"If the magical effect is a spell, it is too wild to be affected by your Metamagic.",
 				{
 					"type": "table",
@@ -5856,7 +5856,7 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"Immediately after you cast a Sorcerer spell with a spell slot, you can create an effect of your choice from the {@table Wild Magic Surge|XPHB} table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.",
+				"Immediately after you cast a Ensorceleur spell with a spell slot, you can create an effect of your choice from the {@table Wild Magic Surge|XPHB} table instead of rolling on that table. You can choose any effect in the table except for the final row, and if the chosen effect involves a roll, you must make it.",
 				"Once you use this feature, you can't do so again until you finish a {@variantrule Long Rest|XPHB}."
 			]
 		}

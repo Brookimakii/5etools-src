@@ -6278,7 +6278,7 @@
 							"value": 1
 						}
 					],
-					"description": "The spell save DC of your Sorcerer spells increases by 1. You have Advantage on the attack rolls of Sorcerer spells you cast."
+					"description": "The spell save DC of your Ensorceleur spells increases by 1. You have Advantage on the attack rolls of Ensorceleur spells you cast."
 				}
 			],
 			"migrationVersion": 3
@@ -6376,7 +6376,7 @@
 						"classSource": "XPHB",
 						"level": 2,
 						"entries": [
-							"You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Sorcerer Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a {@variantrule Long Rest|XPHB}."
+							"You have 2 Sorcery Points, and you gain more as you reach higher levels, as shown in the Sorcery Points column of the Ensorceleur Features table. You can't have more Sorcery Points than the number shown in the table for your level. You regain all expended Sorcery Points when you finish a {@variantrule Long Rest|XPHB}."
 						],
 						"foundrySystem": {
 							"uses.per": "lr",

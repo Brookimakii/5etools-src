@@ -135,7 +135,7 @@
 							"id": "00a",
 							"entries": [
 								"Next are four chapters of character-focused content:",
-								"{@book Chapter 6: Rogue|BMT|5}. This chapter provides advice and new magic items suited to bards, rangers, rogues, and other characters who prioritize their skills. The \"{@book Rogues' Gallery|BMT|5|Rogues' Gallery}\" section presents treacherous adversaries for when a player draws the Rogue card from the deck.",
+								"{@book Chapter 6: Rogue|BMT|5}. This chapter provides advice and new magic items suited to bards, rangers, rogues, and other characters who prioritize their skills. The \"{@book Rogues' Gallery|BMT|5|Rogues' Gallery}\" section presents treacherous adversaries for when a player draws the Roublard card from the deck.",
 								"{@book Chapter 7: Sage|BMT|6}. This chapter focuses on sorcerers, warlocks, wizards, and other characters who wield arcane magic. It includes the new Cartomancer feat, new spells, and the {@item Deck of Many More Things|BMT}: the cards added to the {@item Deck of Many Things} over the centuries by mortal spellcasters.",
 								"{@book Chapter 8: Fates|BMT|7}. New backgrounds in this chapter describe characters whose lives have been transformed by the {@item Deck of Many Things} or a similar effect. This chapter also includes character creation advice and magic items appropriate for clerics, druids, paladins, and other characters with a connection to the divine.",
 								"{@book Chapter 9: Knight|BMT|8}. Characters who draw the Knight card gain the service of an ally; this chapter describes a new creature that answers that call. DMs can also find advice on integrating allies into an adventuring party. In addition, the chapter includes character creation advice and new magic items for barbarians, fighters, monks, and other combat specialists.",
@@ -334,7 +334,7 @@
 								"Traditionally, the effects created by the {@item Deck of Many Things} are immediate. When a character draws the Knight card, a fighter immediately appears and offers their service, and a character who draws the Gem card might be literally showered with riches. While this suits some campaigns, you can take a more narrative approach to the deck by having cards foreshadow future events that occur at a time of your choosing. When you use the deck in this way, drawing from it is less like pulling the lever on a cosmic slot machine and more like allowing a character to select a new story for themself without being allowed to know that story ahead of time.",
 								"With this narrative approach to the {@item Deck of Many Things}, you decide how to weave the events triggered by cards into your campaign. For example, a character who draws the Knight card might meet a warrior along the side of the road, in a tavern, or even trapped in a dangerous dungeon; by freeing the warrior, the character earns the warrior's loyalty. A character who draws the Gem card might find a rich store of jewels in their next treasure hoard, or they might inherit great wealth when a relative dies. Many of the chapters in this book include advice to help you work the effects of their cards into your campaign story.",
 								"Using the deck's effects as events in your campaign poses an interesting question: is the deck predicting those events or causing them? If a character draws the Flames card, and soon after, minions of {@creature Aurnozci|BMT} (see {@book chapter 20|BMT|19|Aurnozci, the Caged Worm}) try to capture them, is this a direct result of drawing the card, or would the demons have attacked them anyway? {@i The Book of Many Things} doesn't answer this question; the answer is up to you and your players.",
-								"When you take a narrative approach to the {@item Deck of Many Things}, don't put off card effects for too long. It's okay for players to wonder for a session or two exactly when and how the effects will manifest, and you can use that time to devise clever and memorable ways to interpret the effects and keep the players in suspense. For example, a beloved ally might come to hate a character who draws the Rogue card, and that ally might conceal their hatred for several sessions before revealing it in a moment of sudden treachery. But new stories soon crowd out the old, and players might not be impressed if a card takes too long to manifest."
+								"When you take a narrative approach to the {@item Deck of Many Things}, don't put off card effects for too long. It's okay for players to wonder for a session or two exactly when and how the effects will manifest, and you can use that time to devise clever and memorable ways to interpret the effects and keep the players in suspense. For example, a beloved ally might come to hate a character who draws the Roublard card, and that ally might conceal their hatred for several sessions before revealing it in a moment of sudden treachery. But new stories soon crowd out the old, and players might not be impressed if a card takes too long to manifest."
 							]
 						}
 					]
@@ -765,7 +765,7 @@
 									"Gain advantage on a saving throw."
 								],
 								[
-									"Rogue (or J ♠)",
+									"Roublard (or J ♠)",
 									"Gain advantage on an attack roll."
 								],
 								[
@@ -1794,7 +1794,7 @@
 									"id": "03b",
 									"entries": [
 										"A statue of a halfling, her brow knitted in concentration, is seated at a stone table before you. She holds her empty palms close to her chest, her fingers cupped slightly. A single playing card, the Rogue, lies flat on the table. Suddenly, the statue speaks:",
-										"\"Still searching for the perfect hand? Find the four missing cards and bring them here. The treacherous Rogue is poised to backstab the Sage. The haughty Sage, full of disdain, won't deign to be next to the Jester. The foolish Jester does a headstand while gazing at the faraway Knight. The loyal Knight stands beside the Sage. Behind the Jester, the impassive Fates hang like bats from the sky.\""
+										"\"Still searching for the perfect hand? Find the four missing cards and bring them here. The treacherous Roublard is poised to backstab the Sage. The haughty Sage, full of disdain, won't deign to be next to the Jester. The foolish Jester does a headstand while gazing at the faraway Knight. The loyal Knight stands beside the Sage. Behind the Jester, the impassive Fates hang like bats from the sky.\""
 									]
 								},
 								{
@@ -1804,7 +1804,7 @@
 									"id": "03c",
 									"entries": [
 										"The statue speaks whenever anyone approaches, repeating the message each time.",
-										"The card on the table is a nonmagical version of the Rogue card from a {@item Deck of Many Things}. The four other cards mentioned in the statue's message\u2014Sage, Jester, Knight, and Fates\u2014are each located in a different area nearby.",
+										"The card on the table is a nonmagical version of the Roublard card from a {@item Deck of Many Things}. The four other cards mentioned in the statue's message\u2014Sage, Jester, Knight, and Fates\u2014are each located in a different area nearby.",
 										"Grooves in the statue's palms are perfectly sized to hold the cards. Each card can fit into the palms either upright or reversed (upside down)."
 									]
 								},
@@ -2812,7 +2812,7 @@
 			"page": 40,
 			"id": "089",
 			"entries": [
-				"The Rogue card embodies betrayal and hidden threats. This chapter includes magic card decks geared toward resourceful, subtle, and skill-focused characters, as well as character creation ideas inspired by the Rogue card. Then, this chapter presents tools and advice to adjudicate what happens when a character draws the Rogue card, including advice on how the villain enters the story, suggestions for their motivations, and a rogues' gallery of stat blocks that can represent this antagonist.",
+				"The Roublard card embodies betrayal and hidden threats. This chapter includes magic card decks geared toward resourceful, subtle, and skill-focused characters, as well as character creation ideas inspired by the Roublard card. Then, this chapter presents tools and advice to adjudicate what happens when a character draws the Roublard card, including advice on how the villain enters the story, suggestions for their motivations, and a rogues' gallery of stat blocks that can represent this antagonist.",
 				{
 					"type": "image",
 					"href": {
@@ -2848,7 +2848,7 @@
 					"page": 42,
 					"id": "08f",
 					"entries": [
-						"The Rogue Destinies table provides narrative ideas inspired by the {@item Deck of Many Things} that players can use as prompts while developing characters. The entries in this table are geared toward characters who rely on cunning, skills, and versatility, but any character's story can benefit from the ideas presented here. When using this table to help shape your character's story, you can either choose entries that speak to you or randomly pull cards from {@item Deck of Many Things||The Deck of Many Things} card set until you feel your character's story is complete.",
+						"The Roublard Destinies table provides narrative ideas inspired by the {@item Deck of Many Things} that players can use as prompts while developing characters. The entries in this table are geared toward characters who rely on cunning, skills, and versatility, but any character's story can benefit from the ideas presented here. When using this table to help shape your character's story, you can either choose entries that speak to you or randomly pull cards from {@item Deck of Many Things||The Deck of Many Things} card set until you feel your character's story is complete.",
 						"The prompts in the table include personality traits, relationships, and events. Most describe your character's past, but some foretell something in your character's future instead. These events might be a mystery to your character, shared only between you and your DM, or perhaps your character learned about these events through omens or a reading from a fortune teller.",
 						{
 							"type": "quote",
@@ -2859,7 +2859,7 @@
 						},
 						{
 							"type": "table",
-							"caption": "Rogue Destinies",
+							"caption": "Roublard Destinies",
 							"colLabels": [
 								"{@dice 1d22|Card}",
 								"Heroic Tie"
@@ -3099,7 +3099,7 @@
 					"page": 43,
 					"id": "090",
 					"entries": [
-						"When a character draws the Rogue card, a new villain's presence\u2014if not their identity\u2014is revealed to the characters. Who is this villain, and why are they an enemy? Here are a few options for how a Rogue villain can enter your campaign:",
+						"When a character draws the Roublard card, a new villain's presence\u2014if not their identity\u2014is revealed to the characters. Who is this villain, and why are they an enemy? Here are a few options for how a Roublard villain can enter your campaign:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -3121,7 +3121,7 @@
 								}
 							]
 						},
-						"The Rogue card's magic might provide a glimpse of the future, but it can also manipulate reality in large or small ways. If the character who drew the card has a secret or has performed some action that would turn a friend into an enemy, the deck might ensure an ally gets that information, turning the ally against the character. Alternatively, the deck might change reality so that a bandit leader the character arrested suddenly has a cousin seeking revenge, or the spirit of a wicked cultist the character slew returns to torment the character by possessing a dear friend.",
+						"The Roublard card's magic might provide a glimpse of the future, but it can also manipulate reality in large or small ways. If the character who drew the card has a secret or has performed some action that would turn a friend into an enemy, the deck might ensure an ally gets that information, turning the ally against the character. Alternatively, the deck might change reality so that a bandit leader the character arrested suddenly has a cousin seeking revenge, or the spirit of a wicked cultist the character slew returns to torment the character by possessing a dear friend.",
 						{
 							"type": "image",
 							"href": {
@@ -3139,7 +3139,7 @@
 							"page": 43,
 							"id": "091",
 							"entries": [
-								"Why does this new villain oppose the character who drew the Rogue card? This question is just as important as who the villain is. The Villainous Motivations table offers sample goals for your new villain.",
+								"Why does this new villain oppose the character who drew the Roublard card? This question is just as important as who the villain is. The Villainous Motivations table offers sample goals for your new villain.",
 								{
 									"type": "table",
 									"caption": "Villainous Motivations",
@@ -3182,11 +3182,11 @@
 						},
 						{
 							"type": "entries",
-							"name": "Rogue Stat Blocks",
+							"name": "Roublard Stat Blocks",
 							"page": 44,
 							"id": "092",
 							"entries": [
-								"This section offers four stat block options for the antagonist created when the Rogue card is drawn. Each is a legendary creature. These stat blocks can represent a new NPC that enters the story, an existing NPC who reveals their true identity, or someone transformed into an enemy by the deck's magic.",
+								"This section offers four stat block options for the antagonist created when the Roublard card is drawn. Each is a legendary creature. These stat blocks can represent a new NPC that enters the story, an existing NPC who reveals their true identity, or someone transformed into an enemy by the deck's magic.",
 								"Each stat block represents an appropriate antagonist for campaign arcs in a particular tier of play. You can change the creature type and other features of these stat blocks to customize the antagonists for your campaign. For example, you could change the veiled presence's creature type to Humanoid and frame this villain's fantastical abilities as arising from powerful treasures the villain has amassed. Alternatively, you could make this villain a Fiend, change the damage dealt to necrotic, and give the villain a frightful aspect rather than a theme of divine judgment. Descriptions of these sample villains are below.",
 								{
 									"type": "entries",
@@ -3221,7 +3221,7 @@
 									"page": 48,
 									"id": "096",
 									"entries": [
-										"The ultimate threat created by the Rogue card, the {@creature veiled presence|BMT} is a Celestial for tier 4 play (levels 17 to 20). This being descends from an Outer Plane to bring cosmic wrath upon the characters."
+										"The ultimate threat created by the Roublard card, the {@creature veiled presence|BMT} is a Celestial for tier 4 play (levels 17 to 20). This being descends from an Outer Plane to bring cosmic wrath upon the characters."
 									]
 								}
 							]
@@ -8006,14 +8006,14 @@
 									"id": "1ba",
 									"entries": [
 										"{@i Night's Edge; Most Prominent in Early Autumn}",
-										"Like a skilled bandit, the Rogue slinks onto the night sky without drawing attention to herself. By the time leaves are turning color and evenings are getting colder, Night's Edge already looms high overhead, dagger in hand. Legend has it that in her haste to steal from {@creature Euryale|BMT}, the Rogue failed to notice the valuable Gem right behind her.",
+										"Like a skilled bandit, the Roublard slinks onto the night sky without drawing attention to herself. By the time leaves are turning color and evenings are getting colder, Night's Edge already looms high overhead, dagger in hand. Legend has it that in her haste to steal from {@creature Euryale|BMT}, the Roublard failed to notice the valuable Gem right behind her.",
 										{
 											"type": "entries",
 											"name": "Omen of Betrayal",
 											"page": 100,
 											"id": "1bb",
 											"entries": [
-												"Those born under the Rogue are destined to be betrayed by someone close to them, or to betray first in an act of self-preservation. They pursue trades that reward shifting loyalties, such as con artists, courtiers, or politicians."
+												"Those born under the Roublard are destined to be betrayed by someone close to them, or to betray first in an act of self-preservation. They pursue trades that reward shifting loyalties, such as con artists, courtiers, or politicians."
 											]
 										}
 									]
@@ -8044,7 +8044,7 @@
 									"id": "1be",
 									"entries": [
 										"{@i The Elder; Most Prominent in Late Autumn}",
-										"Many societies see the herald of winter as a dour constellation. In some folklore, the Talons is a stern grandparent of the Knight or the Flames. When one of these younger signs commits a grievous error despite ample warning, the Elder chides the youth while taking the blame. In other tales, the Elder is a usurper of the Throne and seeks to gain power by manipulating the Rogue or scheming with the Skull.",
+										"Many societies see the herald of winter as a dour constellation. In some folklore, the Talons is a stern grandparent of the Knight or the Flames. When one of these younger signs commits a grievous error despite ample warning, the Elder chides the youth while taking the blame. In other tales, the Elder is a usurper of the Throne and seeks to gain power by manipulating the Roublard or scheming with the Skull.",
 										{
 											"type": "entries",
 											"name": "Omen of Loss",
@@ -19296,7 +19296,7 @@
 											"type": "inset",
 											"id": "28c",
 											"entries": [
-												"Every surface of this irregularly shaped room is made from cards of various sizes from the Deck of Many Things. Some show their intricately patterned backs, while others show their faces. Four large cards that serve as doors lead from the chamber: Rogue to the north, Ruin to the east, Gem to the south, and Flames to the west. In the center of the room's floor, a card depicting the Key glows brightly."
+												"Every surface of this irregularly shaped room is made from cards of various sizes from the Deck of Many Things. Some show their intricately patterned backs, while others show their faces. Four large cards that serve as doors lead from the chamber: Roublard to the north, Ruin to the east, Gem to the south, and Flames to the west. In the center of the room's floor, a card depicting the Key glows brightly."
 											]
 										},
 										"Characters who enter the House of Cards appear in this room, standing on the glowing Key card in the floor.",
@@ -19589,7 +19589,7 @@
 											"type": "inset",
 											"id": "2a2",
 											"entries": [
-												"A swirling starlight glow hovers above the floor here. The door in the east wall is the Balance card, and the door in the west wall is the Rogue card. The chamber is colder than other areas you've visited in the House of Cards."
+												"A swirling starlight glow hovers above the floor here. The door in the east wall is the Balance card, and the door in the west wall is the Roublard card. The chamber is colder than other areas you've visited in the House of Cards."
 											]
 										},
 										"The starlight glow is a conduit to a living star (see the \"{@book Variant: Servants of Living Stars|BMT|20|Variant: Servants of Living Stars}\" sidebar in {@book chapter 21|BMT|20} for examples). A creature that spends 10 minutes concentrating on the glow can contact the star and ask it questions as if using the {@spell Contact Other Plane} spell, including all the risks associated with that spell. A character who examines the starlight glow and succeeds on a {@dc 18} Intelligence ({@skill Arcana}) check intuits its purpose and property.",
@@ -19782,7 +19782,7 @@
 											]
 										},
 										"The apparition is an extension of the Sage card. It answers one question posed to it as if the asker were using the {@spell Divination} spell with no chance of a random reading. The apparition respects the spirit of the question asked; it doesn't twist its answers or waste an answer on a frivolous question asked without thought.",
-										"If asked about how to retrieve a soul from the House of Cards, it answers, \"The Rogue guards the Puzzle, beyond which hides the Key. But the lock itself lies beneath your first steps.\""
+										"If asked about how to retrieve a soul from the House of Cards, it answers, \"The Roublard guards the Puzzle, beyond which hides the Key. But the lock itself lies beneath your first steps.\""
 									]
 								},
 								{
@@ -19795,7 +19795,7 @@
 											"type": "inset",
 											"id": "2ba",
 											"entries": [
-												"This massive chamber is dotted with thick, irregular columns of stacked cards, which make it difficult to see far into the room. Rogues leer from the room's card faces. The door to the east is the Star card, while the door to the south shows the back of a card. The door to the west displays the Puzzle card."
+												"This massive chamber is dotted with thick, irregular columns of stacked cards, which make it difficult to see far into the room. Roublards leer from the room's card faces. The door to the east is the Star card, while the door to the south shows the back of a card. The door to the west displays the Puzzle card."
 											]
 										},
 										"Three of the columns in this room, colored in a lighter blue tone on the map, are illusions. Within them hide a number of creatures equal to the number of characters in the party, each identical in appearance to one character or to an ally accompanying the party. The creatures use the {@creature spy} stat block with the following changes: they are neutral evil Fey who speak all languages known to the characters in the room. These creatures can see through the illusory columns as if the columns were ghostly images; casting {@spell Dispel Magic} on an illusory pillar causes it to vanish.",

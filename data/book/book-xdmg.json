@@ -3715,7 +3715,7 @@
 							"id": "0bb",
 							"entries": [
 								"Combat starts when\u2014and only when\u2014you say it does. Some characters have abilities that trigger on an {@variantrule Initiative|XPHB} roll; you, not the players, decide if and when Initiative is rolled. A high-level Barbare can't just punch their Paladin friend and roll Initiative to regain expended uses of Rage.",
-								"In any situation where a character's actions initiate combat, you can give the acting character {@variantrule Advantage|XPHB} on their Initiative roll. For example, if a conversation with an NPC is cut short because the Sorcerer is convinced that NPC is a doppelganger and targets it with a {@spell Chromatic Orb|XPHB} spell, everyone rolls Initiative, and the Sorcerer does so with Advantage. If the doppelganger rolls well, it might still act before the Sorcerer's spell goes off, reflecting the monster's ability to anticipate the spell.",
+								"In any situation where a character's actions initiate combat, you can give the acting character {@variantrule Advantage|XPHB} on their Initiative roll. For example, if a conversation with an NPC is cut short because the Ensorceleur is convinced that NPC is a doppelganger and targets it with a {@spell Chromatic Orb|XPHB} spell, everyone rolls Initiative, and the Ensorceleur does so with Advantage. If the doppelganger rolls well, it might still act before the Sorcerer's spell goes off, reflecting the monster's ability to anticipate the spell.",
 								{
 									"type": "entries",
 									"name": "Using Initiative Scores",
@@ -5295,7 +5295,7 @@
 								{
 									"type": "item",
 									"name": "Identity",
-									"entry": "Make sure the spell fits with the identity of those who can cast it. Sorcerers and Wizards don't typically cast healing spells, for example."
+									"entry": "Make sure the spell fits with the identity of those who can cast it. Ensorceleurs and Wizards don't typically cast healing spells, for example."
 								},
 								{
 									"type": "item",
@@ -12142,7 +12142,7 @@
 												{
 													"type": "item",
 													"name": "Indirect Input",
-													"entry": "The choices a player makes, starting at character creation, can indicate what they want to see in the game. For example, a Rogue player likely wants opportunities for subtlety or skulduggery, while a Barbare player likely craves combat. Take note of what encounters players are enthusiastic about, and seek ways to help the players' characters shine."
+													"entry": "The choices a player makes, starting at character creation, can indicate what they want to see in the game. For example, a Roublard player likely wants opportunities for subtlety or skulduggery, while a Barbare player likely craves combat. Take note of what encounters players are enthusiastic about, and seek ways to help the players' characters shine."
 												}
 											]
 										}
@@ -28887,7 +28887,7 @@
 					"id": "709",
 					"entries": [
 						"If you allow Bastions in your campaign, characters acquire their Bastions when they reach level 5. You and the players can decide together how these Bastions come into being. A character might inherit or receive a parcel of land on which to build their Bastion (see \"{@book Marks of Prestige|XDMG|2|Marks of Prestige}\" in {@book chapter 3|XDMG|2}), or they might take a preexisting structure and refurbish it. It's fair to assume that work has been going on behind the scenes of the campaign during a character's early adventuring career, so the Bastion is ready when the character reaches level 5.",
-						"The shape, style, and function of a character's Bastion are up to the player to determine. For example, a Wizard might build a tower, a Clerc might establish a shrine, a Guerrier might build a fortified keep or similar stronghold, and a Rogue might establish a guildhall or lodge. Characters of other classes might choose one of these forms or combine them\u2014a Paladin's Bastion might be similar to a Cleric's shrine but as fortified as a Fighter's stronghold. And multiple characters can combine their Bastions to form a single large structure (see \"{@book Bastion Map|XDMG|7|Bastion Map}\").",
+						"The shape, style, and function of a character's Bastion are up to the player to determine. For example, a Wizard might build a tower, a Clerc might establish a shrine, a Guerrier might build a fortified keep or similar stronghold, and a Roublard might establish a guildhall or lodge. Characters of other classes might choose one of these forms or combine them\u2014a Paladin's Bastion might be similar to a Cleric's shrine but as fortified as a Fighter's stronghold. And multiple characters can combine their Bastions to form a single large structure (see \"{@book Bastion Map|XDMG|7|Bastion Map}\").",
 						"Every Bastion has facilities that serve basic needs as well as special ones, such as libraries, menageries, and workshops (see \"{@book Basic Facilities|XDMG|7|Basic Facilities}\" and \"{@book Special Facilities|XDMG|7|Special Facilities}\")."
 					]
 				},
@@ -30206,7 +30206,7 @@
 					"page": 355,
 					"id": "7a8",
 					"entries": [
-						"Delina {@i (dell-EEN-ah)} is a young elf Sorcerer who wields the unpredictable power of wild magic. Finding herself in trouble in the city of {@book Baldur's Gate|XDMG|8|Baldur's Gate}, she accidentally reawakened the ancient hero of the city, {@book Minsc|XDMG|8|Minsc}, and got thrown into further adventures pursuing her lost twin brother."
+						"Delina {@i (dell-EEN-ah)} is a young elf Ensorceleur who wields the unpredictable power of wild magic. Finding herself in trouble in the city of {@book Baldur's Gate|XDMG|8|Baldur's Gate}, she accidentally reawakened the ancient hero of the city, {@book Minsc|XDMG|8|Minsc}, and got thrown into further adventures pursuing her lost twin brother."
 					]
 				},
 				{
@@ -30261,7 +30261,7 @@
 					"page": 356,
 					"id": "7ae",
 					"entries": [
-						"Tessalynde is a young elf Rogue who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she's gathered isn't the stuff of legend yet, she's confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Guerrier too stubborn to stay down; Cazrin, a self-taught, human Wizard determined to test her theoretical mettle against the real world; Baldric, a dwarf Clerc who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Barde with as many secrets as songs; and Uggie, a pet otyugh."
+						"Tessalynde is a young elf Roublard who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she's gathered isn't the stuff of legend yet, she's confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Guerrier too stubborn to stay down; Cazrin, a self-taught, human Wizard determined to test her theoretical mettle against the real world; Baldric, a dwarf Clerc who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Barde with as many secrets as songs; and Uggie, a pet otyugh."
 					]
 				},
 				{
@@ -30731,7 +30731,7 @@
 					"entries": [
 						"The noble adventuring party known as Valor's Call was founded by Strongheart, a resolute human Paladin committed to destroying evil wherever it rears its head. Strongheart alone determines who can become a member of this prestigious group, and he is always looking for courageous heroes willing to devote themselves to a good cause.",
 						"Only good-aligned characters can join Valor's Call. The group enjoys the patronage of {@book Yolande|XDMG|8|Yolande}, the queen of Celene, and carries out missions on her behalf both in the Greyhawk setting (see {@book chapter 5|XDMG|4}) and in the {@book Feywild|XDMG|5|Feywild} (see {@book chapter 6|XDMG|5|Feywild}).",
-						"Prominent members of Valor's Call include the dwarf Guerrier Elkhorn, the human Clerc Mercion, the human Rogue Molliver, and the human Wizard Ringlerun."
+						"Prominent members of Valor's Call include the dwarf Guerrier Elkhorn, the human Clerc Mercion, the human Roublard Molliver, and the human Wizard Ringlerun."
 					]
 				},
 				{

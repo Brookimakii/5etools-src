@@ -4199,7 +4199,7 @@
 					}
 				},
 				{
-					"name": "Sorcerer Spells",
+					"name": "Ensorceleur Spells",
 					"ability": "cha",
 					"innate": {
 						"_": {
@@ -5808,7 +5808,7 @@
 					}
 				},
 				{
-					"name": "Sorcerer Spells",
+					"name": "Ensorceleur Spells",
 					"ability": "cha",
 					"innate": {
 						"_": {
@@ -7080,7 +7080,7 @@
 					}
 				},
 				{
-					"name": "Sorcerer Spells",
+					"name": "Ensorceleur Spells",
 					"ability": "cha",
 					"known": {
 						"_": [

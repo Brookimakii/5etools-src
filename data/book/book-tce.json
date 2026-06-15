@@ -1599,7 +1599,7 @@
 										"type": "internal",
 										"path": "book/TCE/043-01-053.webp"
 									},
-									"title": "A Drow Rogue takes aim.",
+									"title": "A Drow Roublard takes aim.",
 									"width": 932,
 									"height": 1000,
 									"credit": "Nikki Dawes"
@@ -1646,7 +1646,7 @@
 								"You gain class features in the {@book Player's Handbook|PHB} when you reach certain levels in your class. This section offers additional features that you can gain as a sorcerer. Unlike the features in the {@book Player's Handbook|PHB}, you don't gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature's description. These features can be selected separately from one another; you can use some, all, or none of them.",
 								{
 									"type": "entries",
-									"name": "Additional Sorcerer Spells",
+									"name": "Additional Ensorceleur Spells",
 									"page": 65,
 									"id": "188",
 									"entries": [
@@ -1701,7 +1701,7 @@
 										"type": "internal",
 										"path": "book/TCE/047-01-058.webp"
 									},
-									"title": "A Sorcerer uses transmuted spell",
+									"title": "A Ensorceleur uses transmuted spell",
 									"width": 987,
 									"height": 1000,
 									"credit": "Kieran Yanner"

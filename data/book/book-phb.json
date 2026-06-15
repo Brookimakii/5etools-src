@@ -1891,11 +1891,11 @@
 								],
 								[
 									"Rogue",
-									"{@dice 4d4×10|4d4 × 10|Rogue Starting Wealth} gp"
+									"{@dice 4d4×10|4d4 × 10|Roublard Starting Wealth} gp"
 								],
 								[
 									"Sorcerer",
-									"{@dice 3d4×10|3d4 × 10|Sorcerer Starting Wealth} gp"
+									"{@dice 3d4×10|3d4 × 10|Ensorceleur Starting Wealth} gp"
 								],
 								[
 									"Warlock",
@@ -10299,7 +10299,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Sorcerer Spells",
+					"name": "Ensorceleur Spells",
 					"entries": [
 						{
 							"type": "list",

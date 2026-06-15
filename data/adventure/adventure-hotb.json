@@ -1173,7 +1173,7 @@
 																{
 																	"type": "item",
 																	"name": "Example",
-																	"entry": "A Rogue tries to deceive the kobold with a Charisma ({@skill Deception|XPHB}) check. The player rolls a {@dice d20} and adds their character's {@skill Deception|XPHB} modifier (+4) for a total of 14. The check succeeds\u2014the kobold believes the lie!"
+																	"entry": "A Roublard tries to deceive the kobold with a Charisma ({@skill Deception|XPHB}) check. The player rolls a {@dice d20} and adds their character's {@skill Deception|XPHB} modifier (+4) for a total of 14. The check succeeds\u2014the kobold believes the lie!"
 																}
 															]
 														}
@@ -12321,7 +12321,7 @@
 																		{
 																			"type": "item",
 																			"name": "Example",
-																			"entry": "A Rogue tries to smooth things over with Pral by pretending to be a bandit. The Rogue makes a Charisma ({@skill Deception|XPHB}) check with Disadvantage."
+																			"entry": "A Roublard tries to smooth things over with Pral by pretending to be a bandit. The Roublard makes a Charisma ({@skill Deception|XPHB}) check with Disadvantage."
 																		}
 																	]
 																},
@@ -12986,7 +12986,7 @@
 											"name": "Hiring Jacko",
 											"id": "213",
 											"entries": [
-												"Plucky do-gooders aren't Jacko's usual clientele, but for 25 GP, he offers to join the characters in a single fight anywhere in the wilderness. If the party contains a Rogue or a character with the Criminal background, Jacko offers a 5 GP discount. The shady halfling advertises his services as \"all inclusive\" and \"no questions asked\" while performing a cutthroat gesture.",
+												"Plucky do-gooders aren't Jacko's usual clientele, but for 25 GP, he offers to join the characters in a single fight anywhere in the wilderness. If the party contains a Roublard or a character with the Criminal background, Jacko offers a 5 GP discount. The shady halfling advertises his services as \"all inclusive\" and \"no questions asked\" while performing a cutthroat gesture.",
 												"If a player character hires Jacko, whenever the characters roll Initiative in the wilderness, ask that player if they'd like Jacko to assist them in the fight. If so, Jacko joins the fray alongside the party. After the fight, Jacko returns to this location unless the characters hire him again."
 											]
 										}

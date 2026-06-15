@@ -928,7 +928,7 @@
 											"id": "035",
 											"entries": [
 												"{@comicH1 SLEIGHT OF HAND}",
-												"{@comic Stealing is a time-honored D&D tradition, Morty. Rogues do it, obviously, but everyone else does too.}",
+												"{@comic Stealing is a time-honored D&D tradition, Morty. Roublards do it, obviously, but everyone else does too.}",
 												"{@b {@i {@comicH4 EVEN CLERICS}!}}",
 												{
 													"type": "image",
@@ -2169,7 +2169,7 @@
 											"height": 427,
 											"credit": "Troy Little"
 										},
-										"{@comic I know you like rogues, Morty. Just remember they're not meat-shields. Rogues gotta do it fart-style...}",
+										"{@comic I know you like rogues, Morty. Just remember they're not meat-shields. Roublards gotta do it fart-style...}",
 										"{@comicH1 SILENT BUT DEADLY.}"
 									],
 									"style": "comic-speaker"

@@ -851,7 +851,7 @@
 				"Weapon Mastery|Rogue|XPHB|1",
 				"Cunning Action|Rogue|XPHB|2",
 				{
-					"classFeature": "Rogue Subclass|Rogue|XPHB|3",
+					"classFeature": "Roublard Subclass|Rogue|XPHB|3",
 					"gainSubclassFeature": true
 				},
 				"Steady Aim|Rogue|XPHB|3",
@@ -884,7 +884,7 @@
 				"Epic Boon|Rogue|XPHB|19",
 				"Stroke of Luck|Rogue|XPHB|20"
 			],
-			"subclassTitle": "Rogue Subclass",
+			"subclassTitle": "Roublard Subclass",
 			"hasFluff": true,
 			"hasFluffImages": true
 		}
@@ -2058,7 +2058,7 @@
 			"entries": [
 				"Beginning at 1st level, you know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra {@damage 1d6} damage to one creature you hit with an attack if you have advantage on the attack roll. The attack must use a finesse or a ranged weapon.",
 				"You don't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't {@condition incapacitated}, and you don't have disadvantage on the attack roll.",
-				"The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Rogue table."
+				"The amount of the extra damage increases as you gain levels in this class, as shown in the Sneak Attack column of the Roublard table."
 			]
 		},
 		{
@@ -2353,7 +2353,7 @@
 			"level": 1,
 			"entries": [
 				"You gain {@variantrule Expertise|XPHB} in two of your skill proficiencies of your choice. {@skill Sleight of Hand|XPHB} and {@skill Stealth|XPHB} are recommended if you have proficiency in them.",
-				"At Rogue level 6, you gain {@variantrule Expertise|XPHB} in two more of your skill proficiencies of your choice."
+				"At Roublard level 6, you gain {@variantrule Expertise|XPHB} in two more of your skill proficiencies of your choice."
 			]
 		},
 		{
@@ -2368,7 +2368,7 @@
 			"entries": [
 				"You know how to strike subtly and exploit a foe's distraction. Once per turn, you can deal an extra {@damage 1d6} damage to one creature you hit with an attack roll if you have {@variantrule Advantage|XPHB} on the roll and the attack uses a Finesse or a Ranged weapon. The extra damage's type is the same as the weapon's type.",
 				"You don't need {@variantrule Advantage|XPHB} on the attack roll if at least one of your allies is within 5 feet of the target, the ally doesn't have the {@condition Incapacitated|XPHB} condition, and you don't have {@variantrule Disadvantage|XPHB} on the attack roll.",
-				"The extra damage increases as you gain Rogue levels, as shown in the Sneak Attack column of the Rogue Features table."
+				"The extra damage increases as you gain Roublard levels, as shown in the Sneak Attack column of the Roublard Features table."
 			]
 		},
 		{
@@ -2412,7 +2412,7 @@
 			]
 		},
 		{
-			"name": "Rogue Subclass",
+			"name": "Roublard Subclass",
 			"source": "XPHB",
 			"page": 129,
 			"srd52": true,
@@ -2421,7 +2421,7 @@
 			"classSource": "XPHB",
 			"level": 3,
 			"entries": [
-				"You gain a Rogue subclass of your choice. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass's features that are of your Rogue level or lower."
+				"You gain a Roublard subclass of your choice. A subclass is a specialization that grants you features at certain Roublard levels. For the rest of your career, you gain each of your subclass's features that are of your Roublard level or lower."
 			]
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"classSource": "XPHB",
 			"level": 4,
 			"entries": [
-				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Rogue levels 8, 10, 12, and 16."
+				"You gain the {@feat Ability Score Improvement|XPHB} feat or another {@5etools feat|feats.html} of your choice for which you qualify. You gain this feature again at Roublard levels 8, 10, 12, and 16."
 			]
 		},
 		{
@@ -2596,7 +2596,7 @@
 			"classSource": "XPHB",
 			"level": 9,
 			"entries": [
-				"You gain a feature from your Rogue Subclass."
+				"You gain a feature from your Roublard Subclass."
 			]
 		},
 		{
@@ -2648,7 +2648,7 @@
 			"classSource": "XPHB",
 			"level": 13,
 			"entries": [
-				"You gain a feature from your Rogue Subclass."
+				"You gain a feature from your Roublard Subclass."
 			]
 		},
 		{
@@ -2756,7 +2756,7 @@
 			"classSource": "XPHB",
 			"level": 17,
 			"entries": [
-				"You gain a feature from your Rogue Subclass."
+				"You gain a feature from your Roublard Subclass."
 			]
 		},
 		{
@@ -3694,7 +3694,7 @@
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Rogues who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter\u2014these are just a few of the roles that Scouts assume as they range the world.",
+				"You are skilled in stealth and surviving far from the streets of a city, allowing you to scout ahead of your companions during expeditions. Roublards who embrace this archetype are at home in the wilderness and among barbarians and rangers, and many Scouts serve as the eyes and ears of war bands. Ambusher, spy, bounty hunter\u2014these are just a few of the roles that Scouts assume as they range the world.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Skirmisher|Rogue||Scout|XGE|3"
@@ -3882,7 +3882,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Enhance Stealth with Arcane Spells}",
-				"Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.",
+				"Some Roublards enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Spellcasting|Rogue|XPHB|Arcane Trickster|XPHB|3"
@@ -3922,8 +3922,8 @@
 					"name": "Cantrips",
 					"entries": [
 						"You know three cantrips: {@spell Mage Hand|XPHB} and two other cantrips of your choice from the {@filter Wizard spell list|spells|class=Wizard} (see that class's section for its list). {@spell Mind Sliver|XPHB} and {@spell Minor Illusion|XPHB} are recommended.",
-						"Whenever you gain a Rogue level, you can replace one of your cantrips, except {@spell Mage Hand|XPHB}, with another Wizard cantrip of your choice.",
-						"When you reach Rogue level 10, you learn another Wizard cantrip of your choice."
+						"Whenever you gain a Roublard level, you can replace one of your cantrips, except {@spell Mage Hand|XPHB}, with another Wizard cantrip of your choice.",
+						"When you reach Roublard level 10, you learn another Wizard cantrip of your choice."
 					]
 				},
 				{
@@ -3938,14 +3938,14 @@
 					"name": "Prepared Spells of 1st+ Level",
 					"entries": [
 						"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 Wizard spells. {@spell Charm Person|XPHB}, {@spell Disguise Self|XPHB}, and {@spell Fog Cloud|XPHB} are recommended.",
-						"The number of spells on your list increases as you gain Rogue levels, as shown in the Prepared Spells column of the Arcane Trickster Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Arcane Trickster Spellcasting table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Wizard spells of level 1 or 2 in any combination."
+						"The number of spells on your list increases as you gain Roublard levels, as shown in the Prepared Spells column of the Arcane Trickster Spellcasting table. Whenever that number increases, choose additional Wizard spells until the number of spells on your list matches the number in the Arcane Trickster Spellcasting table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Rogue, your list of prepared spells can include five Wizard spells of level 1 or 2 in any combination."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Changing Your Prepared Spells",
 					"entries": [
-						"Whenever you gain a Rogue level, you can replace one spell on your list with another Wizard spell for which you have spell slots."
+						"Whenever you gain a Roublard level, you can replace one spell on your list with another Wizard spell for which you have spell slots."
 					]
 				},
 				{
@@ -4019,7 +4019,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Practice the Grim Art of Death}",
-				"An Assassin's training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.",
+				"An Assassin's training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Roublards who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Assassinate|Rogue|XPHB|Assassin|XPHB|3"
@@ -4068,7 +4068,7 @@
 							"type": "entries",
 							"name": "Surprising Strikes",
 							"entries": [
-								"During the first round of each combat, you have {@variantrule Advantage|XPHB} on attack rolls against any creature that hasn't taken a turn. If your Sneak Attack hits any target during that round, the target takes extra damage of the weapon's type equal to your Rogue level."
+								"During the first round of each combat, you have {@variantrule Advantage|XPHB} on attack rolls against any creature that hasn't taken a turn. If your Sneak Attack hits any target during that round, the target takes extra damage of the weapon's type equal to your Roublard level."
 							]
 						}
 					]
@@ -4147,7 +4147,7 @@
 			"level": 3,
 			"entries": [
 				"{@i Strike Foes with Psionic Blades}",
-				"A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Rogues discover psionic power within themselves and channel it to do their roguish work. As a Soulknife, your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest your power.",
+				"A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Roublards discover psionic power within themselves and channel it to do their roguish work. As a Soulknife, your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest your power.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Psionic Power|Rogue|XPHB|Soulknife|XPHB|3"
@@ -4169,12 +4169,12 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"You harbor a wellspring of psionic energy within yourself. It is represented by your Psionic Energy Dice, which fuel certain powers you have from this subclass. The Soulknife Energy Dice table shows the number of these dice you have when you reach certain Rogue levels, and the table shows the die size.",
+				"You harbor a wellspring of psionic energy within yourself. It is represented by your Psionic Energy Dice, which fuel certain powers you have from this subclass. The Soulknife Energy Dice table shows the number of these dice you have when you reach certain Roublard levels, and the table shows the die size.",
 				{
 					"type": "table",
 					"caption": "Soulknife Energy Dice",
 					"colLabels": [
-						"Rogue Level",
+						"Roublard Level",
 						"Die Size",
 						"Number"
 					],
