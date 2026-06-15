@@ -681,7 +681,7 @@
 										"The village of Shadowgrange sits at the east end of the valley. Its burgomaster is Kolyan Indirovich.",
 										"The town of Lammas lies at the heart of the outland valleys. Its nominal leader is Baroness Lydia Petrovna, but the town is presently controlled by the inquisitor Seeta.",
 										"The fortified village of Krezk lies at the west end of the outland valleys and is built around an old abbey. The village burgomaster is named Dmitri Krezkov.",
-										"Wine is the lifeblood of the outland valleys\u2014for some, it is the only reason to keep living. Taverns here get their wine from the Wizard of Wines winery near Krezk.",
+										"Wine is the lifeblood of the outland valleys\u2014for some, it is the only reason to keep living. Taverns here get their wine from the Magicien of Wines winery near Krezk.",
 										"A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's."
 									]
 								},
@@ -879,7 +879,7 @@
 					"name": "The Ruins of Berez",
 					"page": 37,
 					"entries": [
-						"An ancient crone here is dedicated to destroying the Keepers of the Feather, the witches that inhabit the Wizard of Wines."
+						"An ancient crone here is dedicated to destroying the Keepers of the Feather, the witches that inhabit the Magicien of Wines."
 					],
 					"id": "024"
 				},
@@ -895,7 +895,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "The Wizard of Wines and Wereravens",
+					"name": "The Magicien of Wines and Wereravens",
 					"page": 38,
 					"entries": [
 						"The Martikov family who run this winery made a pact with a raven spirit of the Somberwald and became forcemages, forming the nucleus of the Keepers of the Feather. These witches stand on the side of humanity against the horrors of Innistrad, and against Strefan Maurer specifically. Their pact gives them magical power, supplemented by their extensive knowledge of herbalism.",

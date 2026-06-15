@@ -24452,7 +24452,7 @@
 									"page": 118,
 									"id": "4ad",
 									"entries": [
-										"Nylas Jowd (NE male Thayan human {@creature mage} with {@spell animate dead} prepared instead of {@spell fly}) wanders the halls of Dweomercore with a pair of {@condition invisible} will-o'-wisps that obey his commands. Nylas journeyed from Thay to study under Halaster and learn the deeper secrets of necromancy, and he has all the hallmarks of a Red Wizard of Thay\u2014namely, the red robes, the bald head, and the evil bent. He treats others as soon-to-be corpses and is more interested in their anatomy than what they say or do.",
+										"Nylas Jowd (NE male Thayan human {@creature mage} with {@spell animate dead} prepared instead of {@spell fly}) wanders the halls of Dweomercore with a pair of {@condition invisible} will-o'-wisps that obey his commands. Nylas journeyed from Thay to study under Halaster and learn the deeper secrets of necromancy, and he has all the hallmarks of a Red Magicien of Thay\u2014namely, the red robes, the bald head, and the evil bent. He treats others as soon-to-be corpses and is more interested in their anatomy than what they say or do.",
 										"Nylas wants to turn the Horned Sisters (see below) into zombies because they have acted cruelly toward him. He asks the characters to kill them so he can raise their corpses with {@spell animate dead} spells. If the characters refuse, Nylas and his will-o'-wisps attack them."
 									]
 								},
@@ -26849,7 +26849,7 @@
 									"page": 126,
 									"id": "4fd",
 									"entries": [
-										"This room is identical to area 21a, except that someone has hastily scrawled the following words on the chalkboard in Common: \"Wizards of Yore class canceled. Research Ahghairon circa 1071 DR. Expect a quiz!\"",
+										"This room is identical to area 21a, except that someone has hastily scrawled the following words on the chalkboard in Common: \"Magiciens of Yore class canceled. Research Ahghairon circa 1071 DR. Expect a quiz!\"",
 										"Any character who succeeds on a {@dc 20} Intelligence ({@skill History}) check recalls that 1071 DR, the Year of Lion's Roars, was the year in which the archmage Ahghairon, first Lord of Waterdeep, created magic wards to protect his city against marauding dragons."
 									]
 								}

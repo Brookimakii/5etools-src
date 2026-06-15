@@ -82,7 +82,7 @@
 									"id": "00a",
 									"entries": [
 										"The Cult of the Dragon has kept secret its goal to bring {@creature Tiamat|RoT} into the world thus far. Many know of the cult's increased activity along the Sword Coast, especially in the north, but the reasons behind the resurgence are unknown.",
-										"Besides his cultists, {@creature Severin|RoT} has forged an alliance with a splinter faction of the Red Wizards of Thay. This small and secretive group, led by an outcast named Rath Modar, plots to unseat the lich Szass Tam from his position over the Red Wizards. Rath believes that in exchange for his help in releasing {@creature Tiamat|RoT}, she will grant him the power he needs to overthrow Szass Tam."
+										"Besides his cultists, {@creature Severin|RoT} has forged an alliance with a splinter faction of the Red Magiciens of Thay. This small and secretive group, led by an outcast named Rath Modar, plots to unseat the lich Szass Tam from his position over the Red Wizards. Rath believes that in exchange for his help in releasing {@creature Tiamat|RoT}, she will grant him the power he needs to overthrow Szass Tam."
 									]
 								},
 								{
@@ -147,7 +147,7 @@
 							"id": "011",
 							"entries": [
 								"The time of dragons dawns. Calling upon ancient magic and a host of draconic allies, the Cult of the Dragon seeks to unleash {@creature Tiamat|RoT} from her prison in the Nine Hells. By bringing the Queen of Dragons bodily into the world, the cult plans to scour away their foes and usher in a new age of draconic dominance. So far, they've gathered great stores of treasure, forged an alliance with Thay to assist with performing the required summoning ritual, gathered the five dragon masks central to the ritual (see \"{@area Dragon Masks|009|x},\" below), and persuaded or cajoled many of the oldest and strongest evil dragons of Faerûn into supporting them.",
-								"However, not everything has gone according to the cult's plans. The discovery of an alliance between the Cult of the Dragon and the Red Wizards of Thay has shaken the various factions aligned against both organizations. The Harpers view any such alliance as an abomination, as does the Order of the Gauntlet. The Lords' Alliance recognizes the obvious threat to the lands and rulers of the Sword Coast and the North, while the Emerald Enclave suspects that anything Thay promotes is likely against the natural order. Even the Zhentarim fear the union of two such powerful forces.",
+								"However, not everything has gone according to the cult's plans. The discovery of an alliance between the Cult of the Dragon and the Red Magiciens of Thay has shaken the various factions aligned against both organizations. The Harpers view any such alliance as an abomination, as does the Order of the Gauntlet. The Lords' Alliance recognizes the obvious threat to the lands and rulers of the Sword Coast and the North, while the Emerald Enclave suspects that anything Thay promotes is likely against the natural order. Even the Zhentarim fear the union of two such powerful forces.",
 								"News of the alliance has thus brought the various factions of the Sword Coast together. The leaders of those factions understand that they must gather and rally forces to fight the cult, even as the situation in Faerûn grows more dire. Abductions and raids undertaken by the Cult of the Dragon increase daily, and refugees are fleeing from burned-out regions under cult attack to major cities and fortresses. Villagers have abandoned their homes, fleeing the constant predation of dragons. In many cities, all-out panic has created a growing movement in favor of agreeing to the cult's demands in the hope of winning concessions in return. It is difficult to muster troops when people are afraid they will be burned by dragonfire. This is a time for heroes to inspire the people of the Sword Coast with a great victory or two. Fortunately, the Forgotten Realms has just such a group of heroes.",
 								{
 									"type": "entries",
@@ -155,8 +155,8 @@
 									"page": 7,
 									"id": "012",
 									"entries": [
-										"In the first volume of {@i Tyranny of Dragons}, the Cult of the Dragon gathered up a hoard for {@creature Tiamat|RoT}\u2014then lost a portion of that hoard when Skyreach Castle fell. All the while, the cult kept secret its goal of bringing back {@creature Tiamat|RoT} and its alliance with an exiled group of Red Wizards of Thay. The cult now needs only to gather enough sacrifices to power the ritual by which the dragon masks will open a portal to the Nine Hells, allowing {@creature Tiamat|RoT} to travel to the Material Plane.",
-										"These plans continue to move ahead as the Thayan exile Rath Modar and his Red Wizards bring expertise in summoning magic to the cult, preparing a tremendous blood sacrifice to empower the ritual. The alliance between wizards and cultists is fragile, however, since neither side entirely trusts the promises of the other."
+										"In the first volume of {@i Tyranny of Dragons}, the Cult of the Dragon gathered up a hoard for {@creature Tiamat|RoT}\u2014then lost a portion of that hoard when Skyreach Castle fell. All the while, the cult kept secret its goal of bringing back {@creature Tiamat|RoT} and its alliance with an exiled group of Red Magiciens of Thay. The cult now needs only to gather enough sacrifices to power the ritual by which the dragon masks will open a portal to the Nine Hells, allowing {@creature Tiamat|RoT} to travel to the Material Plane.",
+										"These plans continue to move ahead as the Thayan exile Rath Modar and his Red Magiciens bring expertise in summoning magic to the cult, preparing a tremendous blood sacrifice to empower the ritual. The alliance between wizards and cultists is fragile, however, since neither side entirely trusts the promises of the other."
 									]
 								},
 								{
@@ -309,7 +309,7 @@
 									"page": 8,
 									"id": "023",
 									"entries": [
-										"The ritual that will bring {@creature Tiamat|RoT} to Faerûn is too complex for the cult's spellcasters to perform without their {@creature Red Wizard|RoT} allies\u2014all Thayan exiles. The adventurers travel to Thay to forge an alliance with the Red Wizards, whose lich lord Szass Tam hungers for revenge against the exiles. The Red Wizards of Thay are evil to the core, though, and the delegates must tread carefully as they present their case."
+										"The ritual that will bring {@creature Tiamat|RoT} to Faerûn is too complex for the cult's spellcasters to perform without their {@creature Red Wizard|RoT} allies\u2014all Thayan exiles. The adventurers travel to Thay to forge an alliance with the Red Wizards, whose lich lord Szass Tam hungers for revenge against the exiles. The Red Magiciens of Thay are evil to the core, though, and the delegates must tread carefully as they present their case."
 									]
 								},
 								{
@@ -424,7 +424,7 @@
 									"page": 10,
 									"id": "02e",
 									"entries": [
-										"Though the Cult of the Dragon and the Red Wizards are making use of diabolic allies as they plan the ritual that will free {@creature Tiamat|RoT}, not all devils are on their side. Some fiends not wanting to see {@creature Tiamat|RoT} gain worldly power seek to break the alliance between the cult and Thay. This encounter can be used to reveal to the characters the divisions already present among the evil factions.",
+										"Though the Cult of the Dragon and the Red Magiciens are making use of diabolic allies as they plan the ritual that will free {@creature Tiamat|RoT}, not all devils are on their side. Some fiends not wanting to see {@creature Tiamat|RoT} gain worldly power seek to break the alliance between the cult and Thay. This encounter can be used to reveal to the characters the divisions already present among the evil factions.",
 										"The devils who are aligned against {@creature Tiamat|RoT} send a delegation of 5 {@creature Cultist||cultists} and 2 {@creature Cult Fanatic||cult fanatics} (devil worshipers) and a {@creature bone devil} named Lord Volmer to treat with the party. The cultists lead the characters to a large tent, inside which Lord Volmer awaits.",
 										"Using telepathy, Lord Volmer tells the adventurers about the so-called \"Thayan Resurrection\" (the attempt by Thayan exiles to supplant Szass Tam), as well as the fact that Szass Tam intends to destroy Rath Modar and his \"splinter sect\" for their impudence. The bone devil assures the characters that they can earn the Red Wizards' favor by providing him with information leading to Rath Modar's capture.",
 										"Lord Volmer also tells the party that the lords of the Nine Hells are divided when it comes to the matter of {@creature Tiamat|RoT}'s release. He tells the party that if {@creature Tiamat|RoT} is prevented from escaping, the party will earn \"powerful friends\" in the Nine Hells. If the characters attack Lord Volmer, he and his allies retaliate. The devil is not worried about dying, since he reforms at full strength in the Nine Hells upon his demise."
@@ -567,12 +567,12 @@
 						},
 						{
 							"type": "entries",
-							"name": "Red Wizards of Thay",
+							"name": "Red Magiciens of Thay",
 							"page": 12,
 							"id": "03b",
 							"entries": [
-								"The Red Wizards hail from Thay, over two thousand miles east of the Sword Coast. A grim, dismal region spread across a towering plateau, Thay is defended by an army of undead warriors and ruled by the lich Szass Tam and the zulkirs he appoints to rule over the eight schools of magic. The Red Wizards of Thay are known across Faerûn, and are easily recognized by their distinctive crimson robes and the arcane sigils tattooed onto their shaved heads. Because of their evil reputation, Red Wizards are arrested or killed on the spot in many lands. For that reason, they often travel in disguise, invisibly, or by magical means.",
-								"For many years, Szass Tam's grip on absolute power in Thay has been weakened by internal strife. Mortal Red Wizards have risen against their undead masters, destroying some of Szass Tam's lich zulkirs and thinning the ranks of other undead. Little is known of the conflict beyond Thay's borders, however. In this quiet civil war, both sides fear that too much attrition will make Thay a target for its long list of enemies. Szass Tam questions the allegiance of all living Red Wizards outside Thay, and has made it clear that death and worse await any who oppose him.",
+								"The Red Magiciens hail from Thay, over two thousand miles east of the Sword Coast. A grim, dismal region spread across a towering plateau, Thay is defended by an army of undead warriors and ruled by the lich Szass Tam and the zulkirs he appoints to rule over the eight schools of magic. The Red Magiciens of Thay are known across Faerûn, and are easily recognized by their distinctive crimson robes and the arcane sigils tattooed onto their shaved heads. Because of their evil reputation, Red Magiciens are arrested or killed on the spot in many lands. For that reason, they often travel in disguise, invisibly, or by magical means.",
+								"For many years, Szass Tam's grip on absolute power in Thay has been weakened by internal strife. Mortal Red Magiciens have risen against their undead masters, destroying some of Szass Tam's lich zulkirs and thinning the ranks of other undead. Little is known of the conflict beyond Thay's borders, however. In this quiet civil war, both sides fear that too much attrition will make Thay a target for its long list of enemies. Szass Tam questions the allegiance of all living Red Magiciens outside Thay, and has made it clear that death and worse await any who oppose him.",
 								{
 									"type": "entries",
 									"name": "Rath Modar's Ambition",
@@ -580,7 +580,7 @@
 									"id": "03c",
 									"entries": [
 										"One such {@creature Red Wizard|RoT} exile is {@creature Rath Modar|HotDQ}, an illusionist of great skill who long ago made the Sword Coast his home. Having a natural interest in dragons, it wasn't long before Rath Modar came into contact with the Cult of the Dragon and {@creature Severin|RoT}. The young, ambitious cult leader sought powerful magic to locate the scattered dragon masks and to perform the ritual that would summon {@creature Tiamat|RoT} from the Nine Hells. Rath Modar dreamed of an army that could confront and defeat Szass Tam. Out of mutual need, their alliance was born.",
-										"The secret cornerstone of this union is Rath Modar's belief that once {@creature Tiamat|RoT} returns, she will see that the Red Wizards are more useful allies than the devoted but magically weak cultists. Rath Modar hopes that {@creature Tiamat|RoT} will show her gratitude for the pivotal role he and his fellow Red Wizards played in her return, granting them an army of dragons with which to assault Thay. After unseating Szass Tam, Rath Modar plans to take his place at the head of all Red Wizards. Whether {@creature Tiamat|RoT} will grant such a reward\u2014or have any further use for the Red Wizards at all\u2014remains unknown.",
+										"The secret cornerstone of this union is Rath Modar's belief that once {@creature Tiamat|RoT} returns, she will see that the Red Magiciens are more useful allies than the devoted but magically weak cultists. Rath Modar hopes that {@creature Tiamat|RoT} will show her gratitude for the pivotal role he and his fellow Red Magiciens played in her return, granting them an army of dragons with which to assault Thay. After unseating Szass Tam, Rath Modar plans to take his place at the head of all Red Wizards. Whether {@creature Tiamat|RoT} will grant such a reward\u2014or have any further use for the Red Magiciens at all\u2014remains unknown.",
 										"Not all members of the Cult of the Dragon are happy about the Red Wizards' involvement in the cult's plans. Wyrmspeaker {@creature Varram|RoT} foresees trouble in the cult joining forces with Rath Modar's splinter sect. He has warned {@creature Severin|RoT} about the potential danger, to no avail."
 									]
 								},
@@ -590,8 +590,8 @@
 									"page": 13,
 									"id": "03d",
 									"entries": [
-										"Red Wizards can be encountered anywhere on the Sword Coast (use {@creature mage} stats if necessary), whether operating alongside cultists or on their own. They most often work alone, but two or three Red Wizards might join forces for an important assignment. In a public area where their appearance could put them at risk, Red Wizards favor deep hoods and scarves to hide their faces. Their undead {@creature wight} bodyguards are usually nearby\u2014and often {@condition invisible}. Each {@creature Red Wizard|RoT} specializes in a single school of magic, but all learn spells outside their specialty schools.",
-										"Red Wizards don't share the cultists' fanaticism for {@creature Tiamat|RoT}. For them, bringing the Dragon Queen into the world is just one stage of what they call the Thayan Resurrection\u2014the larger plan to destroy Szass Tam and reclaim Thay. They tolerate the dragon cultists but do not acknowledge them as equals.",
+										"Red Magiciens can be encountered anywhere on the Sword Coast (use {@creature mage} stats if necessary), whether operating alongside cultists or on their own. They most often work alone, but two or three Red Magiciens might join forces for an important assignment. In a public area where their appearance could put them at risk, Red Magiciens favor deep hoods and scarves to hide their faces. Their undead {@creature wight} bodyguards are usually nearby\u2014and often {@condition invisible}. Each {@creature Red Wizard|RoT} specializes in a single school of magic, but all learn spells outside their specialty schools.",
+										"Red Magiciens don't share the cultists' fanaticism for {@creature Tiamat|RoT}. For them, bringing the Dragon Queen into the world is just one stage of what they call the Thayan Resurrection\u2014the larger plan to destroy Szass Tam and reclaim Thay. They tolerate the dragon cultists but do not acknowledge them as equals.",
 										"Not every {@creature Red Wizard|RoT} on the Sword Coast is working for Rath Modar or the Cult of the Dragon. Some pursue their own interests, while others are spies for Szass Tam. The adventurers might thus find themselves making uneasy alliances with characters they would normally never trust, since the easiest and surest way to eliminate a {@creature Red Wizard|RoT} in service to the cult is to betray that wizard's location to an agent of Szass Tam. However, characters who get too close to Szass Tam's servants and his paranoid vendetta against the {@creature Red Wizard|RoT} exiles might find themselves at the mercy of the Thayans. This possibility is explored more fully in {@adventure chapter 16|RoT|7}."
 									]
 								}
@@ -606,8 +606,8 @@
 								"{@creature Tiamat|RoT} has long threatened Faerûn, often appearing in lands such as Chessenta and Unther to drive mortals to worship her awesome power. Although mortals don't know it, the end of the Sundering and the Era of Upheaval also put an end to such direct meddling by the gods. Without powerful magic and mortal aid, {@creature Tiamat|RoT} cannot travel from her home in Avernus into the world.",
 								"Avernus is a boulder-strewn desolation where fiery comets streak across the sky and devil aristocrats rule from dismal iron fortresses. The River Styx saws a jagged course through Avernus's basalt cliffs, winds its way across ashen plains, and eventually plunges through a yawning pit into the eight levels of the Hells below. All the rivers of Avernus feed into the Styx, each one flowing red with blood beneath a roiling cloud of flies.",
 								"Asmodeus recently reinstated the fallen angel Zariel as the Archduchess of Avernus, reversing an earlier decision that allowed a pit fiend named Bel to take the throne. While in exile from her seat of power, Zariel was at the mercy of {@creature Tiamat|RoT}\u2014a fate that rankles her still. Despite her power as ruler of the first layer of the Nine Hells, Zariel cannot kill the dragon goddess, and she sees the summoning of {@creature Tiamat|RoT} to the world as a way to be rid of her.",
-								"Zariel has directed her mortal agents to assist those who seek to free {@creature Tiamat|RoT}, and her power has made it easier for the Red Wizards to summon devils and for the Cult of the Dragon to find more adherents. However, just as Zariel wants {@creature Tiamat|RoT} out, other devils would be happy to see the Dragon Queen stay in Avernus. Foremost among them is the deposed pit fiend Bel and the devils still loyal to him.",
-								"Ordinarily, the Cult of the Dragon has nothing to do with devils. However, releasing {@creature Tiamat|RoT} into the world is a massive undertaking, and {@creature Severin|RoT} has called on every resource he can. Though many of his allies among the Red Wizards are well schooled in summoning and commanding devils, doing so is never a straightforward process. Devils cannot leave the Nine Hells of their own accord, and though Asmodeus can bend these laws, he seldom does. Most devils in the Material Plane were summoned there by mortal mages who expended tremendous amounts of magical power to breach the barriers that separate the Nine Hells from other planes.",
+								"Zariel has directed her mortal agents to assist those who seek to free {@creature Tiamat|RoT}, and her power has made it easier for the Red Magiciens to summon devils and for the Cult of the Dragon to find more adherents. However, just as Zariel wants {@creature Tiamat|RoT} out, other devils would be happy to see the Dragon Queen stay in Avernus. Foremost among them is the deposed pit fiend Bel and the devils still loyal to him.",
+								"Ordinarily, the Cult of the Dragon has nothing to do with devils. However, releasing {@creature Tiamat|RoT} into the world is a massive undertaking, and {@creature Severin|RoT} has called on every resource he can. Though many of his allies among the Red Magiciens are well schooled in summoning and commanding devils, doing so is never a straightforward process. Devils cannot leave the Nine Hells of their own accord, and though Asmodeus can bend these laws, he seldom does. Most devils in the Material Plane were summoned there by mortal mages who expended tremendous amounts of magical power to breach the barriers that separate the Nine Hells from other planes.",
 								{
 									"type": "entries",
 									"name": "Using Devils",
@@ -1098,8 +1098,8 @@
 								"When the characters arrive in Waterdeep, they are met by the Harper agent Leosin Erlanthar. The monk explains the purpose of the council and tells the adventurers they are expected to attend the first gathering\u2014both so the council can thank them for their great deeds and to advise the council about the Cult of the Dragon. Four meetings of the council occur at critical points throughout the crisis, right up to the final chapter of the adventure at the Well of Dragons.",
 								"During the {@b first session} of the council, all the Sword Coast becomes aware of how the Cult of the Dragon's plots are advancing when the {@item Draakhorn|RoT} sounds. In the aftermath, the characters are given leads to {@adventure chapter 10|RoT|2} or to {@creature Varram|RoT} in {@adventure chapter 11 and 12|RoT|3|Varram the White}.",
 								"{@b second session} of the council is summoned to address increasingly aggressive dragon activity. The characters are asked to investigate a devastating series of raids in the Misty Forest, leading to {@creature Neronvain|RoT} in \"{@area Chapters 11 and 12: Death to the Wyrmspeakers.|12d|x}\" The adventurers are also approached by a representative who wishes to bring the party to a secret meeting with the metallic dragons, leading to {@adventure chapter 14|RoT|5}.",
-								"A {@b third session} of the council is called to assess the gains made by the allied factions against the Cult of the Dragon. The party is called on to pursue two leads that might grant even more advantage over the cult\u2014a renegade cultist offering to turn over one of the dragon masks, in {@adventure chapter 15|RoT|6}, and an attempt to undercut the power of the exile Red Wizards in {@adventure chapter 16|RoT|7}.",
-								"At the {@b fourth session} of the Council of Waterdeep, the adventurers learn that the plots of the Cult of the Dragon and the Red Wizards are nearing fruition. The forces of the various factions must gather in preparation for the assault on the Well of Dragons.",
+								"A {@b third session} of the council is called to assess the gains made by the allied factions against the Cult of the Dragon. The party is called on to pursue two leads that might grant even more advantage over the cult\u2014a renegade cultist offering to turn over one of the dragon masks, in {@adventure chapter 15|RoT|6}, and an attempt to undercut the power of the exile Red Magiciens in {@adventure chapter 16|RoT|7}.",
+								"At the {@b fourth session} of the Council of Waterdeep, the adventurers learn that the plots of the Cult of the Dragon and the Red Magiciens are nearing fruition. The forces of the various factions must gather in preparation for the assault on the Well of Dragons.",
 								"During each new council, the various factions measure the party's actions and achievements, comparing those actions to their own goals. Characters who further the goals of a faction will find that faction willing to pledge more resources to the fight against the cult. However, gaining the allegiance of one faction might lead to distrust from others. The adventurers must strike a careful balance in their appeal to\u2014and appeasement of\u2014the delegates to gather the strongest force possible to confront {@creature Tiamat|RoT}.",
 								"Though it isn't ideal for all attendees, the Lords' Palace in Waterdeep is the designated location of the council meetings. The Lords' Alliance faction is sending the most delegates, and those delegates prefer a civilized gathering place."
 							]
@@ -1304,7 +1304,7 @@
 									"page": 108,
 									"id": "078",
 									"entries": [
-										"The Red Wizards are integral to the cult's plans for summoning {@creature Tiamat|RoT}, but the Red Wizards allied with the Cult of the Dragon are exiles with no connection to Thay. The Thayan Red Wizards approach the Council of Waterdeep asking for an envoy to be sent to Thay, where they must convince the most reviled wizards in Faerûn to join with the forces of the Sword Coast for the common good. This paves the way for {@adventure chapter 16|RoT|7}."
+										"The Red Magiciens are integral to the cult's plans for summoning {@creature Tiamat|RoT}, but the Red Magiciens allied with the Cult of the Dragon are exiles with no connection to Thay. The Thayan Red Magiciens approach the Council of Waterdeep asking for an envoy to be sent to Thay, where they must convince the most reviled wizards in Faerûn to join with the forces of the Sword Coast for the common good. This paves the way for {@adventure chapter 16|RoT|7}."
 									]
 								}
 							]
@@ -1332,7 +1332,7 @@
 									"page": 108,
 									"id": "07b",
 									"entries": [
-										"Any alliance with the Red Wizards is a mixed blessing. More pragmatic factions and delegates\u2014including the Harpers, King Melandrach, Dagult Neverember, and Taern Hornblade\u2014are impressed by the diplomacy such an arrangement demonstrates, and know that regardless of the Red Wizards' character and previous plots against the Sword Coast, they are a significant asset. Sir Isteval, Ambassador Brawnanvil, and the Order of the Gauntlet object to the idea of even opening dialogue with the Red Wizards, and believe that the Thayans would agree to an alliance only if it furthered their own plots to rule the Sword Coast and all Faerûn. Lady Laeral and Ulder Ravengard both think the Red Wizards unpredictable but necessary, believing that the only important factor is how the Thayans influence the outcome of the final battle."
+										"Any alliance with the Red Magiciens is a mixed blessing. More pragmatic factions and delegates\u2014including the Harpers, King Melandrach, Dagult Neverember, and Taern Hornblade\u2014are impressed by the diplomacy such an arrangement demonstrates, and know that regardless of the Red Wizards' character and previous plots against the Sword Coast, they are a significant asset. Sir Isteval, Ambassador Brawnanvil, and the Order of the Gauntlet object to the idea of even opening dialogue with the Red Wizards, and believe that the Thayans would agree to an alliance only if it furthered their own plots to rule the Sword Coast and all Faerûn. Lady Laeral and Ulder Ravengard both think the Red Magiciens unpredictable but necessary, believing that the only important factor is how the Thayans influence the outcome of the final battle."
 									]
 								},
 								{
@@ -6856,7 +6856,7 @@
 							"entries": [
 								"Don't be afraid to engage in some triumphal monologuing by the dragonsoul cultist leading the attack. Whether the attackers are winning or losing, the cultist fights with cries of \"The dragons rise!\" and \"We are unstoppable!\" At some point, the leader lets important information slip: \"The Masks are joined, the call has sounded! Soon the Gates of the Nine Hells shall swing wide and She shall return!\"",
 								"As with the first assault on the adventurers, try to ensure that if the attackers are defeated, at least one escapes to report the outcome of the battle. Most easily, the dragon can fly away if the battle turns against it.",
-								"The yugoloths were summoned by Red Wizards and paid by the cult to kill the adventurers, but they have no loyalty to their benefactors. If a yugoloth takes damage from a single attack that deals more than half its remaining hit points, it withdraws from combat on its next turn. If it hasn't already tried to summon another yugoloth, it does so immediately. If it's already used that power, it simply flees, intending to regroup with other survivors later.",
+								"The yugoloths were summoned by Red Magiciens and paid by the cult to kill the adventurers, but they have no loyalty to their benefactors. If a yugoloth takes damage from a single attack that deals more than half its remaining hit points, it withdraws from combat on its next turn. If it hasn't already tried to summon another yugoloth, it does so immediately. If it's already used that power, it simply flees, intending to regroup with other survivors later.",
 								"Because the yugoloths are mercenaries, the characters can attempt to buy them off with a better offer\u2014one that not only exceeds what the cult is paying but covers the damage to reputation that comes from changing sides in the middle of battle. A good starting offer is 10,000 gp, or 2,000 gp per yugoloth if more than five of them are in the fight.",
 								"In addition to damaging bystanders, this encounter can easily destroy buildings and great landmarks. This formidable assault should provide a sense of the destruction that will wash over the Sword Coast if the Cult of the Dragon is successful in its plans."
 							]
@@ -6897,7 +6897,7 @@
 							"page": 142,
 							"id": "168",
 							"entries": [
-								"Enough chromatic dragons have responded to the {@item Draakhorn|RoT|Draakhorn's} call that a full flight of young red dragons can be dispatched to deal with the heroes once and for all. For this final assault, the cult bolsters the red dragons with a handful of cultists, half-dragons, and Red Wizards (mages) who are members of Rath Modar's splinter sect. The cultists and Red Wizards arrive on the backs of the red dragons.",
+								"Enough chromatic dragons have responded to the {@item Draakhorn|RoT|Draakhorn's} call that a full flight of young red dragons can be dispatched to deal with the heroes once and for all. For this final assault, the cult bolsters the red dragons with a handful of cultists, half-dragons, and Red Magiciens (mages) who are members of Rath Modar's splinter sect. The cultists and Red Magiciens arrive on the backs of the red dragons.",
 								"Make this a deadly encounter\u2014and not just by the numbers prescribed in the {@book Dungeon Master's Guide|DMG|3|Creating a Combat Encounter}. By now, the cult knows how the characters fight, and so do you. Sometimes players can make a group of characters tougher than their basic game statistics indicate. If that's the case for your group, take that into account when selecting the attacking force.",
 								{
 									"type": "entries",
@@ -7006,7 +7006,7 @@
 					"page": 143,
 					"id": "16e",
 					"entries": [
-						"Depending on how the adventure unfolds, feel free to alter the forces and tactics in the second and third attacks as you see fit. For example, you might want to hold off with the yugoloths until the third attack, or you might want Red Wizards showing up in the second attack rather than the third."
+						"Depending on how the adventure unfolds, feel free to alter the forces and tactics in the second and third attacks as you see fit. For example, you might want to hold off with the yugoloths until the third attack, or you might want Red Magiciens showing up in the second attack rather than the third."
 					]
 				}
 			]
@@ -9069,8 +9069,8 @@
 					"height": 1000
 				},
 				"Early during his rise to power, {@creature Severin|RoT} enlisted the aid of a group of Thayan exiles in his scheme to return {@creature Tiamat|RoT} to the world. He needs the Red Wizards' expertise in the rituals that will open the portal between {@creature Tiamat|RoT}'s home on Avernus and the Well of Dragons. Without the Red Wizards, {@creature Severin|RoT}'s plan can't succeed.",
-				"The Red Wizards enlisted by {@creature Severin|RoT} are among the many exiled Thayans who have fled the rule of Szass Tam, the lich lord of Thay, and his council of undead zulkirs. So great is the lich lord's wrath that all such exiles are under a sentence of death. The leader of the {@creature Red Wizard|RoT} exiles allied with {@creature Severin|RoT} is Rath Modar, a human illusionist.",
-				"Though he has no particular bond with dragons, Rath Modar believes that when {@creature Tiamat|RoT} returns, she will be willing to do favors for those who supported her. In comparison to the feeble members of the Cult of the Dragon, who offer {@creature Tiamat|RoT} devotion but little else, the Red Wizards who opened the gate for her can wield great magical power in her name. All Modar plans to ask in return is the Dragon Queen's aid in overthrowing the hated Szass Tam and restoring Thay to its former glory. Rath Modar and his splinter sect refer to their movement as the Thayan Resurrection.",
+				"The Red Magiciens enlisted by {@creature Severin|RoT} are among the many exiled Thayans who have fled the rule of Szass Tam, the lich lord of Thay, and his council of undead zulkirs. So great is the lich lord's wrath that all such exiles are under a sentence of death. The leader of the {@creature Red Wizard|RoT} exiles allied with {@creature Severin|RoT} is Rath Modar, a human illusionist.",
+				"Though he has no particular bond with dragons, Rath Modar believes that when {@creature Tiamat|RoT} returns, she will be willing to do favors for those who supported her. In comparison to the feeble members of the Cult of the Dragon, who offer {@creature Tiamat|RoT} devotion but little else, the Red Magiciens who opened the gate for her can wield great magical power in her name. All Modar plans to ask in return is the Dragon Queen's aid in overthrowing the hated Szass Tam and restoring Thay to its former glory. Rath Modar and his splinter sect refer to their movement as the Thayan Resurrection.",
 				{
 					"type": "section",
 					"name": "The Enemy of My Enemy",
@@ -9079,7 +9079,7 @@
 					"entries": [
 						"At the start of this chapter, the characters are summoned to a secret meeting by someone they trust on the Council of Waterdeep. At the meeting, they learn that the council has been approached by a {@creature Red Wizard|RoT} of Thay named Nyh Ilmichh. Ilmichh has extended an invitation to the council to send an envoy to Thay, to discuss ways in which Thay and the Sword Coast might aid each other during the current crisis. The adventurers have been specifically requested to represent the Sword Coast at this meeting, after which the characters will be returned to Waterdeep unharmed.",
 						"The visit to the embassy will last only a few days, but the location of the meeting is not negotiable. The duties of the tharchion (a Thayan governor) the characters will meet precludes her leaving her post. The characters' council contact tells them that Ilmichh has been carefully questioned and subjected to a {@spell zone of truth}, and that all she said has been confirmed.",
-						"The characters should understand that without the Red Wizards, {@creature Severin|RoT}'s plans are severely compromised. Moreover, it is common knowledge that Szass Tam wants all exiled Red Wizards dead in the worst possible way. Despite reservations from some on the council, most believe that since the factions and Szass Tam have a common goal, the invitation is worth accepting.",
+						"The characters should understand that without the Red Wizards, {@creature Severin|RoT}'s plans are severely compromised. Moreover, it is common knowledge that Szass Tam wants all exiled Red Magiciens dead in the worst possible way. Despite reservations from some on the council, most believe that since the factions and Szass Tam have a common goal, the invitation is worth accepting.",
 						"The final decision is up to the characters, of course. No one will compel them to go to Thay. But in the council's estimation, the potential to delay or even undo {@creature Severin|RoT}'s plan at a single blow is too much to pass up.",
 						{
 							"type": "entries",
@@ -9088,7 +9088,7 @@
 							"id": "1df",
 							"entries": [
 								"Thay is an isolated and arid windswept plateau some twenty-five hundred miles east of Waterdeep, its dark skies constantly clouded by volcanic ash. This land is defined by the prevalence of undead within its borders. The supreme leader of Thay is the lich Szass Tam, whose council of advisers\u2014the zulkirs\u2014are powerful liches themselves. Everyone of consequence in Thay is a spellcaster, and necromancers are common there. Undead servants are everywhere, and many of the commanders in Thay's armies are the free-thinking undead soldiers (use the {@creature wight} statistics).",
-								"Travelers to this land must be wary of its dark politics\u2014rampant paranoia, a police-state mentality, and necromancers commanding the top of the social order\u2014as much as the threats of the undead and Red Wizards that dwell here. Thay is a place filled with extraordinary danger."
+								"Travelers to this land must be wary of its dark politics\u2014rampant paranoia, a police-state mentality, and necromancers commanding the top of the social order\u2014as much as the threats of the undead and Red Magiciens that dwell here. Thay is a place filled with extraordinary danger."
 							]
 						},
 						{
@@ -9110,7 +9110,7 @@
 							"entries": [
 								"Nethwatch Keep is under the command of Tharchion Eseldra Yeth. She has been tharchion of Lapendrar for nearly a century\u2014long enough to have firsthand memories of the past rebellion.",
 								"At the fortress, the characters are assigned to luxurious individual rooms, though the doors have no locks. Nyh Ilmichh tells anyone who asks that they are utterly safe in the tharchion's keep. The adventurers see no other living creatures until their audience with Eseldra Yeth. All the servants and staff are undead, but the food and comforts of the fortress are of excellent quality and entirely safe.",
-								"Tharchion Eseldra Yeth is a female human {@creature vampire} spellcaster. In the audience chamber where the meeting takes place, she is accompanied by 10 Red Wizards (use {@creature mage} statistics if necessary) and 5 {@creature Wight||wights}. Eseldra Yeth reviews the characters' warrants briefly, then delivers a prepared message.",
+								"Tharchion Eseldra Yeth is a female human {@creature vampire} spellcaster. In the audience chamber where the meeting takes place, she is accompanied by 10 Red Magiciens (use {@creature mage} statistics if necessary) and 5 {@creature Wight||wights}. Eseldra Yeth reviews the characters' warrants briefly, then delivers a prepared message.",
 								{
 									"type": "insetReadaloud",
 									"id": "1e2",
@@ -9121,7 +9121,7 @@
 										"\"I am authorized by our eternal master, Szass Tam, to say these things, for I act in his name.\""
 									]
 								},
-								"The tharchion waits for the characters' response, and engages them in a discussion of what is known of the plot to release {@creature Tiamat|RoT} and the Red Wizards aiding that plot. Her questions are straightforward and intelligent, and offer little opportunity for sly or clever responses. If a character is less than truthful, Eseldra Yeth probes for more information. She addresses questions to specific characters, never to the group in general. If she detects a lie (see below), she never addresses that character again.",
+								"The tharchion waits for the characters' response, and engages them in a discussion of what is known of the plot to release {@creature Tiamat|RoT} and the Red Magiciens aiding that plot. Her questions are straightforward and intelligent, and offer little opportunity for sly or clever responses. If a character is less than truthful, Eseldra Yeth probes for more information. She addresses questions to specific characters, never to the group in general. If she detects a lie (see below), she never addresses that character again.",
 								"Toward the end of the audience, each character must make a {@dc 20} Charisma ({@skill Persuasion}) check. (To maintain an aura of menace, ask for the check without revealing the DC.) The following modifiers apply to the check:",
 								{
 									"type": "list",
@@ -9147,7 +9147,7 @@
 							"entries": [
 								"That night, each of the adventurers are targeted by a customized version of the {@spell dream} spell, cast and crafted by {@creature Red Wizard|RoT} illusionists. Each character is confronted in a vision by a pale {@creature Red Wizard|RoT} who says, \"We have further questions for you.\" Elves and other creatures that do not sleep are not subject to this effect.",
 								"Each character must make a {@dc 18} Wisdom saving throw with disadvantage. On a successful save, a character remembers vague, disturbing dreams in the morning, but suffers no other effects.",
-								"Each character who fails the saving throw experiences a similar nightmare. He or she is {@condition paralyzed} and magically bound within a mystic cauldron among animated chains and tentacles. A dozen Red Wizards observe placidly while three more Red Wizards subject the helpless character to agonizing tortures. The character is questioned about why the party came to Thay, about {@creature Severin|RoT}'s plots, about Rath Modar, about his or her own past and the lives of the other adventurers, about the party's attitude toward Szass Tam, and anything else you care to ask.",
+								"Each character who fails the saving throw experiences a similar nightmare. He or she is {@condition paralyzed} and magically bound within a mystic cauldron among animated chains and tentacles. A dozen Red Magiciens observe placidly while three more Red Magiciens subject the helpless character to agonizing tortures. The character is questioned about why the party came to Thay, about {@creature Severin|RoT}'s plots, about Rath Modar, about his or her own past and the lives of the other adventurers, about the party's attitude toward Szass Tam, and anything else you care to ask.",
 								"Each answer the character gives must be accompanied by a {@dc 15} Charisma ({@skill Persuasion}) check if the character answers truthfully, or a {@dc 15} Charisma ({@skill Deception}) check if the response is even partially false. A character who succeeded on the Charisma ({@skill Persuasion}) check made during the audience has advantage on each of these checks. On each failed check, a character suffers excruciating pain as a {@creature Red Wizard|RoT} shouts out a tally of the character's failed answers. Refusing to answer is treated the same as failing the check.",
 								"A character who struggles against the bonds or who tries to cast a spell or use some other ability not hindered by physical restraint is struck by pain so severe that he or she is briefly {@condition incapacitated}. That character's next Charisma check made within the dream takes a\u20132 penalty.",
 								"The nightmare ends when a character answers five questions successfully or eight questions in total. If the last question was answered successfully, the character sleeps fitfully the rest of the night. If the last question was answered unsuccessfully, the character wakes up screaming and drenched in sweat. Blood stains the bed sheets, though the character has no visible wounds. The character also takes 10 ({@dice 3d6}) psychic damage and does not gain the benefit of a long rest from the night's sleep.",
@@ -9160,9 +9160,9 @@
 							"page": 163,
 							"id": "1e4",
 							"entries": [
-								"In the morning, after another delicious meal, the characters are ushered back to the audience chamber. Eseldra Yeth is not there. Instead, they're greeted by Nyh Ilmichh and one of the Red Wizards present at the audience the previous day. Only Nyh Ilmichh speaks.",
-								"What she says is determined by the number of characters who answered five questions successfully during the dream. If that number accounts for more than half the non-elven party (that is, elves don't count toward the party total, because they cannot be affected by the Red Wizards' {@spell dream} spell), Nyh Ilmichh informs the characters that the Red Wizards have agreed to aid the factions of the Sword Coast, and that she will accompany them as Thay's ambassador to the council. When the characters have gathered their belongings, the {@creature Red Wizard|RoT} teleports with them back to Waterdeep.",
-								"If the tally is half the number of non-elven characters in the party or fewer, Nyh Ilmichh states that Tharchion Yeth thanks them for their information, but that Thay's attention is commanded by matters within its own borders and the Red Wizards cannot help. Before the characters can react, the other {@creature Red Wizard|RoT} waves his hand and a previously {@condition invisible} magic circle on the floor around the characters flares to life. A moment later, the adventurers are standing in an abandoned and ruined farmhouse a mile north of Waterdeep. The barely visible outline of a Thayan teleportation circle fades around them and their neatly packed belongings."
+								"In the morning, after another delicious meal, the characters are ushered back to the audience chamber. Eseldra Yeth is not there. Instead, they're greeted by Nyh Ilmichh and one of the Red Magiciens present at the audience the previous day. Only Nyh Ilmichh speaks.",
+								"What she says is determined by the number of characters who answered five questions successfully during the dream. If that number accounts for more than half the non-elven party (that is, elves don't count toward the party total, because they cannot be affected by the Red Wizards' {@spell dream} spell), Nyh Ilmichh informs the characters that the Red Magiciens have agreed to aid the factions of the Sword Coast, and that she will accompany them as Thay's ambassador to the council. When the characters have gathered their belongings, the {@creature Red Wizard|RoT} teleports with them back to Waterdeep.",
+								"If the tally is half the number of non-elven characters in the party or fewer, Nyh Ilmichh states that Tharchion Yeth thanks them for their information, but that Thay's attention is commanded by matters within its own borders and the Red Magiciens cannot help. Before the characters can react, the other {@creature Red Wizard|RoT} waves his hand and a previously {@condition invisible} magic circle on the floor around the characters flares to life. A moment later, the adventurers are standing in an abandoned and ruined farmhouse a mile north of Waterdeep. The barely visible outline of a Thayan teleportation circle fades around them and their neatly packed belongings."
 							]
 						}
 					]
@@ -11232,7 +11232,7 @@
 							"page": 169,
 							"id": "20c",
 							"entries": [
-								"The Red Wizards whose magic raises the Temple of {@creature Tiamat|RoT} in the caldera and who will summon the Dragon Queen into this world are housed in these two caverns. Both areas are luxuriously furnished, but the Red Wizards keep their belongings packed in trunks and ready to teleport away at a moment's notice. The larger area 20 is the residence of Rath Modar. All the Red Wizards are presently in the Temple of {@creature Tiamat|RoT}."
+								"The Red Magiciens whose magic raises the Temple of {@creature Tiamat|RoT} in the caldera and who will summon the Dragon Queen into this world are housed in these two caverns. Both areas are luxuriously furnished, but the Red Magiciens keep their belongings packed in trunks and ready to teleport away at a moment's notice. The larger area 20 is the residence of Rath Modar. All the Red Magiciens are presently in the Temple of {@creature Tiamat|RoT}."
 							]
 						},
 						{
@@ -11274,7 +11274,7 @@
 					"id": "210",
 					"entries": [
 						"The temple in the caldera of the Well of Dragons is the same temple that marks the center of {@creature Tiamat|RoT}'s realm on Avernus. The Red Wizards' ritual has brought it here to act as a beachhead and beacon for the Dragon Queen, melding it into the caldera floor in the process. The main gate into area 1 (the blue chapel) is the only apparent entrance, but a lava tube corridor from the cult's subterranean warrens leads into area 5 (the black chapel).",
-						"When the ritual begins, the temple is the focus of the cult's activity, with {@creature Severin|RoT}'s {@creature Red Wizard|RoT} allies (use {@creature mage} statistics) at the center of the action. The souls of sacrifices provide the magical power to open a pathway between the Nine Hells and the Material Plane. The Red Wizards will then guide {@creature Tiamat|RoT} as she claws her way into the mortal realm.",
+						"When the ritual begins, the temple is the focus of the cult's activity, with {@creature Severin|RoT}'s {@creature Red Wizard|RoT} allies (use {@creature mage} statistics) at the center of the action. The souls of sacrifices provide the magical power to open a pathway between the Nine Hells and the Material Plane. The Red Magiciens will then guide {@creature Tiamat|RoT} as she claws her way into the mortal realm.",
 						{
 							"type": "gallery",
 							"images": [
@@ -11360,7 +11360,7 @@
 									"id": "212",
 									"entries": [
 										"Once your eyes adjust to the stunning chaos of {@creature Tiamat|RoT}'s Temple, you see that its interior is a single, cathedral-like space that towers far overhead. Five distinct vaults branch off the central gallery. Though the overwhelming color of the place is a lifeless, ashen gray, each of the side vaults shimmers dimly blue, green, red, white, or black\u2014the hues of the evil dragons and their world-consuming queen.",
-										"Red Wizards stand in each of the five vaults, chanting and channeling magical force into the central apse. There, a kaleidoscopic whorl of arcane energy rises above the blackened floor, stretching up into the twisting recesses of the temple's central spire."
+										"Red Magiciens stand in each of the five vaults, chanting and channeling magical force into the central apse. There, a kaleidoscopic whorl of arcane energy rises above the blackened floor, stretching up into the twisting recesses of the temple's central spire."
 									]
 								},
 								"The numbered areas on the map are identified in the table below, which also identifies key NPCs during the ritual that will bring {@creature Tiamat|RoT} to the Well of Dragons.",
@@ -11461,8 +11461,8 @@
 							"page": 172,
 							"id": "214",
 							"entries": [
-								"To successfully bring {@creature Tiamat|RoT} from the Nine Hells into the world, the Red Wizards must successfully focus the summoning ritual for 10 rounds after the adventurers enter the Temple of {@creature Tiamat|RoT}. Each round, at least five Red Wizards must use an action to perform the ritual in order for it to be successfully focused for that round, helping guide {@creature Tiamat|RoT} across the planes.",
-								"At the end of the Red Wizards' turn, if fewer than five Red Wizards used an action to perform the ritual, the portal floating in the great apse (area 7) wavers and no progress in the ritual is made. If fewer than five Red Wizards perform the ritual for 2 rounds in succession, the portal collapses and the count of successfully focused rounds is reset to 0.",
+								"To successfully bring {@creature Tiamat|RoT} from the Nine Hells into the world, the Red Magiciens must successfully focus the summoning ritual for 10 rounds after the adventurers enter the Temple of {@creature Tiamat|RoT}. Each round, at least five Red Magiciens must use an action to perform the ritual in order for it to be successfully focused for that round, helping guide {@creature Tiamat|RoT} across the planes.",
+								"At the end of the Red Wizards' turn, if fewer than five Red Magiciens used an action to perform the ritual, the portal floating in the great apse (area 7) wavers and no progress in the ritual is made. If fewer than five Red Magiciens perform the ritual for 2 rounds in succession, the portal collapses and the count of successfully focused rounds is reset to 0.",
 								"The {@item Mask of the Dragon Queen|RoT} is essential to the ritual, and {@creature Severin|RoT} cannot leave the sanctuary. His {@spell levitate} spell will last the duration of the ritual, and it keeps him floating in the sanctuary even if he is {@condition incapacitated} or killed. {@creature Severin|RoT} can attack and defend himself while he wears the {@item Mask of the Dragon Queen|RoT}. He need not even be alive for the ritual to continue, as long as his body wears the mask and remains in the sanctuary."
 							]
 						}
@@ -11572,7 +11572,7 @@
 											"page": 172,
 											"id": "21a",
 											"entries": [
-												"The head of the cult remains in the temple sanctuary (area 13), wearing the {@item Mask of the Dragon Queen|RoT} while the Red Wizards weave their magic. He can fight defensively or offensively as needed, and rank-and-file cultists fight to the death as long as they know {@creature Severin|RoT} is alive. See {@adventure appendix D|RoT|12} for {@creature Severin|RoT}'s statistics."
+												"The head of the cult remains in the temple sanctuary (area 13), wearing the {@item Mask of the Dragon Queen|RoT} while the Red Magiciens weave their magic. He can fight defensively or offensively as needed, and rank-and-file cultists fight to the death as long as they know {@creature Severin|RoT} is alive. See {@adventure appendix D|RoT|12} for {@creature Severin|RoT}'s statistics."
 											]
 										},
 										{
@@ -11653,7 +11653,7 @@
 											"page": 173,
 											"id": "223",
 											"entries": [
-												"Red Wizards not performing the ritual are embedded with mercenary units and troops of armed cultists to provide extra firepower."
+												"Red Magiciens not performing the ritual are embedded with mercenary units and troops of armed cultists to provide extra firepower."
 											]
 										},
 										{
@@ -11766,7 +11766,7 @@
 											"page": 173,
 											"id": "230",
 											"entries": [
-												"Members of the Arcane Brotherhood are a match for the Red Wizards fighting for the cult. However, the spellcasters of the Arcane Brotherhood don't take orders from anyone except other powerful spellcasters\u2014which almost certainly means another member of the Arcane Brotherhood."
+												"Members of the Arcane Brotherhood are a match for the Red Magiciens fighting for the cult. However, the spellcasters of the Arcane Brotherhood don't take orders from anyone except other powerful spellcasters\u2014which almost certainly means another member of the Arcane Brotherhood."
 											]
 										}
 									]
@@ -11878,7 +11878,7 @@
 							"id": "239",
 							"entries": [
 								"A victory for the Cult of the Dragon is a real possibility in this adventure, and would be catastrophic for Faerûn. With {@creature Tiamat|RoT} ascendant, the age of mortals comes to an end and the age of dragons begins. Nations and kingdoms shatter, civilization collapses into bloody war, and chaos reigns supreme.",
-								"None of the Dragon Queen's mortal agents receive the rewards they expected. The Red Wizards who freed her are devoured or driven away, hunted by the forces of Szass Tam. The cultists who orchestrated {@creature Tiamat|RoT}'s return fare little better, with the Dragon Queen not caring which mortals her draconic subjects hunt, consume, and enslave. The glorious reign of dragons that {@creature Severin|RoT} hoped to usher in and rule becomes a brutal world where evil dragons dominate all.",
+								"None of the Dragon Queen's mortal agents receive the rewards they expected. The Red Magiciens who freed her are devoured or driven away, hunted by the forces of Szass Tam. The cultists who orchestrated {@creature Tiamat|RoT}'s return fare little better, with the Dragon Queen not caring which mortals her draconic subjects hunt, consume, and enslave. The glorious reign of dragons that {@creature Severin|RoT} hoped to usher in and rule becomes a brutal world where evil dragons dominate all.",
 								"Such dark times need not mean the end of your campaign, however. The characters have lost a crucial battle, but they might survive to continue the war. Their new goal is to find a way to banish or destroy {@creature Tiamat|RoT} for good, bringing peace to the world once more."
 							]
 						},
@@ -12667,7 +12667,7 @@
 				},
 				"Just as most adventurers don't walk into a dragon's lair without a plan, neither were D&D's iconic monsters developed without considerable forethought. This gallery explores some of the behind-the-scenes development that went into creating {@i Tyranny of Dragons}, as well as defining a spectrum of monsters, allies, and enemies that would feature in Dungeons & Dragons offerings for years to come.",
 				"On the following pages, you'll find a number of images designed to serve as story beats in the larger {@i Tyranny of Dragons} campaign. These images were created to define impactful moments in a hypothetical {@i Tyranny of Dragons} tale, one which then could be explored by multiple teams over the course of multiple projects\u2014be they games, fiction, or otherwise. Some elements you'll recognize from the events of the {@i Tyranny of Dragons} adventures, while others were meant to provide inspiration for events parallel stories could detail.",
-				"Beyond these, this gallery also includes a number of designs focused on threats integral to the {@i Tyranny of Dragons} campaign. This includes explorations of well-known Forgotten Realms villains, like the Cult of the Dragon and the Red Wizards of Thay. The images herein show just a few avenues explored in updating these foes to the most current edition of the game, along with notes taken from internal concept and story documents. Some present ideas never fully expressed in {@i Tyranny of Dragons}, while others reveal deeper depths to adventure elements hiding whole conceptual icebergs. Certain components central to the adventure also see extensive exploration, like the garb of the Red Wizards, the iconography of the Cult of the Dragon, and\u2014of course\u2014the multiple deadly aspects of one of the campaign's central magic items, the {@item Mask of the Dragon Queen|RoT}.",
+				"Beyond these, this gallery also includes a number of designs focused on threats integral to the {@i Tyranny of Dragons} campaign. This includes explorations of well-known Forgotten Realms villains, like the Cult of the Dragon and the Red Magiciens of Thay. The images herein show just a few avenues explored in updating these foes to the most current edition of the game, along with notes taken from internal concept and story documents. Some present ideas never fully expressed in {@i Tyranny of Dragons}, while others reveal deeper depths to adventure elements hiding whole conceptual icebergs. Certain components central to the adventure also see extensive exploration, like the garb of the Red Wizards, the iconography of the Cult of the Dragon, and\u2014of course\u2014the multiple deadly aspects of one of the campaign's central magic items, the {@item Mask of the Dragon Queen|RoT}.",
 				"Several other locations and characters also feature prominently in this collection, many being aspects of the Forgotten Realms or underpinning the wider D&D multiverse that have seen artistic evolutions over the years. The thorough design sketches of chromatic dragons, for example, hint at the depth of ecological detail that's gone into realizing D&D's most iconic monsters\u2014and foes central to the {@i Tyranny of Dragons} plot.",
 				"How you choose to use this concept gallery is up to you. Perhaps these details will inspire you, just as they did the original {@i Tyranny of Dragons} designers. Maybe a particular image will resound with you, leading you to make your own addition to the wider campaign. Added insights on the tools and techniques of the adventure's villains can help you make them feel like more vital inhabitants of a wider world, while nuances of dragons and other can creatures aid in bringing these terrors to life. These pages might also be shared with players as you see fit, driving home the impact of the campaign's most climatic moments. Whether this gallery serves as a game aide or inspires your own designs, use it as you please, further detailing the existing adventures or exploring {@i Tyranny of Dragons} stories yet to be told!",
 				{
@@ -12780,7 +12780,7 @@
 					"entries": [
 						{
 							"type": "entries",
-							"name": "Red Wizards of Thay",
+							"name": "Red Magiciens of Thay",
 							"page": 192,
 							"id": "291",
 							"entries": [
@@ -12793,7 +12793,7 @@
 												"type": "internal",
 												"path": "adventure/RoT/066-tod-e-08a.webp"
 											},
-											"title": "Red Wizards of Thay Stronghold",
+											"title": "Red Magiciens of Thay Stronghold",
 											"width": 1905,
 											"height": 1000
 										},
@@ -12825,8 +12825,8 @@
 									"page": 192,
 									"id": "292",
 									"entries": [
-										"Red Wizards are the would-be magical overlords of Faerûn.",
-										"Feared by the general public as evil tyrants, Red Wizards trade their magical inventions for slaves, steel, silk, and gold.",
+										"Red Magiciens are the would-be magical overlords of Faerûn.",
+										"Feared by the general public as evil tyrants, Red Magiciens trade their magical inventions for slaves, steel, silk, and gold.",
 										"As magical artificers of great skill, they command high prices, and are not afraid to extend credit\u2014for there are few who could survive an unpaid debt to these wizards."
 									]
 								}
@@ -13502,7 +13502,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Wizards of the Coast",
+							"name": "Magiciens of the Coast",
 							"entries": [
 								{
 									"type": "list",

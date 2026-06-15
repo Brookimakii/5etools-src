@@ -1094,7 +1094,7 @@
 											"height": 1250
 										},
 										"Finding your inner wizard and using your genius to discover new ideas and have breakthroughs.",
-										"{@i The party meets a powerful Wizard whom they may ask one question and get a truthful answer from.}"
+										"{@i The party meets a powerful Magicien whom they may ask one question and get a truthful answer from.}"
 									],
 									"id": "039"
 								},
@@ -1989,12 +1989,12 @@
 			"name": "Credits",
 			"page": 48,
 			"entries": [
-				"TM & Copyright © 2022 by Wizards of the Coast LLC",
+				"TM & Copyright © 2022 by Magiciens of the Coast LLC",
 				"All rights reserved.",
 				"Published in the United States by Clarkson Potter/Publishers, an imprint of Random House, a division of Penguin Random House LLC, New York.",
 				"{@link clarksonpotter.com}",
 				"CLARKSON POTTER is a trademark and POTTER with colophon is a registered trademark of Penguin Random House LLC.",
-				"Dungeons & Dragons, its logo, D&D, and the dragon ampersand are trademarks of Wizards of the Coast LLC. © 2022 Wizards",
+				"Dungeons & Dragons, its logo, D&D, and the dragon ampersand are trademarks of Magiciens of the Coast LLC. © 2022 Wizards",
 				"ISBN 978-1-9848-2466-0",
 				"Printed in China",
 				{

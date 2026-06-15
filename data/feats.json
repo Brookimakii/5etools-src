@@ -4245,7 +4245,7 @@
 					}
 				},
 				{
-					"name": "Wizard Spells",
+					"name": "Magicien Spells",
 					"ability": "int",
 					"innate": {
 						"_": {
@@ -4343,7 +4343,7 @@
 					}
 				},
 				{
-					"name": "Wizard Spells",
+					"name": "Magicien Spells",
 					"ability": {
 						"choose": [
 							"int",
@@ -5840,7 +5840,7 @@
 					}
 				},
 				{
-					"name": "Wizard Spells",
+					"name": "Magicien Spells",
 					"ability": "int",
 					"innate": {
 						"_": {
@@ -7104,7 +7104,7 @@
 					}
 				},
 				{
-					"name": "Wizard Spells",
+					"name": "Magicien Spells",
 					"ability": "int",
 					"known": {
 						"_": [

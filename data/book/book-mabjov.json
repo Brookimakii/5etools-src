@@ -789,7 +789,7 @@
 							"name": "Laws",
 							"entries": [
 								"Law in Athkatla is based on the Golden Rule\u2014those who have the gold make the rules. Actions that would be considered illegal or immoral in other lands are tolerated, providing the offenders are rich enough to pay the pre-determined fines. Lewd and licentious behavior are rampant in the city, slavery is common, and even the thieves within the city are permitted to operate provided they follow the terms of written contracts.",
-								"The only real crime in Athkatla\u2014other than being poor\u2014is the use of arcane magic within the city limits. In the 13th Century DR, King Dhanar granted the Cowled Wizards complete oversight over spellcasters. As a result, only a handful of sorcerers are licensed to practice in Athkatla, all exclusively under contract with the various High Houses of Amn. Enforcement of this ban on arcane magic is under the purview of the Cowled Wizards, who administer brutal punishment on any who flout this law. Many of the High Houses now resent this arrangement, as they feel the Cowled Wizards are little more than agents working on behalf of House Selemchant, but the dissenters lack the influence and resources to effectively oppose the status quo."
+								"The only real crime in Athkatla\u2014other than being poor\u2014is the use of arcane magic within the city limits. In the 13th Century DR, King Dhanar granted the Cowled Magiciens complete oversight over spellcasters. As a result, only a handful of sorcerers are licensed to practice in Athkatla, all exclusively under contract with the various High Houses of Amn. Enforcement of this ban on arcane magic is under the purview of the Cowled Wizards, who administer brutal punishment on any who flout this law. Many of the High Houses now resent this arrangement, as they feel the Cowled Magiciens are little more than agents working on behalf of House Selemchant, but the dissenters lack the influence and resources to effectively oppose the status quo."
 							],
 							"page": 11,
 							"id": "035"
@@ -799,9 +799,9 @@
 							"name": "Cowled Wizards",
 							"entries": [
 								"A secretive cabal formed in the 13th century DR, they were originally the guardians of arcane knowledge and lore. However, years of monitoring\u2014and controlling\u2014foreign mages visiting the city gradually transformed the organization into a brutal autocratic force with the sole goal of suppressing potential rivals to their station.",
-								"Violators of the city wide restrictions on magic face censure, banishment or even death. While the stated goal of the organization is to protect the security of the city and guard against the potential devastation a rogue mage might cause, many individual members of the Cowled Wizards use their position for personal profit and gain. Often this involves cutting secret deals with various parties that are not officially sanctioned by their organization. Despite this, there is little recourse for those who feel they have been treated unjustly by any of the Cowled Wizards, as accusations against them often result in severe retaliation.",
-								"The members of the Cowled Wizards act in anonymity, often working publicly as merchants, librarians, apothecaries or other similar professions. The identity of any individual Cowled Wizard is known to their immediate family and\u2014at most\u2014a small circle of other members they work within the organization.",
-								"The Cowled Wizards meet in secret in the hidden chambers beneath the city, located under Jane Lane. Wearing masks and the garb of the School of Wonder\u2014an academy destroyed in a series of anti-arcane riots long ago\u2014they are able to hide their identities even from each other as they share information and coordinate their activities."
+								"Violators of the city wide restrictions on magic face censure, banishment or even death. While the stated goal of the organization is to protect the security of the city and guard against the potential devastation a rogue mage might cause, many individual members of the Cowled Magiciens use their position for personal profit and gain. Often this involves cutting secret deals with various parties that are not officially sanctioned by their organization. Despite this, there is little recourse for those who feel they have been treated unjustly by any of the Cowled Wizards, as accusations against them often result in severe retaliation.",
+								"The members of the Cowled Magiciens act in anonymity, often working publicly as merchants, librarians, apothecaries or other similar professions. The identity of any individual Cowled Magicien is known to their immediate family and\u2014at most\u2014a small circle of other members they work within the organization.",
+								"The Cowled Magiciens meet in secret in the hidden chambers beneath the city, located under Jane Lane. Wearing masks and the garb of the School of Wonder\u2014an academy destroyed in a series of anti-arcane riots long ago\u2014they are able to hide their identities even from each other as they share information and coordinate their activities."
 							],
 							"page": 11,
 							"id": "036"
@@ -869,7 +869,7 @@
 										],
 										[
 											"4",
-											"Cowled Wizards ({@creature mage||mages}) seeking to incarcerate illegal magic users"
+											"Cowled Magiciens ({@creature mage||mages}) seeking to incarcerate illegal magic users"
 										],
 										[
 											"5",
@@ -1661,7 +1661,7 @@
 									"type": "entries",
 									"name": "Sorcerous Sundries",
 									"entries": [
-										"This famed magical shop has had multiple owners over the decades. Currently it is a front for a Red Wizard operation led by {@creature Edwin Odesseiron|MaBJoV}. The Red Wizards are adept at discerning a customer's importance (reflected in the required level for the item) and reserve rarer items to those customers who they consider influential. However, a successful {@dc 20} Charisma ({@skill Deception}) can bypass this restriction. The Red Wizards can have a purchased item teleported from Thay within an hour.",
+										"This famed magical shop has had multiple owners over the decades. Currently it is a front for a Red Magicien operation led by {@creature Edwin Odesseiron|MaBJoV}. The Red Magiciens are adept at discerning a customer's importance (reflected in the required level for the item) and reserve rarer items to those customers who they consider influential. However, a successful {@dc 20} Charisma ({@skill Deception}) can bypass this restriction. The Red Magiciens can have a purchased item teleported from Thay within an hour.",
 										{
 											"type": "table",
 											"caption": "Magic Items at Sorcerous Sundries",
@@ -1687,7 +1687,7 @@
 													"100 gp"
 												],
 												[
-													"Wizard {@item Spell Scroll (1st Level)||scroll (1st level)}",
+													"Magicien {@item Spell Scroll (1st Level)||scroll (1st level)}",
 													"\u2013",
 													"100 gp"
 												],
@@ -1702,7 +1702,7 @@
 													"200 gp"
 												],
 												[
-													"{@item Spell Scroll (2nd Level)||Wizard scroll (2nd level)}",
+													"{@item Spell Scroll (2nd Level)||Magicien scroll (2nd level)}",
 													"5",
 													"200 gp"
 												],
@@ -1712,12 +1712,12 @@
 													"500 gp"
 												],
 												[
-													"{@item Spell Scroll (3rd Level)||Wizard scroll (3rd level)}",
+													"{@item Spell Scroll (3rd Level)||Magicien scroll (3rd level)}",
 													"5",
 													"800 gp"
 												],
 												[
-													"{@item Spell Scroll (4th Level)||Wizard scroll (4th level)}",
+													"{@item Spell Scroll (4th Level)||Magicien scroll (4th level)}",
 													"10",
 													"2,000 gp"
 												],
@@ -1727,7 +1727,7 @@
 													"3,000 gp"
 												],
 												[
-													"{@item Spell Scroll (5th Level)||Wizard scroll (5th level)}",
+													"{@item Spell Scroll (5th Level)||Magicien scroll (5th level)}",
 													"10",
 													"4,000 gp"
 												],
@@ -1737,17 +1737,17 @@
 													"9,000 gp"
 												],
 												[
-													"{@item spell scroll (6th level)||Wizard scroll}\u2014{@spell Globe of Invulnerability}",
+													"{@item spell scroll (6th level)||Magicien scroll}\u2014{@spell Globe of Invulnerability}",
 													"10",
 													"10,000 gp"
 												],
 												[
-													"{@item spell scroll (6th level)||Wizard scroll}\u2014{@spell True Seeing}",
+													"{@item spell scroll (6th level)||Magicien scroll}\u2014{@spell True Seeing}",
 													"10",
 													"10,000 gp"
 												],
 												[
-													"{@item spell scroll (7th level)||Wizard scroll}\u2014{@spell Mordenkainen's Magnificent Mansion}",
+													"{@item spell scroll (7th level)||Magicien scroll}\u2014{@spell Mordenkainen's Magnificent Mansion}",
 													"10",
 													"15,000 gp"
 												],
@@ -3735,7 +3735,7 @@
 							"page": 41,
 							"entries": [
 								"The ugliness of {@creature Baalzebul|MaBJoV} is especially abhorrent to Sune. She hates that the archdevil was formerly Triel, one of the most beautiful angels to be found on Mount Celestia. The Church of Sune also despises {@creature Ssendam, Lord of Madness|MaBJoV|Ssendam}, as the slaad lord's insanity and ugliness is a danger to the structure of the civilized world.",
-								"Sune supports efforts to vanquish powerful armies that threaten the stability of the civilized world. This includes orc hordes, hobgoblin empires, frost giant raiders, the Red Wizards of Thay, the Cult of the Dragon and other similar threats.",
+								"Sune supports efforts to vanquish powerful armies that threaten the stability of the civilized world. This includes orc hordes, hobgoblin empires, frost giant raiders, the Red Magiciens of Thay, the Cult of the Dragon and other similar threats.",
 								"Sune also detests the ugliness of the undead, especially the rotting dead such as zombies, ghouls, mummies and liches."
 							],
 							"id": "0b7"
@@ -4819,7 +4819,7 @@
 											"name": "Fences",
 											"page": 59,
 											"entries": [
-												"Because the Harpers are devoted to tracking down magic items, they have a network with access to a larger variety of magic items than anywhere outside of the Red Wizards of Thay. Each member of your party gains access to certain magic items for a suitable donation. The different costs of acquiring these magic items are described in the table opposite.",
+												"Because the Harpers are devoted to tracking down magic items, they have a network with access to a larger variety of magic items than anywhere outside of the Red Magiciens of Thay. Each member of your party gains access to certain magic items for a suitable donation. The different costs of acquiring these magic items are described in the table opposite.",
 												{
 													"type": "table",
 													"caption": "Items Acquired via Harper Fences",

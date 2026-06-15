@@ -800,7 +800,7 @@
 							"page": 8,
 							"entries": [
 								"A great deal of the challenges in the demiplane come from other trespassers\u2014specifically, Tyreus's allies. How long they have been here depends on when (or how often) the adventurers arrive. It could be hours or days.",
-								"The first trespasser is {@creature Morwena Veilmist|AitFR-THP}, once a Red Wizard of Thay and now Tyreus's abandoned accomplice. She is likely reading everything she can inside the refuge (in area 2). Her goal is to get the adventurers to remove the keystone in the cellar (area 10) and collapse the demiplane, freeing her and potentially hindering Tyreus.",
+								"The first trespasser is {@creature Morwena Veilmist|AitFR-THP}, once a Red Magicien of Thay and now Tyreus's abandoned accomplice. She is likely reading everything she can inside the refuge (in area 2). Her goal is to get the adventurers to remove the keystone in the cellar (area 10) and collapse the demiplane, freeing her and potentially hindering Tyreus.",
 								"Additionally, Tyreus brought a minion with him to the demiplane, in case he needed it to fight on his behalf. He left it here when he departed. It is a {@creature greater shadow horror|AitFR-THP} from Ravnica. It treats the cellar of the refuge (area 10) as its den and stalks the refuge by night to protect the keystone."
 							],
 							"id": "037"

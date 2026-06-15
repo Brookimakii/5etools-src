@@ -138,7 +138,7 @@
 			"name": "Barovian Butterscotch Pudding",
 			"source": "HF",
 			"entries": [
-				"After a delectable wolf steak, some buttery garlic bread, and a few glasses of Red Dragon Crush wine, nothing satisfies the sweet tooth like the Blue Water Inn's famous Barovian butterscotch pudding. This dish is as sweet and smooth as a tall chalice of owlbear milk. But a few pieces of advice for those who seek to traverse the ghostly mists of Barovia to dine in their establishments: (1) return home before nightfall, especially during the full moon; (2) don't spend the night at Castle Ravenloft, no matter how much the host wants you to stay; and (3) avoid dream pies and Purple Grapemash No. 3 by the Wizard of Wines vineyard at all costs!"
+				"After a delectable wolf steak, some buttery garlic bread, and a few glasses of Red Dragon Crush wine, nothing satisfies the sweet tooth like the Blue Water Inn's famous Barovian butterscotch pudding. This dish is as sweet and smooth as a tall chalice of owlbear milk. But a few pieces of advice for those who seek to traverse the ghostly mists of Barovia to dine in their establishments: (1) return home before nightfall, especially during the full moon; (2) don't spend the night at Castle Ravenloft, no matter how much the host wants you to stay; and (3) avoid dream pies and Purple Grapemash No. 3 by the Magicien of Wines vineyard at all costs!"
 			],
 			"images": [
 				{
@@ -157,7 +157,7 @@
 			"name": "Barovian Garlic Bread",
 			"source": "HFFotM",
 			"entries": [
-				"This buttery bread, served in both loaf and knot form, is ever-present in the taverns and inns dotting the misty (and eerie) Barovian countryside. While it's not uncommon for wayward travelers to get the cold shoulder from reclusive and suspicious denizens, inns such as the Blue Water will at least offer a warm basket of this local treat to well-mannered and paying patrons. It is important to note that although garlic is a flavorful and inspired touch, it is not indigenous to the region. You'll find this pungent bread pairs nicely with a main of medium-rare wolf steak and a glass of Wizard of Wines' Champagne du le Stomp or Red Dragon Crush, but avoid the {@recipe Purple Grapemash No. 3|HFFotM} at all costs."
+				"This buttery bread, served in both loaf and knot form, is ever-present in the taverns and inns dotting the misty (and eerie) Barovian countryside. While it's not uncommon for wayward travelers to get the cold shoulder from reclusive and suspicious denizens, inns such as the Blue Water will at least offer a warm basket of this local treat to well-mannered and paying patrons. It is important to note that although garlic is a flavorful and inspired touch, it is not indigenous to the region. You'll find this pungent bread pairs nicely with a main of medium-rare wolf steak and a glass of Magicien of Wines' Champagne du le Stomp or Red Dragon Crush, but avoid the {@recipe Purple Grapemash No. 3|HFFotM} at all costs."
 			],
 			"images": [
 				{
@@ -2787,7 +2787,7 @@
 			"name": "Purple Grapemash No. 3",
 			"source": "HFFotM",
 			"entries": [
-				"Barovia is known for many things, its wine among them. The Wizard of Wines Vineyard is legendary for producing some of the finest wines throughout the planes and multiverse, such as the full-bodied Red Dragon Crush and the crisp Champagne du le Stomp. But not all wines that emerge from the mists of Barovia are of equal quality, as evidenced by the existence of Purple Grapemash No. 3. Priced at only three copper pieces per pint at most local taverns and other Domains of Dread, this table wine is known to be spectacularly unremarkable. However, in some areas of the Shadowfell, clever mixologists have added copious amounts of ice and lime juice to the pungent grape-ish mix, turning this otherwise mediocre concoction into a refreshing, slushy treat worth at least four copper pieces anywhere."
+				"Barovia is known for many things, its wine among them. The Magicien of Wines Vineyard is legendary for producing some of the finest wines throughout the planes and multiverse, such as the full-bodied Red Dragon Crush and the crisp Champagne du le Stomp. But not all wines that emerge from the mists of Barovia are of equal quality, as evidenced by the existence of Purple Grapemash No. 3. Priced at only three copper pieces per pint at most local taverns and other Domains of Dread, this table wine is known to be spectacularly unremarkable. However, in some areas of the Shadowfell, clever mixologists have added copious amounts of ice and lime juice to the pungent grape-ish mix, turning this otherwise mediocre concoction into a refreshing, slushy treat worth at least four copper pieces anywhere."
 			],
 			"images": [
 				{

@@ -60,7 +60,7 @@
 												"{@b Nog the Dwarf}. Dustin Henderson's sturdy Cleric, Nog, has gotten his companions out of a bind more times than he can count. Nog is a devotee of Heironeous, a god of chivalry, justice, and war.",
 												"{@b Sundar the Bold}. A gallant and unyielding warrior, Sundar the Bold bravely defends his companions\u2014just like this Fighter's player, Lucas Sinclair.",
 												"{@b Tayr the Paladin}. When Mike Wheeler isn't behind the DM screen in his parents' basement, he dusts off his trusty Paladin, Tayr. The heart of the party, Tayr unites his companions and leads the charge in their fight against evil.",
-												"{@b Will the Wise}. Will Byer's Wizard is a mainstay of the party and is always up for another adventure. When Will the Wise casts a spell, his magic sometimes manifests in unexpected colors."
+												"{@b Will the Wise}. Will Byer's Magicien is a mainstay of the party and is always up for another adventure. When Will the Wise casts a spell, his magic sometimes manifests in unexpected colors."
 											],
 											"style": "list-hang-notitle"
 										}
@@ -4976,7 +4976,7 @@
 					"name": "Will the Wise",
 					"entries": [
 						"{@i Human Wizard}",
-						"Will Byer's Wizard is a mainstay of the party and is always up for another adventure. When Will the Wise casts a spell, his magic sometimes manifests in unexpected colors.",
+						"Will Byer's Magicien is a mainstay of the party and is always up for another adventure. When Will the Wise casts a spell, his magic sometimes manifests in unexpected colors.",
 						"{@link D&D Beyond Character|https://www.dndbeyond.com/characters/153409493}",
 						{
 							"type": "list",

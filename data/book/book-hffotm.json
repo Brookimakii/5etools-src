@@ -2601,7 +2601,7 @@
 							"width": 1759,
 							"height": 1989
 						},
-						"This buttery bread, served in both loaf and knot form, is ever-present in the taverns and inns dotting the misty (and eerie) Barovian countryside. While it's not uncommon for wayward travelers to get the cold shoulder from reclusive and suspicious denizens, inns such as the Blue Water will at least offer a warm basket of this local treat to well-mannered and paying patrons. It is important to note that although garlic is a flavorful and inspired touch, it is not indigenous to the region. You'll find this pungent bread pairs nicely with a main of medium-rare wolf steak and a glass of Wizard of Wines' Champagne du le Stomp or Red Dragon Crush, but avoid the {@recipe Purple Grapemash No. 3|HFFotM} at all costs.",
+						"This buttery bread, served in both loaf and knot form, is ever-present in the taverns and inns dotting the misty (and eerie) Barovian countryside. While it's not uncommon for wayward travelers to get the cold shoulder from reclusive and suspicious denizens, inns such as the Blue Water will at least offer a warm basket of this local treat to well-mannered and paying patrons. It is important to note that although garlic is a flavorful and inspired touch, it is not indigenous to the region. You'll find this pungent bread pairs nicely with a main of medium-rare wolf steak and a glass of Magicien of Wines' Champagne du le Stomp or Red Dragon Crush, but avoid the {@recipe Purple Grapemash No. 3|HFFotM} at all costs.",
 						{
 							"type": "statblock",
 							"tag": "recipe",
@@ -2811,7 +2811,7 @@
 							"width": 1759,
 							"height": 1989
 						},
-						"Barovia is known for many things, its wine among them. The Wizard of Wines Vineyard is legendary for producing some of the finest wines throughout the planes and multiverse, such as the full-bodied Red Dragon Crush and the crisp Champagne du le Stomp. But not all wines that emerge from the mists of Barovia are of equal quality, as evidenced by the existence of Purple Grapemash No. 3. Priced at only three copper pieces per pint at most local taverns and other Domains of Dread, this table wine is known to be spectacularly unremarkable. However, in some areas of the Shadowfell, clever mixologists have added copious amounts of ice and lime juice to the pungent grape-ish mix, turning this otherwise mediocre concoction into a refreshing, slushy treat worth at least four copper pieces anywhere.",
+						"Barovia is known for many things, its wine among them. The Magicien of Wines Vineyard is legendary for producing some of the finest wines throughout the planes and multiverse, such as the full-bodied Red Dragon Crush and the crisp Champagne du le Stomp. But not all wines that emerge from the mists of Barovia are of equal quality, as evidenced by the existence of Purple Grapemash No. 3. Priced at only three copper pieces per pint at most local taverns and other Domains of Dread, this table wine is known to be spectacularly unremarkable. However, in some areas of the Shadowfell, clever mixologists have added copious amounts of ice and lime juice to the pungent grape-ish mix, turning this otherwise mediocre concoction into a refreshing, slushy treat worth at least four copper pieces anywhere.",
 						{
 							"type": "statblock",
 							"tag": "recipe",
@@ -4166,7 +4166,7 @@
 						},
 						{
 							"type": "item",
-							"name": "Wizards of the Coast Team",
+							"name": "Magiciens of the Coast Team",
 							"entries": [
 								"Paul Morrissey"
 							]

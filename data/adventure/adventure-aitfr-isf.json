@@ -5,8 +5,8 @@
 			"name": "In Scarlet Flames",
 			"page": 2,
 			"entries": [
-				"Two Red Wizards of Thay have undertaken a secret mission into the High Moors east of the Sword Coast. They are searching for something or someone. Whatever their goal out there in the cold and windswept hills, if the Red Wizards want to keep it secret then it is probably best uncovered swiftly for the good of everyone else. Even the mercenaries who escorted them into the wilderness earlier agree: someone should stop them.",
-				"Pursuing the Red Wizards leads the adventurers to a barrow mound in the wild grasses of the High Moors. At the barrow, they discover the remnants of a wizards' sanctum still being plundered. The fate of its lore and treasures is up to the characters. Without caution, things may get out of hand.",
+				"Two Red Magiciens of Thay have undertaken a secret mission into the High Moors east of the Sword Coast. They are searching for something or someone. Whatever their goal out there in the cold and windswept hills, if the Red Magiciens want to keep it secret then it is probably best uncovered swiftly for the good of everyone else. Even the mercenaries who escorted them into the wilderness earlier agree: someone should stop them.",
+				"Pursuing the Red Magiciens leads the adventurers to a barrow mound in the wild grasses of the High Moors. At the barrow, they discover the remnants of a wizards' sanctum still being plundered. The fate of its lore and treasures is up to the characters. Without caution, things may get out of hand.",
 				"This Dungeons & Dragons® adventure is written to suit four to six characters of 8th level. With this text and the core D&D manuals, you have everything you need to play. You may also benefit from the Sword Coast Adventurer's Guide to learn more about the High Moors of Faerûn.",
 				{
 					"type": "image",
@@ -35,9 +35,9 @@
 					"page": 3,
 					"entries": [
 						"A lone mage roams the land. He is a visitor from another world. He has come to the Sword Coast in pursuit of legends and lore, in the footsteps of others who came here long ago. He is called Tyreus, though few here know him by name.",
-						"His explorations caught the attention of the Red Wizards of Thay, who dispatched a pair of their own wizards to find the roving mage. These searchers\u2014Morwena and her apprentice, {@creature Malivar|AitFR-ISF}\u2014tracked the wizard to the High Moors east of the Sword Coast. They surmised (correctly) that their quarry was looking for a site of arcane power.",
-						"To find their way through the High Moors and stay on Tyreus's trail, the Red Wizards hired local mercenaries to guide them, led by a former bandit called Lothar.",
-						"When the Red Wizards drew close to their target at a site colloquially called the Wizard's Barrow, Lothar and his mercenaries abandoned the whole enterprise out of fear. They fled back to the village of Secomber, on the edge of the High Moors, where they tell anyone who will listen that bad things are afoot out at the Wizard's Barrow now. \"Wizards hunting wizards can lead to no good,\" Lothar says.",
+						"His explorations caught the attention of the Red Magiciens of Thay, who dispatched a pair of their own wizards to find the roving mage. These searchers\u2014Morwena and her apprentice, {@creature Malivar|AitFR-ISF}\u2014tracked the wizard to the High Moors east of the Sword Coast. They surmised (correctly) that their quarry was looking for a site of arcane power.",
+						"To find their way through the High Moors and stay on Tyreus's trail, the Red Magiciens hired local mercenaries to guide them, led by a former bandit called Lothar.",
+						"When the Red Magiciens drew close to their target at a site colloquially called the Wizard's Barrow, Lothar and his mercenaries abandoned the whole enterprise out of fear. They fled back to the village of Secomber, on the edge of the High Moors, where they tell anyone who will listen that bad things are afoot out at the Wizard's Barrow now. \"Magiciens hunting wizards can lead to no good,\" Lothar says.",
 						{
 							"type": "entries",
 							"name": "The Story at the Barrow",
@@ -49,7 +49,7 @@
 								"For two days, Tyreus searched the library for items of value. When Morwena and {@creature Malivar|AitFR-ISF} arrived, they confronted him in a brief skirmish of spells before choosing to parley.",
 								"Morwena, intrigued by the roving wizard and hungry for the power he offered, chose to abandon her mission and join Tyreus. {@creature Malivar|AitFR-ISF} thought it was a trick. It wasn't.",
 								"{@creature Malivar|AitFR-ISF}, afraid and heartbroken, threatened them both but was no match for either. Struck by Tyreus's spells, he fled the library, deeper into the barrow, and collapsed on the verge of death. (He is likely still in area 13 when the adventurers arrive.)",
-								"Morwena suggested they let {@creature Malivar|AitFR-ISF} go, as she wasn't worried about reprisal from the Red Wizards anymore. She and her new ally teleported away with their treasures, leaving the elemental minions to close up the barrow again and burn the library to cover their master's tracks.",
+								"Morwena suggested they let {@creature Malivar|AitFR-ISF} go, as she wasn't worried about reprisal from the Red Magiciens anymore. She and her new ally teleported away with their treasures, leaving the elemental minions to close up the barrow again and burn the library to cover their master's tracks.",
 								"The lead minion, a fire spirit called {@creature Exul|AitFR-ISF}, toils under a geas from the roving wizard. He has gathered and piled scrolls and books from the library to burn them but has stopped to read all he can before he destroys them."
 							],
 							"id": "003"
@@ -62,7 +62,7 @@
 					"name": "Adventure Hook",
 					"page": 3,
 					"entries": [
-						"Adventurers passing through the village of Secomber might hear about the Red Wizards and their mission by chance. For some adventurers, interfering with Red Wizards or uncovering lost treasure may be enough motivation to continue.",
+						"Adventurers passing through the village of Secomber might hear about the Red Magiciens and their mission by chance. For some adventurers, interfering with Red Magiciens or uncovering lost treasure may be enough motivation to continue.",
 						"If coincidence isn't enough, consider the following adventure hooks and how they can get adventurers to Secomber.",
 						{
 							"type": "entries",
@@ -72,7 +72,7 @@
 									"name": "Pursuit of the Red Wizards",
 									"page": 3,
 									"entries": [
-										"An ally or patron of the adventurers hears word that two Red Wizards have ventured toward the High Moors in search of something. Perhaps that ally has a fraught history with the Red Wizards; perhaps the adventurers already do too."
+										"An ally or patron of the adventurers hears word that two Red Magiciens have ventured toward the High Moors in search of something. Perhaps that ally has a fraught history with the Red Wizards; perhaps the adventurers already do too."
 									],
 									"id": "006"
 								},
@@ -109,11 +109,11 @@
 							"name": "The Mercenaries' Accounts",
 							"page": 4,
 							"entries": [
-								"Lothar Stoutsmark (male human, chaotic neutral, {@creature bandit captain}) is a forty-year-old braggart who values survival above all else. His \"gold\" teeth are fake. He and his crew (Gordo, Vic, and Rora) consider themselves adventurers but tend toward sordid work and skullduggery. Lothar is one lean month away from returning to highway robbery, and his allies (all {@creature spy||spies}) are one bad day from abandoning him, unbeknown to Lothar. Lothar knows the following information about the Red Wizards and their mission:",
+								"Lothar Stoutsmark (male human, chaotic neutral, {@creature bandit captain}) is a forty-year-old braggart who values survival above all else. His \"gold\" teeth are fake. He and his crew (Gordo, Vic, and Rora) consider themselves adventurers but tend toward sordid work and skullduggery. Lothar is one lean month away from returning to highway robbery, and his allies (all {@creature spy||spies}) are one bad day from abandoning him, unbeknown to Lothar. Lothar knows the following information about the Red Magiciens and their mission:",
 								{
 									"type": "list",
 									"items": [
-										"\"Those Red Wizards are called Morwena and {@creature Malivar|AitFR-ISF}. He used to be her apprentice and she still puts him in his place, you know? He doesn't like it.\"",
+										"\"Those Red Magiciens are called Morwena and {@creature Malivar|AitFR-ISF}. He used to be her apprentice and she still puts him in his place, you know? He doesn't like it.\"",
 										"\"Morwena, she said the barrow they were looking for might contain great treasure. She seemed to doubt it was a barrow at all, though. She called it a 'sanctum.'\"",
 										"\"She maybe meant the Wizard's Barrow, which was used for strange rites for decades\u2014thunder, lightning\u2014but apparently never opened.\"",
 										"\"Anyway, them Red Wizards, they're chasing someone. Another wizard, from a rival group, maybe? Sounded like they wanted him alive.\"",
@@ -376,7 +376,7 @@
 					"name": "7. Observer's Chamber",
 					"page": 6,
 					"entries": [
-						"Wizards used this chamber to observe newcomers to the sect as they performed rites and recited chants in the ceremonial entryway (area 5) and descended the stairs (area 6).",
+						"Magiciens used this chamber to observe newcomers to the sect as they performed rites and recited chants in the ceremonial entryway (area 5) and descended the stairs (area 6).",
 						{
 							"type": "insetReadaloud",
 							"entries": [
@@ -480,7 +480,7 @@
 							],
 							"id": "033"
 						},
-						"Wizards used this chamber to cast ritual spells without distraction, to perform rites sacred to the old sect, and to observe apprentices as they practiced their work.",
+						"Magiciens used this chamber to cast ritual spells without distraction, to perform rites sacred to the old sect, and to observe apprentices as they practiced their work.",
 						"Any checks to sneak through this chamber without attracting the attention of creatures in area 14 are made with disadvantage.",
 						"The etchings along the wall are instructions for casting detect magic and identify as a ritual, but no power has been imbued within the words, so they are little more than mnemonics for apprentice wizards.",
 						{
@@ -590,7 +590,7 @@
 							],
 							"id": "040"
 						},
-						"This rough-hewn catacomb is lined with three inset shelves for the dead. Here the wizards interred the original inhabitants of the barrow above, as well as servants and some other friends and allies of the site who passed away during its years in operation. Each was wrapped in gray or white cloth and put in place without grave goods or treasures. (Wizards of the sect are in area 16.)",
+						"This rough-hewn catacomb is lined with three inset shelves for the dead. Here the wizards interred the original inhabitants of the barrow above, as well as servants and some other friends and allies of the site who passed away during its years in operation. Each was wrapped in gray or white cloth and put in place without grave goods or treasures. (Magiciens of the sect are in area 16.)",
 						"{@creature Malivar|AitFR-ISF} is here, likely {@condition unconscious}, after almost being killed by Tyreus's spells. He has 1 hit point. If awakened, he tries to assess his situation rather than immediately fight or flee.",
 						"{@creature Malivar|AitFR-ISF} reveals the following bits of information if the adventurers talk with him. If threatened, he attempts to keep quiet.",
 						{
@@ -599,7 +599,7 @@
 								"The wizard they pursued here is called Tyreus.",
 								"Tyreus is a powerful archmage from another world. He's here looking for an ancient site of mystical power. \"We tried to recruit him.\"",
 								"He had a hefty tome bound in white leather with five sigils on the front, held close to him. \"That's what he came for, whatever it is.\"",
-								"Morwena's allegiance to the Red Wizards has been wavering. She felt they were holding her back from the kind of arcane power she really wanted. \"I wish I wasn't surprised that she turned on me. I mean, us.\""
+								"Morwena's allegiance to the Red Magiciens has been wavering. She felt they were holding her back from the kind of arcane power she really wanted. \"I wish I wasn't surprised that she turned on me. I mean, us.\""
 							]
 						}
 					],

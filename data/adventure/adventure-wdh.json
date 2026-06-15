@@ -4184,7 +4184,7 @@
 												],
 												[
 													"4th",
-													"\"The Zhents are courting a Red Wizard of Thay named Esloon Bezant, trying to add his gang of thugs to their ranks. All we know about him is that he fled his homeland a few years back and is too smart to get caught doing anything illegal. He and his gang of bullies prowl the Dock Ward. Scuttle the deal, and do it fast!\"",
+													"\"The Zhents are courting a Red Magicien of Thay named Esloon Bezant, trying to add his gang of thugs to their ranks. All we know about him is that he fled his homeland a few years back and is too smart to get caught doing anything illegal. He and his gang of bullies prowl the Dock Ward. Scuttle the deal, and do it fast!\"",
 													"The characters can create a rift between the Zhentarim and Esloon's gang by sowing rumors of betrayal. They must spend 25 gp in bribes and succeed on a {@dc 16} Charisma (Deception or Persuasion) check. Conversely, they can confront Esloon Bezant (LE male Thayan human {@creature mage}) and his gang of five {@creature thug||thugs} and either defeat them or bribe them with at least 500 gp. {@i Reward}: Each Lords' Alliance character gains 2 renown. The characters can also deprive Esloon of his spellbook, which contains all the spells he has prepared."
 												],
 												[
@@ -18193,7 +18193,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "X34. Wizard Tombs",
+									"name": "X34. Magicien Tombs",
 									"page": 113,
 									"id": "2c4",
 									"entries": [
@@ -28786,7 +28786,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "K10. Wizard Statue",
+									"name": "K10. Magicien Statue",
 									"page": 152,
 									"id": "3f0",
 									"entries": [
@@ -30456,7 +30456,7 @@
 									"id": "41b",
 									"entries": [
 										"A 5-foot-square window in this area looks out toward {@area E1|413}. Unless she has been drawn elsewhere, {@creature Kaevja Cynavern|wdh} stands watch in front of the window.",
-										"Kaevja was a Red Wizard of Thay until she saw an opportunity to study magic under {@creature Manshoon|WDH}. Before he accepted her, {@creature Manshoon|WDH} forced her to remove her distinctive Thayan head tattoos and to trade in her Red Wizard robes for black ones.",
+										"Kaevja was a Red Magicien of Thay until she saw an opportunity to study magic under {@creature Manshoon|WDH}. Before he accepted her, {@creature Manshoon|WDH} forced her to remove her distinctive Thayan head tattoos and to trade in her Red Magicien robes for black ones.",
 										"{@creature Kaevja Cynavern|wdh} is a female Mulan human {@creature mage}, with these changes:",
 										{
 											"type": "list",
@@ -33152,7 +33152,7 @@
 							"width": 417,
 							"height": 800
 						},
-						"{@creature Vajra Safahr|wdh|Vajra} is a capable wizard in her mid-thirties, the youngest person ever to hold the position of Blackstaff. As the High Wizard of Waterdeep, she is charged with using all the magic and resources at her disposal to defend the city against threats. She was handpicked for the job by Khelben Arunsun, and wields the Blackstaff from which Khelben derived his name and the title of the office. Vajra isn't the city's most powerful wizard, but she can hold her own. Despite her many gifts, she still questions her ability to meet the demands of her role, and she rarely makes a decision without first soliciting the advice of the Blackstaff, which contains Khelben Arunsun's spirit as well as the spirits of all the other Blackstaffs who preceded her. She also gets intelligence from many other sources, both through her own network of spies and from Harper agents.",
+						"{@creature Vajra Safahr|wdh|Vajra} is a capable wizard in her mid-thirties, the youngest person ever to hold the position of Blackstaff. As the High Magicien of Waterdeep, she is charged with using all the magic and resources at her disposal to defend the city against threats. She was handpicked for the job by Khelben Arunsun, and wields the Blackstaff from which Khelben derived his name and the title of the office. Vajra isn't the city's most powerful wizard, but she can hold her own. Despite her many gifts, she still questions her ability to meet the demands of her role, and she rarely makes a decision without first soliciting the advice of the Blackstaff, which contains Khelben Arunsun's spirit as well as the spirits of all the other Blackstaffs who preceded her. She also gets intelligence from many other sources, both through her own network of spies and from Harper agents.",
 						"Vajra runs Blackstaff Academy, a school for mages, out of Blackstaff Tower in the Castle Ward. She is also in charge of Force Grey, an order of highly skilled adventurers who are called upon to defend the city in times of need.",
 						"Vajra is always looking for new adventurers to fill the ranks of Force Grey, and she is particularly interested in those who can bring unique skills, abilities, or spells to the mix.",
 						"Several of the older and more seasoned wizards in Waterdeep consider Vajra an upstart, but they are smart enough not to challenge her. Only the Open Lord, currently {@creature Laeral Silverhand|WDH}, can strip Vajra of her title."

@@ -5404,7 +5404,7 @@
 												],
 												[
 													"4",
-													"Wizard who blames the characters for some recent troubles"
+													"Magicien who blames the characters for some recent troubles"
 												],
 												[
 													"5",
@@ -7632,7 +7632,7 @@
 			"name": "Spells",
 			"page": 147,
 			"entries": [
-				"Many of the character classes in the player's handbook harness magic in the form of spells. This chapter provides new spells for those classes, as well as for spellcasting monsters. The Dungeon Master decides which of these spells are available in a campaign and how they can be learned. For example, a DM might decide that some of the spells are freely available, that others are unobtainable, and that a handful can be found only after a special quest, perhaps discovered in a long-lost tome of magic. Wizard spells, in particular, can be introduced to a campaign in spellbooks found as treasure.",
+				"Many of the character classes in the player's handbook harness magic in the form of spells. This chapter provides new spells for those classes, as well as for spellcasting monsters. The Dungeon Master decides which of these spells are available in a campaign and how they can be learned. For example, a DM might decide that some of the spells are freely available, that others are unobtainable, and that a handful can be found only after a special quest, perhaps discovered in a long-lost tome of magic. Magicien spells, in particular, can be introduced to a campaign in spellbooks found as treasure.",
 				"When a DM adds spells to a campaign, clerics, druids, and paladins require special consideration. When characters of those classes prepare their spells, they have access to the entire spell list for their class. Given that fact, the DM should be cautious about making all of these new spells available to a player who is overwhelmed when presented with many options. For such a player, consider adding only story-appropriate spells to the spell list of that player's character.",
 				"See the full list of spells from {@i Xanathar's Guide to Everything} on the {@filter Spells|spells|source=XGE} page.",
 				{
@@ -7663,7 +7663,7 @@
 				"Coordinating a regular schedule of D&D game sessions, to keep a campaign active and vibrant, can be a challenge. If the campaign's only Dungeon Master or enough players aren't available, the next session might have to be postponed, and repeated problems of this sort can endanger the continuation of the campaign.",
 				"In short: in a world filled with distractions, it can be hard to keep a campaign going. Enter the concept of the shared campaign.",
 				"In a shared campaign, more than one member of the group can take on the role of DM. A shared campaign is episodic rather than continuous, with each play session comprising a complete adventure.",
-				"The largest shared campaigns are administered by the D&D Adventurers League and overseen by Wizards of the Coast. You can also create your own shared campaign for a school D&D club, at a game store, a library, or anywhere else where D&D players and DMs gather.",
+				"The largest shared campaigns are administered by the D&D Adventurers League and overseen by Magiciens of the Coast. You can also create your own shared campaign for a school D&D club, at a game store, a library, or anywhere else where D&D players and DMs gather.",
 				"A shared campaign establishes a framework that allows a player to take a character from one DM's game to another one within the shared campaign. It creates a situation where almost nothing can prevent a scheduled session from happening. The roster of potential players can be quite large, virtually ensuring that any session has at least the minimum number of characters needed to play. If everyone shows up to play at the same time, multiple DMs ensure that everyone can take part.",
 				"In order to be successful, a shared campaign needs a champion-someone who takes on the responsibility of organizing and maintaining the group. If you're interested in learning more about how to run a shared campaign and seeing how the Adventurers League handles certain issues, then the rest of this appendix is meant for you.",
 				{

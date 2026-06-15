@@ -28806,14 +28806,14 @@
 					"type": "entries",
 					"name": "Spellcasting Focus",
 					"entries": [
-						"While holding the hat, you can use it as a {@variantrule Spellcasting Focus|XPHB} for your Wizard spells. Any spell you cast using the hat gains a special Somatic component: you must reach into the hat and \"pull\" the spell out of it."
+						"While holding the hat, you can use it as a {@variantrule Spellcasting Focus|XPHB} for your Magicien spells. Any spell you cast using the hat gains a special Somatic component: you must reach into the hat and \"pull\" the spell out of it."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Unknown Spell",
 					"entries": [
-						"While holding the hat, you can try to cast a level 1+ spell you don't know. The spell must be on the Wizard spell list, it must be of a level you can cast, and it can't have Material components costing more than 1,000 GP. Once you decide on the spell, you must expend a spell slot of the spell's level. Then, to determine whether you cast the spell, make an Intelligence ({@skill Arcana|XPHB}) check ({@dc 10} plus the spell's level). On a successful check, you cast the spell using its normal casting time, and you can't use this property again until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}. On a failed check, you fail to cast the spell and a random effect occurs instead, determined by rolling on the following table.",
+						"While holding the hat, you can try to cast a level 1+ spell you don't know. The spell must be on the Magicien spell list, it must be of a level you can cast, and it can't have Material components costing more than 1,000 GP. Once you decide on the spell, you must expend a spell slot of the spell's level. Then, to determine whether you cast the spell, make an Intelligence ({@skill Arcana|XPHB}) check ({@dc 10} plus the spell's level). On a successful check, you cast the spell using its normal casting time, and you can't use this property again until you finish a {@variantrule Short Rest|XPHB|Short} or {@variantrule Long Rest|XPHB}. On a failed check, you fail to cast the spell and a random effect occurs instead, determined by rolling on the following table.",
 						"Any spell you cast from the hat uses your spell save DC and spell attack bonus.",
 						{
 							"type": "table",
@@ -28945,14 +28945,14 @@
 					"type": "entries",
 					"name": "Spellcasting Focus",
 					"entries": [
-						"You can use the hat as a {@variantrule Spellcasting Focus|XPHB} for your Wizard spells."
+						"You can use the hat as a {@variantrule Spellcasting Focus|XPHB} for your Magicien spells."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Unknown Spell",
 					"entries": [
-						"As a {@action Magic|XPHB} action, you can try to cast a cantrip that you don't know. The cantrip must be on the Wizard spell list and have a casting time of an action, and you make a {@dc 10} Intelligence ({@skill Arcana|XPHB}) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast the spell is wasted. In either case, you can't use this property again until you finish a {@variantrule Long Rest|XPHB}."
+						"As a {@action Magic|XPHB} action, you can try to cast a cantrip that you don't know. The cantrip must be on the Magicien spell list and have a casting time of an action, and you make a {@dc 10} Intelligence ({@skill Arcana|XPHB}) check. On a successful check, you cast the spell. On a failed check, the spell fails, and the action used to cast the spell is wasted. In either case, you can't use this property again until you finish a {@variantrule Long Rest|XPHB}."
 					]
 				}
 			],
@@ -48838,7 +48838,7 @@
 			"hasFluffImages": true
 		},
 		{
-			"name": "Red Wizard Blade",
+			"name": "Red Magicien Blade",
 			"source": "HAT-LMI",
 			"baseItem": "dagger|PHB",
 			"type": "M",
@@ -48854,7 +48854,7 @@
 			"dmg1": "1d4",
 			"dmgType": "P",
 			"entries": [
-				"Forged by Red Wizards using a secret process known only to them, this grim steel dagger draws its power from the Negative Plane. When you hit a creature with a melee attack using this magic dagger, the target takes an extra {@damage 3d12} necrotic damage.",
+				"Forged by Red Magiciens using a secret process known only to them, this grim steel dagger draws its power from the Negative Plane. When you hit a creature with a melee attack using this magic dagger, the target takes an extra {@damage 3d12} necrotic damage.",
 				"A creature reduced to 0 hit points by this weapon dies and can't be raised from the dead except by a deity or by a creature using a {@item tablet of reawakening|HAT-LMI} to cast the {@spell true resurrection} spell."
 			],
 			"hasFluffImages": true
@@ -58560,7 +58560,7 @@
 					"type": "entries",
 					"name": "Copying a Scroll into a Spellbook",
 					"entries": [
-						"A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 1 spell is copied in this way, the copier must succeed on a {@dc 11} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
+						"A Magicien spell on a Spell Scroll can be copied into a spellbook. When a level 1 spell is copied in this way, the copier must succeed on a {@dc 11} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
 					]
 				}
 			],
@@ -58590,7 +58590,7 @@
 					"type": "entries",
 					"name": "Copying a Scroll into a Spellbook",
 					"entries": [
-						"A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 2 spell is copied in this way, the copier must succeed on a {@dc 12} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
+						"A Magicien spell on a Spell Scroll can be copied into a spellbook. When a level 2 spell is copied in this way, the copier must succeed on a {@dc 12} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
 					]
 				}
 			],
@@ -58620,7 +58620,7 @@
 					"type": "entries",
 					"name": "Copying a Scroll into a Spellbook",
 					"entries": [
-						"A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 3 spell is copied in this way, the copier must succeed on a {@dc 13} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
+						"A Magicien spell on a Spell Scroll can be copied into a spellbook. When a level 3 spell is copied in this way, the copier must succeed on a {@dc 13} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
 					]
 				}
 			],
@@ -58650,7 +58650,7 @@
 					"type": "entries",
 					"name": "Copying a Scroll into a Spellbook",
 					"entries": [
-						"A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 4 spell is copied in this way, the copier must succeed on a {@dc 14} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
+						"A Magicien spell on a Spell Scroll can be copied into a spellbook. When a level 4 spell is copied in this way, the copier must succeed on a {@dc 14} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
 					]
 				}
 			],
@@ -58680,7 +58680,7 @@
 					"type": "entries",
 					"name": "Copying a Scroll into a Spellbook",
 					"entries": [
-						"A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 5 spell is copied in this way, the copier must succeed on a {@dc 15} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
+						"A Magicien spell on a Spell Scroll can be copied into a spellbook. When a level 5 spell is copied in this way, the copier must succeed on a {@dc 15} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
 					]
 				}
 			],
@@ -58710,7 +58710,7 @@
 					"type": "entries",
 					"name": "Copying a Scroll into a Spellbook",
 					"entries": [
-						"A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 6 spell is copied in this way, the copier must succeed on a {@dc 16} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
+						"A Magicien spell on a Spell Scroll can be copied into a spellbook. When a level 6 spell is copied in this way, the copier must succeed on a {@dc 16} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
 					]
 				}
 			],
@@ -58740,7 +58740,7 @@
 					"type": "entries",
 					"name": "Copying a Scroll into a Spellbook",
 					"entries": [
-						"A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 7 spell is copied in this way, the copier must succeed on a {@dc 17} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
+						"A Magicien spell on a Spell Scroll can be copied into a spellbook. When a level 7 spell is copied in this way, the copier must succeed on a {@dc 17} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
 					]
 				}
 			],
@@ -58770,7 +58770,7 @@
 					"type": "entries",
 					"name": "Copying a Scroll into a Spellbook",
 					"entries": [
-						"A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 8 spell is copied in this way, the copier must succeed on a {@dc 18} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
+						"A Magicien spell on a Spell Scroll can be copied into a spellbook. When a level 8 spell is copied in this way, the copier must succeed on a {@dc 18} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
 					]
 				}
 			],
@@ -58800,7 +58800,7 @@
 					"type": "entries",
 					"name": "Copying a Scroll into a Spellbook",
 					"entries": [
-						"A Wizard spell on a Spell Scroll can be copied into a spellbook. When a level 9 spell is copied in this way, the copier must succeed on a {@dc 19} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
+						"A Magicien spell on a Spell Scroll can be copied into a spellbook. When a level 9 spell is copied in this way, the copier must succeed on a {@dc 19} Intelligence ({@skill Arcana|XPHB}). On a successful check, the spell is copied. Whether the check succeeds or fails, the Spell Scroll is destroyed."
 					]
 				}
 			],
@@ -68866,7 +68866,7 @@
 						],
 						[
 							"93",
-							"An empty wine bottle bearing a pretty label that says, \"The Wizard of Wines Winery, Red Dragon Crush, 331422-W\""
+							"An empty wine bottle bearing a pretty label that says, \"The Magicien of Wines Winery, Red Dragon Crush, 331422-W\""
 						],
 						[
 							"94",
@@ -69295,7 +69295,7 @@
 						],
 						[
 							"93",
-							"An empty wine bottle bearing a pretty label that says, \"The Wizard of Wines Winery, Red Dragon Crush, 331422-W\""
+							"An empty wine bottle bearing a pretty label that says, \"The Magicien of Wines Winery, Red Dragon Crush, 331422-W\""
 						],
 						[
 							"94",

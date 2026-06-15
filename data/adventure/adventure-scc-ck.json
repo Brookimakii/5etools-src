@@ -2531,7 +2531,7 @@
 								"\"I heard they've finally got some wizard gizzard machines in there!\" the student says. \"You have to come play with us!\""
 							]
 						},
-						"If a player or character expresses reluctance, have the student talk up the game of Wizard Gizzard and the people already at the tavern to persuade the characters to join them for the game.",
+						"If a player or character expresses reluctance, have the student talk up the game of Magicien Gizzard and the people already at the tavern to persuade the characters to join them for the game.",
 						{
 							"type": "section",
 							"name": "Bow's End Tavern",
@@ -3096,11 +3096,11 @@
 								},
 								{
 									"type": "entries",
-									"name": "Wizard Gizzard!",
+									"name": "Magicien Gizzard!",
 									"page": 76,
 									"id": "1b3",
 									"entries": [
-										"Characters following the student who invited them to play Wizard Gizzard are led to the main dining room ({@adventure area E2|SCC-CK|0|E2. Main Dining Room}) of Bow's End Tavern. Read or paraphrase the following:",
+										"Characters following the student who invited them to play Magicien Gizzard are led to the main dining room ({@adventure area E2|SCC-CK|0|E2. Main Dining Room}) of Bow's End Tavern. Read or paraphrase the following:",
 										{
 											"type": "insetReadaloud",
 											"id": "1b4",
@@ -3116,7 +3116,7 @@
 											"page": 76,
 											"id": "1b5",
 											"entries": [
-												"In this scene, the characters have the opportunity to play a game of Wizard Gizzard for a prize. A character can participate in the fun in one of the following ways:",
+												"In this scene, the characters have the opportunity to play a game of Magicien Gizzard for a prize. A character can participate in the fun in one of the following ways:",
 												{
 													"type": "list",
 													"style": "list-hang-notitle",
@@ -3170,7 +3170,7 @@
 									"page": 77,
 									"id": "1b7",
 									"entries": [
-										"Even as the game of Wizard Gizzard ends and a winner is declared, Bow's End Tavern erupts into pandemonium. Read or paraphrase the following:",
+										"Even as the game of Magicien Gizzard ends and a winner is declared, Bow's End Tavern erupts into pandemonium. Read or paraphrase the following:",
 										{
 											"type": "insetReadaloud",
 											"id": "1b8",
@@ -3210,7 +3210,7 @@
 							"page": 78,
 							"id": "1bb",
 							"entries": [
-								"The characters' second Exam in Magical Physiologies takes place a short while after the Wizard Gizzard game and sees students tested on their knowledge of {@creature Owlbear||owlbears}.",
+								"The characters' second Exam in Magical Physiologies takes place a short while after the Magicien Gizzard game and sees students tested on their knowledge of {@creature Owlbear||owlbears}.",
 								{
 									"type": "entries",
 									"name": "Studying Phase",

@@ -771,7 +771,7 @@
 						{
 							"type": "list",
 							"items": [
-								"The Elf Wizard can cast a {@spell Knock} spell on the door, causing it to swing open.",
+								"The Elf Magicien can cast a {@spell Knock} spell on the door, causing it to swing open.",
 								"The Gnome Guerrier or Dwarf Clerc can break down the door. (It takes effort, but success is automatic.)",
 								"The Orc Roublard can use thieves' tools to pick the lock. (It takes a moment, but success is automatic.)",
 								"If the characters find the large key in scene 5, they can use it to unlock and lock the door."
@@ -866,7 +866,7 @@
 							"entries": [
 								"The Player Characters recognize the many-eyed monster as a beholder, which has the power to emit an {@condition invisible} cone of anti-magic from its central eye. However, this beholder is not what it seems. It is really Alax's missing pet, a {@creature displacer beast} (see the {@book Monster Manual|MM} for its stat block) named Pouncy. Ervan used a powerful scroll to polymorph Pouncy into a beholder.",
 								"If Alax is with the Player Characters, Pouncy's initial attitude is friendly. The beholder rushes toward Alax and begins to lick Alax's face\u2014a clear signal that the beholder is not what it seems. If Alax isn't present, the beholder bares its teeth and keeps its distance, but doesn't attack except in self-defense. Offering it milk or calling it Pouncy changes its attitude to friendly.",
-								"If Alax or one of the Player Characters can reflect the beholder's anti-magic cone back on it using a polished object such as a silvered frying pan, the polymorph effect on Pouncy ends, restoring the displacer beast to its natural form. The Elf Wizard can also restore Pouncy's true form by casting {@spell Dispel Magic} on the beholder.",
+								"If Alax or one of the Player Characters can reflect the beholder's anti-magic cone back on it using a polished object such as a silvered frying pan, the polymorph effect on Pouncy ends, restoring the displacer beast to its natural form. The Elf Magicien can also restore Pouncy's true form by casting {@spell Dispel Magic} on the beholder.",
 								"Once Alax is reunited with Pouncy, they both return to the inn, trusting the Player Characters can deal with Ervan on their own. However, if the Player Characters call for help, Alax and Pouncy rejoin them."
 							],
 							"id": "029"
@@ -1786,7 +1786,7 @@
 					"items": [
 						{
 							"type": "entries",
-							"name": "Wizards of the Coast",
+							"name": "Magiciens of the Coast",
 							"entries": [
 								{
 									"type": "list",

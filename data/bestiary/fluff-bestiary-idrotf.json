@@ -560,7 +560,7 @@
 				"source": "IDRotF"
 			},
 			"entries": [
-				"Dzaan was a Red Wizard of Thay who studied the arcane tradition of illusion. The leaders of the Arcane Brotherhood welcomed him with open arms, eager to count a Red Wizard among their ranks. Dzaan might have become a force to reckon with in the brotherhood had his quest for power not led him to Icewind Dale, where he was killed by the people of Easthaven after making a few too many enemies.",
+				"Dzaan was a Red Magicien of Thay who studied the arcane tradition of illusion. The leaders of the Arcane Brotherhood welcomed him with open arms, eager to count a Red Magicien among their ranks. Dzaan might have become a force to reckon with in the brotherhood had his quest for power not led him to Icewind Dale, where he was killed by the people of Easthaven after making a few too many enemies.",
 				{
 					"type": "entries",
 					"entries": [
@@ -578,7 +578,7 @@
 									"type": "entries",
 									"name": "Companion",
 									"entries": [
-										"Because they're so despised throughout Faerûn, Red Wizards often adopt disguises and rarely travel abroad without an escort. They generally favor undead servants and bodyguards, since they find that undead tend to be more obedient than the living. Dzaan's bodyguard is a Thayan {@creature wight} named Krintaas. When Dzaan returned to Easthaven, he ordered his companion to stay with the simulacrum and watch over it and the buried Netherese spire."
+										"Because they're so despised throughout Faerûn, Red Magiciens often adopt disguises and rarely travel abroad without an escort. They generally favor undead servants and bodyguards, since they find that undead tend to be more obedient than the living. Dzaan's bodyguard is a Thayan {@creature wight} named Krintaas. When Dzaan returned to Easthaven, he ordered his companion to stay with the simulacrum and watch over it and the buried Netherese spire."
 									]
 								}
 							]

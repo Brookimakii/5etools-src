@@ -16,7 +16,7 @@
 					"id": "001",
 					"entries": [
 						"The characters are drawn into the story by {@creature Syndra Silvane|ToA}, a retired adventurer and merchant who, years ago, was raised from the dead. Now, she's withering away. When she consulted priests, Syndra learned that the affliction was widespread and that no spell could cure it. She spoke to her friends among the Harpers, who determined the source of the affliction: an ungodly necromantic device called the Soulmonger. The Harpers received their intelligence from a lich, but they don't know much about the Soulmonger other than its name and general whereabouts. Adventurers willing to help Syndra must travel to Chult, a land of jungles and monsters, to find the Soulmonger and destroy it.",
-						"Unknown to Syndra and her allies, the Soulmonger is trapping the souls of the dead and depriving liches of the means to trap souls in their phylacteries. (The Soulmonger snatches up the souls before they can be trapped elsewhere.) Szass Tam, the most powerful lich among the Red Wizards of Thay, has sent operatives to Chult to steal the Soulmonger or, failing that, destroy it. Leading the Thayan expedition is Szass Tam's devoted lieutenant, {@creature Valindra Shadowmantle|ToA}. Valindra has been warned that adventurers might cross her path, so she's prepared for them.",
+						"Unknown to Syndra and her allies, the Soulmonger is trapping the souls of the dead and depriving liches of the means to trap souls in their phylacteries. (The Soulmonger snatches up the souls before they can be trapped elsewhere.) Szass Tam, the most powerful lich among the Red Magiciens of Thay, has sent operatives to Chult to steal the Soulmonger or, failing that, destroy it. Leading the Thayan expedition is Szass Tam's devoted lieutenant, {@creature Valindra Shadowmantle|ToA}. Valindra has been warned that adventurers might cross her path, so she's prepared for them.",
 						"Also lurking in the heart of Chult is {@creature Ras Nsi|ToA}, a mythic, villainous figure among Chultans. {@creature Ras Nsi|ToA} was a human paladin and a sworn protector of the city of Mezro. He betrayed his oaths and was banished. Rather than redeem himself, he raised an undead army to conquer Mezro. The would-be tyrant was defeated and banished once more. Mezro was later destroyed by the Spellplague (or so it seemed), during which {@creature Ras Nsi|ToA} lost his power to create and command undead. He withdrew to the city of Omu, leaving the vestiges of his undead army to roam unchecked throughout the jungle. That was not the end of {@creature Ras Nsi|ToA}, however. Bitter over his loss of power, he forged an alliance with the yuan-ti lurking in the ruins of Omu and underwent a ritual of transformation, becoming a yuan-ti malison. As a yuan-ti, {@creature Ras Nsi|ToA} imposed his terrible will on the evil snake people and became their leader.",
 						"Beneath the cracked and broken streets of Omu lies a secret yuan-ti temple called the Fane of the Night Serpent, where {@creature Ras Nsi|ToA} holds sway and plots to bring about the end of the world. Omu is also home to the Tomb of the Nine Gods. As the characters explore this multilevel dungeon, they encounter the spirits of Omu's trickster gods and are potentially inhabited by them. Each god embodies a different alignment, and any character inhabited by one gains a special power as well as a flaw. The nine trickster gods don't get along, and they try to push one another out of the characters' bodies. As the gods fight over their living hosts, the characters must deal with the deadly traps and monsters that guard the Soulmonger. Venturing deeper into the tomb, they uncover clues about the dungeon's evil architect\u2014the archlich {@creature Acererak|ToA}\u2014and learn that the Soulmonger is feeding souls to an undead horror called an atropal. Once it consumes enough souls, the atropal will transform into an evil god.",
 						"Destroying the Soulmonger ends the death curse affecting the world, while killing the atropal incurs the wrath of {@creature Acererak|ToA}. Under normal circumstances, the enraged archlich would be far too great a foe for mortal adventurers to overcome, but with the trickster gods of Omu on their side, the heroes have a fighting chance."
@@ -107,7 +107,7 @@
 							"entries": [
 								"The adventure is likely to play out as follows.",
 								"The adventurers are teleported to Port Nyanzaru, the only major settlement in Chult. After exploring the city ({@area chapter 1|02e|x}), they embark on an expedition into the wilds of Chult ({@area chapter 2|09c|x}), eventually finding the ruined city of Omu ({@area chapter 3|1d6|x}). The characters don't know that Omu is their ultimate destination from the outset; they must find clues or evidence pointing in that direction.",
-								"In this adventure, three creatures know that the cause of the death curse lies in Omu: {@creature Grandfather Zitembe|ToA} in Port Nyanzaru, {@creature Valindra Shadowmantle|ToA} in the Heart of Ubtao, and Saja N'baza in Orolunga. Several creatures know Omu's location: the guides {@creature Eku|ToA} and {@creature Salida|ToA} in Port Nyanzaru, {@creature Valindra Shadowmantle|ToA} in the Heart of Ubtao, the aarakocra of Kir Sabal, Zalkoré of Nangalore, Saja N'baza in Orolunga, and the red dragon Tzindelor in Wyrmheart Mine. If the characters are unable to locate Omu or ascertain the source of the death curse, the following additional creatures might possess the knowledge they seek, at your discretion: Krr'ook in Dungrunglung, Nephyr in Firefinger, {@creature Nanny Pu'pu|ToA} in Mbala, Bwayes O'tamu in the wreck of the {@i Narwhal}, the survivors of the {@i Star Goddess} shipwreck, and Red Wizards under {@creature Valindra Shadowmantle|ToA}'s command.",
+								"In this adventure, three creatures know that the cause of the death curse lies in Omu: {@creature Grandfather Zitembe|ToA} in Port Nyanzaru, {@creature Valindra Shadowmantle|ToA} in the Heart of Ubtao, and Saja N'baza in Orolunga. Several creatures know Omu's location: the guides {@creature Eku|ToA} and {@creature Salida|ToA} in Port Nyanzaru, {@creature Valindra Shadowmantle|ToA} in the Heart of Ubtao, the aarakocra of Kir Sabal, Zalkoré of Nangalore, Saja N'baza in Orolunga, and the red dragon Tzindelor in Wyrmheart Mine. If the characters are unable to locate Omu or ascertain the source of the death curse, the following additional creatures might possess the knowledge they seek, at your discretion: Krr'ook in Dungrunglung, Nephyr in Firefinger, {@creature Nanny Pu'pu|ToA} in Mbala, Bwayes O'tamu in the wreck of the {@i Narwhal}, the survivors of the {@i Star Goddess} shipwreck, and Red Magiciens under {@creature Valindra Shadowmantle|ToA}'s command.",
 								"As the adventurers explore Omu, they are either captured by yuan-ti or forced to confront them in their underground temple ({@area chapter 4|298|x}). Not far from the yuan-ti temple is the entrance to the Tomb of the Nine Gods ({@area chapter 5|305|x}). The Soulmonger lies deep within the tomb, which is riddled with puzzles, traps, monsters, and magical wards. Best case scenario: the adventure concludes with the destruction of the Soulmonger and the heroes' daring escape from the tomb. Worst case scenario: the characters succumb to the evil of {@creature Acererak|ToA}, and their souls are devoured.",
 								{
 									"type": "inset",
@@ -511,7 +511,7 @@
 							"id": "01e",
 							"entries": [
 								"Members of every race and nationality of Faerûn can be found in Port Nyanzaru, but few of them ever travel more than a hundred yards beyond the city walls. The native peoples must be divided into those that are commonly known and those whose presence is legendary or only suspected. The first group consists of Chultans (humans), aarakocra, Batiri (goblins), dwarves (including albino dwarves), pterafolk, and tabaxi. In the second category, weretigers are suspected to be present in small numbers; explorers and hunters sometimes report seeing grungs (frog folk) deep in the jungle; and yuan-ti are rumored to be making a resurgence in remote areas.",
-								"In addition to these known and suspected residents, a crew of frost giants has come to Chult seeking the {@item Ring of Winter|ToA} and an expedition of Red Wizards is hunting for the Soulmonger, but the presence of these bands is still unknown to the larger population.",
+								"In addition to these known and suspected residents, a crew of frost giants has come to Chult seeking the {@item Ring of Winter|ToA} and an expedition of Red Magiciens is hunting for the Soulmonger, but the presence of these bands is still unknown to the larger population.",
 								"Finally, the deep jungle is overrun by skeletons, zombies, ghouls, and other types of undead. Everyone in Chult is all too aware of their presence.",
 								{
 									"type": "entries",
@@ -5627,11 +5627,11 @@
 						},
 						{
 							"type": "entries",
-							"name": "Red Wizards of Thay",
+							"name": "Red Magiciens of Thay",
 							"page": 30,
 							"id": "080",
 							"entries": [
-								"Red Wizards are in Chult to find and steal the Soulmonger for Szass Tam. They've occupied the Heart of Ubtao and are using it as a base. Their leader is {@creature Valindra Shadowmantle|ToA}. She remains at the Heart of Ubtao while her Thayan minions comb the ruins of Omu for clues to the Soulmonger's whereabouts. For more information on Valindra, see \"{@area Heart of Ubtao|10b|x}.\""
+								"Red Magiciens are in Chult to find and steal the Soulmonger for Szass Tam. They've occupied the Heart of Ubtao and are using it as a base. Their leader is {@creature Valindra Shadowmantle|ToA}. She remains at the Heart of Ubtao while her Thayan minions comb the ruins of Omu for clues to the Soulmonger's whereabouts. For more information on Valindra, see \"{@area Heart of Ubtao|10b|x}.\""
 							]
 						},
 						{
@@ -6309,7 +6309,7 @@
 													]
 												},
 												"Artus is reluctant to reveal why he's exploring Chult. He tries to get a sense of the characters' intentions before saying too much. Once he's confident that they're all on the same side, he'll swap whatever he knows (which is as much as you want to tell the characters) for whatever the characters know. Once Artus and {@creature Dragonbait|ToA} become aware of the Soulmonger and the danger it poses, they're more than happy to help the party destroy it.",
-												"Any party that includes Artus and {@creature Dragonbait|ToA} will have an easier time overcoming the adventure's challenges. However, Artus is being hunted by the forces of evil. Frost giants, the Zhentarim, {@creature Xandala|ToA} (see {@adventure appendix D|ToA|9}), {@creature Valindra Shadowmantle|ToA} (see \"{@area Heart of Ubtao|10b|x}\" later in this chapter), and the Red Wizards of Thay can appear at any time and try to capture Artus. If Artus believes that his presence is endangering the characters, he will leave the party and take {@creature Dragonbait|ToA} with him."
+												"Any party that includes Artus and {@creature Dragonbait|ToA} will have an easier time overcoming the adventure's challenges. However, Artus is being hunted by the forces of evil. Frost giants, the Zhentarim, {@creature Xandala|ToA} (see {@adventure appendix D|ToA|9}), {@creature Valindra Shadowmantle|ToA} (see \"{@area Heart of Ubtao|10b|x}\" later in this chapter), and the Red Magiciens of Thay can appear at any time and try to capture Artus. If Artus believes that his presence is endangering the characters, he will leave the party and take {@creature Dragonbait|ToA} with him."
 											]
 										}
 									]
@@ -13463,7 +13463,7 @@
 									"width": 839,
 									"height": 1000
 								},
-								"{@creature Valindra Shadowmantle|ToA} works for Szass Tam, the most powerful lich among the Red Wizards of Thay, though she is not a Red Wizard herself. She found the heart and converted it into a base to use while her minions search for the Soulmonger. Her orders from Szass Tam are to seize control of the Soulmonger, if possible, or destroy it otherwise. Valindra created a {@spell teleportation circle} inside the heart that she uses to travel instantly to and from Thay (where her phylactery is safely stored), to deliver reports to Szass Tam and pick up new instructions.",
+								"{@creature Valindra Shadowmantle|ToA} works for Szass Tam, the most powerful lich among the Red Magiciens of Thay, though she is not a Red Magicien herself. She found the heart and converted it into a base to use while her minions search for the Soulmonger. Her orders from Szass Tam are to seize control of the Soulmonger, if possible, or destroy it otherwise. Valindra created a {@spell teleportation circle} inside the heart that she uses to travel instantly to and from Thay (where her phylactery is safely stored), to deliver reports to Szass Tam and pick up new instructions.",
 								"Characters who explore the Heart of Ubtao are certain to meet Valindra. She's considered the possibility that adventurers might cross her path, and she won't necessarily be hostile toward them. Her mission is to seize the Soulmonger by any means; if adventurers can help her achieve that, she'll use them.",
 								"{@creature Valindra Shadowmantle|ToA|Valindra} is an elven {@creature lich}, with these changes:",
 								{
@@ -25691,7 +25691,7 @@
 							"page": 93,
 							"id": "1e2",
 							"entries": [
-								"Several factions dwell within Omu, including yuan-ti, grungs, vegepygmies, and kobolds. Explorers also come here in search of gold and glory. Presently, these include Red Wizards and three tabaxi hunters. Each of these groups can play as much of a role in the story as you desire. They could serve as enemies or as allies brought together by mutual interests.",
+								"Several factions dwell within Omu, including yuan-ti, grungs, vegepygmies, and kobolds. Explorers also come here in search of gold and glory. Presently, these include Red Magiciens and three tabaxi hunters. Each of these groups can play as much of a role in the story as you desire. They could serve as enemies or as allies brought together by mutual interests.",
 								{
 									"type": "entries",
 									"name": "Yuan-ti",
@@ -25742,14 +25742,14 @@
 								},
 								{
 									"type": "entries",
-									"name": "Red Wizards of Thay",
+									"name": "Red Magiciens of Thay",
 									"page": 93,
 									"id": "1e8",
 									"entries": [
-										"A group of Red Wizards entered the city a couple of days prior to the characters' arrival. They camped in the ruined compound at {@area area 2|201|x}, but {@creature Ras Nsi|ToA}'s forces nearly wiped them out in a night raid. Those who survived the attack continue to search the ruins for the Soulmonger.",
-										"The survivors include four Red Wizards (LE male and female Thayan human {@creature Mage||mages}) named Dyrax (male), Thazma (female), Yamoch (male), and Zagmira (female). Their red robes, shaved heads, and sallow complexions betray their allegiance to Thay. Eight mercenaries (LE male and female human {@creature Thug||thugs} of various ethnicities) escort the wizards. The highest ranking mage, Zagmira, appears just eighteen years old, yet one half of her face is wizened and old. This effect is a holdover from a terrible ritual she performed to inhabit the body of her own granddaughter. All four mages carry spellbooks that contain all their prepared spells.",
-										"Zagmira has seen the entrance to the Tomb of the Nine Gods ({@area area 14|261|x}) and believes the Soulmonger is held within. The Red Wizards have separated to find the puzzle cubes needed to unlock the tomb (see \"{@area Puzzle Cubes|1eb|x}\").",
-										"A man named Orvex (see {@area area 2|201|x}) serves the Red Wizards as a scribe and translator, but his loyalty to them is tenuous. The adventurers can easily befriend him."
+										"A group of Red Magiciens entered the city a couple of days prior to the characters' arrival. They camped in the ruined compound at {@area area 2|201|x}, but {@creature Ras Nsi|ToA}'s forces nearly wiped them out in a night raid. Those who survived the attack continue to search the ruins for the Soulmonger.",
+										"The survivors include four Red Magiciens (LE male and female Thayan human {@creature Mage||mages}) named Dyrax (male), Thazma (female), Yamoch (male), and Zagmira (female). Their red robes, shaved heads, and sallow complexions betray their allegiance to Thay. Eight mercenaries (LE male and female human {@creature Thug||thugs} of various ethnicities) escort the wizards. The highest ranking mage, Zagmira, appears just eighteen years old, yet one half of her face is wizened and old. This effect is a holdover from a terrible ritual she performed to inhabit the body of her own granddaughter. All four mages carry spellbooks that contain all their prepared spells.",
+										"Zagmira has seen the entrance to the Tomb of the Nine Gods ({@area area 14|261|x}) and believes the Soulmonger is held within. The Red Magiciens have separated to find the puzzle cubes needed to unlock the tomb (see \"{@area Puzzle Cubes|1eb|x}\").",
+										"A man named Orvex (see {@area area 2|201|x}) serves the Red Magiciens as a scribe and translator, but his loyalty to them is tenuous. The adventurers can easily befriend him."
 									]
 								},
 								{
@@ -25780,7 +25780,7 @@
 							"page": 94,
 							"id": "1eb",
 							"entries": [
-								"To unlock the Tomb of the Nine Gods, the characters must first recover nine puzzle cubes from shrines hidden throughout the city. The Red Wizards are already searching for the cubes, and {@creature Ras Nsi|ToA} does what he must to prevent the Red Wizards or the characters from obtaining all of them.",
+								"To unlock the Tomb of the Nine Gods, the characters must first recover nine puzzle cubes from shrines hidden throughout the city. The Red Magiciens are already searching for the cubes, and {@creature Ras Nsi|ToA} does what he must to prevent the Red Magiciens or the characters from obtaining all of them.",
 								"A puzzle cube is a stone cube 3 inches on a side and engraved with images of a specific trickster god. Each cube weighs half a pound. A {@spell detect magic} spell or similar effect reveals an aura of abjuration magic around each cube.",
 								"The puzzle cubes can't be destroyed by any means. If they're discarded, buried, or taken more than a mile outside Omu, they teleport back to their resting places inside their respective shrines. If the characters return to a previously cleared shrine, there's a cumulative {@chance 20} chance per day that kobolds have reset its traps.",
 								{
@@ -25807,8 +25807,8 @@
 									"page": 94,
 									"id": "1ed",
 									"entries": [
-										"The characters need not explore all nine shrines. The Red Wizards find at least two of the puzzle cubes, and {@creature Ras Nsi|ToA} always steps in to claim the final cube. Things play out differently if the players find a way to foil their enemies' plans\u2014by killing them, for example.",
-										"On the day the characters claim their first puzzle cube, the Red Wizards clear a separate shrine within the city. While the Red Wizards remain active, there's a cumulative {@chance 25} chance per day that they claim another puzzle cube from a random shrine. If the players arrive at a cleared shrine, they discover a scene of devastation: traps sprung, monsters slain, and the cube missing.",
+										"The characters need not explore all nine shrines. The Red Magiciens find at least two of the puzzle cubes, and {@creature Ras Nsi|ToA} always steps in to claim the final cube. Things play out differently if the players find a way to foil their enemies' plans\u2014by killing them, for example.",
+										"On the day the characters claim their first puzzle cube, the Red Magiciens clear a separate shrine within the city. While the Red Magiciens remain active, there's a cumulative {@chance 25} chance per day that they claim another puzzle cube from a random shrine. If the players arrive at a cleared shrine, they discover a scene of devastation: traps sprung, monsters slain, and the cube missing.",
 										"Once five puzzle cubes have been taken from their shrines, {@creature Ras Nsi|ToA} begins to set ambushes. When the characters arrive at their next shrine, three type 1 {@creature Yuan-ti Malison (Type 1)||yuan-ti malisons} and six {@creature Yuan-ti Pureblood||yuan-ti purebloods} ambush them. Their orders are to capture characters and bring them to the Fane of the Night Serpent for interrogation.",
 										"Once eight puzzle cubes have been claimed, {@creature Ras Nsi|ToA} steals the ninth cube for himself and leaves an obvious trail leading pursuers to the main entrance of his underground temple (see {@area area 20A|292|x}). The characters must infiltrate the temple and either take the puzzle cube by force or convince {@creature Ras Nsi|ToA} to part with it. For more information on the temple and its inhabitants, see {@area chapter 4|298|x}."
 									]
@@ -25819,9 +25819,9 @@
 									"page": 94,
 									"id": "1ee",
 									"entries": [
-										"The characters could form an alliance with the Red Wizards to recover the puzzle cube taken by the yuan-ti. If an accord is reached, Zagmira reveals that she has a spy in the yuan-ti temple: a yuan-ti pureblood named Ishmakahl (pronounced ISH-mah-kawl). Zagmira doesn't reveal that this spy is a doppelganger.",
-										"Zagmira encourages human characters to infiltrate the yuan-ti temple disguised as purebloods, with nonhuman characters posing as their slaves. If no human characters are present, Zagmira is willing to spend a 5th-level spell slot to cast {@spell invisibility} on up to four party members. If the characters recover the puzzle cube taken by {@creature Ras Nsi|ToA}, the Red Wizards turn against the characters and try to claim all the puzzle cubes for themselves once the characters emerge from the yuan-ti temple. If {@creature Artus Cimber|ToA} is with the party, the Red Wizards also try to take the {@item Ring of Winter|ToA} from him.",
-										"If the Red Wizards obtain all nine puzzle cubes, they use them to enter the Tomb of the Nine Gods and, one by one, fall prey to the tomb's insidious traps."
+										"The characters could form an alliance with the Red Magiciens to recover the puzzle cube taken by the yuan-ti. If an accord is reached, Zagmira reveals that she has a spy in the yuan-ti temple: a yuan-ti pureblood named Ishmakahl (pronounced ISH-mah-kawl). Zagmira doesn't reveal that this spy is a doppelganger.",
+										"Zagmira encourages human characters to infiltrate the yuan-ti temple disguised as purebloods, with nonhuman characters posing as their slaves. If no human characters are present, Zagmira is willing to spend a 5th-level spell slot to cast {@spell invisibility} on up to four party members. If the characters recover the puzzle cube taken by {@creature Ras Nsi|ToA}, the Red Magiciens turn against the characters and try to claim all the puzzle cubes for themselves once the characters emerge from the yuan-ti temple. If {@creature Artus Cimber|ToA} is with the party, the Red Magiciens also try to take the {@item Ring of Winter|ToA} from him.",
+										"If the Red Magiciens obtain all nine puzzle cubes, they use them to enter the Tomb of the Nine Gods and, one by one, fall prey to the tomb's insidious traps."
 									]
 								}
 							]
@@ -27699,7 +27699,7 @@
 										"Smoke drifts lazily from a walled compound. The gate lies in splinters, and scorch marks deface the buildings. Near the center of the compound is a plaza littered with charred human corpses. One of the corpses is being torn apart by a pack of wild dogs."
 									]
 								},
-								"The Red Wizards seized this compound as their base of operations in Omu, but yuan-ti attacked and nearly wiped them out. Thirty corpses are scattered across the compound\u2014the remains of three Red Wizards, twenty human mercenaries, and seven bearers hired in Port Nyanzaru. The yuan-ti looted all the supplies they found and stole their enemies' weapons. Six wild dogs (use {@creature jackal} statistics) feed on one of the Red Wizards. The dogs pose no threat if the characters keep their distance.",
+								"The Red Magiciens seized this compound as their base of operations in Omu, but yuan-ti attacked and nearly wiped them out. Thirty corpses are scattered across the compound\u2014the remains of three Red Wizards, twenty human mercenaries, and seven bearers hired in Port Nyanzaru. The yuan-ti looted all the supplies they found and stole their enemies' weapons. Six wild dogs (use {@creature jackal} statistics) feed on one of the Red Wizards. The dogs pose no threat if the characters keep their distance.",
 								{
 									"type": "entries",
 									"name": "Spirit Pole",
@@ -27733,7 +27733,7 @@
 											"height": 1000
 										},
 										"During the attack, an explosion buried a member of the Red Wizards' expedition under a fallen section of wall. {@creature Orvex Ocrammas|ToA|Orvex} is dying of thirst and {@condition exhaustion}. As characters search the compound, they hear him calling out for help from under the rubble. If the characters free Orvex, he begs to join their band until he finds sanctuary.",
-										"Orvex serves as scribe and translator for the Red Wizards. He's a pragmatic, balding human in his early forties who serves the Red Wizards because, as he puts it, they pay well. {@creature Orvex Ocrammas|ToA|Orvex} has the statistics of a {@creature spy}, with these changes:",
+										"Orvex serves as scribe and translator for the Red Wizards. He's a pragmatic, balding human in his early forties who serves the Red Magiciens because, as he puts it, they pay well. {@creature Orvex Ocrammas|ToA|Orvex} has the statistics of a {@creature spy}, with these changes:",
 										{
 											"type": "list",
 											"items": [
@@ -30116,7 +30116,7 @@
 									"page": 103,
 									"id": "23e",
 									"entries": [
-										"If the characters stay at the camp for an hour or more, a randomly determined Red Wizard (see \"{@area Red Wizards of Thay|1e8|x}\") stumbles upon them. The Red Wizard is accompanied by two mercenaries and is searching for Omuan shrines. A battle is certain unless the party has struck up an alliance with Zagmira, in which case the Red Wizard offers to join forces with the party."
+										"If the characters stay at the camp for an hour or more, a randomly determined Red Magicien (see \"{@area Red Magiciens of Thay|1e8|x}\") stumbles upon them. The Red Magicien is accompanied by two mercenaries and is searching for Omuan shrines. A battle is certain unless the party has struck up an alliance with Zagmira, in which case the Red Magicien offers to join forces with the party."
 									]
 								}
 							]
@@ -30815,7 +30815,7 @@
 											]
 										},
 										"The floor mosaic shows Obo'laka (a zorbo) fighting I'jin (an almiraj). Inscriptions in Old Omuan underneath the mosaic explain how I'jin ruined Obo'laka's attempt to placate Ubtao (see \"{@area Legend of the Nine Gods|1e1|x}\").",
-										"The statue is a {@condition petrified} Red Wizard (LE male Thayan human {@creature mage}) named Voj. He failed to disarm the puzzle cube trap before touching it, and its magic turned him to stone. If a {@spell greater restoration} spell or similar magic is cast on Voj, he reverts to flesh, realizes he's not alone, and attacks anyone who would deny him the cube.",
+										"The statue is a {@condition petrified} Red Magicien (LE male Thayan human {@creature mage}) named Voj. He failed to disarm the puzzle cube trap before touching it, and its magic turned him to stone. If a {@spell greater restoration} spell or similar magic is cast on Voj, he reverts to flesh, realizes he's not alone, and attacks anyone who would deny him the cube.",
 										"Voj takes orders from Zagmira and knows the legend of Obo'laka and I'jin. If the characters defeat him, they find some valuables on his person (see \"Treasure\" below) that aren't obtainable while Voj is {@condition petrified}.",
 										{
 											"type": "entries",
@@ -30982,7 +30982,7 @@
 					"id": "29d",
 					"entries": [
 						"The two entrances to the yuan-ti temple are located amid the ruins of Omu's royal palace (see chapter 3, {@area area 20|292|x}). Map 4.1 provides an overview of the temple. The main entrance leads to {@area area 1|2ad|x} on the map, and the secret entrance leads to {@area area 23|303|x}.",
-						"Adventurers are most likely to enter the temple as infiltrators or captives. If they've forged an alliance with the Red Wizards in {@area chapter 3|1e8|x}, they'll be looking for Zagmira's spy in the temple harem ({@area area 10|2d5|x}).",
+						"Adventurers are most likely to enter the temple as infiltrators or captives. If they've forged an alliance with the Red Magiciens in {@area chapter 3|1e8|x}, they'll be looking for Zagmira's spy in the temple harem ({@area area 10|2d5|x}).",
 						{
 							"type": "entries",
 							"name": "Infiltrating the Temple",
@@ -31127,7 +31127,7 @@
 												[
 													"10",
 													"1 {@creature doppelganger}, 11 {@creature Yuan-ti Pureblood||yuan-ti purebloods}, 2 {@creature Yuan-ti Broodguard|VGM|yuan-ti broodguards}",
-													"The doppelganger helps characters working with the Red Wizards of Thay. The broodguards protect the purebloods."
+													"The doppelganger helps characters working with the Red Magiciens of Thay. The broodguards protect the purebloods."
 												],
 												[
 													"11",
@@ -46810,7 +46810,7 @@
 							"id": "52d",
 							"entries": [
 								"{@creature Artus Cimber|ToA} is unwilling to part with {@item Ring of Winter|ToA}. He is justifiably concerned that the ring would dominate and control any other owner. Furthermore, Artus would begin to age as a normal human without the ring, and he wants to live forever with his beloved Alisanda.",
-								"{@creature Xandala|ToA}, the Harpers, the Zhentarim, and frost giants loyal to Jarl Storvald won't stop searching for the {@item Ring of Winter|ToA}. If the characters make their way back to civilization with Artus in tow, they should encounter one or more of these groups along the way. {@creature Valindra Shadowmantle|ToA} and the Red Wizards of Thay also won't pass up a chance to take the ring by force.",
+								"{@creature Xandala|ToA}, the Harpers, the Zhentarim, and frost giants loyal to Jarl Storvald won't stop searching for the {@item Ring of Winter|ToA}. If the characters make their way back to civilization with Artus in tow, they should encounter one or more of these groups along the way. {@creature Valindra Shadowmantle|ToA} and the Red Magiciens of Thay also won't pass up a chance to take the ring by force.",
 								"With or without the ring, {@creature Artus Cimber|ToA} continues to await Mezro's return while searching for the means to reach or summon the displaced city. Nothing matters to him more than reuniting with his wife. Characters interested in helping Artus can use divination spells or downtime to conduct research. They might also consult with the Harpers, who have access to lore that might assist Artus in his quest, but they demand the ring in exchange for their assistance. Forced to choose between the Harpers' assistance and the ring, Artus chooses the latter. Alternatively, a portal to Mezro's demiplane might be hidden somewhere in Chult, creating the seeds of a wonderful new adventure."
 							]
 						},
@@ -46836,11 +46836,11 @@
 						},
 						{
 							"type": "entries",
-							"name": "Red Wizards of Thay",
+							"name": "Red Magiciens of Thay",
 							"page": 190,
 							"id": "530",
 							"entries": [
-								"News of the Soulmonger's destruction annoys {@creature Valindra Shadowmantle|ToA}. Using her {@spell teleportation circle}, she returns to Thay and informs Szass Tam that her mission in Chult has failed. Angered by the party's interference, Szass Tam sends new operatives and powerful undead to spy on the characters, learn their weaknesses, and (eventually) dispose of them. If the characters have friendly ties to the Harpers or the Zhentarim, spies working for one faction or the other learn of the Red Wizard plot and can warn the characters."
+								"News of the Soulmonger's destruction annoys {@creature Valindra Shadowmantle|ToA}. Using her {@spell teleportation circle}, she returns to Thay and informs Szass Tam that her mission in Chult has failed. Angered by the party's interference, Szass Tam sends new operatives and powerful undead to spy on the characters, learn their weaknesses, and (eventually) dispose of them. If the characters have friendly ties to the Harpers or the Zhentarim, spies working for one faction or the other learn of the Red Magicien plot and can warn the characters."
 							]
 						},
 						{
@@ -49068,7 +49068,7 @@
 									"page": 201,
 									"id": "5dd",
 									"entries": [
-										"This group consists of a Red Wizard (LE male or female Thayan human {@creature mage}), {@dice 1d6} {@creature guard||guards}, and {@dice 1d6} {@creature skeleton||skeletons}, all answerable to {@creature Valindra Shadowmantle|ToA} (see \"Heart of Ubtao,\"). If this encounter occurs outside of Omu, these reinforcements are on their way to the city. If the encounter takes place in Omu, the Red Wizard is searching the city for shrines (see chapter 3). The Thayans aren't spoiling for a fight; if defeat seems inevitable, the Red Wizard surrenders and offers a crude map of Chult marking the regions occupied by undead (see {@area map 2.1|159|x}). The characters can use the map to steer clear of these regions."
+										"This group consists of a Red Magicien (LE male or female Thayan human {@creature mage}), {@dice 1d6} {@creature guard||guards}, and {@dice 1d6} {@creature skeleton||skeletons}, all answerable to {@creature Valindra Shadowmantle|ToA} (see \"Heart of Ubtao,\"). If this encounter occurs outside of Omu, these reinforcements are on their way to the city. If the encounter takes place in Omu, the Red Magicien is searching the city for shrines (see chapter 3). The Thayans aren't spoiling for a fight; if defeat seems inevitable, the Red Magicien surrenders and offers a crude map of Chult marking the regions occupied by undead (see {@area map 2.1|159|x}). The characters can use the map to steer clear of these regions."
 									]
 								},
 								{

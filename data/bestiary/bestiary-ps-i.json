@@ -1142,7 +1142,7 @@
 							"ability": "wis"
 						},
 						{
-							"name": "Wizard Spellcasting",
+							"name": "Magicien Spellcasting",
 							"headerEntries": [
 								"{@note The {@creature Mage|MM} has been used as an example Wizard.}",
 								"The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save {@dc 14}, {@hit 6} to hit with spell attacks). The vampire has the following wizard spells prepared:"

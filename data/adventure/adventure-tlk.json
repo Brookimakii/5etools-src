@@ -19,7 +19,7 @@
 				},
 				{
 					"type": "section",
-					"name": "Wizard of Weirding",
+					"name": "Magicien of Weirding",
 					"page": 3,
 					"entries": [
 						{
@@ -39,8 +39,8 @@
 											"width": 723,
 											"height": 807
 										},
-										"The Wizard Weirding is a mind flayer alhoon in disguise. It uses disguise self to appear as a male human wizard named Weirding. Long ago, it left the hive in search of power and immortality through magic. To blend in with the general population of Faerûn, the alhoon married a human woman and adopted her child as his own. Over time, the alhoon was discovered by his wife, and was forced to eat her brain. Currently the alhoon runs the outpost of Weirding where he mines the local mountains for minerals to fund his research. The Wizard Weirding uses the people of Weirding as the subjects of his mind experiments.",
-										"The Wizard Weirding will attempt to capture new and interesting adventurers and either devour their brains, or preform experiments on them. If confronted violently the Wizard Weirding will attack the party and use the mind controlled population of the outpost to prevent anyone from escaping.",
+										"The Magicien Weirding is a mind flayer alhoon in disguise. It uses disguise self to appear as a male human wizard named Weirding. Long ago, it left the hive in search of power and immortality through magic. To blend in with the general population of Faerûn, the alhoon married a human woman and adopted her child as his own. Over time, the alhoon was discovered by his wife, and was forced to eat her brain. Currently the alhoon runs the outpost of Weirding where he mines the local mountains for minerals to fund his research. The Magicien Weirding uses the people of Weirding as the subjects of his mind experiments.",
+										"The Magicien Weirding will attempt to capture new and interesting adventurers and either devour their brains, or preform experiments on them. If confronted violently the Magicien Weirding will attack the party and use the mind controlled population of the outpost to prevent anyone from escaping.",
 										"The {@creature alhoon|VGM|mind flayer alhoon} stat block can be found in Volo's Guide to Monsters."
 									],
 									"id": "003"
@@ -73,8 +73,8 @@
 											"width": 671,
 											"height": 748
 										},
-										"Mez Kara is an elven {@creature apprentice wizard|VGM|apprentice} to the Wizard Weirding. In reality, she is one of his mind controlled thralls. She doesn't know the wizard is an alhoon, but she knows he has granted her power.",
-										"She serves him willingly and is always looking for ways to please him. She will find powerful adventurers of great interest and convince them to stay at the manor house and meet the Wizard Weirding himself.",
+										"Mez Kara is an elven {@creature apprentice wizard|VGM|apprentice} to the Magicien Weirding. In reality, she is one of his mind controlled thralls. She doesn't know the wizard is an alhoon, but she knows he has granted her power.",
+										"She serves him willingly and is always looking for ways to please him. She will find powerful adventurers of great interest and convince them to stay at the manor house and meet the Magicien Weirding himself.",
 										"The apprentice stat block can be found in Volo's Guide to Monsters. Additionally, Mez Kara can cast friendship and charm person at Level 1."
 									],
 									"id": "006"
@@ -140,7 +140,7 @@
 											"width": 442,
 											"height": 534
 										},
-										"Gnator Gnimmcap is the grounds keeper at the Weirding mansion. He has taken to drinking and gambling in order to escape the nightmares brought on by the experimentation of the Wizard Weirding. He has acquired a sizable debt to the bookie Gregor Forskog and is overdue in his payments.",
+										"Gnator Gnimmcap is the grounds keeper at the Weirding mansion. He has taken to drinking and gambling in order to escape the nightmares brought on by the experimentation of the Magicien Weirding. He has acquired a sizable debt to the bookie Gregor Forskog and is overdue in his payments.",
 										"Gantor Gnimmcap told Cawkrin Jones how to get into the mansion through the cellar in exchange for a 30 gold pieces (which he has now gambled away). In exchange for helping with his gambling debts, Gnator will gladly help adventurers, as long as it doesn't put him in danger."
 									],
 									"id": "00c"
@@ -193,7 +193,7 @@
 							"entries": [
 								{
 									"type": "entries",
-									"name": "Daughter of the Wizard Weirding",
+									"name": "Daughter of the Magicien Weirding",
 									"entries": [
 										{
 											"type": "image",
@@ -205,9 +205,9 @@
 											"height": 678
 										},
 										"Celest refuses to speak with her father and spends most of her time in her room crying. She is desperate to escape and will bargain with the players if she is convinced they will help her.",
-										"Celeste is the step daughter of the Wizard Weirding. She wants to leave the the manor and the village to explore the world on her own. Her dream is to visit the great city of Waterdeep with her boyfriend, Dicky Whit. Three nights ago Dicky helped her escape through her window, but they were caught by her father. She hasn't seen Dicky since and worries that her father has scared him off. She can't escape on her own due to the {@creature kamadan|ToA}",
+										"Celeste is the step daughter of the Magicien Weirding. She wants to leave the the manor and the village to explore the world on her own. Her dream is to visit the great city of Waterdeep with her boyfriend, Dicky Whit. Three nights ago Dicky helped her escape through her window, but they were caught by her father. She hasn't seen Dicky since and worries that her father has scared him off. She can't escape on her own due to the {@creature kamadan|ToA}",
 										"roaming the grounds. Celest also sufferers from chronic headaches as a result of the experiments her father does on her. Celest is unaware of the experiments performed, but a perception {@dc 15} can see that Celest wears a wig. If the wig is removed scars in an arcane pattern can be seen etched all over her scalp.",
-										"Unlike the many of his other experiments, Wizard Weirding has been trying to alter his daughters brain to become a powerful psionicist.",
+										"Unlike the many of his other experiments, Magicien Weirding has been trying to alter his daughters brain to become a powerful psionicist.",
 										"Celest can cast Mind Blast once a day."
 									],
 									"id": "012"
@@ -434,7 +434,7 @@
 									"name": "Foyer",
 									"page": 7,
 									"entries": [
-										"The foyer is ornately decorated with a large painting of the Wizard Weirding looking off to the side, hand raised, beginning to cast a spell. Around him are white daisies and bunny rabbits. The floor is an abstract mosaic pattern made of gray and orange stones. A small bench is located outside the door to sit on and remove one's shoes which is required if characters are invited in by someone from the manor. Halls lead to the left (west) and right (east), with a grand stair case leading up to a second-floor landing."
+										"The foyer is ornately decorated with a large painting of the Magicien Weirding looking off to the side, hand raised, beginning to cast a spell. Around him are white daisies and bunny rabbits. The floor is an abstract mosaic pattern made of gray and orange stones. A small bench is located outside the door to sit on and remove one's shoes which is required if characters are invited in by someone from the manor. Halls lead to the left (west) and right (east), with a grand stair case leading up to a second-floor landing."
 									],
 									"id": "024"
 								},
@@ -576,7 +576,7 @@
 									"page": 7,
 									"entries": [
 										"Large life-like paintings fill the Hall. Each depicting different monsters. The Paintings include: a flail snail, a girallon, a chuul, flame skull, and a minotaur.",
-										"The paintings are magical, and act as a last resort security system. The Wizard Weirding may trigger the paintings to release the monsters at will. If the painting's frame is broken, or dispelled, their contents will be released. Doors line the Gallery hall leading to the Wizard's Study Lab, Celest's Room, Weirding's Room, and Wizard's Study Library."
+										"The paintings are magical, and act as a last resort security system. The Magicien Weirding may trigger the paintings to release the monsters at will. If the painting's frame is broken, or dispelled, their contents will be released. Doors line the Gallery hall leading to the Wizard's Study Lab, Celest's Room, Weirding's Room, and Wizard's Study Library."
 									],
 									"id": "034"
 								},
@@ -614,7 +614,7 @@
 									"page": 8,
 									"entries": [
 										"A small room with a lectern in the center. Three locked glass cases line the walls, each filled with books and various items. On the back wall is a painting of the Study Library with everything identical to what the players see, except a Kenku, Cawkrin Jones, is depicted crouched down in front of one of the glass cases. The doorway to the room is magical. Any item taken through the door way will trigger the spell {@spell Alarm}.",
-										"The glass cases can be opened by picking the locks ({@dc 15}) or breaking the glass. If the lock pick fails or the glass is touched by anyone but the Wizard Weirding, the player attempting to open the case will be magically teleported into the painting in the room and appear next to the kenku, Cawkrin Jones."
+										"The glass cases can be opened by picking the locks ({@dc 15}) or breaking the glass. If the lock pick fails or the glass is touched by anyone but the Magicien Weirding, the player attempting to open the case will be magically teleported into the painting in the room and appear next to the kenku, Cawkrin Jones."
 									],
 									"id": "038"
 								},
@@ -656,7 +656,7 @@
 							"page": 8,
 							"entries": [
 								"The players may run into one of the servants of the Manor Weirding during any exploration. The servants all suffer one form of disability or another from the wizard's overzealous experimentation. Examples include: constantly drooling, seeming half asleep, zombie-like behavior, high paranoia, and the inability to control the volume of their voice.",
-								"Celeste can only be encountered in her room, but may choose to follow the party in order to escape. The Wizard Weirding does not sleep or eat (anything but brains) and often wanders the mansion. If the players see him and the Wizard is unaware of their presence, he will be levitating in the manner of a mind flayer rather than walking. If an alarm of any kind is raised, the Wizard will show up.",
+								"Celeste can only be encountered in her room, but may choose to follow the party in order to escape. The Magicien Weirding does not sleep or eat (anything but brains) and often wanders the mansion. If the players see him and the Magicien is unaware of their presence, he will be levitating in the manner of a mind flayer rather than walking. If an alarm of any kind is raised, the Magicien will show up.",
 								{
 									"type": "entries",
 									"name": "Nut Puncher Quinn Quinn",

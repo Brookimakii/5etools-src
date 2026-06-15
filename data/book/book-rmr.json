@@ -455,7 +455,7 @@
 											"height": 149,
 											"credit": "Troy Little"
 										},
-										"{@comic L-l-leave it to Wizards of the Coast to reinvent {@b {@i {@comicH4 MATH}}}!}",
+										"{@comic L-l-leave it to Magiciens of the Coast to reinvent {@b {@i {@comicH4 MATH}}}!}",
 										"{@comicH1 JEEZ.}"
 									],
 									"style": "comic-speaker"
@@ -942,7 +942,7 @@
 													"credit": "Troy Little"
 												},
 												"{@comic Don't let that \"holy\" façade fool you. Th-th-they're just as twisted and misanthropic as everyone else in D&D, they just hide it better. Their religion is just a cover for their fantasy pawn shop.}",
-												"{@comic That's just my opinion, Morty. W-W-Wizards of the Coast doesn't say that anywhere, that's just me.}"
+												"{@comic That's just my opinion, Morty. W-W-Magiciens of the Coast doesn't say that anywhere, that's just me.}"
 											],
 											"style": "comic-speaker"
 										}
@@ -2217,7 +2217,7 @@
 											"type": "inset",
 											"id": "08b",
 											"entries": [
-												"{@comic I'm with Wizards of the Coast on this one, Morty. Anybody trying to shoot an arrow at a dude less than 5 feet away {@b deserves} {@i disadvantage}.} {@comic This is why we invented swords.} "
+												"{@comic I'm with Magiciens of the Coast on this one, Morty. Anybody trying to shoot an arrow at a dude less than 5 feet away {@b deserves} {@i disadvantage}.} {@comic This is why we invented swords.} "
 											]
 										}
 									]
@@ -5721,7 +5721,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "Wizard Spells",
+							"name": "Magicien Spells",
 							"id": "137",
 							"entries": [
 								{
@@ -6203,7 +6203,7 @@
 									"height": 174,
 									"credit": "Troy Little"
 								},
-								"{@comic {@comicH3 Abjuration} is usually garbage, but since wizards are forced to walk around wearing {@comicH3 toilet paper} for protection because Wizards of the Coast thinks they're OP, this spell might actually keep you alive.}"
+								"{@comic {@comicH3 Abjuration} is usually garbage, but since wizards are forced to walk around wearing {@comicH3 toilet paper} for protection because Magiciens of the Coast thinks they're OP, this spell might actually keep you alive.}"
 							],
 							"style": "comic-speaker"
 						},
@@ -6284,7 +6284,7 @@
 							"collapsed": true
 						},
 						"{@comic I bet at first glance you figured I'd call this as a Jerry spell, but it's {@i not}, Morty. Prestidigitation is {@b awesome}! It doesn't take up any spell slots because it's a cantrip. That means you can use it {@b constantly}... and you {@i should}.}",
-						"{@comic Everywhere your wizard goes, they'll have glittering teeth, musky magic cologne, a warming glow, and their own personal soundtrack. Clean clothes, too. The other members of your party are gonna shamble into town smelling like ass while you get to be Slick McDick, Wizard Supreme.}",
+						"{@comic Everywhere your wizard goes, they'll have glittering teeth, musky magic cologne, a warming glow, and their own personal soundtrack. Clean clothes, too. The other members of your party are gonna shamble into town smelling like ass while you get to be Slick McDick, Magicien Supreme.}",
 						{
 							"type": "statblock",
 							"tag": "spell",
@@ -6328,7 +6328,7 @@
 								},
 								"{@comic Wait, the material component for this is \"a miniature cloak\"?}",
 								"{@comic Who the f*** is running around with a pouch full of miniature cloaks?}",
-								"{@comic Wizards of the Coast, whatever you're smoking, I want some.}"
+								"{@comic Magiciens of the Coast, whatever you're smoking, I want some.}"
 							],
 							"style": "comic-speaker"
 						},
@@ -6751,7 +6751,7 @@
 				"{@comicH1 the rules don't MEAN S***.}",
 				"{@comic I know what you're thinking. You're thinking,}",
 				"{@comic {@i \"Why the hell did I just go through over sixty pages of dice and rolling and systems and spells and whatever else if none of it matters?! Why do millions of people play this weird nerdy game and invest themselves in it if none of it matters?!\"}}",
-				"{@comic Y-y-your brain is focused on the game as it is, instead of the game as it {@b could} be, Morty. I-I-I told you at the start that D&D is a {@i portal gun}, and I meant that, even while I was taking potshots at Wizards of the Coast and their corporate overlord bean counters.}",
+				"{@comic Y-y-your brain is focused on the game as it is, instead of the game as it {@b could} be, Morty. I-I-I told you at the start that D&D is a {@i portal gun}, and I meant that, even while I was taking potshots at Magiciens of the Coast and their corporate overlord bean counters.}",
 				"{@comic People don't live heroic lives, Morty. They trudge through their feeble existence wishing they had some kind of b-b-b-*BURP*-bigger role in the universe.}",
 				"{@comic {@comicH3 That's what D&D really is, Morty.}}",
 				"{@comic It's a weird little place where everyone gets to gut goblins and blast bugbears and be kinda sorta awesome for a little while. Sometimes it's weird and annoying but when it works, Morty, when it really {@b works}, and your players are putty in the palm of your hand\u2014their hopes and dreams hanging on your every word and a roll of the dice....}",
@@ -6980,7 +6980,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"{@note Disclaimer: We at Wizards of the Coast here on Earth C-132 do not agree with our mirror selves on Earth C-141. Rick Sanchez was not nor ever will be considered the \"greatest f***ing Dungeons & Dragons game designer of all time,\" even if he does have that very quote tattooed across his entire back. Which is evidently how you qualify for jobs in C-141.}"
+						"{@note Disclaimer: We at Magiciens of the Coast here on Earth C-132 do not agree with our mirror selves on Earth C-141. Rick Sanchez was not nor ever will be considered the \"greatest f***ing Dungeons & Dragons game designer of all time,\" even if he does have that very quote tattooed across his entire back. Which is evidently how you qualify for jobs in C-141.}"
 					],
 					"id": "13b"
 				}

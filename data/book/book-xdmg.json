@@ -203,7 +203,7 @@
 										{
 											"type": "list",
 											"items": [
-												"Game or hobby stores (the Store Locator on the {@link Wizards of the Coast website|https://locator.wizards.com} can help you find stores near you that host D&D events)",
+												"Game or hobby stores (the Store Locator on the {@link Magiciens of the Coast website|https://locator.wizards.com} can help you find stores near you that host D&D events)",
 												"Friends, family, community members, and work colleagues who enjoy gaming or fantasy",
 												"Gaming clubs at schools",
 												"Social media and online messaging sites",
@@ -297,7 +297,7 @@
 									"page": 7,
 									"id": "011",
 									"entries": [
-										"Beyond the three core rulebooks, a plethora of additional content is available from Wizards of the Coast and other publishers. Adventures provide hooks, plots, maps, and encounters you can use in your game. Sourcebooks include things like new character options, new monsters, and inspiration for building your own adventures and campaigns. You can play D&D without any of these additional products, but many DMs (and players) find them to be exciting additions to the game."
+										"Beyond the three core rulebooks, a plethora of additional content is available from Magiciens of the Coast and other publishers. Adventures provide hooks, plots, maps, and encounters you can use in your game. Sourcebooks include things like new character options, new monsters, and inspiration for building your own adventures and campaigns. You can play D&D without any of these additional products, but many DMs (and players) find them to be exciting additions to the game."
 									]
 								},
 								{
@@ -4066,7 +4066,7 @@
 									"page": 46,
 									"id": "0d0",
 									"entries": [
-										"Share information with the players about the characteristics of creatures they fight as those characteristics become apparent. For example, if a Wizard casts {@spell Fire Bolt|XPHB} against a {@creature Fire Elemental|XMM} (a creature that has Immunity to Fire damage), let the players know the spell doesn't seem to bother the creature at all. Players might correctly guess that a creature made of fire probably be wouldn't harmed by {@i Fire Bolt}; feel free to confirm their guesses."
+										"Share information with the players about the characteristics of creatures they fight as those characteristics become apparent. For example, if a Magicien casts {@spell Fire Bolt|XPHB} against a {@creature Fire Elemental|XMM} (a creature that has Immunity to Fire damage), let the players know the spell doesn't seem to bother the creature at all. Players might correctly guess that a creature made of fire probably be wouldn't harmed by {@i Fire Bolt}; feel free to confirm their guesses."
 									]
 								},
 								{
@@ -5295,7 +5295,7 @@
 								{
 									"type": "item",
 									"name": "Identity",
-									"entry": "Make sure the spell fits with the identity of those who can cast it. Ensorceleurs and Wizards don't typically cast healing spells, for example."
+									"entry": "Make sure the spell fits with the identity of those who can cast it. Ensorceleurs and Magiciens don't typically cast healing spells, for example."
 								},
 								{
 									"type": "item",
@@ -7634,7 +7634,7 @@
 								"The following scenario shows examples of how you as the DM can apply the guidelines described in the rest of this section.",
 								"Eight {@creature Zombie|XMM|Zombies} surround and attack a Fighter. The zombies' attack bonus is +3, and the Fighter's AC is 18, so the roll needed is 15 (18\u22123). Finding 15 in the \"Normal\" column and reading across to the \"Out of 8\" column, the DM gets a result of 2/8\u2014two of the zombies hit. Using the zombies' average damage (4 Bludgeoning damage), the Guerrier takes 8 Bludgeoning damage.",
 								"After seeing the Guerrier mauled by zombies, the Barde casts {@spell Shatter|XPHB}, centering the spell on the Fighter. (The Barde trusts that the Guerrier will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere}, and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16\u22123). Finding 13 in the \"Normal\" column and reading across to the \"Out of 8\" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.",
-								"Seeing a larger crowd of zombies in the distance, the Wizard casts {@spell Fireball|XPHB}. The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds {@dice 1d3}, rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is \u22122, and the Wizard's spell save DC is 16, so the roll needed is 18 (16\u2212[\u22122]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save."
+								"Seeing a larger crowd of zombies in the distance, the Magicien casts {@spell Fireball|XPHB}. The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds {@dice 1d3}, rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is \u22122, and the Wizard's spell save DC is 16, so the roll needed is 18 (16\u2212[\u22122]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save."
 							]
 						}
 					]
@@ -9360,7 +9360,7 @@
 							"page": 98,
 							"id": "200",
 							"entries": [
-								"Charms can be received in many different ways. For example, a Wizard who finds an eldritch secret in a dead archmage's spellbook might be infused with the magic of a Charm, as might a character who solves a sphinx's riddle or drinks from a magical fountain. Mythic creatures sometimes grace their allies with Charms, and some explorers find themselves bearing a Charm after discovering a long-lost location drenched in primeval magic.",
+								"Charms can be received in many different ways. For example, a Magicien who finds an eldritch secret in a dead archmage's spellbook might be infused with the magic of a Charm, as might a character who solves a sphinx's riddle or drinks from a magical fountain. Mythic creatures sometimes grace their allies with Charms, and some explorers find themselves bearing a Charm after discovering a long-lost location drenched in primeval magic.",
 								"Some Charms can be used only once; others can be used a specific number of times before vanishing. If a Charm lets a character cast a spell, the character can do so without expending a spell slot or providing any spell components. Unless otherwise stated, the spell uses its normal casting time, range, and duration; if the spell requires {@disease Concentration|XPHB}, the character must concentrate.",
 								"A Charm can't be removed from a creature by anything short of divine intervention or a {@spell Wish|XPHB} spell. A character can't benefit from multiple instances of a Charm at the same time.",
 								"A typical Charm mimics the effects of a Potion or spell, so it is easy to create more Charms of your own.",
@@ -10834,7 +10834,7 @@
 											"page": 116,
 											"id": "25c",
 											"entries": [
-												"If your combat encounter includes a creature whose CR is higher than the party's level, be aware that such a creature might deal enough damage with a single action to take out one or more characters. For example, an {@creature Ogre|XMM} (CR 2) can kill a level 1 Wizard with a single blow."
+												"If your combat encounter includes a creature whose CR is higher than the party's level, be aware that such a creature might deal enough damage with a single action to take out one or more characters. For example, an {@creature Ogre|XMM} (CR 2) can kill a level 1 Magicien with a single blow."
 											]
 										},
 										{
@@ -15697,7 +15697,7 @@
 																{
 																	"type": "item",
 																	"name": "Spell Scrolls",
-																	"entry": "Adventurers can commission the scribes to create a {@item Spell Scroll|XDMG} that bears a Wizard spell of level 5 or lower. See the {@book Player's Handbook|XPHB} for the time required to {@book craft a scroll|XPHB|6|Scribing Spell Scrolls}; the scribes charge double the cost shown there."
+																	"entry": "Adventurers can commission the scribes to create a {@item Spell Scroll|XDMG} that bears a Magicien spell of level 5 or lower. See the {@book Player's Handbook|XPHB} for the time required to {@book craft a scroll|XPHB|6|Scribing Spell Scrolls}; the scribes charge double the cost shown there."
 																}
 															]
 														}
@@ -28887,7 +28887,7 @@
 					"id": "709",
 					"entries": [
 						"If you allow Bastions in your campaign, characters acquire their Bastions when they reach level 5. You and the players can decide together how these Bastions come into being. A character might inherit or receive a parcel of land on which to build their Bastion (see \"{@book Marks of Prestige|XDMG|2|Marks of Prestige}\" in {@book chapter 3|XDMG|2}), or they might take a preexisting structure and refurbish it. It's fair to assume that work has been going on behind the scenes of the campaign during a character's early adventuring career, so the Bastion is ready when the character reaches level 5.",
-						"The shape, style, and function of a character's Bastion are up to the player to determine. For example, a Wizard might build a tower, a Clerc might establish a shrine, a Guerrier might build a fortified keep or similar stronghold, and a Roublard might establish a guildhall or lodge. Characters of other classes might choose one of these forms or combine them\u2014a Paladin's Bastion might be similar to a Cleric's shrine but as fortified as a Fighter's stronghold. And multiple characters can combine their Bastions to form a single large structure (see \"{@book Bastion Map|XDMG|7|Bastion Map}\").",
+						"The shape, style, and function of a character's Bastion are up to the player to determine. For example, a Magicien might build a tower, a Clerc might establish a shrine, a Guerrier might build a fortified keep or similar stronghold, and a Roublard might establish a guildhall or lodge. Characters of other classes might choose one of these forms or combine them\u2014a Paladin's Bastion might be similar to a Cleric's shrine but as fortified as a Fighter's stronghold. And multiple characters can combine their Bastions to form a single large structure (see \"{@book Bastion Map|XDMG|7|Bastion Map}\").",
 						"Every Bastion has facilities that serve basic needs as well as special ones, such as libraries, menageries, and workshops (see \"{@book Basic Facilities|XDMG|7|Basic Facilities}\" and \"{@book Special Facilities|XDMG|7|Special Facilities}\")."
 					]
 				},
@@ -30261,7 +30261,7 @@
 					"page": 356,
 					"id": "7ae",
 					"entries": [
-						"Tessalynde is a young elf Roublard who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she's gathered isn't the stuff of legend yet, she's confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Guerrier too stubborn to stay down; Cazrin, a self-taught, human Wizard determined to test her theoretical mettle against the real world; Baldric, a dwarf Clerc who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Barde with as many secrets as songs; and Uggie, a pet otyugh."
+						"Tessalynde is a young elf Roublard who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she's gathered isn't the stuff of legend yet, she's confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Guerrier too stubborn to stay down; Cazrin, a self-taught, human Magicien determined to test her theoretical mettle against the real world; Baldric, a dwarf Clerc who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Barde with as many secrets as songs; and Uggie, a pet otyugh."
 					]
 				},
 				{
@@ -30370,7 +30370,7 @@
 								"type": "internal",
 								"path": "book/XDMG/206-11-003.tasha.webp"
 							},
-							"title": "The Wizard Tasha, before she became Iggwilv the Witch Queen",
+							"title": "The Magicien Tasha, before she became Iggwilv the Witch Queen",
 							"credit": "Jodie Muir",
 							"width": 850,
 							"height": 1041
@@ -30524,7 +30524,7 @@
 					"page": 360,
 					"id": "7c7",
 					"entries": [
-						"Otiluke {@i (AW-teh-luke)} is an impulsive, aggressive Wizard who is the main agent of the {@book Circle of Eight|XDMG|4|Circle of Eight} in the Free City of Greyhawk (see {@book chapter 5|XDMG|4|Free City of Greyhawk}). He holds a position of political power and keeps his membership in the Circle of Eight secret. He is best known for his spells that create magical spheres (detailed in the {@book Player's Handbook|XPHB})."
+						"Otiluke {@i (AW-teh-luke)} is an impulsive, aggressive Magicien who is the main agent of the {@book Circle of Eight|XDMG|4|Circle of Eight} in the Free City of Greyhawk (see {@book chapter 5|XDMG|4|Free City of Greyhawk}). He holds a position of political power and keeps his membership in the Circle of Eight secret. He is best known for his spells that create magical spheres (detailed in the {@book Player's Handbook|XPHB})."
 					]
 				},
 				{
@@ -30665,7 +30665,7 @@
 					"page": 362,
 					"id": "7d2",
 					"entries": [
-						"Szass Tam {@i (ZASS TAM)} is a powerful lich and necromancer in the Forgotten Realms setting. As leader of the Red Wizards of Thay, he has countless spies, assassins, and other agents at his service, and his schemes span centuries and reach to the ends of the world."
+						"Szass Tam {@i (ZASS TAM)} is a powerful lich and necromancer in the Forgotten Realms setting. As leader of the Red Magiciens of Thay, he has countless spies, assassins, and other agents at his service, and his schemes span centuries and reach to the ends of the world."
 					]
 				},
 				{
@@ -30720,7 +30720,7 @@
 					"page": 362,
 					"id": "7d8",
 					"entries": [
-						"Vajra Safahr {@i (VAWJ-rah sah-FAR)} is a human Wizard in her mid-thirties, making her the youngest person ever to hold the position of Blackstaff\u2014the chief mage of {@book Waterdeep|XDMG|8|Waterdeep} and the head of Blackstaff Academy, a school for mages. Several of the older and more seasoned mages of Waterdeep consider Vajra an upstart, but they are smart enough not to challenge her. As the badge of her office, she carries the {@i Blackstaff}, an Artifact that holds the spirits of all her predecessors."
+						"Vajra Safahr {@i (VAWJ-rah sah-FAR)} is a human Magicien in her mid-thirties, making her the youngest person ever to hold the position of Blackstaff\u2014the chief mage of {@book Waterdeep|XDMG|8|Waterdeep} and the head of Blackstaff Academy, a school for mages. Several of the older and more seasoned mages of Waterdeep consider Vajra an upstart, but they are smart enough not to challenge her. As the badge of her office, she carries the {@i Blackstaff}, an Artifact that holds the spirits of all her predecessors."
 					]
 				},
 				{
@@ -30731,7 +30731,7 @@
 					"entries": [
 						"The noble adventuring party known as Valor's Call was founded by Strongheart, a resolute human Paladin committed to destroying evil wherever it rears its head. Strongheart alone determines who can become a member of this prestigious group, and he is always looking for courageous heroes willing to devote themselves to a good cause.",
 						"Only good-aligned characters can join Valor's Call. The group enjoys the patronage of {@book Yolande|XDMG|8|Yolande}, the queen of Celene, and carries out missions on her behalf both in the Greyhawk setting (see {@book chapter 5|XDMG|4}) and in the {@book Feywild|XDMG|5|Feywild} (see {@book chapter 6|XDMG|5|Feywild}).",
-						"Prominent members of Valor's Call include the dwarf Guerrier Elkhorn, the human Clerc Mercion, the human Roublard Molliver, and the human Wizard Ringlerun."
+						"Prominent members of Valor's Call include the dwarf Guerrier Elkhorn, the human Clerc Mercion, the human Roublard Molliver, and the human Magicien Ringlerun."
 					]
 				},
 				{
@@ -30740,7 +30740,7 @@
 					"page": 363,
 					"id": "7da",
 					"entries": [
-						"Vecna {@i (VECK-nah)} had humble beginnings in the Greyhawk setting, where an order of Wizards used him as a bootblack and scribe. He studied magic in secret until he amassed enough power to slaughter the order, and then he turned his efforts toward scribing the {@item Book of Vile Darkness|XDMG} (described in {@book chapter 7|XDMG|6|Book of Vile Darkness}). Armed with that dread tome, he forged a kingdom to rule, with the vampire {@book Kas|XDMG|8|Kas the Betrayer} as his lieutenant. But Kas betrayed and killed him, leaving only one hand and one eye intact (the {@item Eye and Hand of Vecna|XDMG} are described in {@book chapter 7|XDMG|6|Eye and Hand of Vecna}).",
+						"Vecna {@i (VECK-nah)} had humble beginnings in the Greyhawk setting, where an order of Magiciens used him as a bootblack and scribe. He studied magic in secret until he amassed enough power to slaughter the order, and then he turned his efforts toward scribing the {@item Book of Vile Darkness|XDMG} (described in {@book chapter 7|XDMG|6|Book of Vile Darkness}). Armed with that dread tome, he forged a kingdom to rule, with the vampire {@book Kas|XDMG|8|Kas the Betrayer} as his lieutenant. But Kas betrayed and killed him, leaving only one hand and one eye intact (the {@item Eye and Hand of Vecna|XDMG} are described in {@book chapter 7|XDMG|6|Eye and Hand of Vecna}).",
 						"Vecna's evil will was so great that he persisted beyond death and eventually became a demigod of secrets and evil magic. His ambition drives him to pursue greater divine power across the multiverse.",
 						{
 							"type": "image",

@@ -4712,8 +4712,8 @@
 					"type": "entries",
 					"name": "Cantrips",
 					"entries": [
-						"You know two cantrips of your choice from the {@filter Wizard spell list|spells|class=Wizard} (see that class's section for its list). {@spell Ray of Frost|XPHB} and {@spell Shocking Grasp|XPHB} are recommended. Whenever you gain a Guerrier level, you can replace one of these cantrips with another cantrip of your choice from the {@filter Wizard spell list|spells|class=Wizard}.",
-						"When you reach Guerrier level 10, you learn another Wizard cantrip of your choice."
+						"You know two cantrips of your choice from the {@filter Magicien spell list|spells|class=Wizard} (see that class's section for its list). {@spell Ray of Frost|XPHB} and {@spell Shocking Grasp|XPHB} are recommended. Whenever you gain a Guerrier level, you can replace one of these cantrips with another cantrip of your choice from the {@filter Magicien spell list|spells|class=Wizard}.",
+						"When you reach Guerrier level 10, you learn another Magicien cantrip of your choice."
 					]
 				},
 				{
@@ -4735,8 +4735,8 @@
 							"type": "entries",
 							"name": "Prepared Spells of Level 1+",
 							"entries": [
-								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the {@filter Wizard spell list|spells|class=Wizard}. {@spell Burning Hands|XPHB}, {@spell Jump|XPHB}, and {@spell Shield|XPHB} are recommended.",
-								"The number of spells on your list increases as you gain Guerrier levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the {@filter Wizard spell list|spells|class=Wizard} until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Fighter, your list of prepared spells can include five Wizard spells of levels 1 and 2 in any combination."
+								"You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose three level 1 spells from the {@filter Magicien spell list|spells|class=Wizard}. {@spell Burning Hands|XPHB}, {@spell Jump|XPHB}, and {@spell Shield|XPHB} are recommended.",
+								"The number of spells on your list increases as you gain Guerrier levels, as shown in the Prepared Spells column of the Eldritch Knight Spellcasting table. Whenever that number increases, choose additional spells from the {@filter Magicien spell list|spells|class=Wizard} until the number of spells on your list matches the number on the table. The chosen spells must be of a level for which you have spell slots. For example, if you're a level 7 Fighter, your list of prepared spells can include five Magicien spells of levels 1 and 2 in any combination."
 							]
 						}
 					]
@@ -4748,7 +4748,7 @@
 							"type": "entries",
 							"name": "Changing your Prepared Spells",
 							"entries": [
-								"Whenever you gain a Guerrier level, you can replace one spell on your list with another Wizard spell for which you have spell slots."
+								"Whenever you gain a Guerrier level, you can replace one spell on your list with another Magicien spell for which you have spell slots."
 							]
 						}
 					]
@@ -4760,7 +4760,7 @@
 							"type": "entries",
 							"name": "Spellcasting Ability",
 							"entries": [
-								"Intelligence is your spellcasting ability for your Wizard spells."
+								"Intelligence is your spellcasting ability for your Magicien spells."
 							]
 						}
 					]
@@ -4772,7 +4772,7 @@
 							"type": "entries",
 							"name": "Spellcasting Focus",
 							"entries": [
-								"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Wizard spells."
+								"You can use an {@item Arcane Focus|XPHB} as a {@variantrule Spellcasting Focus|XPHB} for your Magicien spells."
 							]
 						}
 					]
@@ -4806,7 +4806,7 @@
 			"level": 7,
 			"header": 2,
 			"entries": [
-				"When you take the {@action Attack|XPHB} action on your turn, you can replace one of the attacks with a casting of one of your Wizard cantrips that has a casting time of an action."
+				"When you take the {@action Attack|XPHB} action on your turn, you can replace one of the attacks with a casting of one of your Magicien cantrips that has a casting time of an action."
 			]
 		},
 		{
@@ -4848,7 +4848,7 @@
 			"level": 18,
 			"header": 2,
 			"entries": [
-				"When you take the {@action Attack|XPHB} action on your turn, you can replace two of the attacks with a casting of one of your level 1 or level 2 Wizard spells that has a casting time of an action."
+				"When you take the {@action Attack|XPHB} action on your turn, you can replace two of the attacks with a casting of one of your level 1 or level 2 Magicien spells that has a casting time of an action."
 			]
 		},
 		{

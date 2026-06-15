@@ -1903,7 +1903,7 @@
 								],
 								[
 									"Wizard",
-									"{@dice 4d4×10|4d4 × 10|Wizard Starting Wealth} gp"
+									"{@dice 4d4×10|4d4 × 10|Magicien Starting Wealth} gp"
 								]
 							]
 						}
@@ -7061,7 +7061,7 @@
 									"name": "Spellcasting Ability",
 									"page": 178,
 									"entries": [
-										"Wizards use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast."
+										"Magiciens use Intelligence as their spellcasting ability, which helps determine the saving throw DCs of spells they cast."
 									],
 									"id": "130"
 								}
@@ -10676,7 +10676,7 @@
 				},
 				{
 					"type": "entries",
-					"name": "Wizard Spells",
+					"name": "Magicien Spells",
 					"entries": [
 						{
 							"type": "list",
@@ -13313,7 +13313,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"{@note Disclaimer: Wizards of the Coast is not responsible for the consequences of splitting up the party, sticking appendages in the mouth of a leering green devil face, accepting a dinner invitation from bugbears, storming the feast hall of a hill giant steading, angering a dragon of any variety, or saying yes when the DM asks, \"Are you really sure?\"}"
+						"{@note Disclaimer: Magiciens of the Coast is not responsible for the consequences of splitting up the party, sticking appendages in the mouth of a leering green devil face, accepting a dinner invitation from bugbears, storming the feast hall of a hill giant steading, angering a dragon of any variety, or saying yes when the DM asks, \"Are you really sure?\"}"
 					],
 					"id": "21a"
 				}

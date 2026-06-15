@@ -1077,7 +1077,7 @@
 											"name": "Magocracy",
 											"page": 18,
 											"entries": [
-												"The governing body is composed of spellcasters who rule directly as oligarchs or feudal lords, or participate in a democracy or bureaucracy. Examples include the Red Wizards of Thay in the Forgotten Realms campaign setting and the sorcerer-kings of Athas in the Dark Sun campaign setting."
+												"The governing body is composed of spellcasters who rule directly as oligarchs or feudal lords, or participate in a democracy or bureaucracy. Examples include the Red Magiciens of Thay in the Forgotten Realms campaign setting and the sorcerer-kings of Athas in the Dark Sun campaign setting."
 											],
 											"id": "043"
 										},
@@ -1640,7 +1640,7 @@
 							"page": 24,
 							"entries": [
 								"The rules of the game refer to the schools of magic (abjuration, illusion, necromancy, and so on), but it's up to you to determine what those schools signify in your world. Similarly, a few class options suggest the existence of magic-using organizations in the world\u2014bardic colleges and druid circles-which are up to you to flesh out.",
-								"You could decide that no formal structures like these exist in your world. Wizards (and bards and druids) might be so rare that a player character learns from a single mentor and never meets another character of the same class, in which case wizards would learn their school specialization without any formal training.",
+								"You could decide that no formal structures like these exist in your world. Magiciens (and bards and druids) might be so rare that a player character learns from a single mentor and never meets another character of the same class, in which case wizards would learn their school specialization without any formal training.",
 								"However, if magic is more common, academies can be the embodiments of the schools of magic. These institutions have their own hierarchies, traditions, regulations, and procedures. For example, Materros the necromancer could be a brother of the necromantic Cabal of Thar-Zad. As a sign of his high standing within its hierarchy, he is allowed to wear the red and green robes of a master. Of course, when he wears these robes, his occupation is easily identified by those who know of the cabal. This recognition could be a boon or a nuisance, since the Cabal of Thar-Zad has a fearsome reputation.",
 								"If you go this route, you can treat schools of magic, bardic colleges, and druid circles as organizations, using the guidelines for organizations presented earlier in this chapter. A player character necromancer might cultivate renown within the Cabal of Thar-Zad, while a bard seeks increasing renown within the College of Mac-Fuirmidh."
 							],
@@ -23688,7 +23688,7 @@
 								"If a spell is so good that a caster would want to use it all the time, it might be too powerful for its level.",
 								"A long duration or large area can make up for a lesser effect, depending on the spell.",
 								"Avoid spells that have very limited use, such as one that works only against good dragons. Though such a spell could exist in the world, few characters will bother to learn or prepare it unless they know in advance that doing so will be worthwhile.",
-								"Make sure the spell fits with the identity of the class. Wizards and sorcerers don't typically have access to healing spells, for example, and adding a healing spell to the wizard class list would step on the cleric's turf."
+								"Make sure the spell fits with the identity of the class. Magiciens and sorcerers don't typically have access to healing spells, for example, and adding a healing spell to the wizard class list would step on the cleric's turf."
 							]
 						},
 						{
@@ -29201,7 +29201,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"{@note Disclaimer: Wizards of the Coast does not officially endorse the following tactics, which are guaranteed to maximize your enjoyment as a Dungeon Master. First, always keep a straight face and say OK no matter how ludicrous or doomed the players' plan of action is. Second, no matter what happens, pretend that you intended all along for everything to unfold the way it did. Third, if you're not sure what to do next, feign illness, end the session early, and plot your next move. When all else fails, roll a bunch of dice behind your screen, study them for a moment with a look of deep concern mixed with regret, let loose a heavy sigh, and announce that Tiamat swoops from the sky and attacks.}"
+						"{@note Disclaimer: Magiciens of the Coast does not officially endorse the following tactics, which are guaranteed to maximize your enjoyment as a Dungeon Master. First, always keep a straight face and say OK no matter how ludicrous or doomed the players' plan of action is. Second, no matter what happens, pretend that you intended all along for everything to unfold the way it did. Third, if you're not sure what to do next, feign illness, end the session early, and plot your next move. When all else fails, roll a bunch of dice behind your screen, study them for a moment with a look of deep concern mixed with regret, let loose a heavy sigh, and announce that Tiamat swoops from the sky and attacks.}"
 					],
 					"id": "3b2"
 				}

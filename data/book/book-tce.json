@@ -1879,7 +1879,7 @@
 								"You gain class features in the {@book Player's Handbook|PHB} when you reach certain levels in your class. This section offers additional features that you can gain as a wizard. Unlike the features in the {@book Player's Handbook|PHB}, you don't gain the features here automatically. Consulting with your DM, you decide whether to gain a feature in this section if you meet the level requirement noted in the feature's description. These features can be selected separately from one another; you can use some, all, or none of them.",
 								{
 									"type": "entries",
-									"name": "Additional Wizard Spells",
+									"name": "Additional Magicien Spells",
 									"page": 75,
 									"id": "1be",
 									"entries": [
@@ -8445,7 +8445,7 @@
 											"id": "3f3",
 											"entries": [
 												"The parchment has a list of spells and a list of material components. However, the components to the right don't match with the adjacent spells to the left. The parchment itself doesn't have any magical qualities, but the word it reveals potentially does.",
-												"Wizards and other spellcasters can identify the correct spell components for any spell they know, but they must succeed on the Intelligence ({@skill Arcana}) checks noted in the \"Hint Checks\" section below to recall the correct material components for any less familiar spells."
+												"Magiciens and other spellcasters can identify the correct spell components for any spell they know, but they must succeed on the Intelligence ({@skill Arcana}) checks noted in the \"Hint Checks\" section below to recall the correct material components for any less familiar spells."
 											]
 										}
 									]

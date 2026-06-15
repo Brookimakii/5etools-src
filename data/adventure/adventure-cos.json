@@ -27,7 +27,7 @@
 								"Initially we were going to title the adventure {@i Vampyr}\u2014one of a series of games we called Nightventure that Laura and I were self-publishing back in 1978. The castle was called Ravenloft, and when Halloween came around each year, our friends asked us if we could play \"that Ravenloft game\" again... and so the better title won out. It was, in part, because of this design that I was hired by TSR, Inc., to write {@b Dungeons & Dragons} adventures in 1982. Soon thereafter, I6 {@i Ravenloft} was published.",
 								"Since then, fans of {@i Ravenloft} have seen many different creative perspectives on Barovia (a country which, by absolute coincidence, is featured in a 1947 Bob Hope movie called {@i Where There's Life}). It continues to be one of the most popular {@b Dungeons & Dragons} adventures of all time. In its various incarnations, each designer has endeavored to bring something new to the ancient legend of Strahd, and to each of them we are grateful.",
 								"But the vampire genre has taken a turn from its roots in recent years. The vampire we so often see today exemplifies the polar opposite of the original archetype: the lie that it's okay to enter into a romance with an abusive monster because if you love it enough, it will change.",
-								"When Laura and I got a call from Christopher Perkins about revisiting {@i Ravenloft}, we hoped we could bring the message of the vampire folktale back to its original cautionary roots. The talented team at Wizards of the Coast not only graciously took our suggestions but engaged us in a dialogue that delivered new insights on the nightmare beyond the gates of Barovia.",
+								"When Laura and I got a call from Christopher Perkins about revisiting {@i Ravenloft}, we hoped we could bring the message of the vampire folktale back to its original cautionary roots. The talented team at Magiciens of the Coast not only graciously took our suggestions but engaged us in a dialogue that delivered new insights on the nightmare beyond the gates of Barovia.",
 								"Now we invite you again as our guests to pass through the Svalich Woods if you dare. For here the romance is tragically dangerous... and a true monster smiles at your approach."
 							],
 							"by": "Tracy Hickman May 2015"
@@ -176,7 +176,7 @@
 												],
 												[
 													"5th",
-													"Wizard of Wines Winery",
+													"Magicien of Wines Winery",
 													"{@adventure 12|CoS|13}"
 												],
 												[
@@ -919,7 +919,7 @@
 												"Look to the wizard of wines! In wood and sand the treasure hides."
 											]
 										},
-										"The treasure lies in the glassblower's workshop in the Wizard of Wines winery ({@adventure chapter 12|CoS|13}, {@area area W10|5ab|x}).",
+										"The treasure lies in the glassblower's workshop in the Magicien of Wines winery ({@adventure chapter 12|CoS|13}, {@area area W10|5ab|x}).",
 										{
 											"type": "insetReadaloud",
 											"id": "047",
@@ -1277,7 +1277,7 @@
 														"Find the leader of the feathered ones who live among the vines. Though old, he has one more fight left in him."
 													]
 												},
-												"This card refers to {@creature Davian Martikov|CoS} (see {@adventure chapter 12|CoS|13}, \"The Wizard of Wines\"). The old wereraven, realizing that he has a chance to end Strahd's tyranny, leaves his vineyard and winery in the capable hands of his sons, Adrian and Elvir. But before he travels to Castle Ravenloft to face Strahd, Davian insists on reconciling with his third son, {@creature Urwin Martikov|CoS} (see {@adventure chapter 5|CoS|6}, {@area area N2|333|x}).",
+												"This card refers to {@creature Davian Martikov|CoS} (see {@adventure chapter 12|CoS|13}, \"The Magicien of Wines\"). The old wereraven, realizing that he has a chance to end Strahd's tyranny, leaves his vineyard and winery in the capable hands of his sons, Adrian and Elvir. But before he travels to Castle Ravenloft to face Strahd, Davian insists on reconciling with his third son, {@creature Urwin Martikov|CoS} (see {@adventure chapter 5|CoS|6}, {@area area N2|333|x}).",
 												{
 													"type": "insetReadaloud",
 													"id": "06f",
@@ -2013,7 +2013,7 @@
 										"The village of Barovia sits at the east end of the valley. Its burgomaster is named Kolyan Indirovich.",
 										"The town of Vallaki lies in the heart of the valley. Its burgomaster is named {@creature Baron Vargas Vallakovich|CoS}.",
 										"The fortified village of Krezk lies at the west end of the valley and is built around an old abbey. The village burgomaster is named Dmitri Krezkov.",
-										"Wine is the lifeblood of Barovia\u2014for some, it is the only reason to keep living. Barovian taverns get their wine from the Wizard of Wines winery near Krezk.",
+										"Wine is the lifeblood of Barovia\u2014for some, it is the only reason to keep living. Barovian taverns get their wine from the Magicien of Wines winery near Krezk.",
 										"A mad wizard of great power haunts the foothills of Mount Baratok. He is an outsider and no friend of the vampire's."
 									]
 								},
@@ -4377,13 +4377,13 @@
 							"id": "130",
 							"entries": [
 								"Always check for a random encounter whenever the characters reach {@area area R|130|x}.",
-								"This stretch of the Old Svalich Road has multiple branches. One branch heads north, quickly turning into a dirt path that leads to Van Richten's Tower on Lake Baratok ({@area area V|136|x}). One branch heads south, becoming Tsolenka Pass ({@area area T|134|x}) as it winds through the lower mountains and clings to the side of Mount Ghakis. A third branch heads west toward the Wizard of Wines winery and vineyard ({@area area W|137|x}), dipping south as it changes from a road into a gravel trail.",
+								"This stretch of the Old Svalich Road has multiple branches. One branch heads north, quickly turning into a dirt path that leads to Van Richten's Tower on Lake Baratok ({@area area V|136|x}). One branch heads south, becoming Tsolenka Pass ({@area area T|134|x}) as it winds through the lower mountains and clings to the side of Mount Ghakis. A third branch heads west toward the Magicien of Wines winery and vineyard ({@area area W|137|x}), dipping south as it changes from a road into a gravel trail.",
 								"Standing at the intersection of the Old Svalich Road and the road to the winery is a signpost:",
 								{
 									"type": "insetReadaloud",
 									"id": "131",
 									"entries": [
-										"You see a weatherworn signpost next to the road. The three arms of the sign point along the three branches of the road. The arm pointing north reads Krezk, and through the woods you can see an arching stone bridge spanning a river. The arm pointing east reads Vallaki, and the road slopes up gradually in that direction. The arm pointing southwest reads The Wizard of Wines. The road slopes gently downward in that direction."
+										"You see a weatherworn signpost next to the road. The three arms of the sign point along the three branches of the road. The arm pointing north reads Krezk, and through the woods you can see an arching stone bridge spanning a river. The arm pointing east reads Vallaki, and the road slopes up gradually in that direction. The arm pointing southwest reads The Magicien of Wines. The road slopes gently downward in that direction."
 									]
 								}
 							]
@@ -4426,11 +4426,11 @@
 						},
 						{
 							"type": "entries",
-							"name": "W. The Wizard of Wines",
+							"name": "W. The Magicien of Wines",
 							"page": 40,
 							"id": "137",
 							"entries": [
-								"{@adventure Chapter 12|CoS|13} visits the Wizard of Wines, the vineyard and winery that provides Barovia much of its wine."
+								"{@adventure Chapter 12|CoS|13} visits the Magicien of Wines, the vineyard and winery that provides Barovia much of its wine."
 							]
 						},
 						{
@@ -25464,7 +25464,7 @@
 									"page": 78,
 									"id": "256",
 									"entries": [
-										"Each of the twelve large casks here rests on its side in a heavy wooden brace. Three casks stand against the north wall, six against the east wall, and three against the south wall. Decorative lettering is burned into the top of each cask, showing the winery name\u2014the Wizard of Wines\u2014and the name of the wine in the cask.",
+										"Each of the twelve large casks here rests on its side in a heavy wooden brace. Three casks stand against the north wall, six against the east wall, and three against the south wall. Decorative lettering is burned into the top of each cask, showing the winery name\u2014the Magicien of Wines\u2014and the name of the wine in the cask.",
 										{
 											"type": "entries",
 											"name": "Northern Casks",
@@ -26516,7 +26516,7 @@
 												"You are greeted by the faint smell of wine. A skeleton draped in rags lies atop a marble slab in the center of the crypt. Heaped around it, covering the entire floor, are thousands of empty wine bottles."
 											]
 										},
-										"Each bottle's label shows that it is from the Wizard of Wines winery, and the label names the wine inside: Champagne du le Stomp, Red Dragon Crush, or {@recipe Purple Grapemash No. 3|HFFotM}."
+										"Each bottle's label shows that it is from the Magicien of Wines winery, and the label names the wine inside: Champagne du le Stomp, Red Dragon Crush, or {@recipe Purple Grapemash No. 3|HFFotM}."
 									]
 								},
 								{
@@ -27266,7 +27266,7 @@
 									"page": 92,
 									"id": "30b",
 									"entries": [
-										"{@i Gralmore Nimblenobs\u2014Wizard Ordinaire}",
+										"{@i Gralmore Nimblenobs\u2014Magicien Ordinaire}",
 										{
 											"type": "insetReadaloud",
 											"id": "30c",
@@ -27982,7 +27982,7 @@
 								"The Blue Water Inn is Vallaki's main gathering place for locals, especially at night. The innkeeper, {@creature Urwin Martikov|CoS}, considers the inn a sanctuary from the evils of this land. In the event of trouble, the windows and doors can all be barred shut from within.",
 								"A bed for the night costs 1 ep. Characters looking for something to eat are fed hot beet soup and fresh bread at no additional charge. A cooked wolf steak costs 1 ep.",
 								"The inn offers a pint of {@recipe Purple Grapemash No. 3|HFFotM} wine for 3 cp, or a pint of the superior Red Dragon Crush wine for 1 sp. Urwin is hurt if the characters complain about the wines, for his family makes them.",
-								"The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what's holding up the latest shipment, promising them free room and board if they return with the wine.",
+								"The inn's wine supply is almost depleted, and the latest delivery from the Magicien of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what's holding up the latest shipment, promising them free room and board if they return with the wine.",
 								{
 									"type": "gallery",
 									"images": [
@@ -28491,7 +28491,7 @@
 												"Urwin takes you aside and keeps his voice low. \"My supply of wine is nearly gone, and the next shipment is overdue. I'll give you what you seek if you bring me my wine. The vineyard and winery is a few miles west of here. Just follow the Old Svalich Road and the signs.\""
 											]
 										},
-										"Urwin fails to mention that his cantankerous father, {@creature Davian Martikov|CoS}, owns the local winery and vineyard, the Wizard of Wines ({@adventure chapter 12|CoS|13}). There's bad blood between Urwin and his father (whom Urwin and Danika refer to as \"the old crow\"). Although Urwin could easily visit the winery himself, he considers dealing with his father to be a worthy test of the characters' competence, and he makes good on his promise if they complete the quest and return with his wine shipment.",
+										"Urwin fails to mention that his cantankerous father, {@creature Davian Martikov|CoS}, owns the local winery and vineyard, the Magicien of Wines ({@adventure chapter 12|CoS|13}). There's bad blood between Urwin and his father (whom Urwin and Danika refer to as \"the old crow\"). Although Urwin could easily visit the winery himself, he considers dealing with his father to be a worthy test of the characters' competence, and he makes good on his promise if they complete the quest and return with his wine shipment.",
 										"Urwin sends a {@creature wereraven|VRGR} in raven form to observe the party's progress from a distance. If the characters get in trouble, the wereraven reports to Urwin at once."
 									]
 								},
@@ -28603,7 +28603,7 @@
 												"This hallway contains three curtained alcoves as well as a larger area stuffed with wine barrels."
 											]
 										},
-										"The Martikovs store their wine here. Tucked behind red curtains are three alcoves, each one containing a half-emptied wine barrel lying on its side in a wooden brace. Twelve empty wine barrels are piled two high near the door to the kitchen ({@area area N2e|341|x}). All the barrels have the Wizard of Wines name burned into them.",
+										"The Martikovs store their wine here. Tucked behind red curtains are three alcoves, each one containing a half-emptied wine barrel lying on its side in a wooden brace. Twelve empty wine barrels are piled two high near the door to the kitchen ({@area area N2e|341|x}). All the barrels have the Magicien of Wines name burned into them.",
 										"Nine of the fifteen barrels, including two of the barrels in the curtained alcoves, have the following label burned into their sides, under the winery's name: {@recipe Purple Grapemash No. 3|HFFotM}. Six of the fifteen barrels, including one of the barrels in the curtained alcoves, have a different label: Red Dragon Crush.",
 										"The double doors that lead outside can be barred shut from within."
 									]
@@ -29646,7 +29646,7 @@
 												"This pantry contains shelves of foodstuffs, although half of the shelves are bare. Two barrels of wine stand against the east wall."
 											]
 										},
-										"The pantry has not been fully stocked for as long as anyone can remember. The two barrels contain a fine wine called Red Dragon Crush, created by the Wizard of Wines winery\u2014facts burned into the side of each barrel."
+										"The pantry has not been fully stocked for as long as anyone can remember. The two barrels contain a fine wine called Red Dragon Crush, created by the Magicien of Wines winery\u2014facts burned into the side of each barrel."
 									]
 								},
 								{
@@ -29689,7 +29689,7 @@
 											]
 										},
 										"The burgomaster's monstrous henchman, {@creature Izek Strazni|CoS} (see {@area appendix D|77c|x}), sleeps here at night. During the day, he is in town taking care of his master's business. Izek's chest is unlocked and contains a heap of wrinkled clothes, under which is a nonmagical shortsword.",
-										"A thorough search of the room reveals a few empty wine bottles under the bed. The label on each bears the winery's name, the Wizard of Wines, and wine's name, {@recipe Purple Grapemash No. 3|HFFotM}.",
+										"A thorough search of the room reveals a few empty wine bottles under the bed. The label on each bears the winery's name, the Magicien of Wines, and wine's name, {@recipe Purple Grapemash No. 3|HFFotM}.",
 										{
 											"type": "entries",
 											"name": "Izek's Doll Collection",
@@ -30742,7 +30742,7 @@
 									"page": 112,
 									"id": "3a6",
 									"entries": [
-										"This room holds crates of old clothing, as well as three barrels of drinking water, two empty wine barrels, and one full wine barrel. The wine barrels are emblazoned with the winery name, the Wizard of Wines, and the wine's name, Red Dragon Crush."
+										"This room holds crates of old clothing, as well as three barrels of drinking water, two empty wine barrels, and one full wine barrel. The wine barrels are emblazoned with the winery name, the Magicien of Wines, and the wine's name, Red Dragon Crush."
 									]
 								},
 								{
@@ -32317,7 +32317,7 @@
 												"If an alarm is sounded, nine Vistani {@creature Vistana bandit|cos|bandits} (NE male and female humans) emerge from three of the surrounding wagons ({@area area N9g|3fe|x}) and arrive at the tent with weapons drawn in 2 rounds.",
 												"{@creature Luvash|CoS} won't meddle in the characters' affairs without Strahd's consent, and he is quite content to let the vampire deal with them. For a hefty price, he offers to sell the characters potions that allow safe passage through the deadly fog that surrounds the valley; he keeps them in the treasure wagon ({@area area N9i|402|x}). The potions don't work, of course.",
 												"If the characters rescue {@creature Arabelle|CoS} from Lake Zarovich ({@adventure chapter 2|CoS|3}, {@area area L|121|x}) and see her safely returned to camp, {@creature Luvash|CoS} is overjoyed and offers to repay the favor. He doesn't sell them the fake potions. (\"Um, they aren't as potent as they could be.\") Instead, he lets them choose a treasure from the Vistani treasure wagon ({@area area N9i|402|x}).",
-												"If the characters ask something of the Vistani but have not earned {@creature Luvash|CoS}'s goodwill, he agrees to do business with them if they accomplish one of two tasks: either find his missing daughter or procure six barrels of wine and bring them to the camp. {@creature Luvash|CoS} suggests they can get the wine in Vallaki, or go straight to the source\u2014the Wizard of Wines winery. He isn't picky when it comes to the quality of the wine."
+												"If the characters ask something of the Vistani but have not earned {@creature Luvash|CoS}'s goodwill, he agrees to do business with them if they accomplish one of two tasks: either find his missing daughter or procure six barrels of wine and bring them to the camp. {@creature Luvash|CoS} suggests they can get the wine in Vallaki, or go straight to the source\u2014the Magicien of Wines winery. He isn't picky when it comes to the quality of the wine."
 											]
 										},
 										{
@@ -34190,7 +34190,7 @@
 										"Vistani and dusk elves avoid the mansion, believing that the dragon's ghost haunts it."
 									]
 								},
-								"The wine in the barrels turned to vinegar and evaporated long ago. Emblazoned on the barrels' sides are the name of the winery, the Wizard of Wines, and the name of the wine, Champagne du le Stomp.",
+								"The wine in the barrels turned to vinegar and evaporated long ago. Emblazoned on the barrels' sides are the name of the winery, the Magicien of Wines, and the name of the wine, Champagne du le Stomp.",
 								"A secret door at the north end of the west wall can be pulled open to reveal a den ({@area area Q6|437|x})."
 							]
 						},
@@ -36043,7 +36043,7 @@
 			"page": 143,
 			"id": "4bb",
 			"entries": [
-				"The fortified village of Krezk lies near the edge of Strahd's domain, and the wall of mist that marks the border is clearly visible above the treeline. Yet even here there is no escaping the vampire. In fact, the villagers are so terrified of Strahd and his wolves that they never venture away from the village. Within their walls, they grow trees that provide ample wood to keep them warm on cold nights, and they draw water from a blessed pool. They have chickens, hares, and small pigs, as well as gardens of beets and turnips. The only thing they depend on from the outside world is wine. The burgomaster, Dmitri Krezkov, comes from a noble family and regularly has wine delivered from the nearby winery, the Wizard of Wines ({@adventure chapter 12|CoS|13}), to keep the locals' bellies warm and their spirits up.",
+				"The fortified village of Krezk lies near the edge of Strahd's domain, and the wall of mist that marks the border is clearly visible above the treeline. Yet even here there is no escaping the vampire. In fact, the villagers are so terrified of Strahd and his wolves that they never venture away from the village. Within their walls, they grow trees that provide ample wood to keep them warm on cold nights, and they draw water from a blessed pool. They have chickens, hares, and small pigs, as well as gardens of beets and turnips. The only thing they depend on from the outside world is wine. The burgomaster, Dmitri Krezkov, comes from a noble family and regularly has wine delivered from the nearby winery, the Magicien of Wines ({@adventure chapter 12|CoS|13}), to keep the locals' bellies warm and their spirits up.",
 				{
 					"type": "image",
 					"href": {
@@ -36288,7 +36288,7 @@
 									"id": "4c2",
 									"entries": [
 										"If the characters ask to be let inside or otherwise draw the attention of the guards on the wall, one of the guards fetches the burgomaster, Dmitri Krezkov (LG male human {@creature noble}). His ancestors built Krezk at the foot of the abbey after Strahd's armies conquered the valley.",
-										"Dmitri is a lord and expects to be treated like one. He places the safety of his village above the welfare of strangers. He has seen adventurers before and assumes that the characters are Strahd's allies or enemies; either way, their presence spells trouble for Krezk. Dmitri isn't prepared to shelter Strahd's enemies any more than he is willing to humor Strahd's allies. The only way the characters can earn his favor is to help Krezk in some way, whereupon Dmitri is required by his oath of office and his honor as a Barovian noble to show them hospitality. If the characters ask what they can do, Dmitri asks them to secure a wagonload of wine from the Wizard of Wines winery to the south. His people have been without wine for days, and the next delivery is long overdue.",
+										"Dmitri is a lord and expects to be treated like one. He places the safety of his village above the welfare of strangers. He has seen adventurers before and assumes that the characters are Strahd's allies or enemies; either way, their presence spells trouble for Krezk. Dmitri isn't prepared to shelter Strahd's enemies any more than he is willing to humor Strahd's allies. The only way the characters can earn his favor is to help Krezk in some way, whereupon Dmitri is required by his oath of office and his honor as a Barovian noble to show them hospitality. If the characters ask what they can do, Dmitri asks them to secure a wagonload of wine from the Magicien of Wines winery to the south. His people have been without wine for days, and the next delivery is long overdue.",
 										"If the characters force their way into town using magic or strength of arms, Dmitri tells his guards to stand down, hoping to avoid bloodshed, and does everything he can to expedite the characters' departure.",
 										"A character who succeeds on a {@dc 12} Wisdom ({@skill Insight}) check can discern that Dmitri is trying to hide the fact that he is distraught. He is grieving over the natural death of his youngest son, Ilya\u2014the last of his children (see {@area area S3|4c3|x})."
 									]
@@ -36359,7 +36359,7 @@
 											"type": "list",
 											"items": [
 												"Residents never leave the village for fear of being attacked by wolves, dire wolves, and werewolves.",
-												"About once a month, a wagonload of wine arrives from the Wizard of Wines ({@adventure chapter 12|CoS|13}), the winery and vineyard to the south. The business is owned and operated by the Martikov family.",
+												"About once a month, a wagonload of wine arrives from the Magicien of Wines ({@adventure chapter 12|CoS|13}), the winery and vineyard to the south. The business is owned and operated by the Martikov family.",
 												"Burgomaster Krezkov recently lost his fourteen-year-old son, Ilya, to illness. Ilya was the last of the four Krezkov children.",
 												"A pool at the north end of the village provides fresh water throughout the year. Next to the pool, the village's ancestors built a shrine to the Morninglord in a gazebo. It's known as the Shrine of the White Sun.",
 												"The Abbey of Saint Markovia is named after a priest of the Morninglord who took a stand against the devil Strahd. After a fierce uprising, Markovia and her most loyal followers stormed Castle Ravenloft, only to be destroyed.",
@@ -37973,7 +37973,7 @@
 										"The stone steps descend twenty feet to a cellar that contains ten barrels of wine and an L-shaped wooden rack packed with wine bottles."
 									]
 								},
-								"The barrels in the center of the room are empty. The wine names are emblazoned on the barrels, as is the winery's name: the Wizard of Wines. The barrels against the east wall contain {@recipe Purple Grapemash No. 3|HFFotM}, a cheap wine. The four barrels against the south wall contain Red Dragon Crush, a fine wine.",
+								"The barrels in the center of the room are empty. The wine names are emblazoned on the barrels, as is the winery's name: the Magicien of Wines. The barrels against the east wall contain {@recipe Purple Grapemash No. 3|HFFotM}, a cheap wine. The four barrels against the south wall contain Red Dragon Crush, a fine wine.",
 								"The wine racks contain thirty-three bottles of {@recipe Purple Grapemash No. 3|HFFotM} and twenty-four bottles of Red Dragon Crush.",
 								{
 									"type": "entries",
@@ -38925,7 +38925,7 @@
 					"height": 1000
 				},
 				"The ruins of Berez are now home to {@creature Baba Lysaga|CoS} (see {@area appendix D|75d|x}), an almost mythic figure tied to Strahd's ancient past. A hermit, she spends most of her time crafting and animating scarecrows to hunt down and kill the ravens and the wereravens that infest Strahd's domain. When she isn't working evil magic, {@creature Baba Lysaga|CoS} sacrifices beasts to Mother Night and collects their blood, then bathes in the blood on nights of the new moon in a ritual to stave off the effects of extreme old age.",
-				"{@creature Baba Lysaga|CoS} recently stole a magic gemstone from the Wizards of Wines vineyard ({@adventure chapter 12|CoS|13}), in the hope that the wereravens who protect the vineyard will try to reclaim it. She keeps it in her hut as bait to lure her enemies to their deaths. The gem has given her hut a semblance of life.",
+				"{@creature Baba Lysaga|CoS} recently stole a magic gemstone from the Magiciens of Wines vineyard ({@adventure chapter 12|CoS|13}), in the hope that the wereravens who protect the vineyard will try to reclaim it. She keeps it in her hut as bait to lure her enemies to their deaths. The gem has given her hut a semblance of life.",
 				{
 					"type": "quote",
 					"entries": [
@@ -39260,7 +39260,7 @@
 									"page": 162,
 									"id": "559",
 									"entries": [
-										"Buried under rubble inside the mansion is a stone staircase that leads down to an intact cellar. A single character can clear the rubble in 4 hours, and multiple characters working together can reduce the time proportionately. The cellar is a 30-foot-square room with mortared stone walls, a 10-foot-high ceiling supported by wooden beams, and a floor submerged under 3 inches of stagnant water. The cellar contains two dozen empty, rotted casks from the Wizard of Wines winery. Each cask is labeled Champagne du le Stomp."
+										"Buried under rubble inside the mansion is a stone staircase that leads down to an intact cellar. A single character can clear the rubble in 4 hours, and multiple characters working together can reduce the time proportionately. The cellar is a 30-foot-square room with mortared stone walls, a 10-foot-high ceiling supported by wooden beams, and a floor submerged under 3 inches of stagnant water. The cellar contains two dozen empty, rotted casks from the Magicien of Wines winery. Each cask is labeled Champagne du le Stomp."
 									]
 								},
 								{
@@ -39395,7 +39395,7 @@
 											]
 										},
 										"The child and the crib are illusions created by {@creature Baba Lysaga|CoS} using a {@spell programmed illusion} spell. {@creature Baba Lysaga|CoS} refers to the child as \"Strahd\" and created the illusion out of madness, because she considers herself a protective mother.",
-										"Beneath the hut's rotting floorboards is a 3-foot-deep cavity containing the magic, green-glowing gem that {@creature Baba Lysaga|CoS} took from the Wizard of the Wines winery. This gem animates the hut (see \"{@area The Creeping Hut|56d|x}\" in the \"Special Events\" section below). The floorboards can be ripped up or smashed with a successful {@dc 14} Strength check. Characters can also break through the floor by dealing 10 damage to it. The hut doesn't give up the gemstone easily, however (see \"{@area Baba Lysaga's Creeping Hut|753|x}\" in appendix D). If the gem is destroyed or removed from the cavity, the hut becomes {@condition incapacitated}.",
+										"Beneath the hut's rotting floorboards is a 3-foot-deep cavity containing the magic, green-glowing gem that {@creature Baba Lysaga|CoS} took from the Magicien of the Wines winery. This gem animates the hut (see \"{@area The Creeping Hut|56d|x}\" in the \"Special Events\" section below). The floorboards can be ripped up or smashed with a successful {@dc 14} Strength check. Characters can also break through the floor by dealing 10 damage to it. The hut doesn't give up the gemstone easily, however (see \"{@area Baba Lysaga's Creeping Hut|753|x}\" in appendix D). If the gem is destroyed or removed from the cavity, the hut becomes {@condition incapacitated}.",
 										"{@creature Baba Lysaga|CoS} keeps soiled robes in the wardrobe and assorted spell components in the wicker cabinet. The tub is where she ritually bathes in blood to prevent aging (see \"{@area Gifts of Mother Night|75d|x}\" in the \"{@creature Baba Lysaga|CoS}\" section in {@area appendix D|75d|x}). If the characters approach the hut at an appropriate time without being noticed, they can see {@creature Baba Lysaga|CoS} bathing."
 									]
 								},
@@ -39504,7 +39504,7 @@
 										"Berez was abandoned long ago after the river rose and flooded the village.",
 										"An ancient and powerful hag named {@creature Baba Lysaga|CoS} lives in a hut in the middle of the village. When not in her hut, {@creature Baba Lysaga|CoS} flies around in a giant skull.",
 										"The scarecrows of Berez are murderous creatures under the hag's control. They surround {@creature Baba Lysaga|CoS}'s hut and serve as an early warning system.",
-										"{@creature Baba Lysaga|CoS} periodically sends her scarecrows to attack the Wizard of Wines, a winery and vineyard west of Berez. She's made enemies of the Martikov family, which owns and operates the winery and vineyard.",
+										"{@creature Baba Lysaga|CoS} periodically sends her scarecrows to attack the Magicien of Wines, a winery and vineyard west of Berez. She's made enemies of the Martikov family, which owns and operates the winery and vineyard.",
 										"The hag has trapped several mountain goats in a pen near the ruins of an old mansion. (Muriel assumes that {@creature Baba Lysaga|CoS} feeds on these animals.)"
 									]
 								},
@@ -39539,7 +39539,7 @@
 							"page": 166,
 							"id": "56d",
 							"entries": [
-								"{@creature Baba Lysaga|CoS} has given a semblance of life to her hut using a magic gemstone stolen from the Wizard of Wines vineyard. If the characters overstay their welcome, she commands the hut to animate and attack them. If this happens, read:",
+								"{@creature Baba Lysaga|CoS} has given a semblance of life to her hut using a magic gemstone stolen from the Magicien of Wines vineyard. If the characters overstay their welcome, she commands the hut to animate and attack them. If this happens, read:",
 								{
 									"type": "insetReadaloud",
 									"id": "56e",
@@ -40317,13 +40317,13 @@
 		},
 		{
 			"type": "section",
-			"name": "Chapter 12: The Wizard of Wines",
+			"name": "Chapter 12: The Magicien of Wines",
 			"page": 173,
 			"id": "590",
 			"entries": [
 				"Wine is the lifeblood of the Barovian people. It is one of the only indulgences left to them. Without it, many Barovians would lose their last shred of hope and succumb to utter despair.",
-				"Although the Vistani often bring wine from distant lands, they share it infrequently. Thus, most of Barovia's wine comes from one source: the Wizard of Wines winery and vineyard.",
-				"The Wizard of Wines was founded by a mage whose name is buried in the annals of history. The wizard fashioned three magic gems, each one as big as a pinecone, and planted them in the rich valley soil. These \"seeds\" gave rise to healthy grapevines, which produced sweet, plump grapes. Even after Strahd's curse settled over Barovia, the gems kept the vines and their grapes from succumbing to the darkness.",
+				"Although the Vistani often bring wine from distant lands, they share it infrequently. Thus, most of Barovia's wine comes from one source: the Magicien of Wines winery and vineyard.",
+				"The Magicien of Wines was founded by a mage whose name is buried in the annals of history. The wizard fashioned three magic gems, each one as big as a pinecone, and planted them in the rich valley soil. These \"seeds\" gave rise to healthy grapevines, which produced sweet, plump grapes. Even after Strahd's curse settled over Barovia, the gems kept the vines and their grapes from succumbing to the darkness.",
 				"Strahd bequeathed the winery and vineyard to the noble Krezkov family as a reward for the family's loyalty. Later, an arranged marriage between the Krezkovs and the Martikov family led to the land being taken over by a Martikov descendant. The winery and vineyard have been tended by the Martikovs ever since. At some point, the Martikov family became infected with widespread lycanthropy. The current patriarch, {@creature Davian Martikov|CoS}, is a wereraven, as are his children and grandchildren.",
 				{
 					"type": "image",
@@ -40465,7 +40465,7 @@
 										"type": "internal",
 										"path": "adventure/CoS/111-028.webp"
 									},
-									"title": "Map 12.1: Wizard of Wines Winery (Area W)",
+									"title": "Map 12.1: Magicien of Wines Winery (Area W)",
 									"width": 2400,
 									"height": 3300,
 									"mapRegions": [
@@ -41229,7 +41229,7 @@
 									"type": "insetReadaloud",
 									"id": "5a9",
 									"entries": [
-										"The rich smell of fermenting wine fills this large, two-story chamber, which is dominated by four enormous wooden casks, each one eight feet wide and twelve feet tall. A wooden staircase in the center of the room climbs to a ten-foot-high wooden balcony that clings to the south wall, which has four windows set into it at balcony level. Stacked against the wall underneath the balcony are old, empty barrels with \"The Wizard of Wines\" burned into their sides. The balcony climbs another five feet as it continues along the west and east walls, ending at doors leading to the winery's upper level. Underneath these side balconies are several doors, some of which hang open. Beneath the sloping roof stretch thick rafters, upon which scores of ravens have quietly gathered. They watch you with great interest."
+										"The rich smell of fermenting wine fills this large, two-story chamber, which is dominated by four enormous wooden casks, each one eight feet wide and twelve feet tall. A wooden staircase in the center of the room climbs to a ten-foot-high wooden balcony that clings to the south wall, which has four windows set into it at balcony level. Stacked against the wall underneath the balcony are old, empty barrels with \"The Magicien of Wines\" burned into their sides. The balcony climbs another five feet as it continues along the west and east walls, ending at doors leading to the winery's upper level. Underneath these side balconies are several doors, some of which hang open. Beneath the sloping roof stretch thick rafters, upon which scores of ravens have quietly gathered. They watch you with great interest."
 									]
 								},
 								"Four {@creature Swarm of Ravens||swarms of ravens} perch on the rafters but don't attack the characters under any circumstances.",
@@ -45625,7 +45625,7 @@
 									"page": 198,
 									"id": "67b",
 									"entries": [
-										"The giant statue bears an eerie resemblance to {@creature Strahd von Zarovich|CoS}. Close inspection reveals roots sprouting from the ground around its base. These roots are part of the Gulthias tree in {@area area Y4|67e|x}. They wrap around the statue, providing added support and durability. The roots not only prevent the statue from being toppled but also allow the effigy to serve as a component in a ritual to create a tree blight (see \"{@area Druids' Ritual|685|x}\" in the \"Special Events\" section below). Planted in the \"heart\" of this wooden effigy is a magic gem stolen from the Wizard of Wines vineyard ({@adventure chapter 12|CoS|13}).",
+										"The giant statue bears an eerie resemblance to {@creature Strahd von Zarovich|CoS}. Close inspection reveals roots sprouting from the ground around its base. These roots are part of the Gulthias tree in {@area area Y4|67e|x}. They wrap around the statue, providing added support and durability. The roots not only prevent the statue from being toppled but also allow the effigy to serve as a component in a ritual to create a tree blight (see \"{@area Druids' Ritual|685|x}\" in the \"Special Events\" section below). Planted in the \"heart\" of this wooden effigy is a magic gem stolen from the Magicien of Wines vineyard ({@adventure chapter 12|CoS|13}).",
 										"The statue has AC 10, 50 hit points, and immunity to poison and psychic damage. If the statue takes fire damage after being splashed with oil, it catches fire, taking {@dice 2d6} fire damage each round. If the statue is reduced to 0 hit points, it collapses, and the magic gem tumbles onto the field, glowing with a bright green light."
 									]
 								},
@@ -45741,7 +45741,7 @@
 											]
 										},
 										"The creature that erupts from the wooden statue is a {@creature tree blight|CoS} (see {@area appendix D|76b|x}) that the druids call Wintersplinter. The green light comes from the magic gem embedded in its \"heart.\" The gem can be removed only when Wintersplinter is dead.",
-										"The druids command Wintersplinter to travel north and lay waste to the Wizard of Wines vineyard ({@area chapter 12|590|x}). Although the characters might not understand what the druids are up to, they will no doubt wonder where the druids are sending the tree blight. As Wintersplinter travels north, its destination should become clear to characters who have previously visited the winery and the vineyard. Whether they try to halt its advance is up to them.",
+										"The druids command Wintersplinter to travel north and lay waste to the Magicien of Wines vineyard ({@area chapter 12|590|x}). Although the characters might not understand what the druids are up to, they will no doubt wonder where the druids are sending the tree blight. As Wintersplinter travels north, its destination should become clear to characters who have previously visited the winery and the vineyard. Whether they try to halt its advance is up to them.",
 										"Once the tree blight departs, Strahd commands the druids and berserkers to leave the hill so that he can be alone. As they flee into the woods, he gazes longingly at the image of his ancestral homeland to the west (see {@area area Y5|682|x})."
 									]
 								}
@@ -46984,7 +46984,7 @@
 							"id": "6ab",
 							"entries": [
 								"If the characters get the children away from the den while Kiril is alive, Kiril reassembles his hunting party and pursues the lost prisoners relentlessly. If Kiril is dead, the werewolf pack is too preoccupied with determining Kiril's successor to organize a hunting party.",
-								"If the characters aren't sure where to take the children, a {@creature wereraven|VRGR} (see {@area appendix D|7d5|x}) that has been spying on the den in raven form assumes hybrid form and suggests that they take refuge in the nearby village of Krezk ({@adventure chapter 8|CoS|9}). If the characters head that way, the wereraven scouts from overhead until the characters reach the village, whereupon it flies south to the Wizard of Wines winery ({@adventure chapter 12|CoS|13}) and reports what has happened to {@creature Davian Martikov|CoS}.",
+								"If the characters aren't sure where to take the children, a {@creature wereraven|VRGR} (see {@area appendix D|7d5|x}) that has been spying on the den in raven form assumes hybrid form and suggests that they take refuge in the nearby village of Krezk ({@adventure chapter 8|CoS|9}). If the characters head that way, the wereraven scouts from overhead until the characters reach the village, whereupon it flies south to the Magicien of Wines winery ({@adventure chapter 12|CoS|13}) and reports what has happened to {@creature Davian Martikov|CoS}.",
 								"The children are understandably traumatized by their imprisonment in the werewolf den. They cry and scream the whole time they're with the characters. A {@spell calm emotions} spell quells their anguish for the duration of the spell (no saving throws required). A character can try to silence the children for a longer period of time using intimidation, or by offering them hope (real or otherwise). The character must make a {@dc 15} Charisma ({@skill Intimidation}, {@skill Persuasion}, or {@skill Deception}) check, as appropriate. If the check succeeds, the children remain silent until something happens to frighten them.",
 								"If the characters take the children to Krezk, the villagers there look after the children and see that they are fed and properly clothed. If the characters take them to Vallaki instead, the Martikovs allow the children to stay at the Blue Water Inn until the characters return to collect them."
 							]
@@ -49866,7 +49866,7 @@
 											"page": 226,
 											"id": "755",
 											"entries": [
-												"The gemstone that has given life to {@creature Baba Lysaga|CoS}'s hut was previously buried in the Wizard of Wines vineyard. The gem was one of three imbued with life-giving magic that made the grapevines in the vineyard healthier, guaranteeing the finest wines. {@creature Baba Lysaga|CoS} stole one of the gems and perverted its magic, using it instead to animate her wooden hut.",
+												"The gemstone that has given life to {@creature Baba Lysaga|CoS}'s hut was previously buried in the Magicien of Wines vineyard. The gem was one of three imbued with life-giving magic that made the grapevines in the vineyard healthier, guaranteeing the finest wines. {@creature Baba Lysaga|CoS} stole one of the gems and perverted its magic, using it instead to animate her wooden hut.",
 												"Removing the gem from the hut renders the hut {@condition incapacitated}. That task is easier said than done, however. The glowing green gem is contained in a cavity in the stump, beneath the rotted floorboards of the hut. The floorboards can be ripped up with a successful {@dc 14} Strength check or smashed by dealing 10 damage to them. Once the floorboards are out of the way, a creature can reach into the cavity and snatch the gem. But if someone attempts this while the hut is alive, the cavity sprouts wooden teeth, becoming a mouth that bites anything that tries to remove the gem; a creature trying to remove the gem must make a {@dc 20} Dexterity saving throw. On a successful save, the creature claims the stone without getting bitten. On a failed save, the creature is bitten for 10 ({@dice 3d6}) piercing damage and fails to obtain the gem."
 											]
 										}
@@ -49986,7 +49986,7 @@
 											"id": "761",
 											"entries": [
 												"{@creature Baba Lysaga|CoS} has allies in Castle Ravenloft\u2014a coven of witches. Through the aid of these witches, Lysaga recently uncovered a potential threat to Strahd: a secret society of wereravens called the Keepers of the Feather, a group that uses ordinary ravens as their spies.",
-												"Strahd doesn't consider the wereravens a serious threat, but Lysaga has chosen to make them the bane of her existence. After much searching and scrying, she discovered a wereraven refuge at the Wizard of Wines winery ({@adventure chapter 12|CoS|13}), and she has begun to wage war against it. In addition, she has forged an alliance with the mad druids that haunt Yester Hill ({@adventure chapter 14|CoS|15}), convincing them that she gave birth to Strahd, whom the druids consider a god. With the druids on her side, she expects to rid Barovia of its wereraven menace."
+												"Strahd doesn't consider the wereravens a serious threat, but Lysaga has chosen to make them the bane of her existence. After much searching and scrying, she discovered a wereraven refuge at the Magicien of Wines winery ({@adventure chapter 12|CoS|13}), and she has begun to wage war against it. In addition, she has forged an alliance with the mad druids that haunt Yester Hill ({@adventure chapter 14|CoS|15}), convincing them that she gave birth to Strahd, whom the druids consider a god. With the druids on her side, she expects to rid Barovia of its wereraven menace."
 											]
 										},
 										{
@@ -52678,7 +52678,7 @@
 				{
 					"type": "entries",
 					"entries": [
-						"{@note Disclaimer: Wizards of the Coast cannot be held liable for any long-term side effects of venturing into the dread realm of Ravenloft, such as lycanthropy, vampirism, a fear of dead things, a fear of living things, an inability to sleep without a nightlight on and a +5 holy avenger under your pillow, and the unsettling suspicion that Strahd is too clever to be so easily defeated and that this is all just part of some grand scheme of his to extend his power beyond Barovia. You didn't think you could escape unless he wanted you to, did you?}"
+						"{@note Disclaimer: Magiciens of the Coast cannot be held liable for any long-term side effects of venturing into the dread realm of Ravenloft, such as lycanthropy, vampirism, a fear of dead things, a fear of living things, an inability to sleep without a nightlight on and a +5 holy avenger under your pillow, and the unsettling suspicion that Strahd is too clever to be so easily defeated and that this is all just part of some grand scheme of his to extend his power beyond Barovia. You didn't think you could escape unless he wanted you to, did you?}"
 					],
 					"id": "68c"
 				}

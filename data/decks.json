@@ -14991,7 +14991,7 @@
 						},
 						{
 							"type": "item",
-							"name": "Wizards of the Coast team:",
+							"name": "Magiciens of the Coast team:",
 							"entries": [
 								"Paul Morrissey"
 							]
@@ -23842,7 +23842,7 @@
 			},
 			"entries": [
 				"Finding your inner wizard and using your genius to discover new ideas and have breakthroughs.",
-				"{@i The party meets a powerful Wizard whom they may ask one question and get a truthful answer from.}"
+				"{@i The party meets a powerful Magicien whom they may ask one question and get a truthful answer from.}"
 			]
 		},
 		{

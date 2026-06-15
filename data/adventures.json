@@ -4659,7 +4659,7 @@
 					]
 				},
 				{
-					"name": "The Wizard of Wines",
+					"name": "The Magicien of Wines",
 					"ordinal": {
 						"type": "chapter",
 						"identifier": 12
@@ -20977,7 +20977,7 @@
 						},
 						{
 							"depth": 1,
-							"header": "17. Wizard Room"
+							"header": "17. Magicien Room"
 						},
 						{
 							"depth": 1,
@@ -23199,7 +23199,7 @@
 						},
 						{
 							"depth": 1,
-							"header": "Y2. Wizard Spires"
+							"header": "Y2. Magicien Spires"
 						},
 						{
 							"depth": 1,
@@ -23372,7 +23372,7 @@
 					"headers": [
 						"Magic Items",
 						"Books",
-						"Wizard Spells"
+						"Magicien Spells"
 					]
 				},
 				{
@@ -32997,7 +32997,7 @@
 					]
 				},
 				{
-					"name": "The Wizards Three",
+					"name": "The Magiciens Three",
 					"ordinal": {
 						"type": "chapter",
 						"identifier": 2
@@ -33023,7 +33023,7 @@
 							"depth": 1,
 							"header": "S4: Lounge"
 						},
-						"The Wizards Three",
+						"The Magiciens Three",
 						"Kas the Destroyer",
 						"Surprise Development",
 						"Toward Web's Edge",

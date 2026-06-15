@@ -40,7 +40,7 @@
 					"id": "003",
 					"entries": [
 						"Ironspine Keep has stood abandoned for many years. Representatives of the Lord's Alliance, an organization of the strongest cities on the Sword Coast, recently funded an expedition to reclaim the fortress. The fortress would allow the Lord's Alliance to keep a closer watch over dangers in the region. The characters are initially hired to help guard Ironspine Keep, which is expected to be an easy task.",
-						"Szass Tam, a scheming lich in command of the malevolent Red Wizards of Thay, plans to amass an army in this area of the Western Heartlands. Ironspine Keep makes an ideal place to sequester his forces, and Szass Tam can't allow the powerful Sword Coast cities to control the stronghold. He quickly dispatched a legion commanded by a spectral warlord to discourage the recovery effort. To instill fear in the rabble repairing the fortification, Szass Tam sent an imposing illusion of himself over the fortress, declaring its impending doom.",
+						"Szass Tam, a scheming lich in command of the malevolent Red Magiciens of Thay, plans to amass an army in this area of the Western Heartlands. Ironspine Keep makes an ideal place to sequester his forces, and Szass Tam can't allow the powerful Sword Coast cities to control the stronghold. He quickly dispatched a legion commanded by a spectral warlord to discourage the recovery effort. To instill fear in the rabble repairing the fortification, Szass Tam sent an imposing illusion of himself over the fortress, declaring its impending doom.",
 						"The Lord's Alliance won't be deterred. Rather than abandon the fortress, the five cities supporting the reconstruction efforts committed to defending Ironspine Keep against Szass Tam's horde.",
 						"When the characters arrive for what they expect to be a routine guard posting, they learn about the approaching horde and must align themselves with one of the five cities. Defense of Ironspine Keep depends upon them.",
 						{
@@ -160,10 +160,10 @@
 									"id": "00a",
 									"entries": [
 										"Corlie leads you north through the fortress. Workers repair walls, stack spears, and sharpen swords.",
-										"\"Five great cities of the Sword Coast have combined forces to restore this fortress,\" she explains. \"We expected it would give us better visibility into trouble on the frontier. But it seems that the Red Wizards of Thay don't want us here.",
+										"\"Five great cities of the Sword Coast have combined forces to restore this fortress,\" she explains. \"We expected it would give us better visibility into trouble on the frontier. But it seems that the Red Magiciens of Thay don't want us here.",
 										"\"Earlier today, an image of the vile necromancer Szass Tam, leader of the Red Wizards, appeared in the sky above the fortress. He commanded that everyone in the fortress flee or face his army.\"",
 										"Corlie gestures at the workers with pride.",
-										"\"We won't be bullied, and we won't abandon a stronghold that the Red Wizards might use as a foothold in the region. We're staying.",
+										"\"We won't be bullied, and we won't abandon a stronghold that the Red Magiciens might use as a foothold in the region. We're staying.",
 										"\"But we don't have many soldiers; I don't even have any squires to help. We need you.",
 										"\"Scouts have identified an army of skeletons, zombies, and other undead headed this way. They'll arrive within the hour, probably in multiple waves. We need brave souls like you on the wall.",
 										"\"But which wall? Each city has reinforced a part of this fortress, and you'll be stationed in a defense zone on behalf of one of the five cities. You can decide which.\""
@@ -280,7 +280,7 @@
 										{
 											"type": "item",
 											"name": "Should We Retreat?",
-											"entry": "\"And let the Red Wizards establish a stronghold here in the Western Heartlands? No, we must repel them here and now.\""
+											"entry": "\"And let the Red Magiciens establish a stronghold here in the Western Heartlands? No, we must repel them here and now.\""
 										},
 										{
 											"type": "item",

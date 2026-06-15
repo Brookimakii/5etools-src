@@ -22552,8 +22552,8 @@
 									]
 								},
 								"The eleven modrons stationed here act as a mathematical calculator for passengers.",
-								"The self-proclaimed Math Wizard is a friendly {@creature duodrone}. The Math Wizard speaks both Common and Modron.",
-								"The ten {@creature Monodrone||monodrones} speak Modron only and are indifferent toward passengers. Each one holds a stack of ten placards numbered 0 through 9. When a creature inside the Abacus Car asks a mathematical question to which the answer is a number, the Math Wizard taps the podium with its wand and says, \"Calculate!\" In response, the monodrones select from their placards, shuffle around, and hold up their numerals to display the answer. The Math Wizard cheers \"Huzzah!\" after every successful calculation.",
+								"The self-proclaimed Math Magicien is a friendly {@creature duodrone}. The Math Magicien speaks both Common and Modron.",
+								"The ten {@creature Monodrone||monodrones} speak Modron only and are indifferent toward passengers. Each one holds a stack of ten placards numbered 0 through 9. When a creature inside the Abacus Car asks a mathematical question to which the answer is a number, the Math Magicien taps the podium with its wand and says, \"Calculate!\" In response, the monodrones select from their placards, shuffle around, and hold up their numerals to display the answer. The Math Magicien cheers \"Huzzah!\" after every successful calculation.",
 								"The monodrones do their best to calculate accurately, but sometimes they must estimate. Furthermore, if the ten monodrones are asked a question to which the answer exceeds 9,999,999,999 or the solution is uncountable, they scramble in circles while screaming in existential terror for a few moments before calmly returning to their positions.",
 								{
 									"type": "entries",

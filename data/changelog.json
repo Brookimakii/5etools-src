@@ -66,7 +66,7 @@
 		"ver": "1.60.0",
 		"date": "2018-08-28",
 		"title": "Procrastinating Adding the CR Scaler to Roll20",
-		"txt": "- CR Scaler:  \n- Added to hover window and DM Screen  \n- Improved \"prompt\" (it's now a slider)\n- Classes page:  \n- Added \"Source\" toggle to subclass buttons  \n- DMG subclasses are now hidden by default\n- Added Languages filter, Senses filter, Skills filter, and Saves filter to Bestiary\n- Lootgen:  \n- Now handles sub-tables (e.g. Table I's 76 result) visibly (it previously rolled in secret, and didn't display the sub-table).  \n- Nicer output text\n- Items:  \n- Added Charges filter, Attached Spells filter, and Cost slider  \n- Minor performance improvements\n- Improved Demo/Converter nightmode\n- Improved Variant Rule search results; now jumps to the correct header\n- Fixed navigating to same hash not scrolling the page when using F-to-find\n- All Wizard cantrips now list \"High Elf\" as a potential source\n- DM Screen Initiative tracker:  \n- Added \"add multiple\" options  \n- Search is focused when opening Add Monster  \n- Fixed bug where added creatures wouldn't join groups\n- Added \"Exclude All UA\" button to Blocklist\n- Added AL Eberron guide\n- Added weather/etc as Hazards\n- Invocations page overhauled:  \n- Is now \"Invocations & Optional Features,\" to better support homebrew  \n- Added Battle Master Maneuvers and Ensorceleur Metamagic\n- Overhauled Dice Roller--now supports multiplication, division, brackets, and exponents\n- (Fixed typos/minor bugs/etc)"
+		"txt": "- CR Scaler:  \n- Added to hover window and DM Screen  \n- Improved \"prompt\" (it's now a slider)\n- Classes page:  \n- Added \"Source\" toggle to subclass buttons  \n- DMG subclasses are now hidden by default\n- Added Languages filter, Senses filter, Skills filter, and Saves filter to Bestiary\n- Lootgen:  \n- Now handles sub-tables (e.g. Table I's 76 result) visibly (it previously rolled in secret, and didn't display the sub-table).  \n- Nicer output text\n- Items:  \n- Added Charges filter, Attached Spells filter, and Cost slider  \n- Minor performance improvements\n- Improved Demo/Converter nightmode\n- Improved Variant Rule search results; now jumps to the correct header\n- Fixed navigating to same hash not scrolling the page when using F-to-find\n- All Magicien cantrips now list \"High Elf\" as a potential source\n- DM Screen Initiative tracker:  \n- Added \"add multiple\" options  \n- Search is focused when opening Add Monster  \n- Fixed bug where added creatures wouldn't join groups\n- Added \"Exclude All UA\" button to Blocklist\n- Added AL Eberron guide\n- Added weather/etc as Hazards\n- Invocations page overhauled:  \n- Is now \"Invocations & Optional Features,\" to better support homebrew  \n- Added Battle Master Maneuvers and Ensorceleur Metamagic\n- Overhauled Dice Roller--now supports multiplication, division, brackets, and exponents\n- (Fixed typos/minor bugs/etc)"
 	},
 	{
 		"ver": "1.61.3",
@@ -455,7 +455,7 @@
 	{
 		"ver": "1.79.1",
 		"date": "2019-08-08",
-		"title": "A Wizard Is Never Late",
+		"title": "A Magicien Is Never Late",
 		"txt": "- Homebrew Builder:  \n  - Added Spell builder (top-right in the sidebar menu)  \n  - Added \"Data\" tab, which shows the current JSON data  \n  - Improved loading time\n- DM Screen Clock/Calendar:  \n  - Added \"Browse\" mode to calendar, allowing you to freely look around without changing the date  \n  - SHIFT-clicking a day in the calendar now sets it as the current day  \n  - Added \"Go to Day\" button to calendar day summary modal  \n  - Events and encounter can now be moved  \n  - Events and encounters can now be renamed from the summary modal  \n  - Events and encounters can now have times  \n  - Added current day events and encounters display to clock screen\n- (Hopefully) made ads more tolerable on small screen desktop resolutions for list pages (can now scroll past the ad)\n- Added \"outdated browser\" check\n- Fixed Encounter Builder failing to generate random encounters\n- Fixed Initiative Tracker Player View failing to load\n- Fixed This Is Your Life generator generating strange sibling ranges\n- Fixed items page sort ordering\n- Removed padding; borders; etc from DM Screen embedded iframes\n- Fixed Optional Feature filtering by Spell Prerequisite\n- (Fixed typos/added tags)\n- (Homebrew/@Dusk Reworked ability score data format for races and feats)"
 	},
 	{
@@ -704,7 +704,7 @@
 	{
 		"ver": "1.90.0",
 		"date": "2019-11-25",
-		"txt": "- Added UA: Fighter, Rogue, and Wizard content\n- (Fixed typos/added tags)"
+		"txt": "- Added UA: Fighter, Rogue, and Magicien content\n- (Fixed typos/added tags)"
 	},
 	{
 		"ver": "1.91.0",
@@ -849,7 +849,7 @@
 	{
 		"ver": "1.95.2",
 		"date": "2020-02-02",
-		"txt": "- Added \"code wrap\" toggle button to code popout windows\n- Added support for dice expressions in some input fields\n- Added support for \"avg\" function in dice roller (note that this does not yet average rolls affected by modifiers correctly)\n- Restored missing Text Converter \"Save to Homebrew\" button\n- Added class generation for every adventurer in This Is Your Life generator\n- Fixed This Is Your Life generator failing to generate details for adventurers in some cases\n- Some input fields now accept unary offsets (e.g. \"-1\"); to set an absolute value of -1, use \"=-1\"\n- Improved filter layout on mobile\n- Get Homebrew listing now shows Date Last Modified per homebrew file\n- (Homebrew) Item names within creature statblocks within items are no longer italicised\n- (Homebrew) Added support for prerequisite ability scores not equal to 13\n- (Homebrew) Added support for \"copy of class X\" class/subclass spell lists, similar to e.g. Arcane Trickster rogue gaining all Wizard spells\n- (Fixed typos/added tags)"
+		"txt": "- Added \"code wrap\" toggle button to code popout windows\n- Added support for dice expressions in some input fields\n- Added support for \"avg\" function in dice roller (note that this does not yet average rolls affected by modifiers correctly)\n- Restored missing Text Converter \"Save to Homebrew\" button\n- Added class generation for every adventurer in This Is Your Life generator\n- Fixed This Is Your Life generator failing to generate details for adventurers in some cases\n- Some input fields now accept unary offsets (e.g. \"-1\"); to set an absolute value of -1, use \"=-1\"\n- Improved filter layout on mobile\n- Get Homebrew listing now shows Date Last Modified per homebrew file\n- (Homebrew) Item names within creature statblocks within items are no longer italicised\n- (Homebrew) Added support for prerequisite ability scores not equal to 13\n- (Homebrew) Added support for \"copy of class X\" class/subclass spell lists, similar to e.g. Arcane Trickster rogue gaining all Magicien spells\n- (Fixed typos/added tags)"
 	},
 	{
 		"ver": "1.95.3",
@@ -948,7 +948,7 @@
 	{
 		"ver": "1.101.3",
 		"date": "2020-03-21",
-		"txt": "- Added missing Wizard subclasses to EGW spells\n- (Fixed typos/added tags)"
+		"txt": "- Added missing Magicien subclasses to EGW spells\n- (Fixed typos/added tags)"
 	},
 	{
 		"ver": "1.101.4",

@@ -10522,7 +10522,7 @@
 									"page": 115,
 									"id": "1f9",
 									"entries": [
-										"Three groups of adventurers who dared to explore Harrowhall were killed by Gremorly and are now trapped in the keep. Fate's Devout are in the dining hall ({@book area 6|BMT|14|6: Dining Hall}), the Spellseekers are in the eastern bedrooms ({@book area 10|BMT|14|10: Eastern Bedrooms}), and the Gloved Hand are in the crypt ({@book area 14|BMT|14|14: Crypt}). Each group can be customized to fit your campaign; for example, Fate's Devout might serve a prominent deity of fate in your setting, the Spellseekers might be Red Wizards of Thay, and the Gloved Hand might be Harpers.",
+										"Three groups of adventurers who dared to explore Harrowhall were killed by Gremorly and are now trapped in the keep. Fate's Devout are in the dining hall ({@book area 6|BMT|14|6: Dining Hall}), the Spellseekers are in the eastern bedrooms ({@book area 10|BMT|14|10: Eastern Bedrooms}), and the Gloved Hand are in the crypt ({@book area 14|BMT|14|14: Crypt}). Each group can be customized to fit your campaign; for example, Fate's Devout might serve a prominent deity of fate in your setting, the Spellseekers might be Red Magiciens of Thay, and the Gloved Hand might be Harpers.",
 										"The ghosts all hide from Gremorly. Although they know of the necromancer and the presence of other ghosts, they have forgotten most of what they knew in life, recalling little beyond the mission that brought them to the keep. The ghosts aren't hostile and act as allies to characters willing to help them. Destroying the ghosts is difficult, as they remain on the Border Ethereal and can't affect\u2014or be affected by\u2014anything on the Material Plane. The ghosts defend themselves if the characters attack them."
 									]
 								}
@@ -11613,7 +11613,7 @@
 												"The bottom of the dry moat is littered with bones as well as complete skeletons, many still wearing rusted armor or tattered robes."
 											]
 										},
-										"Gremorly dumped the corpses of those he killed into the moat. A character who examines these remains and succeeds on a {@dc 15} Wisdom ({@skill Perception}) check notices some skeletons have matching emblems on their clothing or gear, perhaps indicating the bearers belonged to the same organization. If you have decided the dead adventurers belonged to well-known organizations like the Harpers or Red Wizards of Thay, the symbols of those groups can be found among the corpses.",
+										"Gremorly dumped the corpses of those he killed into the moat. A character who examines these remains and succeeds on a {@dc 15} Wisdom ({@skill Perception}) check notices some skeletons have matching emblems on their clothing or gear, perhaps indicating the bearers belonged to the same organization. If you have decided the dead adventurers belonged to well-known organizations like the Harpers or Red Magiciens of Thay, the symbols of those groups can be found among the corpses.",
 										{
 											"type": "entries",
 											"name": "Treasure",

@@ -521,8 +521,8 @@
 			"name": "Dead in Thay",
 			"page": 109,
 			"entries": [
-				"Near the village of Daggerford on the Sword Coast, the Red Wizards of Thay plotted to extend the evil reach of their land and its master, the lich lord Szass Tam. At a site called Bloodgate Keep they built a powerful portal, fueled by elemental nodes, that could allow Thayans to instantly transport whole armies into the very heart of the Sword Coast. With this power, the Red Wizards would surely overthrow and take control of the North.",
-				"However, groups of heroes recently assaulted Bloodgate Keep and its master, the lich {@creature Tarul Var|TftYP}. With the help of a renegade Red Wizard named {@creature Mennek Ariz|TftYP}, this assault was successful. Bloodgate Keep fell, and Szass Tam's plans of invasion were crushed.",
+				"Near the village of Daggerford on the Sword Coast, the Red Magiciens of Thay plotted to extend the evil reach of their land and its master, the lich lord Szass Tam. At a site called Bloodgate Keep they built a powerful portal, fueled by elemental nodes, that could allow Thayans to instantly transport whole armies into the very heart of the Sword Coast. With this power, the Red Magiciens would surely overthrow and take control of the North.",
+				"However, groups of heroes recently assaulted Bloodgate Keep and its master, the lich {@creature Tarul Var|TftYP}. With the help of a renegade Red Magicien named {@creature Mennek Ariz|TftYP}, this assault was successful. Bloodgate Keep fell, and Szass Tam's plans of invasion were crushed.",
 				"What no one expected, though, was that despite the fall of the keep itself, parts of the Bloodgate Nexus (an interconnected series of teleportation circles) survived, and a Thayan Resurrection cell leader named Syranna devised a way to use it against Szass Tam. Syranna had been part of the team that originally assembled the Bloodgate Nexus, and knew that remaining nodes allowed direct access to a secret Thayan training ground known as the Doomvault.",
 				"This adventure takes place in the Doomvault. It is designed for 9th-level characters. By the end of the story, they are likely to advance to 11th level or perhaps higher... if they don't end up dead in Thay.",
 				{
@@ -594,7 +594,7 @@
 					"name": "The Doomvault",
 					"page": 109,
 					"entries": [
-						"After the fall of Bloodgate Keep, a Red Wizard named Syranna, a leader in the Thayan Resurrection resistance movement, saw an unusual opportunity. Her knowledge of the secret portal network of which the Bloodgate was a part gave her the ability to open portals directly into the Doomvault.",
+						"After the fall of Bloodgate Keep, a Red Magicien named Syranna, a leader in the Thayan Resurrection resistance movement, saw an unusual opportunity. Her knowledge of the secret portal network of which the Bloodgate was a part gave her the ability to open portals directly into the Doomvault.",
 						"The following sections contain details on the logistics of running an adventure set there. When you're familiar with these, continue with the characters' introduction to Syranna and their mission in Into The Doomvault.",
 						{
 							"type": "image",
@@ -14900,7 +14900,7 @@
 											"name": "Gatehouse",
 											"page": 112,
 											"entries": [
-												"Thanks to Syranna, the Red Wizard rebels maintain control of an unmapped magic gatehouse, which is how the characters first arrive in Thay and enter the Doomvault. The gatehouse contains several permanent teleportation circles. Syranna can key these circles to any entry point (listed below). Further, any creature that possesses a glyph key can use a black gate to teleport from the Doomvault to a permanent teleportation circle in the gatehouse.",
+												"Thanks to Syranna, the Red Magicien rebels maintain control of an unmapped magic gatehouse, which is how the characters first arrive in Thay and enter the Doomvault. The gatehouse contains several permanent teleportation circles. Syranna can key these circles to any entry point (listed below). Further, any creature that possesses a glyph key can use a black gate to teleport from the Doomvault to a permanent teleportation circle in the gatehouse.",
 												"The gatehouse also has a huge physical gate, facing east into Thay just west of Lake Thaylambar. This gate is built into a cliff about 30 miles northwest of Eltabbar and about 30 miles south of Keluthar. Syranna usually keeps this gate sealed, opening it only for emergencies. She raises this gate to allow characters out of the gatehouse and into Thay only if you decide she does so."
 											],
 											"id": "06c"
@@ -15102,8 +15102,8 @@
 									"name": "Dread Warriors",
 									"page": 113,
 									"entries": [
-										"Szass Tam devised the ritual that enables the creation of {@creature Dread Warrior|TftYP|dread warriors}. The lich has since altered the process to make it possible for a Red Wizard to take control of a dread warrior. The effect creates a psychic link between the dread warrior and a Red Wizard, who can, for a time, experience the world through the dread warrior's senses, speak with its mouth, and cast spells through it. A powerful wizard can control more than one dread warrior at a time.",
-										"When a party in the Doomvault encounters a dread warrior that isn't in the company of a Red Wizard or {@creature Tarul Var|TftYP}, a special interaction may occur. If the dread warrior survives until end of the third round (or for more than 20 seconds), {@creature Tarul Var|TftYP} (see {@adventure area 10|TftYP-DiT|1|10. Tarul Var's Quarters}) becomes aware of the group's presence. Var's attention raises the overall alert level by 1. In addition, {@creature Tarul Var|TftYP} takes control of the dread warrior by the start of its next turn. Instead of allowing the warrior to attack, Var uses the warrior's actions to cast his spells through it.",
+										"Szass Tam devised the ritual that enables the creation of {@creature Dread Warrior|TftYP|dread warriors}. The lich has since altered the process to make it possible for a Red Magicien to take control of a dread warrior. The effect creates a psychic link between the dread warrior and a Red Wizard, who can, for a time, experience the world through the dread warrior's senses, speak with its mouth, and cast spells through it. A powerful wizard can control more than one dread warrior at a time.",
+										"When a party in the Doomvault encounters a dread warrior that isn't in the company of a Red Magicien or {@creature Tarul Var|TftYP}, a special interaction may occur. If the dread warrior survives until end of the third round (or for more than 20 seconds), {@creature Tarul Var|TftYP} (see {@adventure area 10|TftYP-DiT|1|10. Tarul Var's Quarters}) becomes aware of the group's presence. Var's attention raises the overall alert level by 1. In addition, {@creature Tarul Var|TftYP} takes control of the dread warrior by the start of its next turn. Instead of allowing the warrior to attack, Var uses the warrior's actions to cast his spells through it.",
 										"When Var becomes aware of the group through a dread warrior, the warrior's eyes glow with pale light. If someone casts {@spell counterspell} or {@spell dispel magic} on the dread warrior during this time, and successfully dispels a 5th-level spell, Var's connection is suppressed for 1 minute. Preemptively casting {@spell dispel magic} on a dread warrior can have the same effect."
 									],
 									"id": "081"
@@ -15269,7 +15269,7 @@
 												],
 												[
 													"5\u20136",
-													"1 Red Wizard {@creature evoker|VGM}, 1 {@creature Thayan apprentice|TftYP}, and {@dice 1d4} {@creature Dread Warrior|TftYP|dread warriors}"
+													"1 Red Magicien {@creature evoker|VGM}, 1 {@creature Thayan apprentice|TftYP}, and {@dice 1d4} {@creature Dread Warrior|TftYP|dread warriors}"
 												],
 												[
 													"7\u20138",
@@ -15585,7 +15585,7 @@
 											"name": "Red Wizards",
 											"page": 115,
 											"entries": [
-												"Each Red Wizard encountered in the adventure carries {@dice 4d10} gp. A Red Wizard also carries {@dice 1d4}\u20132 (minimum 0) {@item Spell Scroll||spell scrolls}, each containing a random arcane spell of 1st or 2nd level, most often {@spell darkvision}, {@spell daylight}, {@spell detect magic}, {@spell identify}, {@spell invisibility}, or {@spell thunderwave}. Twenty-five percent of Red Wizards (determine randomly using a {@dice d4}) instead have one 3rd-level {@item spell scroll}, either of {@spell dispel magic} or {@spell remove curse}."
+												"Each Red Magicien encountered in the adventure carries {@dice 4d10} gp. A Red Magicien also carries {@dice 1d4}\u20132 (minimum 0) {@item Spell Scroll||spell scrolls}, each containing a random arcane spell of 1st or 2nd level, most often {@spell darkvision}, {@spell daylight}, {@spell detect magic}, {@spell identify}, {@spell invisibility}, or {@spell thunderwave}. Twenty-five percent of Red Magiciens (determine randomly using a {@dice d4}) instead have one 3rd-level {@item spell scroll}, either of {@spell dispel magic} or {@spell remove curse}."
 											],
 											"id": "08c"
 										},
@@ -15640,7 +15640,7 @@
 									"name": "Soul Binding",
 									"page": 115,
 									"entries": [
-										"The rebel Red Wizards can use the mighty magic of the Doomvault, which traps souls, to raise fallen adventurers as soul-bound dead. If a player chooses this option, the dead character returns to play with no changes.",
+										"The rebel Red Magiciens can use the mighty magic of the Doomvault, which traps souls, to raise fallen adventurers as soul-bound dead. If a player chooses this option, the dead character returns to play with no changes.",
 										"Syranna warns such characters that a soul-bound creature created in this way will die permanently upon leaving the Doomvault. Furthermore, over the course of many weeks, a character who remains in this state loses any identity and becomes a wight under the control of the Red Wizards. To have any hope of exiting the dungeon, the character must end the soul-bound condition.",
 										"Syranna conveys that the undying laboratory ({@adventure area 31|TftYP-DiT|1|31. Undying Laboratory}) allows soul-bound characters to transform back to normal, but she lacks the knowledge of how this feat is accomplished."
 									],
@@ -15677,7 +15677,7 @@
 												"In the Far Realm Cysts, the creatures of chaos keep intruders away from a powerful shrine.",
 												"In the Forests of Slaughter, the most cunning hunters seek to steal glyph keys.",
 												"In the Forests of Slaughter, magic pools can heal creatures that drink from them.",
-												"In the Golem Laboratories, no Red Wizard will enter the glowing green archways.",
+												"In the Golem Laboratories, no Red Magicien will enter the glowing green archways.",
 												"In the Masters' Domain, the Temples of Despair are used for the torture and execution of those who oppose Szass Tam.",
 												"In the Masters' Domain, necromancy can be reshaped to restore life.",
 												"In the Ooze Grottos, the power of the white pillar can heal or harm.",
@@ -15741,7 +15741,7 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"You arrive in a shadowy hall with glowing teleportation circles etched into the floor. Before you have time to consider your situation, the image of a female Red Wizard suddenly appears and speaks.",
+								"You arrive in a shadowy hall with glowing teleportation circles etched into the floor. Before you have time to consider your situation, the image of a female Red Magicien suddenly appears and speaks.",
 								"\"I am Syranna,\" she says. \"It was I who brought you here. Welcome to Thay.\""
 							],
 							"id": "096"
@@ -15750,7 +15750,7 @@
 						{
 							"type": "insetReadaloud",
 							"entries": [
-								"\"Many Red Wizards chafe under the rule of Szass Tam. Once, Thay was a land of learning and power. Now, death scours Thay while the lich lord ignores all concerns other than his quest to become a god. If his mad plans are left to run their course, none will be left alive here to worship him.",
+								"\"Many Red Magiciens chafe under the rule of Szass Tam. Once, Thay was a land of learning and power. Now, death scours Thay while the lich lord ignores all concerns other than his quest to become a god. If his mad plans are left to run their course, none will be left alive here to worship him.",
 								"\"This is a magic gatehouse, from which I can send you to the Doomvault\u2014the heart of the lich lord's domain deep beneath the Thaymount. The Doomvault is a secret laboratory and containment structure, beneath which lies a hidden storehouse where the phylacteries of Szass Tam's elite liches are held. There, the lich lord's power can be broken... with your aid.",
 								"\"I offer you an opportunity to take the fight to the lich lord. I offer you the chance to help me see to it that Szass Tam's power is broken. The Phylactery Vault is where you can make that happen.",
 								"\"What say you?\""
@@ -15764,9 +15764,9 @@
 						{
 							"type": "list",
 							"items": [
-								"For centuries, the Doomvault was a legend. Kazit Gul, a Red Wizard who spent his life studying the deadliest dungeons on many worlds, planned it. As a living human and a lich, Gul fashioned the vast complex based on his research. The purpose of the dungeon was to lure explorers to their deaths and harvest their souls to fuel Gul's phylactery.",
+								"For centuries, the Doomvault was a legend. Kazit Gul, a Red Magicien who spent his life studying the deadliest dungeons on many worlds, planned it. As a living human and a lich, Gul fashioned the vast complex based on his research. The purpose of the dungeon was to lure explorers to their deaths and harvest their souls to fuel Gul's phylactery.",
 								"As Thay became more hostile to outsiders, fewer people sought the Doomvault. Eventually, unable to fuel his phylactery, Gul became a demilich. Szass Tam discovered the Doomvault and saw the opportunity to rebuild and repurpose it.",
-								"The Doomvault is a vast, active complex of laboratories and menageries dedicated to creating the monstrous armies with which the Red Wizards plan to conquer first the North, then all of Faerûn. The dungeon is divided into sectors dedicated to the creation and control of specific types of monsters.",
+								"The Doomvault is a vast, active complex of laboratories and menageries dedicated to creating the monstrous armies with which the Red Magiciens plan to conquer first the North, then all of Faerûn. The dungeon is divided into sectors dedicated to the creation and control of specific types of monsters.",
 								"Each sector is subdivided into protected zones for security, defending against attack from outside and betrayal from within, as well as the escape of confined creatures. Magical white gates block corridors, preventing physical access between zones. Magical black gates are teleportation circles that connect different parts of the dungeon. Syranna describes each gate type's appearance so the characters know the gates by sight.",
 								"Magic crystals called glyph keys, when attuned to a zone, allow access to that zone's gates. Syranna describes the use of glyph keys, including how to transfer attunements. She also describes contact stones and how the characters can use them to contact her directly. Through contact stones, the characters can also gain glyph key attunements for the zone in which the contact stone is situated. Syranna initially provides the party with one glyph key.",
 								"The characters have three goals: (1) Destroy the Red Wizards' monstrous creations and experiments to end the threat to Faerûn. (2) Gain access to the Phylactery Vault deep beneath the dungeon. (3) Destroy the phylacteries within the vault.",
@@ -17016,7 +17016,7 @@
 											"name": "Creature",
 											"page": 124,
 											"entries": [
-												"Sorlan, a former adventurer who was imprisoned by the Red Wizards and subjected to horrible experiments, lives on as a {@creature ghost} that is bound to this room. He hates the Red Wizards, and he immediately tries to attack all who enter his chamber, screaming that allies of the Red Wizards must die. If the characters convince Sorlan that they are opposed to the Red Wizards by making a successful {@dc 15} Charisma ({@skill Persuasion}) check, the ghost stops attacking and can provide two pieces of lore, which he has overheard from passing Red Wizards.",
+												"Sorlan, a former adventurer who was imprisoned by the Red Magiciens and subjected to horrible experiments, lives on as a {@creature ghost} that is bound to this room. He hates the Red Wizards, and he immediately tries to attack all who enter his chamber, screaming that allies of the Red Magiciens must die. If the characters convince Sorlan that they are opposed to the Red Magiciens by making a successful {@dc 15} Charisma ({@skill Persuasion}) check, the ghost stops attacking and can provide two pieces of lore, which he has overheard from passing Red Wizards.",
 												"Sorlan also tells the characters to avoid the maze of undoing ({@adventure area 15|TftYP-DiT|1|15. Maze of Undoing}), which is where he was captured while trying to escape the dungeon. He doesn't know the trick to overcoming the teleportation trap. If he is slain, Sorlan reappears in this {@adventure area 24|TftYP-DiT|1|24. Pale Garden} hours later."
 											],
 											"id": "0e8"
@@ -17050,7 +17050,7 @@
 											"name": "Creatures",
 											"page": 124,
 											"entries": [
-												"One Red Wizard {@creature conjurer|VGM} oversees one {@creature deathlock wight|MTF} and one {@creature Thayan apprentice|TftYP}. The conjurer knows the pass phrase for the maze of undoing ({@adventure area 15|TftYP-DiT|1|15. Maze of Undoing}) and might provide it to the characters in exchange for mercy, knowing that freed demons will attack their \"rescuers.\""
+												"One Red Magicien {@creature conjurer|VGM} oversees one {@creature deathlock wight|MTF} and one {@creature Thayan apprentice|TftYP}. The conjurer knows the pass phrase for the maze of undoing ({@adventure area 15|TftYP-DiT|1|15. Maze of Undoing}) and might provide it to the characters in exchange for mercy, knowing that freed demons will attack their \"rescuers.\""
 											],
 											"id": "0ec"
 										},
@@ -17072,7 +17072,7 @@
 											"name": "Keys",
 											"page": 124,
 											"entries": [
-												"The Red Wizard has a glyph key attuned to this zone, as well as a ring of keys to the cells."
+												"The Red Magicien has a glyph key attuned to this zone, as well as a ring of keys to the cells."
 											],
 											"id": "0ee"
 										},
@@ -17143,7 +17143,7 @@
 					"name": "Blood Pens",
 					"page": 124,
 					"entries": [
-						"The Red Wizards are breeding and raising monsters in their own foul nurseries.",
+						"The Red Magiciens are breeding and raising monsters in their own foul nurseries.",
 						"Locations in the Blood Pens are identified on map 5.4.",
 						{
 							"type": "image",
@@ -17391,7 +17391,7 @@
 									"name": "16. Gallery of Swarms",
 									"page": 124,
 									"entries": [
-										"The Red Wizards no longer use this chamber.",
+										"The Red Magiciens no longer use this chamber.",
 										{
 											"type": "entries",
 											"name": "Sounds",
@@ -17676,7 +17676,7 @@
 											"name": "Drevin",
 											"page": 126,
 											"entries": [
-												"One pig is much smaller than the others, and looks especially malnourished. A {@spell detect magic} spell reveals that the creature radiates transmutation magic. The pig is in fact a lightfoot halfling named {@creature Drevin|TftYP}. He was a minstrel (use the {@creature spy} statistics) who ran afoul of a Red Wizard {@creature transmuter|VGM}. If freed of the {@spell true polymorph} spell he is under, {@creature Drevin|TftYP} accompanies the characters until he is permitted to escape the Doomvault, at which point he departs amid promises to write great ballads about the characters' exploits."
+												"One pig is much smaller than the others, and looks especially malnourished. A {@spell detect magic} spell reveals that the creature radiates transmutation magic. The pig is in fact a lightfoot halfling named {@creature Drevin|TftYP}. He was a minstrel (use the {@creature spy} statistics) who ran afoul of a Red Magicien {@creature transmuter|VGM}. If freed of the {@spell true polymorph} spell he is under, {@creature Drevin|TftYP} accompanies the characters until he is permitted to escape the Doomvault, at which point he departs amid promises to write great ballads about the characters' exploits."
 											],
 											"id": "118"
 										},
@@ -17792,7 +17792,7 @@
 											"name": "Creatures",
 											"page": 127,
 											"entries": [
-												"A Red Wizard {@creature enchanter|VGM}, one {@creature dread warrior|TftYP}, and six {@creature Skeleton||skeletons} oversee the eggs. If combat breaks out, the wizard sends the undead forward as a screen and uses targeted spells that won't harm the eggs."
+												"A Red Magicien {@creature enchanter|VGM}, one {@creature dread warrior|TftYP}, and six {@creature Skeleton||skeletons} oversee the eggs. If combat breaks out, the wizard sends the undead forward as a screen and uses targeted spells that won't harm the eggs."
 											],
 											"id": "125"
 										},
@@ -17828,7 +17828,7 @@
 											"name": "Glyph Key",
 											"page": 127,
 											"entries": [
-												"The Red Wizard has a glyph key attuned to this zone."
+												"The Red Magicien has a glyph key attuned to this zone."
 											],
 											"id": "129"
 										},
@@ -17872,8 +17872,8 @@
 											"name": "Creatures",
 											"page": 127,
 											"entries": [
-												"A Red Wizard {@creature transmuter|VGM} oversees two {@creature Thayan Apprentice|TftYP|Thayan apprentices} in caring for the imprisoned hatchlings, while four {@creature Thayan Warrior|TftYP|Thayan warriors} stand guard. They attack intruders. In a desperate battle, the Red Wizard might take the time to release hatchlings to add to the characters' opposition.",
-												"If the battle goes badly for the Thayans, the Red Wizard surrenders. Her name is Myrja, and her allegiance to Szass Tam is less than resolute. If the characters spare her, she offers the pass phrase to get by the trap and creatures in {@adventure area 23|TftYP-DiT|1|23. Dead Garden} (\"That which is dead, stay so\") and one piece of lore."
+												"A Red Magicien {@creature transmuter|VGM} oversees two {@creature Thayan Apprentice|TftYP|Thayan apprentices} in caring for the imprisoned hatchlings, while four {@creature Thayan Warrior|TftYP|Thayan warriors} stand guard. They attack intruders. In a desperate battle, the Red Magicien might take the time to release hatchlings to add to the characters' opposition.",
+												"If the battle goes badly for the Thayans, the Red Magicien surrenders. Her name is Myrja, and her allegiance to Szass Tam is less than resolute. If the characters spare her, she offers the pass phrase to get by the trap and creatures in {@adventure area 23|TftYP-DiT|1|23. Dead Garden} (\"That which is dead, stay so\") and one piece of lore."
 											],
 											"id": "12e"
 										},
@@ -17996,7 +17996,7 @@
 									"name": "24. Pale Garden",
 									"page": 128,
 									"entries": [
-										"The Red Wizards use this magical garden for food.",
+										"The Red Magiciens use this magical garden for food.",
 										{
 											"type": "entries",
 											"name": "Light",
@@ -18072,7 +18072,7 @@
 											"name": "Creatures",
 											"page": 128,
 											"entries": [
-												"Thuria, a Red Wizard {@creature enchanter|VGM}, lives here and oversees the Blood Pens. Two {@creature Dread Warrior|TftYP|dread warriors} and eight robed {@creature Zombie||zombies} guard him, and a {@creature black dragon wyrmling} is his personal pet. When the characters first arrive, the dragon has just killed a commoner.",
+												"Thuria, a Red Magicien {@creature enchanter|VGM}, lives here and oversees the Blood Pens. Two {@creature Dread Warrior|TftYP|dread warriors} and eight robed {@creature Zombie||zombies} guard him, and a {@creature black dragon wyrmling} is his personal pet. When the characters first arrive, the dragon has just killed a commoner.",
 												"Thuria spends much of his time in seclusion, and relishes the opportunity to fight intruders. If reduced to 20 hit points or fewer, he surrenders and offers two pieces of lore in exchange for his life. He is also willing to give up his treasure and share the attunements of his glyph key, turning over the actual key only under severe threat."
 											],
 											"id": "143"
@@ -18156,7 +18156,7 @@
 					"name": "Masters' Domain",
 					"page": 129,
 					"entries": [
-						"This sector is the central sanctum of the Red Wizards in charge of the Doomvault.",
+						"This sector is the central sanctum of the Red Magiciens in charge of the Doomvault.",
 						"Locations in the Masters' Domain are identified on map 5.5.",
 						{
 							"type": "image",
@@ -19482,7 +19482,7 @@
 											"name": "Body",
 											"page": 130,
 											"entries": [
-												"Sprawled in front of one alcove, in a location where the characters see it only after entering the room, is the red-robed form of a male human. Vorja, a Red Wizard sent here to face execution, fell to the gargoyles but became stabilized after being left for dead. It takes healing magic or a successful {@dc 15} Wisdom ({@skill Medicine}) check to bring him back to consciousness. He has only 1 hit point unless healing magic was used. Vorja is in no condition to fight, and his loyalty to Thay is tenuous.",
+												"Sprawled in front of one alcove, in a location where the characters see it only after entering the room, is the red-robed form of a male human. Vorja, a Red Magicien sent here to face execution, fell to the gargoyles but became stabilized after being left for dead. It takes healing magic or a successful {@dc 15} Wisdom ({@skill Medicine}) check to bring him back to consciousness. He has only 1 hit point unless healing magic was used. Vorja is in no condition to fight, and his loyalty to Thay is tenuous.",
 												"If assisted, Vorja can reveal one piece of lore along with descriptions of the Hall of Obedience and the Hall of Necromancy. He knows nothing about this zone. If he is given a glyph key and taken to the black gate, he escapes the Doomvault and joins Syranna's forces."
 											],
 											"id": "155"
@@ -19646,7 +19646,7 @@
 							"name": "Hall of Obedience",
 							"page": 130,
 							"entries": [
-								"The Red Wizards use the magic of the Hall of Obedience to create zealous followers.",
+								"The Red Magiciens use the magic of the Hall of Obedience to create zealous followers.",
 								{
 									"type": "entries",
 									"name": "29. Conditioning Court",
@@ -19675,9 +19675,9 @@
 											"page": 131,
 											"entries": [
 												"Several of the cells are quarters for Thayans who train and work here. Unless otherwise noted, each cell contains rough cots and footlockers that hold worthless personal possessions.",
-												"Any commotion in the area, or the sounding of the gong, alerts those in the cells. The Red Wizard emerges 1 round later, and the {@creature Thayan apprentice|TftYP} comes out during the following round. The residents of the other cells take {@dice 1d4 + 1} rounds to respond (roll separately for each).",
+												"Any commotion in the area, or the sounding of the gong, alerts those in the cells. The Red Magicien emerges 1 round later, and the {@creature Thayan apprentice|TftYP} comes out during the following round. The residents of the other cells take {@dice 1d4 + 1} rounds to respond (roll separately for each).",
 												"The occupants of the cells are as follows:",
-												"{@b Cell A}. A Red Wizard {@creature illusionist|VGM} dwells in this fine chamber with one {@creature Thayan apprentice|TftYP}. The wizard is half asleep. Both have glyph keys attuned to the zone, as well as keys to the C cells. In combat, the apprentice uses an action to open the occupied C cell if able to do so without significant risk.",
+												"{@b Cell A}. A Red Magicien {@creature illusionist|VGM} dwells in this fine chamber with one {@creature Thayan apprentice|TftYP}. The wizard is half asleep. Both have glyph keys attuned to the zone, as well as keys to the C cells. In combat, the apprentice uses an action to open the occupied C cell if able to do so without significant risk.",
 												"{@b Cell B}. Two {@creature Thayan Warrior|TftYP|Thayan warriors} sleep in each of four small rooms. The B cells marked with an asterisk are empty.",
 												"{@b Cell C}. The doors to these two cells are locked. Four {@creature Thayan Warrior|TftYP|Thayan warriors} are held in one of them when it's not their turn to be shackled to the silver pillars. The other C cell is empty.",
 												"{@b Cell D}. This cell contains bunks but is empty."
@@ -19731,7 +19731,7 @@
 											"name": "Creatures",
 											"page": 131,
 											"entries": [
-												"{@creature Lahnis|TftYP}, a Red Wizard {@creature evoker|VGM}, directs the brutal combat training here. Six {@creature Thayan Warrior|TftYP|Thayan warriors} engage a {@creature dread warrior|TftYP} and seven {@creature Skeleton||skeletons}. {@creature Lahnis|TftYP} orders the whole lot to attack intruders. Because they have been engaged in combat, each creature aside from {@creature Lahnis|TftYP} starts with current hit points equal to half its hit point maximum.",
+												"{@creature Lahnis|TftYP}, a Red Magicien {@creature evoker|VGM}, directs the brutal combat training here. Six {@creature Thayan Warrior|TftYP|Thayan warriors} engage a {@creature dread warrior|TftYP} and seven {@creature Skeleton||skeletons}. {@creature Lahnis|TftYP} orders the whole lot to attack intruders. Because they have been engaged in combat, each creature aside from {@creature Lahnis|TftYP} starts with current hit points equal to half its hit point maximum.",
 												"{@creature Lahnis|TftYP} initially stays back in combat, using lower-level spells and trying to assess the characters' motivations. His allegiance to Szass Tam has been flagging. He leans toward supporting the Thayan rebels, but he has not formally joined their ranks. He worries that some of his peers who are loyal to Szass Tam might suspect him.",
 												"Aware of Szass Tam's cunning, {@creature Lahnis|TftYP} first assumes the characters are testing his allegiance. Around the second round of combat, or if reduced to half his hit points or fewer, {@creature Lahnis|TftYP} directly asks the characters their purpose and admits a willingness to join the rebels. The characters can sway him with convincing talk and proof that they have overcome other parts of the dungeon. If the characters earn his trust, {@creature Lahnis|TftYP} turns against Szass Tam, having become convinced that the regent's plots will be the undoing of Thay.",
 												"He then turns on the Thayans here, whom he knows won't stand down, and helps the characters fight. Afterward, {@creature Lahnis|TftYP} provides two pieces of lore and the attunements on his glyph key, as well as his physical keys. He goes to the gatehouse through the black gate in {@adventure area 29|TftYP-DiT|1|29. Conditioning Court}."
@@ -19776,7 +19776,7 @@
 							"name": "Hall of Necromancy",
 							"page": 132,
 							"entries": [
-								"Red Wizards practice and refine their darkest magic in the Hall of Necromancy.",
+								"Red Magiciens practice and refine their darkest magic in the Hall of Necromancy.",
 								{
 									"type": "entries",
 									"name": "31. Undying Laboratory",
@@ -19805,8 +19805,8 @@
 											"name": "Creatures",
 											"page": 132,
 											"entries": [
-												"{@creature Phaia|TftYP}, a Red Wizard {@creature necromancer|VGM}, is drawing the soul from {@creature Kelson Darktreader|TftYP}, a male half-elf lying on a stone table farthest from the door the characters use to enter. Kelson is {@condition unconscious} and stable at 0 hit points. {@creature Phaia|TftYP}'s magic is drawing forth from his body a wispy shape that resembles him, and this shape screams in an echoing voice. Strands of energy flow from the shape into the table and from there into other forms in the room.",
-												"A {@creature deathlock wight|MTF} on a nearby table is a Red Wizard in the process of being raised as undead. Also nearby, two {@creature Reduced-Threat Wight|TftYP|wights} (see \"{@adventure Reduced-Threat Monsters|TftYP-DiT|1|Reduced-Threat Monsters}\" above) are being raised as warrior undead. These wights are only partially animated, so they respond only to {@creature Phaia|TftYP} when she orders an attack. One of them tries to throw an urn at a character each round (+4 to hit, range 10 feet/20 feet; one creature). A hit deals 3 ({@dice 1d6}) bludgeoning damage, and the target must make saving throws as noted in the \"Urns\" section. {@creature Phaia|TftYP} stays for a round or two to assess the party's capabilities and then moves to {@adventure area 32|TftYP-DiT|1|32. Wizards' Court} or uses the black gate in the room.",
+												"{@creature Phaia|TftYP}, a Red Magicien {@creature necromancer|VGM}, is drawing the soul from {@creature Kelson Darktreader|TftYP}, a male half-elf lying on a stone table farthest from the door the characters use to enter. Kelson is {@condition unconscious} and stable at 0 hit points. {@creature Phaia|TftYP}'s magic is drawing forth from his body a wispy shape that resembles him, and this shape screams in an echoing voice. Strands of energy flow from the shape into the table and from there into other forms in the room.",
+												"A {@creature deathlock wight|MTF} on a nearby table is a Red Magicien in the process of being raised as undead. Also nearby, two {@creature Reduced-Threat Wight|TftYP|wights} (see \"{@adventure Reduced-Threat Monsters|TftYP-DiT|1|Reduced-Threat Monsters}\" above) are being raised as warrior undead. These wights are only partially animated, so they respond only to {@creature Phaia|TftYP} when she orders an attack. One of them tries to throw an urn at a character each round (+4 to hit, range 10 feet/20 feet; one creature). A hit deals 3 ({@dice 1d6}) bludgeoning damage, and the target must make saving throws as noted in the \"Urns\" section. {@creature Phaia|TftYP} stays for a round or two to assess the party's capabilities and then moves to {@adventure area 32|TftYP-DiT|1|32. Wizards' Court} or uses the black gate in the room.",
 												"As a faithful servant of Szass Tam, {@creature Phaia|TftYP} follows the lich lord's philosophy that no magic is too dangerous and no experiment too dark if it promises power. Lawful evil, {@creature Phaia|TftYP} is as opportunistic as she is wicked.",
 												"She does anything she can to save herself from death, including using Szass Tam's secrets. She can reveal two pieces of lore and is willing to share her glyph key's attunements. Further, she can teach the characters the ritual that uses this area's magic to return soul-bound undead characters to life.",
 												"If she is allowed to do so, {@creature Phaia|TftYP} flees the Doomvault."
@@ -19828,7 +19828,7 @@
 											"page": 132,
 											"entries": [
 												"These 3-foot-high carved slabs channel the energy of life and undeath. They aid in rituals and spells to create undead.",
-												"With the proper knowledge, a creature can use the stone tables to transform a soul-bound character back into a normal creature. Doing so requires the aid of a Red Wizard or explicit written instruction, such as the scroll in {@creature Lahnis|TftYP}'s room in {@adventure area 32|TftYP-DiT|1|32. Wizards' Court}. The ritual takes 20 minutes and requires a spellcaster to make a {@dc 15} Intelligence ({@skill Arcana}) check. The spellcaster must also expend a 3rd-level spell slot. On a successful check, the soul-bound creature returns to normal with all of its Hit Dice expended. On a failed check, the spell slot is expended but the creature remains soul bound.",
+												"With the proper knowledge, a creature can use the stone tables to transform a soul-bound character back into a normal creature. Doing so requires the aid of a Red Magicien or explicit written instruction, such as the scroll in {@creature Lahnis|TftYP}'s room in {@adventure area 32|TftYP-DiT|1|32. Wizards' Court}. The ritual takes 20 minutes and requires a spellcaster to make a {@dc 15} Intelligence ({@skill Arcana}) check. The spellcaster must also expend a 3rd-level spell slot. On a successful check, the soul-bound creature returns to normal with all of its Hit Dice expended. On a failed check, the spell slot is expended but the creature remains soul bound.",
 												{
 													"type": "image",
 													"href": {
@@ -19897,7 +19897,7 @@
 										{
 											"type": "insetReadaloud",
 											"entries": [
-												"A stepped monument of gray marble shot through with red dominates an open courtyard surrounded by closed doors. Blue light shines from the top of the monument. The air around it hums with power, its vibration overwhelming other sensations. Red Wizards and other Thayans kneel on the lower two tiers, eyes fixed on the monument."
+												"A stepped monument of gray marble shot through with red dominates an open courtyard surrounded by closed doors. Blue light shines from the top of the monument. The air around it hums with power, its vibration overwhelming other sensations. Red Magiciens and other Thayans kneel on the lower two tiers, eyes fixed on the monument."
 											],
 											"id": "180"
 										},
@@ -19928,7 +19928,7 @@
 												"The cells around the perimeter of the court (rooms labeled A through D on the map) are quarters for Thayans who train and work here. Unless otherwise noted, each cell contains rough cots and footlockers holding worthless personal possessions. Cells marked with an asterisk on the map are empty.",
 												"Combat in the courtyard alerts the inhabitants of the cells. They take {@dice 1d4 + 1} rounds to respond (roll for each one):",
 												"{@b Cell A}. {@creature Lahnis|TftYP} (see {@adventure area 30|TftYP-DiT|1|30. Training Floor}) uses these quarters, which contain a fine bed, a footlocker, and a desk. Searching the area uncovers one written piece of lore, as well as a {@item tome of the stilled tongue} and six {@item Spell Scroll||spell scrolls} (two each of {@spell detect magic}, {@spell identify}, and {@spell remove curse}). {@creature Lahnis|TftYP} also has a scroll describing the ritual used to turn soul-bound undead back into non-undead creatures in {@adventure area 31|TftYP-DiT|1|31. Undying Laboratory}.",
-												"{@b Cell B}. One Red Wizard {@creature evoker|VGM} sleeps here.",
+												"{@b Cell B}. One Red Magicien {@creature evoker|VGM} sleeps here.",
 												"{@b Cell C}. One {@creature Thayan apprentice|TftYP} sleeps here.",
 												"{@b Cell D}. Each of these two rooms is a library. An hour spent examining a library's contents turns up two pieces of lore."
 											],
@@ -19948,7 +19948,7 @@
 											"name": "Glyph Key",
 											"page": 133,
 											"entries": [
-												"The Red Wizard in cell B has a glyph key attuned to this zone."
+												"The Red Magicien in cell B has a glyph key attuned to this zone."
 											],
 											"id": "185"
 										},
@@ -22239,7 +22239,7 @@
 											"page": 134,
 											"entries": [
 												"One {@creature reduced-threat aboleth|TftYP} (see \"{@adventure Reduced-Threat Monsters|TftYP-DiT|1|Reduced-Threat Monsters}\" above) dwells deep in the pool. Within this room, the aboleth can use the water globes (see \"Water Globes\" below) to move around.",
-												"The aboleth's ordeal in the Doomvault has weakened it, making it a reduced threat. In addition, its hatred of the Red Wizards makes the aboleth a potential ally. With a successful {@dc 20} Charisma ({@skill Persuasion}) check, or another successful and appropriate check, a character can convince the aboleth to stand down and negotiate. In exchange for sparing the characters, the aboleth demands to be freed and given a glyph key."
+												"The aboleth's ordeal in the Doomvault has weakened it, making it a reduced threat. In addition, its hatred of the Red Magiciens makes the aboleth a potential ally. With a successful {@dc 20} Charisma ({@skill Persuasion}) check, or another successful and appropriate check, a character can convince the aboleth to stand down and negotiate. In exchange for sparing the characters, the aboleth demands to be freed and given a glyph key."
 											],
 											"id": "19e"
 										},
@@ -22257,7 +22257,7 @@
 											"name": "Water Globes",
 											"page": 134,
 											"entries": [
-												"Floating 5 feet above the floor, these magic water globes are 15 feet in diameter. Red Wizards use them to hold aquatic creatures for transport through the black gates.",
+												"Floating 5 feet above the floor, these magic water globes are 15 feet in diameter. Red Magiciens use them to hold aquatic creatures for transport through the black gates.",
 												"As an action, a creature that is within 5 feet of a globe and has an Intelligence score of 10 or higher can take control of the globe by succeeding on a {@dc 10} Intelligence check. As part of its movement and with a successful {@dc 10} Intelligence check, the controller can direct the globe to move with it, remaining within 5 feet of the controller. A globe's controller can enter and leave the globe at will. The controller can maintain control of the globe while within 100 feet of it. Another creature that qualifies as a controller can gain control of a globe by winning a contest of Intelligence checks against the current controller.",
 												"A creature that touches a globe but isn't its controller must succeed on a {@dc 15} Strength saving throw or be drawn into the globe and unable to pass back through its boundary. As an action, a trapped creature can free itself with a successful {@dc 15} Intelligence check. Also as an action, a globe's controller can release a trapped creature with a successful {@dc 10} Intelligence check. A creature inside a globe has {@quickref Cover||3||half cover} against effects that originate outside the globe. While inside a globe, a trapped creature can't contest for control of the globe."
 											],
@@ -22437,8 +22437,8 @@
 											"page": 135,
 											"entries": [
 												"{@creature Reduced-Threat Beholder|TftYP|Thaxalia}, a reduced-threat {@creature beholder} (see \"{@adventure Reduced-Threat Monsters|TftYP-DiT|1|Reduced-Threat Monsters}\" above) crippled by Thayan magic, floats near the ceiling, trying to remain unnoticed while intruders enter. Thaxalia's central eye and two of its eyestalks have been maimed by the Red Wizards, rendering those eye rays (death ray and disintegration) powerless. If it has warning or is reduced to 50 hit points or fewer, it withdraws to {@adventure area 40|TftYP-DiT|1|40. Slime Slaves}, leaving its spawn to deal with the threat.",
-												"After only 2 rounds, Thaxalia's hatred for the Red Wizards inspires the beholder to question the characters' purpose in the dungeon. If they reveal their goals, the beholder suggests an alliance, extolling its plans for revenge.",
-												"Fearing Thaxalia's ability to wreak havoc if it escapes this zone, the Red Wizards cursed the beholder with the inability to use glyph keys. Thaxalia doesn't know the solution, but a {@spell remove curse} spell can eliminate the prohibition. The beholder then takes a glyph key from the wight in {@adventure area 40|TftYP-DiT|1|40. Slime Slaves} and asks the characters to provide it with more attunements. If refused, it becomes hostile and uses its powers to compel the characters to give it more attunements."
+												"After only 2 rounds, Thaxalia's hatred for the Red Magiciens inspires the beholder to question the characters' purpose in the dungeon. If they reveal their goals, the beholder suggests an alliance, extolling its plans for revenge.",
+												"Fearing Thaxalia's ability to wreak havoc if it escapes this zone, the Red Magiciens cursed the beholder with the inability to use glyph keys. Thaxalia doesn't know the solution, but a {@spell remove curse} spell can eliminate the prohibition. The beholder then takes a glyph key from the wight in {@adventure area 40|TftYP-DiT|1|40. Slime Slaves} and asks the characters to provide it with more attunements. If refused, it becomes hostile and uses its powers to compel the characters to give it more attunements."
 											],
 											"id": "1b5"
 										},
@@ -27374,7 +27374,7 @@
 											"page": 139,
 											"entries": [
 												"Two {@creature Barghest|VGM|barghests} lurk in the tall grass. A character who succeeds on a {@dc 20} Wisdom ({@skill Perception}) check spots one or more of them. These creatures hesitate to attack only if the characters seem to be Thayans.",
-												"The barghests want to take revenge on the Red Wizards and then escape the Doomvault. If the characters offer to free them and succeed on a {@dc 20} Charisma check (any appropriate Charisma skill can apply), the fiends stand down. They want any glyph keys the characters have. If they are defied, the barghests are likely to renew their attacks."
+												"The barghests want to take revenge on the Red Magiciens and then escape the Doomvault. If the characters offer to free them and succeed on a {@dc 20} Charisma check (any appropriate Charisma skill can apply), the fiends stand down. They want any glyph keys the characters have. If they are defied, the barghests are likely to renew their attacks."
 											],
 											"id": "201"
 										},
@@ -27746,7 +27746,7 @@
 					"name": "Ooze Grottos",
 					"page": 141,
 					"entries": [
-						"The Red Wizards use the magic of this sector to breed and control oozes.",
+						"The Red Magiciens use the magic of this sector to breed and control oozes.",
 						"Locations in the Ooze Grottos are identified on map 5.8.",
 						{
 							"type": "image",
@@ -30655,7 +30655,7 @@
 											"page": 141,
 											"entries": [
 												"Most living Thayans assigned to this sector hate being here. Thayans who surrender here hate the sector so much that they are more inclined to give truthful information about it.",
-												"{@b Sentient Oozes}. One of the many experiments in the Doomvault is an effort to infuse oozes with intelligence. The Red Wizards have met with some success, though the process requires the sacrifice of many subjects. The sentient oozes that result from this process are the same as normal versions of such monsters, except that they have Intelligence 5, can understand basic communication in Common, and are no longer immune to being {@condition charmed}."
+												"{@b Sentient Oozes}. One of the many experiments in the Doomvault is an effort to infuse oozes with intelligence. The Red Magiciens have met with some success, though the process requires the sacrifice of many subjects. The sentient oozes that result from this process are the same as normal versions of such monsters, except that they have Intelligence 5, can understand basic communication in Common, and are no longer immune to being {@condition charmed}."
 											],
 											"id": "230"
 										}
@@ -30783,7 +30783,7 @@
 											"page": 142,
 											"entries": [
 												"Two {@creature Deathlock Wight|MTF|deathlock wights} and four {@creature Skeleton||skeletons} move among the vats, using {@i ooze prods} to poke the mixtures. They challenge any intruders. If the undead become distracted, oozes might attack (see \"Vat System\" below).",
-												"Sarkalla, a Red Wizard {@creature transmuter|VGM}, is working behind the black curtain, but she peeks out in response to the wights' challenge. She whispers to order the lead wight to attack. A character who succeeds on a {@dc 20} Wisdom ({@skill Perception}) check notices Sarkalla while she does so.",
+												"Sarkalla, a Red Magicien {@creature transmuter|VGM}, is working behind the black curtain, but she peeks out in response to the wights' challenge. She whispers to order the lead wight to attack. A character who succeeds on a {@dc 20} Wisdom ({@skill Perception}) check notices Sarkalla while she does so.",
 												"Quite mad, Sarkalla cares only for her experiments and her \"precious children\"\u2014the oozes that she is working to imbue with intelligence in order to create \"the perfect assassins.\" If she and her wights have the upper hand in combat, or if all the wights are destroyed, she calls for a break in hostilities. She proudly talks of the sentient oozes that will wreak havoc for Thay. She promises the characters positions as assistants and bodyguards to the {@creature Ooze Master|TftYP} (see {@adventure area 65|TftYP-DiT|1|65. Red Master}). If the characters accept, they are allowed to leave and go to {@adventure area 64|TftYP-DiT|1|64. White Maw}. Sarkalla otherwise attacks again and fights until killed."
 											],
 											"id": "23f"
@@ -30944,8 +30944,8 @@
 											"name": "Creature",
 											"page": 143,
 											"entries": [
-												"A Red Wizard known only as the {@creature Ooze Master|TftYP} has melded with the pillar of red ooze. He uses his powers to make sure the red pillar consumes those who come here.",
-												"The Ooze Master is the result of a failed experiment to blend a Red Wizard with ooze. When the characters arrive, the Ooze Master assumes they are {@creature Thayan Apprentice|TftYP|Thayan apprentices} come to join him \"in immortality.\" He greets them and honors their \"great sacrifice.\" The Ooze Master knows if {@creature White Maw|TftYP} has been killed (though not who did it), and vows to use the characters' power, once it is consumed, to seek out and punish those responsible. He also speaks of \"the great transformation,\" when all Red Wizards will be joined with oozes."
+												"A Red Magicien known only as the {@creature Ooze Master|TftYP} has melded with the pillar of red ooze. He uses his powers to make sure the red pillar consumes those who come here.",
+												"The Ooze Master is the result of a failed experiment to blend a Red Magicien with ooze. When the characters arrive, the Ooze Master assumes they are {@creature Thayan Apprentice|TftYP|Thayan apprentices} come to join him \"in immortality.\" He greets them and honors their \"great sacrifice.\" The Ooze Master knows if {@creature White Maw|TftYP} has been killed (though not who did it), and vows to use the characters' power, once it is consumed, to seek out and punish those responsible. He also speaks of \"the great transformation,\" when all Red Magiciens will be joined with oozes."
 											],
 											"id": "24e"
 										},
@@ -31038,7 +31038,7 @@
 							"name": "Spawning Pools",
 							"page": 144,
 							"entries": [
-								"In these connected chambers, Red Wizards breed oozes for their experiments.",
+								"In these connected chambers, Red Magiciens breed oozes for their experiments.",
 								{
 									"type": "entries",
 									"entries": [
@@ -31056,7 +31056,7 @@
 											"name": "Glyph Keys",
 											"page": 144,
 											"entries": [
-												"Every one of the Red Wizards in this zone has a glyph key attuned to this zone."
+												"Every one of the Red Magiciens in this zone has a glyph key attuned to this zone."
 											],
 											"id": "25b"
 										}
@@ -31090,7 +31090,7 @@
 											"name": "Creatures",
 											"page": 144,
 											"entries": [
-												"One Red Wizard {@creature transmuter|VGM} and three {@creature Thayan Apprentice|TftYP|Thayan apprentices} sleep here. When roused, they tip the cots over and cast their spells from behind cover. They try to force or draw the characters close to the walls and the magic mirrors, hoping to summon the deadly defenders of this area."
+												"One Red Magicien {@creature transmuter|VGM} and three {@creature Thayan Apprentice|TftYP|Thayan apprentices} sleep here. When roused, they tip the cots over and cast their spells from behind cover. They try to force or draw the characters close to the walls and the magic mirrors, hoping to summon the deadly defenders of this area."
 											],
 											"id": "25f"
 										},
@@ -31133,7 +31133,7 @@
 											"name": "Creatures",
 											"page": 144,
 											"entries": [
-												"One Red Wizard {@creature transmuter|VGM} oversees two {@creature Thayan Apprentice|TftYP|Thayan apprentices} and six {@creature Skeleton||skeletons} here. Four skeletons drag pig carcasses toward the arch and heave them through, while blades scythe across the opening and reduce each body to a heap of blood, flesh, and bone that collects on the far side. Two skeletons then pick up shovels and collect the gore in buckets, making the flesh easier to transport.",
+												"One Red Magicien {@creature transmuter|VGM} oversees two {@creature Thayan Apprentice|TftYP|Thayan apprentices} and six {@creature Skeleton||skeletons} here. Four skeletons drag pig carcasses toward the arch and heave them through, while blades scythe across the opening and reduce each body to a heap of blood, flesh, and bone that collects on the far side. Two skeletons then pick up shovels and collect the gore in buckets, making the flesh easier to transport.",
 												"If the characters watch long enough, the apprentices eventually carry full buckets toward the southern entrance and retrieve empty buckets stacked there."
 											],
 											"id": "264"
@@ -31143,7 +31143,7 @@
 											"name": "Arch of Blades",
 											"page": 144,
 											"entries": [
-												"The 3-foot-thick, 15-foot-diameter arch is a former trap imbued with enchantment magic. The Red Wizards suppressed the magic, but they couldn't do away with it completely. Any non-undead creature that starts its turn within 5 feet of the arch must succeed on a {@dc 15} Wisdom saving throw or be compelled to run through the opening (a creature ignores this effect if immune to being {@condition charmed}).",
+												"The 3-foot-thick, 15-foot-diameter arch is a former trap imbued with enchantment magic. The Red Magiciens suppressed the magic, but they couldn't do away with it completely. Any non-undead creature that starts its turn within 5 feet of the arch must succeed on a {@dc 15} Wisdom saving throw or be compelled to run through the opening (a creature ignores this effect if immune to being {@condition charmed}).",
 												"The magic blades in the arch come to life when any creature comes within 5 feet of the opening. A creature that moves through the arch must make a {@dc 15} Dexterity saving throw, taking 33 ({@dice 6d10}) slashing damage on a failed save, or half as much damage on a successful one. A creature compelled to run through the arch must make another {@dc 15} Wisdom saving throw after doing so. On a failed save, the creature stops moving while still within 5 feet of the arch. The creature can willingly move farther away only after the start of its next turn.",
 												"A creature that succeeds on two Wisdom saving throws against the arch's effect becomes immune to the effect for 24 hours."
 											],
@@ -31178,7 +31178,7 @@
 											"name": "Creatures",
 											"page": 144,
 											"entries": [
-												"One Red Wizard {@creature transmuter|VGM} oversees two {@creature Thayan Apprentice|TftYP|Thayan apprentices} in this cavern. They walk a circuit around the pools, carefully jabbing down into them with the {@i ooze prods} they carry."
+												"One Red Magicien {@creature transmuter|VGM} oversees two {@creature Thayan Apprentice|TftYP|Thayan apprentices} in this cavern. They walk a circuit around the pools, carefully jabbing down into them with the {@i ooze prods} they carry."
 											],
 											"id": "269"
 										},
@@ -31231,7 +31231,7 @@
 											"name": "Creatures",
 											"page": 145,
 											"entries": [
-												"One Red Wizard {@creature transmuter|VGM} and two {@creature Thayan Apprentice|TftYP|Thayan apprentices} are focused on the black pool with their {@i ooze prods}. When the Thayans turn away to deal with the characters, a Medium {@creature reduced-threat black pudding|TftYP} (see \"{@adventure Reduced-Threat Monsters|TftYP-DiT|1|Reduced-Threat Monsters}\" above) emerges from the ooze pool at the start of the second round. Another such pudding emerges at the start of the fourth round, and another at the start of the sixth round. The Thayans try to keep the characters between themselves and the pool, since the oozes see all other creatures as prey."
+												"One Red Magicien {@creature transmuter|VGM} and two {@creature Thayan Apprentice|TftYP|Thayan apprentices} are focused on the black pool with their {@i ooze prods}. When the Thayans turn away to deal with the characters, a Medium {@creature reduced-threat black pudding|TftYP} (see \"{@adventure Reduced-Threat Monsters|TftYP-DiT|1|Reduced-Threat Monsters}\" above) emerges from the ooze pool at the start of the second round. Another such pudding emerges at the start of the fourth round, and another at the start of the sixth round. The Thayans try to keep the characters between themselves and the pool, since the oozes see all other creatures as prey."
 											],
 											"id": "26f"
 										},
@@ -31343,7 +31343,7 @@
 											"name": "Creatures",
 											"page": 145,
 											"entries": [
-												"One Red Wizard {@creature transmuter|VGM} and two {@creature Dread Warrior|TftYP|dread warriors} watch from near the eastern wall as four {@creature Thayan Warrior|TftYP|Thayan warriors} battle a {@creature gelatinous cube}. Two of the four warriors have been engulfed, and all are at half hit points (as is the ooze). If the wizard notices the characters aren't Thayan, he orders the others to attack them instead. The cube views everyone in the area as a foe."
+												"One Red Magicien {@creature transmuter|VGM} and two {@creature Dread Warrior|TftYP|dread warriors} watch from near the eastern wall as four {@creature Thayan Warrior|TftYP|Thayan warriors} battle a {@creature gelatinous cube}. Two of the four warriors have been engulfed, and all are at half hit points (as is the ooze). If the wizard notices the characters aren't Thayan, he orders the others to attack them instead. The cube views everyone in the area as a foe."
 											],
 											"id": "27c"
 										}
@@ -31367,7 +31367,7 @@
 											"name": "Creatures",
 											"page": 145,
 											"entries": [
-												"One Red Wizard {@creature transmuter|VGM} and two {@creature Thayan Apprentice|TftYP|Thayan apprentices} use {@i ooze prods} to keep three Medium {@creature Reduced-Threat Ochre Jelly|TftYP|ochre jellies} (see \"{@adventure Reduced-Threat Monsters|TftYP-DiT|1|Reduced-Threat Monsters}\" above) in the pit and fighting. When the Thayans start combat with the characters, each of the three oozes emerges from the pit {@dice 1d4} rounds later (roll for each). The oozes see all other creatures as prey."
+												"One Red Magicien {@creature transmuter|VGM} and two {@creature Thayan Apprentice|TftYP|Thayan apprentices} use {@i ooze prods} to keep three Medium {@creature Reduced-Threat Ochre Jelly|TftYP|ochre jellies} (see \"{@adventure Reduced-Threat Monsters|TftYP-DiT|1|Reduced-Threat Monsters}\" above) in the pit and fighting. When the Thayans start combat with the characters, each of the three oozes emerges from the pit {@dice 1d4} rounds later (roll for each). The oozes see all other creatures as prey."
 											],
 											"id": "27f"
 										},
@@ -33076,7 +33076,7 @@
 											"name": "Water Globes",
 											"page": 145,
 											"entries": [
-												"Floating 5 feet above the floor, these magic water globes are 15 feet in diameter. Red Wizards use them to hold aquatic creatures for transport through the black gates.",
+												"Floating 5 feet above the floor, these magic water globes are 15 feet in diameter. Red Magiciens use them to hold aquatic creatures for transport through the black gates.",
 												"As an action, a creature that is within 5 feet of a globe and has an Intelligence score of 10 or higher can take control of the globe by succeeding on a {@dc 10} Intelligence check. As part of its movement and with a successful {@dc 10} Intelligence check, the controller can direct the globe to move with it, remaining within 5 feet of the controller. A globe's controller can enter and leave the globe at will. The controller can maintain control of the globe while within 100 feet of it. Another creature that qualifies as a controller can gain control of a globe by winning a contest of Intelligence checks against the current controller.",
 												"A creature that touches a globe but isn't its controller must succeed on a {@dc 15} Strength saving throw or be drawn into the globe and unable to pass back through its boundary. As an action, a trapped creature can free itself with a successful {@dc 15} Intelligence check. Also as an action, a globe's controller can release a trapped creature with a successful {@dc 10} Intelligence check. A creature inside a globe has {@quickref Cover||3||half cover} against effects that originate outside the globe. While inside a globe, a trapped creature can't contest for control of the globe."
 											],
@@ -33431,7 +33431,7 @@
 							"name": "Spawn Pools",
 							"page": 148,
 							"entries": [
-								"The Red Wizards refocused the magic of these once-deadly pools to spawn aquatic creatures under the supervision of a sea hag.",
+								"The Red Magiciens refocused the magic of these once-deadly pools to spawn aquatic creatures under the supervision of a sea hag.",
 								{
 									"type": "entries",
 									"entries": [
@@ -33655,7 +33655,7 @@
 							"name": "Blood Pools",
 							"page": 149,
 							"entries": [
-								"The Red Wizards have the allegiance of sahuagin that are exiled from Aleaxtis in the Sea of Fallen Stars.",
+								"The Red Magiciens have the allegiance of sahuagin that are exiled from Aleaxtis in the Sea of Fallen Stars.",
 								{
 									"type": "entries",
 									"entries": [
@@ -33842,7 +33842,7 @@
 											"page": 149,
 											"entries": [
 												"A {@creature dread warrior|TftYP} keeps watch with seven {@creature Skeleton||skeletons}. They do little but confront creatures moving toward or appearing from either magic gate. The characters can enter and leave this area from the east without fighting, even with the prisoners in tow.",
-												"Part of the deal the Red Wizards struck with the sahuagin involves providing prisoners for dark rites and horrid meals. The magic of the black shrine keeps ten {@creature Commoner||commoners} standing around it in a catatonic state."
+												"Part of the deal the Red Magiciens struck with the sahuagin involves providing prisoners for dark rites and horrid meals. The magic of the black shrine keeps ten {@creature Commoner||commoners} standing around it in a catatonic state."
 											],
 											"id": "2df"
 										},
@@ -33887,7 +33887,7 @@
 					"name": "Golem Laboratories",
 					"page": 150,
 					"entries": [
-						"In these formerly cursed temples and workshops, the Red Wizards create golems.",
+						"In these formerly cursed temples and workshops, the Red Magiciens create golems.",
 						"Locations in the Golem Laboratories are identified on map 5.10.",
 						{
 							"type": "image",
@@ -34613,7 +34613,7 @@
 							"name": "Flesh Golem Mortuaries",
 							"page": 150,
 							"entries": [
-								"Red Wizards bind and reanimate dead flesh and bone in these halls.",
+								"Red Magiciens bind and reanimate dead flesh and bone in these halls.",
 								{
 									"type": "entries",
 									"name": "86. Hall of Teleportation",
@@ -34674,7 +34674,7 @@
 											"name": "Creatures",
 											"page": 150,
 											"entries": [
-												"A Red Wizard {@creature necromancer|VGM} and two {@creature Thayan Apprentice|TftYP|Thayan apprentices} are in this area, moving among the tables working or selecting parts. Four {@creature Skeleton||skeletons} keep watch from the corners, while a {@creature ghoul} mops gore from the floors. Golems in this area can't be activated and are no threat."
+												"A Red Magicien {@creature necromancer|VGM} and two {@creature Thayan Apprentice|TftYP|Thayan apprentices} are in this area, moving among the tables working or selecting parts. Four {@creature Skeleton||skeletons} keep watch from the corners, while a {@creature ghoul} mops gore from the floors. Golems in this area can't be activated and are no threat."
 											],
 											"id": "2f2"
 										},
@@ -34692,7 +34692,7 @@
 											"name": "Glyph Key",
 											"page": 150,
 											"entries": [
-												"The Red Wizard has a glyph key attuned to this zone."
+												"The Red Magicien has a glyph key attuned to this zone."
 											],
 											"id": "2f4"
 										},
@@ -34776,7 +34776,7 @@
 							"name": "Clay Golem Kilns",
 							"page": 151,
 							"entries": [
-								"Red Wizards have twisted this zone's magic toward the creation of clay golems.",
+								"Red Magiciens have twisted this zone's magic toward the creation of clay golems.",
 								{
 									"type": "entries",
 									"name": "89. Transmutation Pits",
@@ -34795,7 +34795,7 @@
 											"name": "Creatures",
 											"page": 151,
 											"entries": [
-												"A Red Wizard {@creature transmuter|VGM} works here with a dwarf cleric of Grumbar, a deity associated with caverns and earth. The dwarf assists in the creation of clay golems, which require divine spellcasting. The dwarf {@creature priest}, whose name is {@creature Gorvan Ironheart|TftYP}, was recruited by the Red Wizards and offered a substantial sum of money for assistance in crafting the golems. If he is questioned, he lies, claiming to be a prisoner of the Red Wizards. If the characters spare him, he accompanies the party until he sees an opportunity to escape.",
+												"A Red Magicien {@creature transmuter|VGM} works here with a dwarf cleric of Grumbar, a deity associated with caverns and earth. The dwarf assists in the creation of clay golems, which require divine spellcasting. The dwarf {@creature priest}, whose name is {@creature Gorvan Ironheart|TftYP}, was recruited by the Red Magiciens and offered a substantial sum of money for assistance in crafting the golems. If he is questioned, he lies, claiming to be a prisoner of the Red Wizards. If the characters spare him, he accompanies the party until he sees an opportunity to escape.",
 												"Also present is a {@creature reduced-threat clay golem|TftYP} (see \"{@adventure Reduced-Threat Monsters|TftYP-DiT|1|Reduced-Threat Monsters}\" above). The wizard or the cleric can activate the golem by using an action and succeeding on a {@dc 15} Intelligence check."
 											],
 											"id": "300"
@@ -34833,7 +34833,7 @@
 											"name": "Glyph Key",
 											"page": 151,
 											"entries": [
-												"The Red Wizard has a glyph key attuned to this zone."
+												"The Red Magicien has a glyph key attuned to this zone."
 											],
 											"id": "304"
 										},
@@ -35018,7 +35018,7 @@
 							"name": "Stone Golem Quarries",
 							"page": 152,
 							"entries": [
-								"The Red Wizards have manipulated this zone's magic to enable the creation of stone golems.",
+								"The Red Magiciens have manipulated this zone's magic to enable the creation of stone golems.",
 								{
 									"type": "entries",
 									"name": "92. Timeless Prison",
@@ -35047,7 +35047,7 @@
 											"page": 152,
 											"entries": [
 												"When any non-undead creature enters this area (which the Thayans avoid), a {@creature four-armed gargoyle|TftYP} (as a normal {@creature gargoyle} with 63 hit points and one extra claw attack, for a total of three attacks, with Multiattack) emerges from a random pillar and attacks. At the start of each round thereafter, another random pillar transforms until all six gargoyles have emerged.",
-												"Because the Red Wizards are drawing off the magic in this area to create stone golems, the ceiling is close to giving way. Whenever a gargoyle emerges from a pillar, crumbling stone falls from the ceiling above that pillar, making the area around the pillar {@quickref difficult terrain||3}. Any creature next to the pillar must succeed on a {@dc 12} Dexterity saving throw or take 10 ({@dice 3d6}) bludgeoning damage.",
+												"Because the Red Magiciens are drawing off the magic in this area to create stone golems, the ceiling is close to giving way. Whenever a gargoyle emerges from a pillar, crumbling stone falls from the ceiling above that pillar, making the area around the pillar {@quickref difficult terrain||3}. Any creature next to the pillar must succeed on a {@dc 12} Dexterity saving throw or take 10 ({@dice 3d6}) bludgeoning damage.",
 												{
 													"type": "image",
 													"href": {
@@ -35166,7 +35166,7 @@
 											"name": "Creatures",
 											"page": 154,
 											"entries": [
-												"A Red Wizard {@creature transmuter|VGM} and two {@creature Thayan Apprentice|TftYP|Thayan apprentices} are distracted by their work here shaping a {@creature reduced-threat stone golem|TftYP} (see \"{@adventure Reduced-Threat Monsters|TftYP-DiT|1|Reduced-Threat Monsters}\" above), but they do notice if anyone is hurled into the room. These apprentices are armed with light hammers instead of daggers. The wizard can activate the golem by succeeding on a {@dc 15} Intelligence ({@skill Arcana}) check made as an action."
+												"A Red Magicien {@creature transmuter|VGM} and two {@creature Thayan Apprentice|TftYP|Thayan apprentices} are distracted by their work here shaping a {@creature reduced-threat stone golem|TftYP} (see \"{@adventure Reduced-Threat Monsters|TftYP-DiT|1|Reduced-Threat Monsters}\" above), but they do notice if anyone is hurled into the room. These apprentices are armed with light hammers instead of daggers. The wizard can activate the golem by succeeding on a {@dc 15} Intelligence ({@skill Arcana}) check made as an action."
 											],
 											"id": "323"
 										},
@@ -35202,7 +35202,7 @@
 											"name": "Glyph Key",
 											"page": 154,
 											"entries": [
-												"The Red Wizard has a glyph key attuned to this zone."
+												"The Red Magicien has a glyph key attuned to this zone."
 											],
 											"id": "327"
 										},
@@ -35367,7 +35367,7 @@
 											"name": "Creatures",
 											"page": 155,
 											"entries": [
-												"A Red Wizard {@creature conjurer|VGM} and two {@creature Thayan Apprentice|TftYP|Thayan apprentices} work on an inactive iron golem in this area.",
+												"A Red Magicien {@creature conjurer|VGM} and two {@creature Thayan Apprentice|TftYP|Thayan apprentices} work on an inactive iron golem in this area.",
 												"A {@condition charmed} {@creature efreeti} (see {@adventure area 95|TftYP-DiT|1|95. Efreet Prison}) is at work boiling metal in the crucible. The efreeti fights for its Thayan friends. If freed of the {@condition charmed} condition, it snatches up a falchion intended for the golem and attacks the Thayans. If the efreeti is alive when the other foes in the area are slain, it rampages like its kin in {@adventure area 95|TftYP-DiT|1|95. Efreet Prison}."
 											],
 											"id": "33a"
@@ -35405,7 +35405,7 @@
 											"name": "Glyph Key",
 											"page": 155,
 											"entries": [
-												"The Red Wizard has a glyph key attuned to this zone."
+												"The Red Magicien has a glyph key attuned to this zone."
 											],
 											"id": "33e"
 										},
@@ -36280,8 +36280,8 @@
 											"name": "Creatures",
 											"page": 155,
 											"entries": [
-												"The Thayans here are the most loyal and fanatical servants of Szass Tam. They all know that no one is authorized to be in this sector, so the characters have a hard time fooling them. Except for the cowardly Red Wizard Shalok ({@adventure area 103|TftYP-DiT|1|103. Temple of Fortune}), the Thayans in this sector are unlikely to surrender and are unwilling to help intruders even at the cost of their lives.",
-												"The Red Wizards in this sector might feign surrender to put the characters off their guard. For example, they might fall to their knees and hold up their hands. Then, when the characters close in, the wizards cast area spells that include themselves and the party.",
+												"The Thayans here are the most loyal and fanatical servants of Szass Tam. They all know that no one is authorized to be in this sector, so the characters have a hard time fooling them. Except for the cowardly Red Magicien Shalok ({@adventure area 103|TftYP-DiT|1|103. Temple of Fortune}), the Thayans in this sector are unlikely to surrender and are unwilling to help intruders even at the cost of their lives.",
+												"The Red Magiciens in this sector might feign surrender to put the characters off their guard. For example, they might fall to their knees and hold up their hands. Then, when the characters close in, the wizards cast area spells that include themselves and the party.",
 												"If a shrine of binding (see below) exudes a magical effect to which creatures in the room can become inured, the creatures that guard the shrine are already immune to the effect."
 											],
 											"id": "343"
@@ -36309,7 +36309,7 @@
 											"name": "Black Gates",
 											"page": 155,
 											"entries": [
-												"Only four external glyph keys (one for each zone, in areas 10, 25, 31, and 63) allow access to the gates in this sector. Some Red Wizards here carry glyph keys to their zones and guard them zealously."
+												"Only four external glyph keys (one for each zone, in areas 10, 25, 31, and 63) allow access to the gates in this sector. Some Red Magiciens here carry glyph keys to their zones and guard them zealously."
 											],
 											"id": "348"
 										},
@@ -36418,7 +36418,7 @@
 											"name": "Creatures",
 											"page": 156,
 											"entries": [
-												"A Red Wizard {@creature necromancer|VGM} works here, guarded by a {@creature helmed horror}. They are immune to the Dark Mist, and the Red Wizard has the Venomous Touch trait (see below)."
+												"A Red Magicien {@creature necromancer|VGM} works here, guarded by a {@creature helmed horror}. They are immune to the Dark Mist, and the Red Magicien has the Venomous Touch trait (see below)."
 											],
 											"id": "354"
 										},
@@ -36446,7 +36446,7 @@
 											"name": "Glyph Key",
 											"page": 157,
 											"entries": [
-												"The Red Wizard has a glyph key attuned to this zone."
+												"The Red Magicien has a glyph key attuned to this zone."
 											],
 											"id": "357"
 										}
@@ -36479,8 +36479,8 @@
 											"name": "Creatures",
 											"page": 157,
 											"entries": [
-												"A Red Wizard {@creature enchanter|VGM} and a {@creature Thayan apprentice|TftYP} work here, guarded by two {@creature Dread Warrior|TftYP|dread warriors}.",
-												"The Red Wizard here is {@creature Mennek Ariz|TftYP}, the rebel wizard who helped assault the Bloodgate. He was captured during the assault and brainwashed. A character who succeeds on a {@dc 15} Wisdom ({@skill Insight}) check can discern that he isn't acting of his own volition. Only magic, such as {@spell dispel magic} or {@spell charm person}, can break the effect. If he is freed of the brainwashing, Mennek can reveal two pieces of lore."
+												"A Red Magicien {@creature enchanter|VGM} and a {@creature Thayan apprentice|TftYP} work here, guarded by two {@creature Dread Warrior|TftYP|dread warriors}.",
+												"The Red Magicien here is {@creature Mennek Ariz|TftYP}, the rebel wizard who helped assault the Bloodgate. He was captured during the assault and brainwashed. A character who succeeds on a {@dc 15} Wisdom ({@skill Insight}) check can discern that he isn't acting of his own volition. Only magic, such as {@spell dispel magic} or {@spell charm person}, can break the effect. If he is freed of the brainwashing, Mennek can reveal two pieces of lore."
 											],
 											"id": "35a"
 										},
@@ -36600,7 +36600,7 @@
 											"name": "Creatures",
 											"page": 158,
 											"entries": [
-												"A Red Wizard {@creature transmuter|VGM} works here, with a {@creature wight} leading two {@creature Sentient Gray Ooze|TftYP|sentient gray oozes} and two {@creature Sentient Ochre Jelly|TftYP|sentient ochre jellies} to guard her. Sentient oozes are the same as normal versions of such monsters, except that they have Intelligence 5, can understand basic communication in Common, and are no longer immune to being {@condition charmed}. Myrra, the Red Wizard, is especially cruel and likely to toy with the characters even when she is losing."
+												"A Red Magicien {@creature transmuter|VGM} works here, with a {@creature wight} leading two {@creature Sentient Gray Ooze|TftYP|sentient gray oozes} and two {@creature Sentient Ochre Jelly|TftYP|sentient ochre jellies} to guard her. Sentient oozes are the same as normal versions of such monsters, except that they have Intelligence 5, can understand basic communication in Common, and are no longer immune to being {@condition charmed}. Myrra, the Red Wizard, is especially cruel and likely to toy with the characters even when she is losing."
 											],
 											"id": "368"
 										},
@@ -36628,7 +36628,7 @@
 											"name": "Keys",
 											"page": 158,
 											"entries": [
-												"The Red Wizard has a glyph key attuned to this zone, as well as a skeleton key that unlocks all the doors in this zone."
+												"The Red Magicien has a glyph key attuned to this zone, as well as a skeleton key that unlocks all the doors in this zone."
 											],
 											"id": "36b"
 										},
@@ -36730,7 +36730,7 @@
 											"name": "Creatures",
 											"page": 158,
 											"entries": [
-												"A Red Wizard {@creature necromancer|VGM} works here, guarded by a {@creature flesh golem}. Shalok, the Red Wizard, is a coward. If the fight goes badly for him, he surrenders. He offers his skeleton key and one piece of lore if he's allowed to flee to the gatehouse."
+												"A Red Magicien {@creature necromancer|VGM} works here, guarded by a {@creature flesh golem}. Shalok, the Red Wizard, is a coward. If the fight goes badly for him, he surrenders. He offers his skeleton key and one piece of lore if he's allowed to flee to the gatehouse."
 											],
 											"id": "377"
 										},
@@ -36760,7 +36760,7 @@
 											"page": 158,
 											"entries": [
 												"The Chosen of Tymora is a chaotic good male halfling named {@creature Curran Corvalin|TftYP}. Tymora is the goddess of good fortune, skill, and victory. She is the patron of all who take risks. Although considered to be a good deity who favors those who take bold action, she is also seen as somewhat capricious.",
-												"Curran was captured by the Red Wizards a few weeks ago. He never considered himself to be a Chosen of Tymora, since he never had any special powers. He always just assumed he had unnaturally good luck.",
+												"Curran was captured by the Red Magiciens a few weeks ago. He never considered himself to be a Chosen of Tymora, since he never had any special powers. He always just assumed he had unnaturally good luck.",
 												"Curran is eager to return home, but he is too weak to help the party. If taken to the gatehouse, he awaits the party's triumph there."
 											],
 											"id": "379"
@@ -36794,7 +36794,7 @@
 											"name": "Creatures",
 											"page": 159,
 											"entries": [
-												"A Red Wizard {@creature evoker|VGM} has command over two {@creature Dread Warrior|TftYP|dread warriors} here. A {@creature shadow} lurks at each pillar on the shrine of binding, for a total of four."
+												"A Red Magicien {@creature evoker|VGM} has command over two {@creature Dread Warrior|TftYP|dread warriors} here. A {@creature shadow} lurks at each pillar on the shrine of binding, for a total of four."
 											],
 											"id": "37d"
 										},
@@ -36864,7 +36864,7 @@
 											"name": "Creatures",
 											"page": 159,
 											"entries": [
-												"A Red Wizard {@creature necromancer|VGM} and a {@creature deathlock wight|MTF} work here, guarded by a {@creature dread warrior|TftYP} and four {@creature Zombie||zombies}. Thutai, the Red Wizard, is the overseer of this sector. He cares little for his underlings, including them in area effects if it means harming more characters. If the fight goes badly, he uses the black gate to flee."
+												"A Red Magicien {@creature necromancer|VGM} and a {@creature deathlock wight|MTF} work here, guarded by a {@creature dread warrior|TftYP} and four {@creature Zombie||zombies}. Thutai, the Red Wizard, is the overseer of this sector. He cares little for his underlings, including them in area effects if it means harming more characters. If the fight goes badly, he uses the black gate to flee."
 											],
 											"id": "385"
 										},
@@ -36986,7 +36986,7 @@
 											"name": "Creatures",
 											"page": 160,
 											"entries": [
-												"A Red Wizard {@creature evoker|VGM} and a {@creature Thayan apprentice|TftYP} work here, with three trained {@creature Yeti||yetis} as bodyguards. Aduna, the Red Wizard, and her apprentice prefer to stand near the braziers."
+												"A Red Magicien {@creature evoker|VGM} and a {@creature Thayan apprentice|TftYP} work here, with three trained {@creature Yeti||yetis} as bodyguards. Aduna, the Red Wizard, and her apprentice prefer to stand near the braziers."
 											],
 											"id": "393"
 										},

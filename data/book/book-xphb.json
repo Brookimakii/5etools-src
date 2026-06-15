@@ -6357,7 +6357,7 @@
 												{
 													"type": "list",
 													"items": [
-														"All your levels in the Bard, Cleric, Druid, Sorcerer, and Wizard classes",
+														"All your levels in the Bard, Cleric, Druid, Sorcerer, and Magicien classes",
 														"Half your levels (round up) in the Paladin and Rôdeur classes",
 														"One third of your Guerrier or Roublard levels (round down) if you have the Eldritch Knight or Arcane Trickster subclass."
 													]
@@ -10188,7 +10188,7 @@
 									"page": 224,
 									"id": "6ae",
 									"entries": [
-										"An Arcane Focus takes one of the forms in the Arcane Focuses table and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Wizard can use such an item as a Spellcasting Focus.",
+										"An Arcane Focus takes one of the forms in the Arcane Focuses table and is bejeweled or carved to channel arcane magic. A Sorcerer, Warlock, or Magicien can use such an item as a Spellcasting Focus.",
 										{
 											"type": "table",
 											"caption": "Arcane Focuses",
@@ -11423,7 +11423,7 @@
 								"type": "internal",
 								"path": "book/XPHB/180-07-006.wizard-familiar-shopping.webp"
 							},
-							"title": "A Wizard and her familiar spend an afternoon shopping",
+							"title": "A Magicien and her familiar spend an afternoon shopping",
 							"credit": "Katerina Ladon",
 							"width": 1700,
 							"height": 1136
@@ -12206,8 +12206,8 @@
 									"page": 235,
 									"id": "72f",
 									"entries": [
-										"Spellcasting is taxing, so a spellcaster can cast only a limited number of level 1+ spells before resting. Spell slots are the main way a spellcaster's magical potential is represented. Each spellcasting class gives its members a limited number of spell slots of certain spell levels. For example, a level 3 Wizard has four level 1 spell slots and two level 2 slots.",
-										"When you cast a spell, you expend a slot of that spell's level or higher, effectively \"filling\" a slot with the spell. Imagine a spell slot is a groove of a certain size\u2014small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that's at least level 2. So when a level 3 Wizard casts {@spell Magic Missile|XPHB}, a level 1 spell, that Wizard spends one of four level 1 slots and has three remaining.",
+										"Spellcasting is taxing, so a spellcaster can cast only a limited number of level 1+ spells before resting. Spell slots are the main way a spellcaster's magical potential is represented. Each spellcasting class gives its members a limited number of spell slots of certain spell levels. For example, a level 3 Magicien has four level 1 spell slots and two level 2 slots.",
+										"When you cast a spell, you expend a slot of that spell's level or higher, effectively \"filling\" a slot with the spell. Imagine a spell slot is a groove of a certain size\u2014small for a level 1 slot and larger for a higher-level spell. A level 1 spell fits into a slot of any size, but a level 2 spell fits only into a slot that's at least level 2. So when a level 3 Magicien casts {@spell Magic Missile|XPHB}, a level 1 spell, that Magicien spends one of four level 1 slots and has three remaining.",
 										"Finishing a {@variantrule Long Rest|XPHB} restores any expended spell slots."
 									]
 								},
@@ -12252,7 +12252,7 @@
 									"page": 236,
 									"id": "731",
 									"entries": [
-										"When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell takes on the higher level for that casting. For instance, if a Wizard casts {@spell Magic Missile|XPHB} using a level 2 slot, that {@i Magic Missile} is level 2. Effectively, the spell expands to fill the slot it is put into.",
+										"When a spellcaster casts a spell using a slot that is of a higher level than the spell, the spell takes on the higher level for that casting. For instance, if a Magicien casts {@spell Magic Missile|XPHB} using a level 2 slot, that {@i Magic Missile} is level 2. Effectively, the spell expands to fill the slot it is put into.",
 										"Some spells, such as {@spell Magic Missile|XPHB} and {@spell Cure Wounds|XPHB}, have more powerful effects when cast at a higher level, as detailed in a spell's description."
 									]
 								}
@@ -12404,7 +12404,7 @@
 										"type": "internal",
 										"path": "book/XPHB/182-08-002.aasimar-wizard.webp"
 									},
-									"title": "An aasimar Wizard uses a crystal material component to focus the magic of Cone of Cold",
+									"title": "An aasimar Magicien uses a crystal material component to focus the magic of Cone of Cold",
 									"credit": "Martina Fačková",
 									"width": 1700,
 									"height": 897

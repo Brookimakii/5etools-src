@@ -21721,7 +21721,7 @@
 					"type": "damage",
 					"activation": {
 						"type": "",
-						"condition": "Whenever you cast a Wizard spell from the Evocation school"
+						"condition": "Whenever you cast a Magicien spell from the Evocation school"
 					},
 					"target": {
 						"affects": {
@@ -21768,7 +21768,7 @@
 					"type": "damage",
 					"activation": {
 						"type": "",
-						"condition": "When you cast a Wizard spell with a spell slot of levels 1-5 that deals damage"
+						"condition": "When you cast a Magicien spell with a spell slot of levels 1-5 that deals damage"
 					},
 					"consumption": {
 						"targets": [
@@ -21804,7 +21804,7 @@
 					"type": "damage",
 					"activation": {
 						"type": "",
-						"condition": "When you cast a Wizard spell with a spell slot of levels 1-5 that deals damage"
+						"condition": "When you cast a Magicien spell with a spell slot of levels 1-5 that deals damage"
 					},
 					"consumption": {
 						"targets": [

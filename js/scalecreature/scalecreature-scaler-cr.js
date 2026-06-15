@@ -29,7 +29,7 @@ export class ScaleCreature {
 	};
 
 	static _casterLevelAndClassToCantrips (level, clazz) {
-		clazz = (clazz || "cleric").toLowerCase(); // Cleric/Wizard have middle-ground scaling
+		clazz = (clazz || "cleric").toLowerCase(); // Cleric/Magicien have middle-ground scaling
 		return this._CASTER_LEVEL_AND_CLASS_CANTRIPS[clazz][level];
 	}
 

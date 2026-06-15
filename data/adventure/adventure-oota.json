@@ -33,7 +33,7 @@
 							"id": "002",
 							"entries": [
 								"All the drow's prisoners, including the characters, wear iron slave collars along with manacles connected to iron belts by a short length of chain. This leaves the prisoners {@condition restrained}, but doesn't affect their movement or speed.",
-								"In addition to being manacled, spellcasters don't have any spell components or focuses, initially limiting their spellcasting ability. (Wizard characters don't need their spellbooks to cast spells, but will be unable to change their prepared spells without them. As such, give wizard characters some leeway in determining which spells they had previously prepared before being captured.) Moreover, spellcasting isn't possible inside the slave pen because of its magical wards (see area 11).",
+								"In addition to being manacled, spellcasters don't have any spell components or focuses, initially limiting their spellcasting ability. (Magicien characters don't need their spellbooks to cast spells, but will be unable to change their prepared spells without them. As such, give wizard characters some leeway in determining which spells they had previously prepared before being captured.) Moreover, spellcasting isn't possible inside the slave pen because of its magical wards (see area 11).",
 								"Slipping out of manacles requires a successful {@dc 20} Dexterity check, while breaking them requires a successful {@dc 20} Strength check. A character can unlock the manacles using thieves' tools with a successful {@dc 15} Dexterity check. The manacles have 15 hit points. The iron collars can be broken with a successful {@dc 20} Strength check. The collars have 12 hit points. A character who fails a check to break a collar, break a set of manacles, or escape from a set of manacles can't attempt checks of that kind again until he or she finishes a long rest. A character can still use the {@action Help} action to aid another character, however."
 							]
 						}
@@ -24910,7 +24910,7 @@
 										"One of the characters' traveling companions is revealed as a traitor or succumbs to madness. This NPC secretly serves one of the demon lords and turns against the adventurers.",
 										"If any of the party's drow pursuers survived from the previous chapter, they might slip into Gauntlgrym and look to slay their quarry.",
 										"A dwarf {@creature assassin} belonging to a demon-worshiping cult steals into Gauntlgrym to kill one or more of the faction representatives. Hoping to cast suspicion onto the adventurers, the assassin frames them as demonic agents.",
-										"A {@creature doppelganger} spy poses as one of the faction representatives and tries to arrange a private meeting with one or more of the characters, hoping to discover additional information regarding the looming threat. The doppelganger might serve a faction of the Underdark or a surface world faction Bruenor didn't invite (such as the Arcane Brotherhood or the Red Wizards of Thay), or might simply be an opportunist looking to sell information to the highest bidder.",
+										"A {@creature doppelganger} spy poses as one of the faction representatives and tries to arrange a private meeting with one or more of the characters, hoping to discover additional information regarding the looming threat. The doppelganger might serve a faction of the Underdark or a surface world faction Bruenor didn't invite (such as the Arcane Brotherhood or the Red Magiciens of Thay), or might simply be an opportunist looking to sell information to the highest bidder.",
 										"Maegera roars within its prison, stirred by the madness and chaos growing within the depths of the Underdark. As a natural reaction to this new stress upon itself, the primordial spawns a trio of {@creature Fire Elemental||fire elementals} that attack the Vault of Kings, setting fire to marketplaces and unleashing chaos upon the dwarven residents. If defeated or somehow convinced to return to the Fiery Pit, the elementals dissipate peacefully and Maegera falls dormant once again... for now."
 									]
 								}
@@ -29788,7 +29788,7 @@
 									"page": 153,
 									"id": "3d5",
 									"entries": [
-										"This human Red Wizard of Thay will visit Gravenhollow nearly a century in the future. He treats the characters as annoying apparitions and refuses to deal with them."
+										"This human Red Magicien of Thay will visit Gravenhollow nearly a century in the future. He treats the characters as annoying apparitions and refuses to deal with them."
 									]
 								},
 								{
@@ -42888,7 +42888,7 @@
 			"type": "section",
 			"name": "Credits",
 			"entries": [
-				"{@b This book was a collaboration between Wizards of the Coast and Green Ronin Publishing. Members of the Green Ronin creative team are marked with an asterisk.}",
+				"{@b This book was a collaboration between Magiciens of the Coast and Green Ronin Publishing. Members of the Green Ronin creative team are marked with an asterisk.}",
 				{
 					"type": "list",
 					"style": "list-hang-notitle",

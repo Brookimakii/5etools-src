@@ -100,7 +100,7 @@
 						},
 						{
 							"type": "entries",
-							"name": "The Wizards Three",
+							"name": "The Magiciens Three",
 							"id": "00b",
 							"entries": [
 								"When the Dark Powers divulged Vecna's plan to Kas, the powers also whispered that Lady Alustriel Silverhand was marshaling allies to stop the lich. Kas didn't relish the thought of facing the might of one of the multiverse's most powerful good-aligned spellcasters, so the warlord devised a plot to trick Alustriel into helping him defeat Vecna.",
@@ -3630,7 +3630,7 @@
 		},
 		{
 			"type": "section",
-			"name": "Chapter 2: The Wizards Three",
+			"name": "Chapter 2: The Magiciens Three",
 			"id": "0c1",
 			"entries": [
 				{
@@ -3714,7 +3714,7 @@
 							"name": "During the Interim",
 							"id": "0c8",
 							"entries": [
-								"If months or years pass before the characters meet the Wizards Three (see the \"{@area Surprise Development|0ec|x}\" section later in this chapter), ask the players what their characters did during this time. The party might have stayed together and gone on further adventures, or each character could have gone their own way.",
+								"If months or years pass before the characters meet the Magiciens Three (see the \"{@area Surprise Development|0ec|x}\" section later in this chapter), ask the players what their characters did during this time. The party might have stayed together and gone on further adventures, or each character could have gone their own way.",
 								"If the players aren't sure or you'd like to offer them suggestions, consult the Interim Events table below. Choose your favorite result or roll randomly as you see fit.",
 								{
 									"type": "table",
@@ -3738,7 +3738,7 @@
 										],
 										[
 											"3",
-											"The characters became obsessed with the cult of Vecna, researching it in prominent libraries and memorizing historical accounts of its activities. As a result, they know everything the Wizards Three tell the party about Vecna except his attempts to re-create the multiverse."
+											"The characters became obsessed with the cult of Vecna, researching it in prominent libraries and memorizing historical accounts of its activities. As a result, they know everything the Magiciens Three tell the party about Vecna except his attempts to re-create the multiverse."
 										],
 										[
 											"4",
@@ -3746,7 +3746,7 @@
 										],
 										[
 											"5",
-											"Obsessed with the concept of the multiverse, the characters studied the realms that make up existence, traveling between them to learn more. As a result, they know everything the Wizards Three tell the party about the planes where the pieces of the rod are located."
+											"Obsessed with the concept of the multiverse, the characters studied the realms that make up existence, traveling between them to learn more. As a result, they know everything the Magiciens Three tell the party about the planes where the pieces of the rod are located."
 										],
 										[
 											"6",
@@ -3770,7 +3770,7 @@
 							"name": "The Archmages' Desperation",
 							"id": "0ca",
 							"entries": [
-								"Determined to oppose Vecna but unsure how the lich-god intends to unleash his amassed magic, Alustriel contacts her most powerful allies. Answering her call are the archmages Mordenkainen and a version of {@creature Tasha the Witch|VEoR|Tasha} from Oerth, though Alustriel and Tasha don't yet know that Mordenkainen is {@creature Kas the Betrayer|VEoR|Kas the Destroyer} in disguise. These Wizards Three retreat to a sanctum Alustriel keeps in Sigil. Using their combined magic, the archmages weave a {@spell Wish} spell in hopes of sabotaging Vecna's accumulated power and defusing his ritual.",
+								"Determined to oppose Vecna but unsure how the lich-god intends to unleash his amassed magic, Alustriel contacts her most powerful allies. Answering her call are the archmages Mordenkainen and a version of {@creature Tasha the Witch|VEoR|Tasha} from Oerth, though Alustriel and Tasha don't yet know that Mordenkainen is {@creature Kas the Betrayer|VEoR|Kas the Destroyer} in disguise. These Magiciens Three retreat to a sanctum Alustriel keeps in Sigil. Using their combined magic, the archmages weave a {@spell Wish} spell in hopes of sabotaging Vecna's accumulated power and defusing his ritual.",
 								"Instead of any expected effect, the {@i Wish} spell shunts the characters to Alustriel Silverhand's Sigil sanctum, as explained in the \"{@area Surprise Development|0ec|x}\" section later in this chapter. With time of the essence and the archmages weakened, Mordenkainen suggests a desperate contingency plan. The characters could use the fabled {@item Rod of Seven Parts|VEoR} to stop Vecna. The rod's seven pieces are scattered throughout the multiverse, but Mordenkainen knows where the first piece is located."
 							]
 						}
@@ -4370,7 +4370,7 @@
 				},
 				{
 					"type": "section",
-					"name": "The Wizards Three",
+					"name": "The Magiciens Three",
 					"id": "0e0",
 					"entries": [
 						"Three legendary archmages serve as the characters' allies throughout the rest of this adventure, though one of these individuals is an impostor. (See the \"{@area Kas the Destroyer|0e4|x}\" section.) More information about each spellcaster follows.",
@@ -4531,7 +4531,7 @@
 									"id": "0ef",
 									"entries": [
 										"As the characters interact with Alustriel, Tasha stands near them, aloof and occasionally interjecting acerbic comments. Mordenkainen remains silent, focusing intensely on everything the characters say.",
-										"After a few minutes of conversation, the characters notice that the Wizards Three seem tired and weakened. Any character proficient in the {@skill Medicine} skill understands that the wizards are extremely fatigued. Any character proficient in the {@skill Arcana} skill realizes that the wizards expended a great deal of arcane energy casting the {@i Wish} spell. (Mordenkainen is faking his fatigue, but in the context of Alustriel and Tasha's real physical weakness, it seems legitimate.)"
+										"After a few minutes of conversation, the characters notice that the Magiciens Three seem tired and weakened. Any character proficient in the {@skill Medicine} skill understands that the wizards are extremely fatigued. Any character proficient in the {@skill Arcana} skill realizes that the wizards expended a great deal of arcane energy casting the {@i Wish} spell. (Mordenkainen is faking his fatigue, but in the context of Alustriel and Tasha's real physical weakness, it seems legitimate.)"
 									]
 								}
 							]
@@ -11607,7 +11607,7 @@
 					"id": "19b",
 					"entries": [
 						"This chapter begins after the characters retrieve the second piece of the {@item Rod of Seven Parts|VEoR}. The characters can knit the pieces together or keep them separate, as described in the {@area introduction|00e|x}. Regardless, when a character holds the second piece of the rod, they intuitively know that the next piece is located somewhere on the continent of Khorvaire on the world of Eberron.",
-						"Specifically, the piece lies in the Mournland, on the slopes of Mount Ironrot. If the characters ask the Wizards Three in the Sigil sanctum why it's unclear exactly where the third piece is located, Alustriel shares the information in the \"{@area Exploring Mount Ironrot|1a4|x}\" section later in this chapter.",
+						"Specifically, the piece lies in the Mournland, on the slopes of Mount Ironrot. If the characters ask the Magiciens Three in the Sigil sanctum why it's unclear exactly where the third piece is located, Alustriel shares the information in the \"{@area Exploring Mount Ironrot|1a4|x}\" section later in this chapter.",
 						"This chapter first describes Mount Ironrot, including locations and encounters awaiting the characters. The chapter then details the ruins of a colossus called Landro, whose dangers the characters must survive to claim the third piece of the {@item Rod of Seven Parts|VEoR}.",
 						{
 							"type": "entries",
@@ -11656,7 +11656,7 @@
 					"name": "Doorway to Eberron",
 					"id": "19f",
 					"entries": [
-						"Before seeking the third rod piece, the characters can rest and prepare in the sanctum in Sigil. By doing some research in Sigil or conversing with the Wizards Three, the characters can learn the following about their next destination:",
+						"Before seeking the third rod piece, the characters can rest and prepare in the sanctum in Sigil. By doing some research in Sigil or conversing with the Magiciens Three, the characters can learn the following about their next destination:",
 						{
 							"type": "list",
 							"style": "list-hang-notitle",
@@ -11696,14 +11696,14 @@
 							"width": 1700,
 							"height": 1120
 						},
-						"Before the characters leave Sigil for Mount Ironrot, the Wizards Three share their concerns that this rod piece will be particularly challenging to find since the Mournland is difficult to navigate. The wizards suspect that the rod piece is hidden in one of the dozens of ruined colossi scattered across Mount Ironrot (as shown on {@adventure map 4.1|VEoR|4|Map 4.1: Mount Ironrot Outskirts}).",
+						"Before the characters leave Sigil for Mount Ironrot, the Magiciens Three share their concerns that this rod piece will be particularly challenging to find since the Mournland is difficult to navigate. The wizards suspect that the rod piece is hidden in one of the dozens of ruined colossi scattered across Mount Ironrot (as shown on {@adventure map 4.1|VEoR|4|Map 4.1: Mount Ironrot Outskirts}).",
 						"Instead of searching each colossus individually, the wizards suggest augmenting the rod's divining power with local magic that can penetrate the Mournland's impeded navigation. The characters can do this by tuning their second rod piece to a working {@item Docent|ERLW} from inside one of the fallen colossi. A {@i Docent} is a small, sentient metal sphere that employs its sentience and magic on behalf of an attuned warforged; the full description of a {@i Docent} is found in the \"{@area Finding a Docent|1bb|x}\" section later in this chapter. The wizards correctly postulate that a {@i Docent}'s magic will stabilize and augment the rod's divining powers so it will directly point the way to the third piece.",
 						{
 							"type": "entries",
 							"name": "About Docents",
 							"id": "1a1",
 							"entries": [
-								"Long ago, colossi were powered and controlled by {@item Docent|ERLW|Docents}. The techniques and tools to create {@i Docents} were lost, but working {@i Docents} can sometimes still be found in colossi. The Wizards Three suggest the characters find a working {@i Docent} and tune it to the rod piece."
+								"Long ago, colossi were powered and controlled by {@item Docent|ERLW|Docents}. The techniques and tools to create {@i Docents} were lost, but working {@i Docents} can sometimes still be found in colossi. The Magiciens Three suggest the characters find a working {@i Docent} and tune it to the rod piece."
 							]
 						}
 					]
@@ -16317,7 +16317,7 @@
 					"id": "218",
 					"entries": [
 						"This chapter begins after the characters retrieve the third piece of the {@item Rod of Seven Parts|VEoR}. When a character holds this piece, they instinctively know that the next closest piece is located in the village of Barovia, in the domain of Strahd von Zarovich. Although it's a small village, Barovia teems with supernatural threats\u2014including the forebodingly named Death House, the location of the fourth piece.",
-						"By researching Death House in the Sigil sanctum or asking the Wizards Three about it, the characters learn that Death House is owned by two Barovians named Gustav and Elisabeth Durst, who run a small cult devoted to Barovia's Darklord, Strahd von Zarovich. Given the domain's many greater threats, this minor cult and the house draw scant attention. If the characters ask, Alustriel shares the information in the \"{@area Knowledge of Barovia|21d|x}\" section. Neither the wizards nor the available research materials in Sigil can reveal further details.",
+						"By researching Death House in the Sigil sanctum or asking the Magiciens Three about it, the characters learn that Death House is owned by two Barovians named Gustav and Elisabeth Durst, who run a small cult devoted to Barovia's Darklord, Strahd von Zarovich. Given the domain's many greater threats, this minor cult and the house draw scant attention. If the characters ask, Alustriel shares the information in the \"{@area Knowledge of Barovia|21d|x}\" section. Neither the wizards nor the available research materials in Sigil can reveal further details.",
 						"This chapter begins with the characters' approach to Death House. Their journey is interrupted by a mob of scared peasants as well as a potentially helpful inquisitor. Most of the chapter describes the horrors the characters encounter as they explore Death House. Once the characters acquire the rod piece, Strahd arrives at Death House to toy with the characters and tries to block their escape.",
 						{
 							"type": "entries",
@@ -19384,7 +19384,7 @@
 					"id": "2c1",
 					"entries": [
 						"This chapter begins after the characters retrieve the fourth piece of the {@item Rod of Seven Parts|VEoR}. When a character holds this piece, they instinctively know that the fifth piece is located somewhere on the war-torn world of Krynn. That character senses that the fifth piece is located near a massive, magical tree, in a region called the Northern Dargaard Mountains, but this indication seems inexact. The fifth piece's location is unclear to the characters.",
-						"Neither the characters nor the Wizards Three know why the location of the fifth piece is ambiguous. In truth, the fifth piece was housed in the tree until recently, when it was taken to a nearby castle called Three Moons Vault. The crimson moonlight that now surrounds the castle warps the rod's magical properties. To retrieve the fifth rod piece, the characters must dispel the magical moonlight by disrupting a wicked ritual in the vault.",
+						"Neither the characters nor the Magiciens Three know why the location of the fifth piece is ambiguous. In truth, the fifth piece was housed in the tree until recently, when it was taken to a nearby castle called Three Moons Vault. The crimson moonlight that now surrounds the castle warps the rod's magical properties. To retrieve the fifth rod piece, the characters must dispel the magical moonlight by disrupting a wicked ritual in the vault.",
 						"This chapter starts when the characters step through the portal in Sigil, emerge on Krynn, and begin their search for the magical tree. Though initially fruitless, the characters' search puts them in contact with benevolent lycanthropes who know where to find the fifth piece. The characters must then infiltrate the Three Moons Vault. There, the characters must secure the fifth rod piece from Teremini Nightsedge, an ally of Lord Soth.",
 						{
 							"type": "entries",
@@ -31197,7 +31197,7 @@
 					"name": "Running This Chapter",
 					"id": "3f0",
 					"entries": [
-						"This chapter begins after the characters retrieve the sixth piece of the {@item Rod of Seven Parts|VEoR}. A character who holds this piece knows instinctively that the seventh piece is located somewhere inside a casino called the Red Belvedere in Avernus. The Wizards Three warn the characters that finding this location might be difficult since the Nine Hells are impossible to map and difficult to traverse.",
+						"This chapter begins after the characters retrieve the sixth piece of the {@item Rod of Seven Parts|VEoR}. A character who holds this piece knows instinctively that the seventh piece is located somewhere inside a casino called the Red Belvedere in Avernus. The Magiciens Three warn the characters that finding this location might be difficult since the Nine Hells are impossible to map and difficult to traverse.",
 						"Once the characters enter Avernus, they must hitch a ride on an infernal war machine and traverse the hellish landscape to reach the Red Belvedere. The characters must manipulate the Fiends in the casino's highest ranks to enter the exclusive Ruby Sanctum, then fight Tiamat's champion\u2014or convince Tiamat to give up the final rod piece.",
 						{
 							"type": "entries",
@@ -31281,7 +31281,7 @@
 							"name": "Traversing Avernus",
 							"id": "3f7",
 							"entries": [
-								"Avernus warps the senses, making distance impossible to gauge. The Wizards Three can't be sure where the characters will emerge in Avernus from the portal in Sigil, so they'll have to find their way to their destination. Residents of Avernus use vehicles known as infernal war machines to make trips more manageable. The Wizards Three suggest that the characters might be able to reach the Red Belvedere by using or commandeering one of these vehicles."
+								"Avernus warps the senses, making distance impossible to gauge. The Magiciens Three can't be sure where the characters will emerge in Avernus from the portal in Sigil, so they'll have to find their way to their destination. Residents of Avernus use vehicles known as infernal war machines to make trips more manageable. The Magiciens Three suggest that the characters might be able to reach the Red Belvedere by using or commandeering one of these vehicles."
 							]
 						}
 					]
@@ -33222,7 +33222,7 @@
 					"width": 1700,
 					"height": 2200
 				},
-				"Once the characters have all of the {@item Rod of Seven Parts|VEoR}, all eyes turn to {@creature Alustriel Silverhand|VEoR|Alustriel}, {@creature Tasha the Witch|VEoR|Tasha}, and the impostor Mordenkainen. The plan was for the characters to work with the Wizards Three to pin down Vecna's location and stop the archlich's Ritual of Remaking. However, this chapter reveals that the characters\u2014as well as Alustriel and Tasha\u2014have been deceived.",
+				"Once the characters have all of the {@item Rod of Seven Parts|VEoR}, all eyes turn to {@creature Alustriel Silverhand|VEoR|Alustriel}, {@creature Tasha the Witch|VEoR|Tasha}, and the impostor Mordenkainen. The plan was for the characters to work with the Magiciens Three to pin down Vecna's location and stop the archlich's Ritual of Remaking. However, this chapter reveals that the characters\u2014as well as Alustriel and Tasha\u2014have been deceived.",
 				"The fake Mordenkainen reveals himself to be {@creature Kas the Betrayer|VEoR}, Vecna's former ally and current archenemy. The characters must chase Kas across the multiverse to Pandesmos, the first layer of the plane of Pandemonium, where the vampire plans to co-opt Vecna's ritual and become the most powerful being in existence.",
 				{
 					"type": "section",
@@ -33230,7 +33230,7 @@
 					"id": "463",
 					"entries": [
 						"This chapter begins after the characters retrieve the final piece of the {@item Rod of Seven Parts|VEoR} from Avernus. Whether the characters are carrying the previous six rod pieces or those pieces remained in Sigil, the rod knits itself into one artifact when all the pieces are within a few inches of each other.",
-						"The rod becomes complete, but no character is likely yet attuned to it, and the Wizards Three in Sigil asked the characters to return to the sanctum once all the rod pieces were found. If the characters hesitate after retrieving the final rod piece, encourage them to quickly return to their allies at the sanctum in Sigil. The characters' return to the sanctum triggers the next part of the story.",
+						"The rod becomes complete, but no character is likely yet attuned to it, and the Magiciens Three in Sigil asked the characters to return to the sanctum once all the rod pieces were found. If the characters hesitate after retrieving the final rod piece, encourage them to quickly return to their allies at the sanctum in Sigil. The characters' return to the sanctum triggers the next part of the story.",
 						"This chapter's early scenes include the chaos caused when Kas steals the {@item Rod of Seven Parts|VEoR} and gravely wounds Alustriel and Tasha. The chapter progresses to Pandesmos, where the characters find a war erupting between Kas's and Vecna's demonic forces. The characters must stay on Kas's trail if they hope to find Vecna, potentially neutralize Kas, and end the threat to the multiverse.",
 						{
 							"type": "entries",
@@ -33300,7 +33300,7 @@
 									"id": "46a",
 									"entries": [
 										"If the characters resist resting in their quarters, Alustriel approaches them privately. She's concerned that her wife, Malaina, left the sanctum several hours ago and hasn't returned. The lengthy absence isn't like Malaina, Alustriel explains, and the wizard is worried for her wife's safety. Malaina is resisting any magical attempts to contact her, Alustriel tells the characters.",
-										"When she left, Malaina told Alustriel that she was going to a shop called Velgar's Vittles in Sigil's Market Ward. The Wizards Three were busy, so Alustriel didn't ask for more information. Now, Alustriel expects to imminently be occupied helping Mordenkainen and Tasha locate Vecna. Alustriel can't leave the sanctum, so she asks the characters to find her wife before the group leaves to confront the archlich. Alustriel provides directions to Velgar's Vittles.",
+										"When she left, Malaina told Alustriel that she was going to a shop called Velgar's Vittles in Sigil's Market Ward. The Magiciens Three were busy, so Alustriel didn't ask for more information. Now, Alustriel expects to imminently be occupied helping Mordenkainen and Tasha locate Vecna. Alustriel can't leave the sanctum, so she asks the characters to find her wife before the group leaves to confront the archlich. Alustriel provides directions to Velgar's Vittles.",
 										"In reality, Malaina was suspicious of Mordenkainen, but she didn't want to make accusations without proof. Malaina was seeking a scholar named Velgar Vera (neutral good, orc {@creature mage}). Velgar is a friend to Mordenkainen and has visited Mordenkainen's home in Avernus. Velgar wasn't in his shop earlier today, so Malaina lingered in the Market Ward, waiting for the orc to return.",
 										{
 											"type": "entries",

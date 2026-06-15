@@ -173,7 +173,7 @@
 							"page": 7,
 							"id": "00f",
 							"entries": [
-								"The world of the Forgotten Realms is one of high fantasy, populated by elves, dwarves, halflings, humans, and other folk. In the Realms, knights dare to seek out the crypts of the fallen dwarf kings of Delzoun, looking for glory and treasure. Roublards prowl the dark alleyways of teeming cities such as Neverwinter and Baldur's Gate. Clercs wield mace and spell in the service of their gods, questing against the terrifying powers that threaten the land. Wizards plunder the ruins of the fallen Netherese empire, delving into secrets too dark for the light of day. Bardes sing of kings, queens, tyrants, and heroes who died long ago.",
+								"The world of the Forgotten Realms is one of high fantasy, populated by elves, dwarves, halflings, humans, and other folk. In the Realms, knights dare to seek out the crypts of the fallen dwarf kings of Delzoun, looking for glory and treasure. Roublards prowl the dark alleyways of teeming cities such as Neverwinter and Baldur's Gate. Clercs wield mace and spell in the service of their gods, questing against the terrifying powers that threaten the land. Magiciens plunder the ruins of the fallen Netherese empire, delving into secrets too dark for the light of day. Bardes sing of kings, queens, tyrants, and heroes who died long ago.",
 								"On the roads and rivers of the Realms travel minstrels and peddlers, merchants and guards, soldiers and sailors. Steel-hearted adventurers from backcountry farmsteads and sleepy villages follow tales that take them to strange, glorious, faraway places. Good maps and clear trails can carry even an inexperienced youth with dreams of glory far across the world, but these paths are never safe. Fell magic and deadly monsters are among the perils one faces when traveling in the Realms. Even farms and freeholds within a day's walk of a city can fall prey to monsters, and no place is safe from the sudden wrath of a dragon.",
 								"Icewind Dale, featured in this adventure, is located in a region called the Far North, which is dominated by the Spine of the World, a range of skyscraping, snow-covered peaks. These extend toward the Sword Coast, which forms the western edge of the great continent of Faerûn and stretches southward for thousands of miles. Ships and roads lead southbound travelers to a number of bustling ports along the Sword Coast, including the following strongholds of civilization:",
 								{
@@ -575,7 +575,7 @@
 										[
 											"Dzaan",
 											"duh-ZAWN",
-											"Red Wizard of Thay and member of the Arcane Brotherhood"
+											"Red Magicien of Thay and member of the Arcane Brotherhood"
 										],
 										[
 											"{@creature Grandolpha Muzgardt|IDRotF}",
@@ -8258,7 +8258,7 @@
 				"Walking into Easthaven is like stepping into Icewind Dale's past\u2014the place is a living example of the boomtown way of life that gripped all of Ten-Towns centuries ago. In the generations since, as other towns have settled into a predictable pattern of existence, Easthaven has continued to grow and reinvent itself. After the Eastway was paved, Easthaven evolved into a frontier traders' paradise, fueling the jealousy of its neighbors.",
 				"Easthaven's founders were thieves from the Duchy of Cape Velen, on a peninsula far to the south. They refused to kowtow to a powerful thieves' guild and were driven out. To this day, Easthaven honors its shady founders by declaring pickpocketing legal within the town limits\u2014which explains the \"Watch thy pouch!\" signs posted in various local establishments.",
 				"Duergar have infiltrated the town of late, scouring Easthaven and the surrounding tundra for chardalyn fragments to bring back to their hidden mountain stronghold. The leader of these duergar is Durth Sunblight, the oldest living son of {@creature Xardorok Sunblight|IDRotF}. Durth and his gang have turned the frozen Easthaven ferry into a temporary base. Using their innate invisibility to move about unseen, the duergar betray their presence only by the footprints they leave in the snow.",
-				"Another occurrence of note is the recent capture of a Red Wizard of Thay who has been found guilty of killing a handful of dale-folk he had hired for an expedition. Speaker Danneth Waylen has issued a decree that the wizard be tied to a stake and burned alive\u2014an event that a lot of Easthaven residents are looking forward to.",
+				"Another occurrence of note is the recent capture of a Red Magicien of Thay who has been found guilty of killing a handful of dale-folk he had hired for an expedition. Speaker Danneth Waylen has issued a decree that the wizard be tied to a stake and burned alive\u2014an event that a lot of Easthaven residents are looking forward to.",
 				{
 					"type": "section",
 					"name": "Easthaven in a Nutshell",
@@ -12759,7 +12759,7 @@
 											"page": 70,
 											"id": "1a6",
 											"entries": [
-												"Characters who spend at least 10 minutes searching the bookshelves discover a worn book with a red leather cover and yellow pages. The edges of the pages are stained with dry blood. The writing inside suggests the book is nothing more than a poetry anthology. However, it's actually the spellbook of a Red Wizard of Thay named Dzaan. The book's true contents are hidden by an {@spell illusory script} spell that ends 5 days after Dzaan's execution (see \"{@area Public Execution|16d|x}\").",
+												"Characters who spend at least 10 minutes searching the bookshelves discover a worn book with a red leather cover and yellow pages. The edges of the pages are stained with dry blood. The writing inside suggests the book is nothing more than a poetry anthology. However, it's actually the spellbook of a Red Magicien of Thay named Dzaan. The book's true contents are hidden by an {@spell illusory script} spell that ends 5 days after Dzaan's execution (see \"{@area Public Execution|16d|x}\").",
 												"After the book was confiscated by a member of the town militia, it was brought to the Town Hall, where a clerk saw fit to place it in this library for safe keeping. Casting {@spell dispel magic} on the book ends the {@spell illusory script} spell placed upon it. When the {@spell illusory script} spell ends, the book's true contents are revealed. It contains the following spells: {@spell animate objects}, {@spell arcane eye}, {@spell arcane lock}, {@spell blur}, {@spell confusion}, {@spell conjure elemental}, {@spell detect magic}, {@spell disguise self}, {@spell fireball}, {@spell hallucinatory terrain}, {@spell illusory script}, {@spell invisibility}, {@spell knock}, {@spell levitate}, {@spell magic missile}, {@spell major image}, {@spell mirror image}, {@spell mislead}, {@spell phantasmal force}, {@spell phantasmal killer}, {@spell seeming}, {@spell sending}, {@spell silent image}, and {@spell slow}."
 											]
 										}
@@ -33761,7 +33761,7 @@
 								"Before the characters face the challenges of the spire, review the information about Dzaan in the \"{@area Arcane Brotherhood|6fe|x}\" section of {@adventure appendix C|IDRotF|21}. The details concerning {@creature Dzaan's simulacrum|IDRotF} and bodyguard are especially pertinent, given what the characters are about to discover.",
 								{
 									"type": "entries",
-									"name": "Not-So-Dead Wizard of Thay",
+									"name": "Not-So-Dead Magicien of Thay",
 									"page": 145,
 									"id": "3a9",
 									"entries": [
@@ -34991,7 +34991,7 @@
 												"Most of the books in this library have been destroyed by time and neglect. The group of adventurers Dzaan hired to help him search the spire removed all the books they considered valuable, including spellbooks. They left behind a few that might interest certain characters:",
 												"{@i Magical Wonders of Netheril.} This book is a collection of interviews with Netherese archmages, who discuss their studies of ancient elven magic and the creation of {@i mythallars} (see {@adventure appendix D|IDRotF|22}). The book includes sketches of such devices.",
 												"{@i Mysteries of the Phaerimm.} This book sheds light on the phaerimm\u2014telepathic, funnel-shaped monsters of malevolent intellect that lurk in the Underdark\u2014and includes disturbing sketches of them.",
-												"{@i Wizards in the Hollow.} The birth of the Netherese empire is chronicled in this otherwise dull, plodding story about the lives of three Netherese wizards.",
+												"{@i Magiciens in the Hollow.} The birth of the Netherese empire is chronicled in this otherwise dull, plodding story about the lives of three Netherese wizards.",
 												{
 													"type": "entries",
 													"name": "Tunnel Down",
@@ -37224,7 +37224,7 @@
 													"type": "list",
 													"items": [
 														"About {@creature Avarice|IDRotF}, Gant says: \"The tiefling albino? I think she has a promising future.\"",
-														"About Dzaan, Gant says: \"He's a Red Wizard of Thay. Need I say more?\" (If asked to elaborate, he adds: \"Dzaan doesn't shave his head or wear red robes, but that doesn't change the fact that he's Thayan. The Red Wizards want the Weave all to themselves. If they get their way, no one else will be able to use magic.\")",
+														"About Dzaan, Gant says: \"He's a Red Magicien of Thay. Need I say more?\" (If asked to elaborate, he adds: \"Dzaan doesn't shave his head or wear red robes, but that doesn't change the fact that he's Thayan. The Red Magiciens want the Weave all to themselves. If they get their way, no one else will be able to use magic.\")",
 														"About Nass Lantomir, Gant says: \"She's a nobody.\"",
 														"About {@creature Vellynne Harpell|IDRotF}, Gant says: \"Had powerful members of her family not pulled strings to get her into the Brotherhood, that old scarecrow would still be reanimating dead cats in Longsaddle.\""
 													]
@@ -56051,7 +56051,7 @@
 										],
 										[
 											"2",
-											"Ythryn was governed by a group of eight arcanists known as the Wizards of the Ebon Star. Their names and faces are immortalized in the city's museum."
+											"Ythryn was governed by a group of eight arcanists known as the Magiciens of the Ebon Star. Their names and faces are immortalized in the city's museum."
 										],
 										[
 											"3",
@@ -56173,7 +56173,7 @@
 								},
 								{
 									"type": "entries",
-									"name": "Y2. Wizard Spires",
+									"name": "Y2. Magicien Spires",
 									"page": 234,
 									"id": "635",
 									"entries": [
@@ -58350,7 +58350,7 @@
 												"A vortex of glowing stars hangs in the air inside this chamber, slowly rotating on its axis. As the constellations move, they cast radiant starlight across the walls. Eight high-backed chairs, each bearing a different arcane symbol, face this starry miasma."
 											]
 										},
-										"Iriolarthas's apprentices, known as the Wizards of the Ebon Star, governed Ythryn from this hall. Eight magically darkened corridors connect this hall to area Y19l. Separate archways open into areas Y19n and {@area Y19o|6a5|x}.",
+										"Iriolarthas's apprentices, known as the Magiciens of the Ebon Star, governed Ythryn from this hall. Eight magically darkened corridors connect this hall to area Y19l. Separate archways open into areas Y19n and {@area Y19o|6a5|x}.",
 										"At the south end of the hall, a 10-foot-wide passageway leads to a locked double door, beyond which lies a balcony ({@area area Y19p|6a8|x}). The door is warded with magic that prevents it from being damaged or forced open; it can be unlocked, however, by someone who uses the adamantine key in area Y19o, or by a character who uses thieves' tools and makes a successful {@dc 18} Dexterity check as an action to pick the lock.",
 										{
 											"type": "entries",
@@ -58414,7 +58414,7 @@
 												"The walls of this roughly triangular room are filled with floor-to-ceiling bookshelves. Hundreds of books and scrolls were thrown free of their resting places when the city crashed and now cover the floor. Time and bitter cold have not been kind to them."
 											]
 										},
-										"Most of the books and scrolls that litter the floor have been ruined by centuries of disuse, but adventurers who search the remains unearth two survivors: a scroll (see \"Treasure\" below) and a brittle tome with a black, eight-pointed star on its front cover. This brittle tome records the various meetings of the Wizards of the Ebon Star. One passage explains, in the Draconic script, that \"Master Iriolarthas opens the door to his study when three or more of his apprentices\u2014or those empowered by the goblet in the House of the Arcane\u2014are seated correctly in the Chamber of the Ebon Star.\" This passage provides adventurers with the information they need to open the magical doorway in {@area area Y19m|69f|x}.",
+										"Most of the books and scrolls that litter the floor have been ruined by centuries of disuse, but adventurers who search the remains unearth two survivors: a scroll (see \"Treasure\" below) and a brittle tome with a black, eight-pointed star on its front cover. This brittle tome records the various meetings of the Magiciens of the Ebon Star. One passage explains, in the Draconic script, that \"Master Iriolarthas opens the door to his study when three or more of his apprentices\u2014or those empowered by the goblet in the House of the Arcane\u2014are seated correctly in the Chamber of the Ebon Star.\" This passage provides adventurers with the information they need to open the magical doorway in {@area area Y19m|69f|x}.",
 										{
 											"type": "entries",
 											"name": "Treasure",
@@ -58443,7 +58443,7 @@
 									"id": "6a8",
 									"entries": [
 										"A locked double door bars the way to {@area area Y19m|69f|x}. The door is warded with magic that prevents it from being damaged or forced open; it can be unlocked, however, by someone who uses the adamantine key in area Y19o, or by a character who uses thieves' tools and makes a successful {@dc 18} Dexterity check as an action.",
-										"The Wizards of the Ebon Star used this balcony to make proclamations to the inhabitants of Ythryn. Words spoken by a creature standing on the balcony are magically amplified to sound ten times louder than normal."
+										"The Magiciens of the Ebon Star used this balcony to make proclamations to the inhabitants of Ythryn. Words spoken by a creature standing on the balcony are magically amplified to sound ten times louder than normal."
 									]
 								},
 								{
@@ -58581,7 +58581,7 @@
 													"page": 255,
 													"id": "6b6",
 													"entries": [
-														"In this adventure, we learn the secret of the obelisks that have appeared in other fifth edition adventures published by Wizards of the Coast, including {@adventure Tomb of Annihilation|ToA} and {@adventure Waterdeep: Dungeon of the Mad Mage|WDMM}.",
+														"In this adventure, we learn the secret of the obelisks that have appeared in other fifth edition adventures published by Magiciens of the Coast, including {@adventure Tomb of Annihilation|ToA} and {@adventure Waterdeep: Dungeon of the Mad Mage|WDMM}.",
 														"The first group of these magical obelisks was crafted by a secret society of spellcasters called the Weavers. These obelisks could alter reality on a grand scale, sending a region or an entire world back to an earlier time (effectively erasing part of history). The obelisks were constructed to counteract the effects of calamitous spells and cataclysmic events.",
 														"An evil wizard named Vecna stole one such obelisk and used it to erase the obelisk's creators from existence. Vecna also stole the knowledge needed to create new ones. That knowledge later came into the possession of Netherese wizards, who built similar obelisks of their own. They believed that if some catastrophe destroyed their empire, these obelisks could help restore it. Unfortunately for them, most of the obelisks built to protect Netheril were stolen or otherwise lost over time, as were records of their purpose and information about how to activate them."
 													]
@@ -58881,7 +58881,7 @@
 											"page": 259,
 											"id": "6d6",
 											"entries": [
-												"Characters who proceed farther into the upper floor can see the museum's domed ceiling, which is still intact and a sight to behold. It depicts a powerful mage standing on a balcony of the enclave's central spire, addressing a sea of Netherese citizens below, who stare up at the figure, cheering. This is an image of Iriolarthas at the height of his power, magically preserved in stained glass that glows with its own arcane light. Eight large portraits adorn the walls beneath the dome, depicting Iriolarthas's eight apprentices, known as the Wizards of the Ebon Star. The portraits hang 20 feet above the ground, and a frost-covered plaque is fixed to the wall just beneath each one. The faces in the portraits are depicted as looking up toward their master, Iriolarthas, with expressions of respect. Characters who clear the ice from the plaques can learn their names: High Abjurer Taruth, High Conjurer Damorith, High Diviner Apius, High Necromancer Cadavix, High Evoker Zadulus, High Illusionist Ajamar, High Enchanter Ivira, and High Transmuter Metaltra."
+												"Characters who proceed farther into the upper floor can see the museum's domed ceiling, which is still intact and a sight to behold. It depicts a powerful mage standing on a balcony of the enclave's central spire, addressing a sea of Netherese citizens below, who stare up at the figure, cheering. This is an image of Iriolarthas at the height of his power, magically preserved in stained glass that glows with its own arcane light. Eight large portraits adorn the walls beneath the dome, depicting Iriolarthas's eight apprentices, known as the Magiciens of the Ebon Star. The portraits hang 20 feet above the ground, and a frost-covered plaque is fixed to the wall just beneath each one. The faces in the portraits are depicted as looking up toward their master, Iriolarthas, with expressions of respect. Characters who clear the ice from the plaques can learn their names: High Abjurer Taruth, High Conjurer Damorith, High Diviner Apius, High Necromancer Cadavix, High Evoker Zadulus, High Illusionist Ajamar, High Enchanter Ivira, and High Transmuter Metaltra."
 											]
 										}
 									]
@@ -59075,7 +59075,7 @@
 							]
 						},
 						"Necalli, a {@creature couatl} shapechanged into the form of an aarakocra, doesn't remember why it was bound to the obelisk or by whom. It knows only that it is free of its obligation to the obelisk's builders. It does its best to convince the characters that the obelisk is gone forever, along with nearly two thousand years of history. Necalli can administer healing to wounded characters, after which it assumes its true form and departs. It takes no action that might harm another creature.",
-						"Ythryn is now a floating, living city under the rule of the {@creature lich} Iriolarthas and his apprentices, the Wizards of the Arcane Star (eight evil {@creature Archmage||archmages}). Almost every other inhabitant of the city is either a Netherese {@creature mage} or a green-skinned magen (described in appendix C). When not partaking in their studies and revels, the Netherese focus their efforts on finding ruins of Ostoria, the ancient empire of giants. It is toward this supreme goal that all of the city's resources are directed.",
+						"Ythryn is now a floating, living city under the rule of the {@creature lich} Iriolarthas and his apprentices, the Magiciens of the Arcane Star (eight evil {@creature Archmage||archmages}). Almost every other inhabitant of the city is either a Netherese {@creature mage} or a green-skinned magen (described in appendix C). When not partaking in their studies and revels, the Netherese focus their efforts on finding ruins of Ostoria, the ancient empire of giants. It is toward this supreme goal that all of the city's resources are directed.",
 						"The obelisk is gone, erased from history, leaving the characters stranded. They are now stuck in \u2212343 DR. If the characters warn Iriolarthas about the fate that awaits Ythryn and recount the circumstances leading to its fall, the lich takes steps to ensure that history does not repeat itself, including but not limited to keeping Ostorian relics away from the {@item Ythryn mythallar|IDRotF}. In exchange for their information, Iriolarthas gives the characters a skycoach to expedite their departure from the city. Characters who flee rather than allow themselves to be detained can commandeer a skycoach and plot a course away from the city. A skycoach has the statistics of an {@item airship} (see the {@book Dungeon Master's Guide|DMG}), but its magic wanes quickly unless it's recharged using magic foreign to the characters. Soon, the skycoach struggles to remain aloft, forcing the characters to set down and salvage what they can from the vessel.",
 						"To put it mildly, the characters have a whole new world to explore. Ten-Towns doesn't exist in this timeline, nor do most of the cities along the Sword Coast that characters might recognize. Many tribes of Reghed nomads prowl Icewind Dale, while Uthgardt tribes descended from Netherese claim vast tracts of untamed land south of the Spine of the World, kept in check by marauding monsters. The Empire of Netheril controls the lush, temperate lands doomed to become the desert of Anauroch. The town of Illusk (still centuries away from becoming Luskan) surrounds the brooding Hosttower of the Arcane. Characters hoping to visit some past version of Waterdeep or Neverwinter find nothing but unsettled land surrounded by the remnants of the elven kingdom of Illefarn. Humans won't begin farming the plateau above Deepwater Harbor (the future site of Waterdeep) or building the settlement of Eigersstor (later renamed Neverwinter) for another three centuries.",
 						"To run a campaign set in this earlier time frame, you will need to delve into earlier products tied to the Forgotten Realms to get the lay of the land circa\u2013343 DR. Of course, once the characters move beyond the strongholds of civilization, the Realms of the past is very much like the Realms of the present\u2014a land of mystery, with old ruins and lost dungeons waiting to be explored. Only now the characters are poised to witness the inevitable fall of Netheril, or find a way to stop it."
@@ -59532,7 +59532,7 @@
 						"The Arcane Brotherhood sent three of its members to investigate rumors of a lost Netherese enclave that crashed in Icewind Dale nearly two thousand years ago. A fourth wizard, Nass Lantomir, learned about the expedition and decided to form her own.",
 						"Not long after they arrived in Bryn Shander, the three wizards who had formed the initial expeditionary force parted company, each one determined to be the first to find the enclave\u2014such is the fragile nature of wizardly alliances. The four wizards are described below:",
 						"{@creature Avarice|IDRotF}, an albino tiefling evoker with a pair of gargoyle companions",
-						"{@creature Dzaan's Simulacrum|IDRotF|Dzaan}, a human illusionist and Red Wizard of Thay who perished recently, but whose simulacrum lives on",
+						"{@creature Dzaan's Simulacrum|IDRotF|Dzaan}, a human illusionist and Red Magicien of Thay who perished recently, but whose simulacrum lives on",
 						"{@creature Nass Lantomir's Ghost|IDRotF|Nass Lantomir}, a human diviner who died and now exists as a spellcasting ghost",
 						"{@creature Vellynne Harpell|IDRotF}, a human necromancer from a famous family with a cadre of kobolds\u2014some living, others undead"
 					]
@@ -59866,7 +59866,7 @@
 				},
 				{
 					"type": "section",
-					"name": "Wizard Spells",
+					"name": "Magicien Spells",
 					"page": 318,
 					"id": "798",
 					"entries": [

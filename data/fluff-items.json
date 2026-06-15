@@ -7863,14 +7863,14 @@
 			}
 		},
 		{
-			"name": "Red Wizard Blade",
+			"name": "Red Magicien Blade",
 			"source": "HAT-LMI",
 			"images": [
 				{
 					"type": "image",
 					"href": {
 						"type": "internal",
-						"path": "items/HAT-LMI/Red Wizard Blade.webp"
+						"path": "items/HAT-LMI/Red Magicien Blade.webp"
 					}
 				}
 			]
