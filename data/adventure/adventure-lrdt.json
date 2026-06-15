@@ -772,7 +772,7 @@
 							"type": "list",
 							"items": [
 								"The Elf Wizard can cast a {@spell Knock} spell on the door, causing it to swing open.",
-								"The Gnome Fighter or Dwarf Clerc can break down the door. (It takes effort, but success is automatic.)",
+								"The Gnome Guerrier or Dwarf Clerc can break down the door. (It takes effort, but success is automatic.)",
 								"The Orc Rogue can use thieves' tools to pick the lock. (It takes a moment, but success is automatic.)",
 								"If the characters find the large key in scene 5, they can use it to unlock and lock the door."
 							]

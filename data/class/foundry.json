@@ -8790,7 +8790,7 @@
 					"type": "table",
 					"caption": "Runes Known",
 					"colLabels": [
-						"Fighter Level",
+						"Guerrier Level",
 						"Number of Runes"
 					],
 					"colStyles": [

@@ -7231,7 +7231,7 @@
 						},
 						"Whether doughty warriors, idealistic young soldiers, or hard-bitten mercenaries, fighters are found everywhere in the Forgotten Realms. Even the most peaceful lands have militia for protection against their enemies, and many great rulers in the Realms' past were fighters of some sort. There are always opportunities for those who know how to handle themselves in a fight.",
 						"Able-bodied folk in many parts of the Sword Coast and the North learn at least the rudiments of combat as part of a local militia, serving in times of need, while a few go on to become professional soldiers, guards, or the like. Officers tend to come from the nobility, although there are opportunities for capable leaders to demonstrate their skills and rise through the ranks.",
-						"Fighters who don't make a career of soldiering find other ways to demonstrate their prowess. Mercenaries find employment with those who need skilled warriors but who lack the time or means to train them. Such employers include adventuring companies, which are almost always in need of a reliable fighter.",
+						"Guerriers who don't make a career of soldiering find other ways to demonstrate their prowess. Mercenaries find employment with those who need skilled warriors but who lack the time or means to train them. Such employers include adventuring companies, which are almost always in need of a reliable fighter.",
 						"Merchants and guilds hire guards to protect caravans, ships, and their warehouses and guildhalls. Such work affords the opportunity for frequent travel and danger.",
 						"A good deal of danger comes from fighters who abandon legitimate employment to become bandits\u2014raiding caravans, robbing travelers, and pillaging isolated homesteads, manors, and villages. Out-of-luck fighters might also take part in gladiatorial fights or similar blood sports to make a living off their skills, although such matches are virtually unknown on the Sword Coast and in the North, as compared to southern nations like Amn and Calimshan."
 					],
@@ -7242,7 +7242,7 @@
 					"name": "Martial Archetype",
 					"page": 128,
 					"entries": [
-						"Fighters in the Forgotten Realms have the following Martial Archetype option, in addition to those in the Player's Handbook.",
+						"Guerriers in the Forgotten Realms have the following Martial Archetype option, in addition to those in the Player's Handbook.",
 						{
 							"type": "list",
 							"items": [

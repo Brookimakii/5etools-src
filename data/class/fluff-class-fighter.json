@@ -16,7 +16,7 @@
 							"type": "entries",
 							"name": "Well-Rounded Specialists",
 							"entries": [
-								"Fighters learn the basics of all combat styles. Every fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike."
+								"Guerriers learn the basics of all combat styles. Every fighter can swing an axe, fence with a rapier, wield a longsword or a greatsword, use a bow, and even trap foes in a net with some degree of skill. Likewise, a fighter is adept with shields and every form of armor. Beyond that basic degree of familiarity, each fighter specializes in a certain style of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad general ability and extensive specialization makes fighters superior combatants on battlefields and in dungeons alike."
 							]
 						},
 						{
@@ -70,7 +70,7 @@
 							"type": "entries",
 							"name": "Heraldic Sign",
 							"entries": [
-								"Fighters typically do battle for a cause. Some fight on behalf of kingdoms besieged by monsters, while others quest only for personal glory. In either case, a fighter often displays a heraldic sign that represents that cause, either adopting the symbol of a nation or a royal line, or creating a crest to represent one's self-interest.",
+								"Guerriers typically do battle for a cause. Some fight on behalf of kingdoms besieged by monsters, while others quest only for personal glory. In either case, a fighter often displays a heraldic sign that represents that cause, either adopting the symbol of a nation or a royal line, or creating a crest to represent one's self-interest.",
 								"Your character could be affiliated with an organization or a cause, and thus might already travel under a banner of some sort. If that's not the case, consider devising a heraldic sign that symbolizes an aspect of your nature or speaks to what you see as your purpose in the world.",
 								{
 									"type": "table",
@@ -322,8 +322,8 @@
 					"source": "XPHB",
 					"page": 90,
 					"entries": [
-						"Fighters rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries\u2014as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and defying it.",
-						"Fighters master various weapon techniques, and a well-equipped Fighter always has the right tool at hand for any combat situation. Likewise, a Fighter is adept with every form of armor. Beyond that basic degree of familiarity, each Fighter specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad ability and extensive specialization makes Fighters superior combatants."
+						"Guerriers rule many battlefields. Questing knights, royal champions, elite soldiers, and hardened mercenaries\u2014as Fighters, they all share an unparalleled prowess with weapons and armor. And they are well acquainted with death, both meting it out and defying it.",
+						"Guerriers master various weapon techniques, and a well-equipped Guerrier always has the right tool at hand for any combat situation. Likewise, a Guerrier is adept with every form of armor. Beyond that basic degree of familiarity, each Guerrier specializes in certain styles of combat. Some concentrate on archery, some on fighting with two weapons at once, and some on augmenting their martial skills with magic. This combination of broad ability and extensive specialization makes Guerriers superior combatants."
 					]
 				}
 			],
@@ -344,7 +344,7 @@
 						"type": "internal",
 						"path": "classes/XPHB/064-03-040.fighter-v-black-dragon.webp"
 					},
-					"title": "A Fighter stands between an ally and the onslaught of a black dragon",
+					"title": "A Guerrier stands between an ally and the onslaught of a black dragon",
 					"credit": "Campbell White",
 					"width": 2184,
 					"height": 1440

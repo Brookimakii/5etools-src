@@ -1225,7 +1225,7 @@
 							"name": "Fighter",
 							"page": 24,
 							"entries": [
-								"Fighters are common in almost every guild, with Dimir as the notable exception. In a world where constant tension among the guilds often blooms into physical violence, fighters are the core of most guilds' defenses.",
+								"Guerriers are common in almost every guild, with Dimir as the notable exception. In a world where constant tension among the guilds often blooms into physical violence, fighters are the core of most guilds' defenses.",
 								{
 									"type": "table",
 									"caption": "Fighter",
@@ -3428,7 +3428,7 @@
 									"entries": [
 										"Most Izzet recruits begin their careers as attendants. In the service of a more powerful mage, a crew of up to forty attendants engages in tasks such as recording and organizing information (sometimes under dangerous circumstances), acquiring rare items or elements (usually under dangerous circumstances), or completing experiments (always under dangerous circumstances). Goblins relish this sort of work, while other folk seek promotion into a new position as quickly as possible.",
 										"If you are a spellcaster, such as a sorcerer or a wizard, the easiest way up and out of your position is by proving your skill with magic. Most Izzet sorcerers get their magic from the Wild Magic origin, but a few claim a Draconic Bloodline. Izzet wizards tend to specialize in the School of Conjuration, Evocation, or Transmutation. As an Izzet spellcaster, you are probably connected to a particular laboratory, either one described in the \"Inside the Izzet\" section or a less prominent one focused on a narrower topic. You could be an independent researcher, a functionary devoted to carrying out errands for the guild's leadership, or a coordinator charged with synchronizing the efforts of different laboratories.",
-										"Even though the work of the Izzet League is largely focused on magic and research, if you are a more martial-minded character you still have a role to play in the guild. Fighters with the Eldritch Knight archetype often serve as guards, protecting laboratories and the inventions contained within them, or you can aspire to the elite role of scorchbringer (which comes with a flame-throwing magic device called a {@item pyroconverger|GGR}, described in {@book chapter 5|GGR|5|Pyroconverger}).",
+										"Even though the work of the Izzet League is largely focused on magic and research, if you are a more martial-minded character you still have a role to play in the guild. Guerriers with the Eldritch Knight archetype often serve as guards, protecting laboratories and the inventions contained within them, or you can aspire to the elite role of scorchbringer (which comes with a flame-throwing magic device called a {@item pyroconverger|GGR}, described in {@book chapter 5|GGR|5|Pyroconverger}).",
 										{
 											"type": "image",
 											"href": {

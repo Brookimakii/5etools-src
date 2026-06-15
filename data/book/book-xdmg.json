@@ -884,7 +884,7 @@
 							"name": "7",
 							"id": "02b",
 							"entries": [
-								"It's not Shreeve's turn, but the DM decides to allow the Goliath Fighter to step in the way of the monster's attack because it gives Shreeve a fun heroic moment. The DM changes the monster's target to Shreeve and makes an attack roll."
+								"It's not Shreeve's turn, but the DM decides to allow the Goliath Guerrier to step in the way of the monster's attack because it gives Shreeve a fun heroic moment. The DM changes the monster's target to Shreeve and makes an attack roll."
 							]
 						},
 						{
@@ -7505,7 +7505,7 @@
 							"entries": [
 								"When the characters are fighting a large number of monsters, it's not always practical to use miniatures on a battle grid or some other visual aid. So how do you determine how many monsters are affected by the Wizard's {@spell Fireball|XPHB} spell or some other area of effect?",
 								"The Targets in Area of Effect table offers a guideline. To use the table, find the column for the shape of the area, then read down until you find its size. Then check the rightmost column to see about how many creatures are caught in the area. If you imagine that the targets are spread out, decrease the number by {@dice 1d3}. If they're bunched up, you can increase the number by {@dice 1d3}. Of course, an area can't encompass more creatures than are present in an encounter.",
-								"Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Fighter when the Barde centers a {@spell Shatter|XPHB} spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} includes only three creatures.",
+								"Your judgment always outweighs these guidelines, and it's fine to err on the side of affecting more creatures. For example, if eight zombies are crowded around a Guerrier when the Barde centers a {@spell Shatter|XPHB} spell on the Fighter's space, the spell's area should definitely engulf all eight zombies, even though according to the table, a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere} includes only three creatures.",
 								{
 									"type": "table",
 									"caption": "Targets in Area of Effect",
@@ -7632,8 +7632,8 @@
 							"id": "1ac",
 							"entries": [
 								"The following scenario shows examples of how you as the DM can apply the guidelines described in the rest of this section.",
-								"Eight {@creature Zombie|XMM|Zombies} surround and attack a Fighter. The zombies' attack bonus is +3, and the Fighter's AC is 18, so the roll needed is 15 (18\u22123). Finding 15 in the \"Normal\" column and reading across to the \"Out of 8\" column, the DM gets a result of 2/8\u2014two of the zombies hit. Using the zombies' average damage (4 Bludgeoning damage), the Fighter takes 8 Bludgeoning damage.",
-								"After seeing the Fighter mauled by zombies, the Barde casts {@spell Shatter|XPHB}, centering the spell on the Fighter. (The Barde trusts that the Fighter will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere}, and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16\u22123). Finding 13 in the \"Normal\" column and reading across to the \"Out of 8\" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.",
+								"Eight {@creature Zombie|XMM|Zombies} surround and attack a Fighter. The zombies' attack bonus is +3, and the Fighter's AC is 18, so the roll needed is 15 (18\u22123). Finding 15 in the \"Normal\" column and reading across to the \"Out of 8\" column, the DM gets a result of 2/8\u2014two of the zombies hit. Using the zombies' average damage (4 Bludgeoning damage), the Guerrier takes 8 Bludgeoning damage.",
+								"After seeing the Guerrier mauled by zombies, the Barde casts {@spell Shatter|XPHB}, centering the spell on the Fighter. (The Barde trusts that the Guerrier will succeed on the Constitution saving throw and survive the resulting damage.) The spell affects a 10-foot-radius {@variantrule Sphere [Area of Effect]|XPHB|Sphere}, and the Targets in Area of Effect table suggests that such an area should encompass three zombies. However, the DM decides that all eight zombies (and the Fighter) are affected. The zombies' Constitution saving throw bonus is +3, and the Bard's spell saving throw DC is 16, so the roll needed is 13 (16\u22123). Finding 13 in the \"Normal\" column and reading across to the \"Out of 8\" column, the DM gets a result of 3/8, so three of the zombies succeed on their saving throws.",
 								"Seeing a larger crowd of zombies in the distance, the Wizard casts {@spell Fireball|XPHB}. The spell covers a 20-foot-radius Sphere. The Targets in Area of Effect table suggests that area covers ten zombies, but the DM rules that they're densely packed together and adds {@dice 1d3}, rolling a 2. So the spell engulfs twelve zombies in its area. The zombies' Dexterity saving throw modifier is \u22122, and the Wizard's spell save DC is 16, so the roll needed is 18 (16\u2212[\u22122]). Finding 18 in the Normal column and reading across to the Out of 6 column, the DM gets a result of 1/6. Twelve times 1/6 is 2, so two of the twelve zombies succeed on the save."
 							]
 						}
@@ -24754,7 +24754,7 @@
 														{
 															"type": "item",
 															"name": "Random Determination:",
-															"entry": "Use the tables at the end of this chapter to randomly determine starting items. Use the {@book Arcana tables|XDMG|6|Arcana Tables} for Sorcerers, Warlocks, and Wizards. Use the {@book Armaments tables|XDMG|6|Armaments Tables} for Barbarians, Fighters, Paladins, and Rangers. Use the {@book Implements tables|XDMG|6|Implements Tables} for Bards, Monks, and Rogues. Use the {@book Relics tables|XDMG|6|Relics Tables} for Clercs and Druids. Feel free to vary the tables you use to give each character a mix of useful items and to match character themes. For example, for a Fighter with the Eldritch Knight subclass, you might choose one item from the {@book Arcana tables|XDMG|6|Arcana Tables} and the rest of the character's items from the {@book Armaments tables|XDMG|6|Armaments Tables}."
+															"entry": "Use the tables at the end of this chapter to randomly determine starting items. Use the {@book Arcana tables|XDMG|6|Arcana Tables} for Sorcerers, Warlocks, and Wizards. Use the {@book Armaments tables|XDMG|6|Armaments Tables} for Barbarians, Fighters, Paladins, and Rangers. Use the {@book Implements tables|XDMG|6|Implements Tables} for Bards, Monks, and Rogues. Use the {@book Relics tables|XDMG|6|Relics Tables} for Clercs and Druids. Feel free to vary the tables you use to give each character a mix of useful items and to match character themes. For example, for a Guerrier with the Eldritch Knight subclass, you might choose one item from the {@book Arcana tables|XDMG|6|Arcana Tables} and the rest of the character's items from the {@book Armaments tables|XDMG|6|Armaments Tables}."
 														}
 													]
 												}
@@ -28887,7 +28887,7 @@
 					"id": "709",
 					"entries": [
 						"If you allow Bastions in your campaign, characters acquire their Bastions when they reach level 5. You and the players can decide together how these Bastions come into being. A character might inherit or receive a parcel of land on which to build their Bastion (see \"{@book Marks of Prestige|XDMG|2|Marks of Prestige}\" in {@book chapter 3|XDMG|2}), or they might take a preexisting structure and refurbish it. It's fair to assume that work has been going on behind the scenes of the campaign during a character's early adventuring career, so the Bastion is ready when the character reaches level 5.",
-						"The shape, style, and function of a character's Bastion are up to the player to determine. For example, a Wizard might build a tower, a Clerc might establish a shrine, a Fighter might build a fortified keep or similar stronghold, and a Rogue might establish a guildhall or lodge. Characters of other classes might choose one of these forms or combine them\u2014a Paladin's Bastion might be similar to a Cleric's shrine but as fortified as a Fighter's stronghold. And multiple characters can combine their Bastions to form a single large structure (see \"{@book Bastion Map|XDMG|7|Bastion Map}\").",
+						"The shape, style, and function of a character's Bastion are up to the player to determine. For example, a Wizard might build a tower, a Clerc might establish a shrine, a Guerrier might build a fortified keep or similar stronghold, and a Rogue might establish a guildhall or lodge. Characters of other classes might choose one of these forms or combine them\u2014a Paladin's Bastion might be similar to a Cleric's shrine but as fortified as a Fighter's stronghold. And multiple characters can combine their Bastions to form a single large structure (see \"{@book Bastion Map|XDMG|7|Bastion Map}\").",
 						"Every Bastion has facilities that serve basic needs as well as special ones, such as libraries, menageries, and workshops (see \"{@book Basic Facilities|XDMG|7|Basic Facilities}\" and \"{@book Special Facilities|XDMG|7|Special Facilities}\")."
 					]
 				},
@@ -30261,7 +30261,7 @@
 					"page": 356,
 					"id": "7ae",
 					"entries": [
-						"Tessalynde is a young elf Rogue who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she's gathered isn't the stuff of legend yet, she's confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Fighter too stubborn to stay down; Cazrin, a self-taught, human Wizard determined to test her theoretical mettle against the real world; Baldric, a dwarf Clerc who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Barde with as many secrets as songs; and Uggie, a pet otyugh."
+						"Tessalynde is a young elf Rogue who dreams of leading the foremost adventuring party of the Forgotten Realms setting. While the crew she's gathered isn't the stuff of legend yet, she's confident her guidance can get them there. Called the Fallbacks, the team includes Anson, a human Guerrier too stubborn to stay down; Cazrin, a self-taught, human Wizard determined to test her theoretical mettle against the real world; Baldric, a dwarf Clerc who refuses to tie himself to a single deity when he can trade favors with them all; Lark, a tiefling Barde with as many secrets as songs; and Uggie, a pet otyugh."
 					]
 				},
 				{
@@ -30731,7 +30731,7 @@
 					"entries": [
 						"The noble adventuring party known as Valor's Call was founded by Strongheart, a resolute human Paladin committed to destroying evil wherever it rears its head. Strongheart alone determines who can become a member of this prestigious group, and he is always looking for courageous heroes willing to devote themselves to a good cause.",
 						"Only good-aligned characters can join Valor's Call. The group enjoys the patronage of {@book Yolande|XDMG|8|Yolande}, the queen of Celene, and carries out missions on her behalf both in the Greyhawk setting (see {@book chapter 5|XDMG|4}) and in the {@book Feywild|XDMG|5|Feywild} (see {@book chapter 6|XDMG|5|Feywild}).",
-						"Prominent members of Valor's Call include the dwarf Fighter Elkhorn, the human Clerc Mercion, the human Rogue Molliver, and the human Wizard Ringlerun."
+						"Prominent members of Valor's Call include the dwarf Guerrier Elkhorn, the human Clerc Mercion, the human Rogue Molliver, and the human Wizard Ringlerun."
 					]
 				},
 				{
