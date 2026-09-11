@@ -901,7 +901,7 @@
 					"entries": [
 						"According to legend, Acererak was a tiefling fathered by a balor named {@creature Tarnhem|IMR}. In his youth, he studied spellcasting under Vecna, and has since become an archmage of surpassing evil. While researching the means to achieve lichdom, Acererak built a number of dungeons and tombs, including his famed Tomb of Horrors. Those dungeons were created partly as a means to draw out and defeat those adventurers driven to seek and destroy him\u2014and partly to claim those adventurers' souls to feed his phylactery.",
 						"Even after Acererak eventually became an archlich whose dark plots would threaten the world, he left behind the Tomb of Horrors as a monument to his greatness. But in its earliest stages, the tomb was a very different sort of place.",
-						"By traveling to the Tomb of Horrors in the past, the characters arrive with the place still under construction. The artificer {@creature Moghadam|IMR} serves as the tomb's chief architect, overseeing its construction in initial areas dug out by enthralled umber hulks and refined by master artisans. As part of the unprecedented levels of magic used to create the deadly traps in the Tomb of Horrors, {@creature Moghadam|IMR} has installed several of the missing components from the {@i Infernal Machine of Lum the Mad} at the site. These components are used to draw magical energy from the life force of creatures sacrificed on Acererak's orders\u2014including the archmage's own father, the balor {@creature Tarnhem|IMR}.",
+						"By traveling to the Tomb of Horrors in the past, the characters arrive with the place still under construction. The artificier {@creature Moghadam|IMR} serves as the tomb's chief architect, overseeing its construction in initial areas dug out by enthralled umber hulks and refined by master artisans. As part of the unprecedented levels of magic used to create the deadly traps in the Tomb of Horrors, {@creature Moghadam|IMR} has installed several of the missing components from the {@i Infernal Machine of Lum the Mad} at the site. These components are used to draw magical energy from the life force of creatures sacrificed on Acererak's orders\u2014including the archmage's own father, the balor {@creature Tarnhem|IMR}.",
 						"Over the years of the tomb's construction, {@creature Moghadam|IMR} and his rival artificer, {@creature Thessalar|IMR}, have competed fiercely against each other's endeavors. {@creature Moghadam|IMR} takes pleasure in having lured away several sculptors from {@creature Thessalar|IMR}'s temple to help with the tomb's construction. He has also recently sent a party of thieves and a master gemsmith to his rival's temple, instructing them to steal the temple's two most famous gems\u2014set into the eyes of a great statue of Moloch\u2014for use in the creation of Acererak's jeweled demilich skull. Unfortunately, those thieves have failed to return, and are presumed captured by {@creature Thessalar|IMR}."
 					]
 				},
@@ -919,8 +919,8 @@
 							"page": 14,
 							"id": "04d",
 							"entries": [
-								"A legendary evil human artificer, {@creature Moghadam|IMR} has long sought out interesting challenges for his immense intellect. As such, he considers the design of the Tomb of Horrors to be his masterwork. If questioned about his motivations, he claims that Acererak took his family hostage, and will not release them until {@creature Moghadam|IMR} completes his work. The truth is that the artificer has no family. He delights in creating despair, and works on the tomb in the hope that his name will go down alongside Acererak's in legend.",
-								"{@creature Moghadam|IMR} competes with a rival artificer named {@creature Thessalar|IMR}, who operates out of a temple dedicated to Moloch some distance away. {@creature Moghadam|IMR} has lured away several of {@creature Thessalar|IMR}'s expert sculptors to come work on the tomb, promising them great wealth that he has no intention of paying. More recently, the architect sent his own expert gemsmith along with a group of thieves to the Temple of Moloch, so that they might steal the gemstone eyes from its most famous statue. However, the thieves were captured, and {@creature Moghadam|IMR} is now without the gemstones or his gemsmith, and plots the means to seize both.",
+								"A legendary evil human artificer, {@creature Moghadam|IMR} has long sought out interesting challenges for his immense intellect. As such, he considers the design of the Tomb of Horrors to be his masterwork. If questioned about his motivations, he claims that Acererak took his family hostage, and will not release them until {@creature Moghadam|IMR} completes his work. The truth is that the artificier has no family. He delights in creating despair, and works on the tomb in the hope that his name will go down alongside Acererak's in legend.",
+								"{@creature Moghadam|IMR} competes with a rival artificier named {@creature Thessalar|IMR}, who operates out of a temple dedicated to Moloch some distance away. {@creature Moghadam|IMR} has lured away several of {@creature Thessalar|IMR}'s expert sculptors to come work on the tomb, promising them great wealth that he has no intention of paying. More recently, the architect sent his own expert gemsmith along with a group of thieves to the Temple of Moloch, so that they might steal the gemstone eyes from its most famous statue. However, the thieves were captured, and {@creature Moghadam|IMR} is now without the gemstones or his gemsmith, and plots the means to seize both.",
 								"See {@adventure appendix B|IMR|7} for {@creature Moghadam|IMR|Moghadam's} stat block."
 							]
 						},
@@ -1517,7 +1517,7 @@
 										"The man raises his head and intones: \"So, you've come to engage in this grand endeavor. Are you miners, sculptors, artists? Or, I suspect, something else entirely?\""
 									]
 								},
-								"{@creature Moghadam|IMR} the artificer manages the design and construction of the Tomb of Horrors from this office. He knows he has nothing to fear from the characters, and has little personal loyalty to Acererak. As such, he is happy to listen to any tale the characters tell, and to entertain any deal they might offer.",
+								"{@creature Moghadam|IMR} the artificier manages the design and construction of the Tomb of Horrors from this office. He knows he has nothing to fear from the characters, and has little personal loyalty to Acererak. As such, he is happy to listen to any tale the characters tell, and to entertain any deal they might offer.",
 								{
 									"type": "entries",
 									"name": "Moghadam's Bargain",
@@ -1536,7 +1536,7 @@
 											"height": 1000,
 											"credit": "Maxx Marshall"
 										},
-										"The artificer talks of having a number of tasks that the characters can help him with, and says he will trade the components for either of the following:",
+										"The artificier talks of having a number of tasks that the characters can help him with, and says he will trade the components for either of the following:",
 										{
 											"type": "list",
 											"items": [
@@ -2347,7 +2347,7 @@
 			"page": 24,
 			"id": "0b2",
 			"entries": [
-				"The Temple of Moloch is an ancient site steeped in magic, and the former home of a legendary artificer. {@creature Thessalar|IMR} was a master alchemist and creator of monsters, whose own blood was said to possess dire magical properties. The artificer's mad plots, thirst for power, and pursuit of lichdom eventually left the temple a ruin long ago. But the characters now find themselves back in that long ago, facing off against the artificer and his host of monstrous guardians in pursuit of the missing components of the {@i Infernal Machine of Lum the Mad}. Having come back in time, the characters have a unique opportunity to explore a site now lost to memory\u2014and to lay claim to its legendary riches.",
+				"The Temple of Moloch is an ancient site steeped in magic, and the former home of a legendary artificer. {@creature Thessalar|IMR} was a master alchemist and creator of monsters, whose own blood was said to possess dire magical properties. The artificer's mad plots, thirst for power, and pursuit of lichdom eventually left the temple a ruin long ago. But the characters now find themselves back in that long ago, facing off against the artificier and his host of monstrous guardians in pursuit of the missing components of the {@i Infernal Machine of Lum the Mad}. Having come back in time, the characters have a unique opportunity to explore a site now lost to memory\u2014and to lay claim to its legendary riches.",
 				{
 					"type": "section",
 					"name": "Background",
@@ -2355,9 +2355,9 @@
 					"id": "0b3",
 					"entries": [
 						"The Temple of Moloch was said to have begun as a series of caverns where the elemental princes Olhydra and Ogrémoch once battled, and in so doing, opened a rift to their respective Elemental Planes. This rift between the Plane of Water and the Plane of Earth resulted in a stream flowing through the caverns, which carries with it gemstones of extreme size and quality\u2014particularly rubies. When ancient peoples came upon these gems, their greed led them to gather as many as possible, and to build a temple at the site to honor Moloch. They built an ornate statue to the exiled archdevil, and set two of the largest ruby gemstones for its eyes.",
-						"Centuries later, one of the high priests of the temple, an artificer named {@creature Thessalar|IMR}, was so seduced by power and authority that he slew most of his fellow cultists in a bloody ceremony, then took control of the temple for himself. {@creature Thessalar|IMR} repurposed the chambers of the temple for his own experiments, creating numerous monsters that bore his name (including the thessalhydra), as well as unnatural beasts such as the owlbear that would one day spread across the world.",
+						"Centuries later, one of the high priests of the temple, an artificier named {@creature Thessalar|IMR}, was so seduced by power and authority that he slew most of his fellow cultists in a bloody ceremony, then took control of the temple for himself. {@creature Thessalar|IMR} repurposed the chambers of the temple for his own experiments, creating numerous monsters that bore his name (including the thessalhydra), as well as unnatural beasts such as the owlbear that would one day spread across the world.",
 						"Several of the missing components of the {@i Infernal Machine of Lum the Mad} made their way to the temple through the years. At the time the characters visit, {@creature Thessalar|IMR} has installed these components in his lab equipment, channeling their magic for the purpose of endless mutation.",
-						"Over the years that were the height of {@creature Thessalar|IMR}'s power in the temple, the artificer's chief rival was the artificer {@creature Moghadam|IMR}, architect of the Tomb of Horrors. {@creature Moghadam|IMR} recently lured away several sculptors from {@creature Thessalar|IMR}'s temple to help construct his tomb, with false promises of vast salaries. To add insult to injury, {@creature Moghadam|IMR} then sent back a party of mercenary thieves and a master gemsmith to steal the temple's most famous gems\u2014the eyes of the great statue of Moloch that is the centerpiece of the site. These thieves came under the pretense of delivering animal subjects for {@creature Thessalar|IMR}'s experiments, but were captured. The gemsmith {@creature Seodra|IMR} is now forced to labor for {@creature Thessalar|IMR}, while the thieves are the subjects of dark experiments. All are desperate to escape."
+						"Over the years that were the height of {@creature Thessalar|IMR}'s power in the temple, the artificer's chief rival was the artificier {@creature Moghadam|IMR}, architect of the Tomb of Horrors. {@creature Moghadam|IMR} recently lured away several sculptors from {@creature Thessalar|IMR}'s temple to help construct his tomb, with false promises of vast salaries. To add insult to injury, {@creature Moghadam|IMR} then sent back a party of mercenary thieves and a master gemsmith to steal the temple's most famous gems\u2014the eyes of the great statue of Moloch that is the centerpiece of the site. These thieves came under the pretense of delivering animal subjects for {@creature Thessalar|IMR}'s experiments, but were captured. The gemsmith {@creature Seodra|IMR} is now forced to labor for {@creature Thessalar|IMR}, while the thieves are the subjects of dark experiments. All are desperate to escape."
 					]
 				},
 				{
@@ -4463,7 +4463,7 @@
 									"page": 34,
 									"id": "112",
 									"entries": [
-										"The imperturbable artificer {@creature Thessalar|IMR} readily converses with the characters, albeit with a domineering attitude. His starting assumption is that they've been sent by {@creature Moghadam|IMR}, and he wants to learn as much about his rival's machinations as he can. See {@adventure appendix B|IMR|7} for his stat block.",
+										"The imperturbable artificier {@creature Thessalar|IMR} readily converses with the characters, albeit with a domineering attitude. His starting assumption is that they've been sent by {@creature Moghadam|IMR}, and he wants to learn as much about his rival's machinations as he can. See {@adventure appendix B|IMR|7} for his stat block.",
 										{
 											"type": "image",
 											"href": {
@@ -4816,7 +4816,7 @@
 										"This chamber holds a half-dozen floor-to-ceiling glass tanks, four of which are filled with a light-blue fluid in which the body of an elderly male human is suspended. Three of the bodies appear lifeless and inert. The fourth looks toward you and mouths silent words."
 									]
 								},
-								"{@creature Thessalar|IMR} maintains several clones in tanks of preserving chemicals here, prepared by the spell of the same name and awaiting his use. Three clones are inert. The fourth has managed to gain a degree of sentience from its proximity to the magic of the missing components of the {@i Infernal Machine}, and mouths its demand to be set free. If freed, it claims to be the true {@creature Thessalar|IMR} and that the artificer in {@area area 15|110|x} is an impostor.",
+								"{@creature Thessalar|IMR} maintains several clones in tanks of preserving chemicals here, prepared by the spell of the same name and awaiting his use. Three clones are inert. The fourth has managed to gain a degree of sentience from its proximity to the magic of the missing components of the {@i Infernal Machine}, and mouths its demand to be set free. If freed, it claims to be the true {@creature Thessalar|IMR} and that the artificier in {@area area 15|110|x} is an impostor.",
 								"Any freed clone uses the same stat block as {@creature Thessalar|IMR} (see {@adventure appendix C|IMR|8}) but lacks his special equipment and his homunculus.",
 								{
 									"type": "entries",
@@ -6008,7 +6008,7 @@
 											"page": 50,
 											"id": "1a7",
 											"entries": [
-												"A powerful artificer ({@creature Moghadam|IMR} or {@creature Thessalar|IMR}, at the DM's determination) becomes your enemy. The artificer seeks your ruin, savoring your suffering before attempting to slay you."
+												"A powerful artificier ({@creature Moghadam|IMR} or {@creature Thessalar|IMR}, at the DM's determination) becomes your enemy. The artificier seeks your ruin, savoring your suffering before attempting to slay you."
 											]
 										},
 										{
@@ -6124,7 +6124,7 @@
 					"page": 93,
 					"id": "20f",
 					"entries": [
-						"The artificer {@creature Thessalar|IMR} is known for his experiments with unique toxins, three of which can be found in this adventure.",
+						"The artificier {@creature Thessalar|IMR} is known for his experiments with unique toxins, three of which can be found in this adventure.",
 						{
 							"type": "list",
 							"columns": 3,

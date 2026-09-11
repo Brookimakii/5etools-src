@@ -1,0 +1,866 @@
+{
+    "id":"6DB462D6E6E4461C94917BE3D1DD588B",
+    "initiative movement locked":0,
+    "initiative owner permissions":0,
+    "zoneIDs":[
+        "E96C0608127C43478538C664E3264545",
+        "76B2AFDBB0964529BC9FC8F2D89E505D",
+        "B2BD9F00231D4A9988E64EA345DFE69C",
+        "F136AA86E63C475982A0DBB5EFE41D8D",
+        "3EB0CC65362342D5B6C3129089E28E67",
+        "BF60C50314F24EC48126208C2CB5FE12",
+        "6C7587D3EE274FBD868D8B14729479AB",
+        "78043D904DD442B8AD488D9B7D4BCAC5",
+        "4E190B3090504121848729737CF6B1AC",
+        "15C1DBE218014E39A866E4CCA77AC1F7"
+    ],
+    "zones":{
+
+        "Location Layouts":"E96C0608127C43478538C664E3264545",
+        "01.Start":"76B2AFDBB0964529BC9FC8F2D89E505D",
+        "00.DM":"B2BD9F00231D4A9988E64EA345DFE69C",
+        "03.Characters":"F136AA86E63C475982A0DBB5EFE41D8D",
+        "C. Cavernes":"3EB0CC65362342D5B6C3129089E28E67",
+        "Import 1 of Center - Ts'iibol Kaah":"BF60C50314F24EC48126208C2CB5FE12",
+        "East - K'ak'náab":"6C7587D3EE274FBD868D8B14729479AB",
+        "South - Chikʼin":"78043D904DD442B8AD488D9B7D4BCAC5",
+        "Ouest - Muul Na'atil":"4E190B3090504121848729737CF6B1AC",
+        "East - Forest":"15C1DBE218014E39A866E4CCA77AC1F7"
+    
+    },
+    "tables":[],
+    "light sources":{
+        "Aura":[
+            {
+                "name":"Aura 3m",
+                "max range":3.75,
+                "type":"AURA",
+                "scale":false,
+                "light segments":[
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":3.75,
+                        "arcAngle":90.0,
+                        "paint":{
+                            "color":-65281
+                        },
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    }
+                ]
+            },
+            {
+                "name":"Aura 9m",
+                "max range":9.75,
+                "type":"AURA",
+                "scale":false,
+                "light segments":[
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":9.75,
+                        "arcAngle":90.0,
+                        "paint":{
+                            "color":-65281
+                        },
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    }
+                ]
+            },
+            {
+                "name":"Aura 1.5m",
+                "max range":1.75,
+                "type":"AURA",
+                "scale":false,
+                "light segments":[
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":1.75,
+                        "arcAngle":90.0,
+                        "paint":{
+                            "color":-1
+                        },
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    }
+                ]
+            }
+        ],
+        "D20":[
+            {
+                "name":"Lamp - 15",
+                "max range":30.0,
+                "type":"NORMAL",
+                "scale":false,
+                "light segments":[
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":15.0,
+                        "arcAngle":90.0,
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    },
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":30.0,
+                        "arcAngle":90.0,
+                        "paint":{
+                            "color":-16777216
+                        },
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    }
+                ]
+            },
+            {
+                "name":"Candle - 5",
+                "max range":10.0,
+                "type":"NORMAL",
+                "scale":false,
+                "light segments":[
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":5.0,
+                        "arcAngle":90.0,
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    }, 
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":10.0,
+                        "arcAngle":90.0,
+                        "paint":{
+                            "color":-16777216
+                        },
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    }
+                ]
+            },
+            {
+                "name":"Lantern, Hooded - 30",
+                "max range":60.0,
+                "type":"NORMAL",
+                "scale":false,
+                "light segments":[
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":30.0,
+                        "arcAngle":90.0,
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    },
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":60.0,
+                        "arcAngle":90.0,
+                        "paint":{
+                            "color":-16777216
+                        },
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    }
+                ]
+            },
+            {
+                "name":"Torch - 20",
+                "max range":40.0,
+                "type":"NORMAL",
+                "scale":false,
+                "light segments":[
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":20.0,
+                        "arcAngle":90.0,
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    },
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":40.0,
+                        "arcAngle":90.0,
+                        "paint":{
+                            "color":-16777216
+                        },
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    }
+                ]
+            },
+            {
+                "name":"Everburning - 20",
+                "max range":40.0,
+                "type":"NORMAL",
+                "scale":false,
+                "light segments":[
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":20.0,
+                        "arcAngle":90.0,
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    },
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":40.0,
+                        "arcAngle":90.0,
+                        "paint":{
+                            "color":-16777216
+                        },
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    }
+                ]
+            },
+            {
+                "name":"Sunrod - 30",
+                "max range":60.0,
+                "type":"NORMAL",
+                "scale":false,
+                "light segments":[
+                    {
+                        "shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":30.0,
+                        "arcAngle":90.0,
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    },
+                        {"shape":"CIRCLE",
+                        "facingOffset":0.0,
+                        "radius":60.0,
+                        "arcAngle":90.0,
+                        "paint":{
+                            "color":-16777216
+                        },
+                        "lumens":100,
+                        "isGM":false,
+                        "ownerOnly":false
+                    }
+                ]
+            }
+    ],
+    "Generic":[{
+        "name":"5",
+    "max range":5.0,
+    "type":"NORMAL",
+    "scale":false,
+    "light segments":[{"shape":"CIRCLE",
+    "facingOffset":0.0,
+    "radius":5.0,
+    "arcAngle":90.0,
+    "lumens":100,
+    "isGM":false,
+    "ownerOnly":false}]
+},
+    {
+        "name":"15",
+    "max range":15.0,
+    "type":"NORMAL",
+    "scale":false,
+    "light segments":[{"shape":"CIRCLE",
+    "facingOffset":0.0,
+    "radius":15.0,
+    "arcAngle":90.0,
+    "lumens":100,
+    "isGM":false,
+    "ownerOnly":false}]
+},
+    {
+        "name":"60",
+    "max range":60.0,
+    "type":"NORMAL",
+    "scale":false,
+    "light segments":[{"shape":"CIRCLE",
+    "facingOffset":0.0,
+    "radius":60.0,
+    "arcAngle":90.0,
+    "lumens":100,
+    "isGM":false,
+    "ownerOnly":false}]
+},
+    {
+        "name":"40",
+    "max range":40.0,
+    "type":"NORMAL",
+    "scale":false,
+    "light segments":[{"shape":"CIRCLE",
+    "facingOffset":0.0,
+    "radius":40.0,
+    "arcAngle":90.0,
+    "lumens":100,
+    "isGM":false,
+    "ownerOnly":false}]
+},
+    {
+        "name":"20",
+    "max range":20.0,
+    "type":"NORMAL",
+    "scale":false,
+    "light segments":[{"shape":"CIRCLE",
+    "facingOffset":0.0,
+    "radius":20.0,
+    "arcAngle":90.0,
+    "lumens":100,
+    "isGM":false,
+    "ownerOnly":false}]
+},
+    {
+        "name":"30",
+    "max range":30.0,
+    "type":"NORMAL",
+    "scale":false,
+    "light segments":[{"shape":"CIRCLE",
+    "facingOffset":0.0,
+    "radius":30.0,
+    "arcAngle":90.0,
+    "lumens":100,
+    "isGM":false,
+    "ownerOnly":false}]}]
+},
+    "states":{
+        "Halo":[{
+        "name":"Initiative",
+    "type":"OTokenOverlay",
+    "group":"Halo",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":0,
+    "mouseOver":0,
+    "opacity":100,
+    "order":0
+},
+    {
+        "name":"Joueur",
+    "type":"OTokenOverlay",
+    "group":"Halo",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":0,
+    "mouseOver":0,
+    "opacity":100,
+    "order":1
+},
+    {
+        "name":"Allié",
+    "type":"OTokenOverlay",
+    "group":"Halo",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":0,
+    "mouseOver":0,
+    "opacity":100,
+    "order":2
+},
+    {
+        "name":"Enemy",
+    "type":"OTokenOverlay",
+    "group":"Halo",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":0,
+    "mouseOver":0,
+    "opacity":100,
+    "order":3
+},
+    {
+        "name":"Neutre",
+    "type":"OTokenOverlay",
+    "group":"Halo",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":0,
+    "mouseOver":0,
+    "opacity":100,
+    "order":4}],
+    "no group":[{
+        "name":"Stabilisé",
+    "type":"FlowImageTokenOverlay",
+    "group":"no group",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":5
+},
+    {
+        "name":"Mourant",
+    "type":"FlowImageTokenOverlay",
+    "group":"no group",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":6
+},
+    {
+        "name":"Mort",
+    "type":"XTokenOverlay",
+    "group":"no group",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":0,
+    "mouseOver":0,
+    "opacity":100,
+    "order":7
+},
+    {
+        "name":"Hidden",
+    "type":"ShadedTokenOverlay",
+    "group":"no group",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":0,
+    "mouseOver":0,
+    "opacity":25,
+    "order":8
+},
+    {
+        "name":"Other",
+    "type":"ColorDotTokenOverlay",
+    "group":"no group",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":0,
+    "mouseOver":0,
+    "opacity":100,
+    "order":9
+},
+    {
+        "name":"Other2",
+    "type":"DiamondTokenOverlay",
+    "group":"no group",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":0,
+    "mouseOver":0,
+    "opacity":100,
+    "order":10
+},
+    {
+        "name":"Concentration",
+    "type":"FlowImageTokenOverlay",
+    "group":"no group",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":25}],
+    "Condition":[{
+        "name":"À Terre",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":11
+},
+    {
+        "name":"Aggrippé",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":12
+},
+    {
+        "name":"Assourdi",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":13
+},
+    {
+        "name":"Aveuglé",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":14
+},
+    {
+        "name":"Charmé",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":15
+},
+    {
+        "name":"Effrayé",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":16
+},
+    {
+        "name":"Empoisonné",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":17
+},
+    {
+        "name":"Entravé",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":18
+},
+    {
+        "name":"Étourdi",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":19
+},
+    {
+        "name":"Inconscient",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":20
+},
+    {
+        "name":"Invisible",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":0,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":21
+},
+    {
+        "name":"Neutralisé",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":22
+},
+    {
+        "name":"Paralysé",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":23
+},
+    {
+        "name":"Pétrifié",
+    "type":"FlowImageTokenOverlay",
+    "group":"Condition",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":24}],
+    "Épuisement":[{
+        "name":"Épuisement niv.1",
+    "type":"FlowImageTokenOverlay",
+    "group":"Épuisement",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":26
+},
+    {
+        "name":"Épuisement niv.2",
+    "type":"FlowImageTokenOverlay",
+    "group":"Épuisement",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":27
+},
+    {
+        "name":"Épuisement niv.3",
+    "type":"FlowImageTokenOverlay",
+    "group":"Épuisement",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":28
+},
+    {
+        "name":"Épuisement niv.4",
+    "type":"FlowImageTokenOverlay",
+    "group":"Épuisement",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":29
+},
+    {
+        "name":"Épuisement niv.5",
+    "type":"FlowImageTokenOverlay",
+    "group":"Épuisement",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":30
+},
+    {
+        "name":"Épuisement niv.6",
+    "type":"XTokenOverlay",
+    "group":"Épuisement",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":0,
+    "mouseOver":0,
+    "opacity":100,
+    "order":31}],
+    "Cible de Sort":[{
+        "name":"Marque du Chasseur",
+    "type":"FlowImageTokenOverlay",
+    "group":"Cible de Sort",
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1,
+    "isImageOverlay":1,
+    "mouseOver":0,
+    "opacity":100,
+    "order":32}]
+},
+    "remote repository":[],
+    "sight":{
+        "Lowlight":{
+        "arc":90,
+    "distance":90,
+    "multiplier":2.0,
+    "shape":"CIRCLE",
+    "type":0
+},
+    "Normal Vision":{
+        "arc":90,
+    "distance":90,
+    "multiplier":1.0,
+    "shape":"CIRCLE",
+    "type":0
+},
+    "Darkvision":{
+        "arc":90,
+    "distance":90,
+    "multiplier":1.0,
+    "shape":"CIRCLE",
+    "type":0
+},
+    "Normal Vision - Short Range (Meters)":{
+        "arc":90,
+    "distance":90,
+    "multiplier":1.0,
+    "shape":"CIRCLE",
+    "type":0
+},
+    "Normal Vision - Short Range":{
+        "arc":90,
+    "distance":90,
+    "multiplier":1.0,
+    "shape":"CIRCLE",
+    "type":0
+},
+    "Normal":{
+        "arc":90,
+    "distance":90,
+    "multiplier":1.0,
+    "shape":"CIRCLE",
+    "type":0
+},
+    "Grid Vision":{
+        "arc":90,
+    "distance":90,
+    "multiplier":1.0,
+    "shape":"GRID",
+    "type":0
+},
+    "Normal Vision - Long Range":{
+        "arc":90,
+    "distance":90,
+    "multiplier":1.0,
+    "shape":"CIRCLE",
+    "type":0
+},
+    "Conic Vision":{
+        "arc":120,
+    "distance":120,
+    "multiplier":1.0,
+    "shape":"CONE",
+    "type":0
+},
+    "Square Vision":{
+        "arc":90,
+    "distance":90,
+    "multiplier":1.0,
+    "shape":"SQUARE",
+    "type":0}
+},
+    "bars":{
+        "no group":[{
+        "name":"Health",
+    "type":"TwoToneBarTokenOverlay",
+    "side":"TOP",
+    "increment":0,
+    "mouseOver":0,
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1
+},
+    {
+        "name":"NLD_HP",
+    "type":"TwoImageBarTokenOverlay",
+    "side":"TOP",
+    "increment":0,
+    "mouseOver":0,
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1
+},
+    {
+        "name":"TempHP",
+    "type":"SingleImageBarTokenOverlay",
+    "side":"TOP",
+    "increment":0,
+    "mouseOver":0,
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1
+},
+    {
+        "name":"EmptyHP",
+    "type":"SingleImageBarTokenOverlay",
+    "side":"TOP",
+    "increment":0,
+    "mouseOver":0,
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1
+},
+    {
+        "name":"HPDamage",
+    "type":"SingleImageBarTokenOverlay",
+    "side":"TOP",
+    "increment":0,
+    "mouseOver":0,
+    "isShowGM":1,
+    "isShowOwner":1,
+    "isShowOthers":1
+}
+]
+}
+}

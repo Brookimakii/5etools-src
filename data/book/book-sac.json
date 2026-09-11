@@ -152,7 +152,7 @@
 													"id": "012",
 													"entries": [
 														"10 + your Dexterity modifier + your natural armor bonus. This is a calculation method typically used only by monsters and NPCs, although it is also relevant to a druid or another character who assumes a form that has natural armor.",
-														"These methods\u2014along with any others that give you a formula for calculating your AC\u2014are mutually exclusive; you can benefit from only one at a time. If you have access to more than one, you pick which one to use. For example, if you're a sorcerer/monk, you can use either Unarmored Defense or Draconic Resilience, not both. Similarly, a druid/ barbarian who transforms into a beast form that has natural armor can use either the beast's natural armor or Unarmored Defense (you aren't considered to be wearing armor when you use natural armor).",
+														"These methods\u2014along with any others that give you a formula for calculating your AC\u2014are mutually exclusive; you can benefit from only one at a time. If you have access to more than one, you pick which one to use. For example, if you're a sorcerer/monk, you can use either Unarmored Defense or Draconic Resilience, not both. Similarly, a druid/ barbare who transforms into a beast form that has natural armor can use either the beast's natural armor or Unarmored Defense (you aren't considered to be wearing armor when you use natural armor).",
 														"What about a shield? A shield increases your AC by 2 while you use it. For example, if you're unarmored and use a shield, your AC is 12 + your Dexterity modifier. Keep in mind that some AC calculations, such as a monk's Unarmored Defense, prohibit the use of a shield.",
 														"Once you have your base AC, it can be temporarily modified by situational bonuses and penalties. For instance, having half cover gives you a +2 bonus to your AC, and three-quarters cover gives a +5 bonus. Spells sometimes modify AC as well. {@spell Shield of faith}, for example, grants a target a +2 bonus to AC until the spell ends.",
 														"Magic items can also enhance your AC. Here are a few examples: {@item +1 chain mail} gives you an AC of 17, a {@item ring of protection} gives you a +1 bonus to AC no matter what you're wearing, and {@item bracers of defense} grant you a +2 bonus to AC if you're not wearing armor or using a shield."
@@ -258,7 +258,7 @@
 										},
 										{
 											"type": "entries",
-											"name": "Can an artificer dismiss one of their infusions on an object early?",
+											"name": "Can an artificier dismiss one of their infusions on an object early?",
 											"entries": [
 												"No. An infusion lasts until one of the circumstances described in the \"Infusing an Item\" section of the Infuse Item feature."
 											],
@@ -277,7 +277,7 @@
 											"name": "Does the barbarian's Danger Sense work against breath weapons and enemies' special abilities?",
 											"id": "01c",
 											"entries": [
-												"A barbarian's Danger Sense benefits the Dexterity saving throw against any effect that the barbarian can see."
+												"A barbarian's Danger Sense benefits the Dexterity saving throw against any effect that the barbare can see."
 											]
 										},
 										{
@@ -2402,7 +2402,7 @@
 											"name": "Can you use a shield with mage armor?",
 											"id": "106",
 											"entries": [
-												"{@spell Mage armor} works with a {@item shield|PHB}. Shields are grouped with armor in the equipment rules in the {@book Player's Handbook|PHB}, but various game features distinguish between the armor you wear and a shield you wield. Take a look at the monk's Unarmored Defense feature and compare it to the barbarian's version. In the monk's version, you must both forgo wearing armor and forgo wielding a shield if you want to benefit from the feature, whereas a barbarian must only forgo wearing armor."
+												"{@spell Mage armor} works with a {@item shield|PHB}. Shields are grouped with armor in the equipment rules in the {@book Player's Handbook|PHB}, but various game features distinguish between the armor you wear and a shield you wield. Take a look at the monk's Unarmored Defense feature and compare it to the barbarian's version. In the monk's version, you must both forgo wearing armor and forgo wielding a shield if you want to benefit from the feature, whereas a barbare must only forgo wearing armor."
 											]
 										},
 										{

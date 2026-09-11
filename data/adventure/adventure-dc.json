@@ -148,7 +148,7 @@
 							"name": "Conyberry",
 							"id": "007",
 							"entries": [
-								"The Triboar Trail runs right through this abandoned town, which was sacked by barbarians years ago and now lies in ruins."
+								"The Triboar Trail runs right through this abandoned town, which was sacked by barbares years ago and now lies in ruins."
 							]
 						},
 						{
@@ -220,7 +220,7 @@
 							"name": "Starmetal Hills",
 							"id": "010",
 							"entries": [
-								"This range of rocky knolls is so named because the area has been the impact site of several meteor showers over millennia. The hills are haunted by ruthless barbarian tribes, giving others little reason to visit the area."
+								"This range of rocky knolls is so named because the area has been the impact site of several meteor showers over millennia. The hills are haunted by ruthless barbare tribes, giving others little reason to visit the area."
 							]
 						},
 						{
@@ -5126,7 +5126,7 @@
 												"The north gate is on fire! Defenders huddle behind the palisade, not daring to peek over the parapet. Every few seconds, the gate heaves on its hinges as something heavy slams into it from the other side. From beyond, you hear the roaring of barbarians."
 											]
 										},
-										"The {@creature Anchorite of Talos|DIP|anchorites of Talos} are using a battering ram to demolish the burning gate. Each time they spot a defender on the wall, the barbarians hurl {@spell Lightning Bolt||lightning bolts} at them. The players have one minute to act before the gate is destroyed and the barbarians pour through. A large force of anchorites is pressing at the gates, numbering at least a hundred. Use your judgement to resolve any plans that the players devise and award them appropriately (see \"{@area Narrative Combat|0aa|x}\").",
+										"The {@creature Anchorite of Talos|DIP|anchorites of Talos} are using a battering ram to demolish the burning gate. Each time they spot a defender on the wall, the barbares hurl {@spell Lightning Bolt||lightning bolts} at them. The players have one minute to act before the gate is destroyed and the barbares pour through. A large force of anchorites is pressing at the gates, numbering at least a hundred. Use your judgement to resolve any plans that the players devise and award them appropriately (see \"{@area Narrative Combat|0aa|x}\").",
 										"If the gate is demolished, the players must hold the line alongside the defenders. In the first round, the players face two {@creature Anchorite of Talos|DIP|anchorites of Talos} for every character in the party, including sidekicks. At the start of every round thereafter, one additional anchorite joins the conflict for every character in the party. To prevail, the party must hold out for 8 rounds without retreating (or 5 rounds if they successfully completed the \"{@adventure Icingdeath and Twinkle|DC|4}\" quest). After this time, allied reinforcements rally to secure the palisade in this section and drive back the cultists. Regardless of how the characters fare, they hear screams from the quayside: the undead have overrun the docks!",
 										{
 											"type": "list",
@@ -5150,7 +5150,7 @@
 												"Screams echo across the quayside as zombies emerge from the mire! Defenders dash to repel the undead, but they seem unprepared for the surprise attack. As you get closer, you see a large undead figure with long fingers squatting over an upturned rowboat. A woman squirms in the mud underneath, trapped by the weight of the boat. You recognize her as Valdi Estapaar, the fisherwoman who sits on the town council!"
 											]
 										},
-										"A {@creature boneclaw|MTF} has cornered Councilor Estapaar and is preparing to slay her. Estapaar is a {@creature veteran}, but she is currently {@condition restrained} underneath the rowboat. To free the councilor, characters with a combined Strength score of 15 or higher must spend an action to heft the boat aside (if they attempt this while the boneclaw is perched on the boat, they need to muster a combined Strength score of 25 instead). At some point during the battle, the characters hear bells ringing to the north of town: the barbarians have broken through the gates!",
+										"A {@creature boneclaw|MTF} has cornered Councilor Estapaar and is preparing to slay her. Estapaar is a {@creature veteran}, but she is currently {@condition restrained} underneath the rowboat. To free the councilor, characters with a combined Strength score of 15 or higher must spend an action to heft the boat aside (if they attempt this while the boneclaw is perched on the boat, they need to muster a combined Strength score of 25 instead). At some point during the battle, the characters hear bells ringing to the north of town: the barbares have broken through the gates!",
 										{
 											"type": "list",
 											"items": [
@@ -5241,7 +5241,7 @@
 											"type": "insetReadaloud",
 											"id": "0cc",
 											"entries": [
-												"The first light of dawn paints the landscape in shades of gray, yet the wind and rain are worsening. On a crag overlooking the town, a line of six savage barbarians beat out a relentless rhythm on their war drums. With each crescendo, a bolt of lightning slams into the town below!"
+												"The first light of dawn paints the landscape in shades of gray, yet the wind and rain are worsening. On a crag overlooking the town, a line of six savage barbares beat out a relentless rhythm on their war drums. With each crescendo, a bolt of lightning slams into the town below!"
 											]
 										},
 										"Six {@creature wereboar} drummers perform a magical ritual to bring down lightning. Once per round, while at least one wereboar is drumming, any one of the drummers can duplicate the effect of a {@spell call lightning} spell, except it has no limit to its range. The drummers fight until death and refuse to parley.",

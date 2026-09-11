@@ -24,8 +24,8 @@
 			],
 			"entries": [
 				"This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the \"Equipment\" chapter in the {@book Player's Handbook|PHB} for a list of {@item artisan's tools|PHB}). Whatever form the tool takes, you are proficient with it.",
-				"While holding this tool, you gain a +1 bonus to the spell attack rolls and the saving throw DCs of your artificer spells.",
-				"As an action, you can focus on the tool to channel your creative forces. Choose a cantrip that you don't know from any class list. For 8 hours, you can cast that cantrip, and it counts as an artificer cantrip for you. Once this property is used, it can't be used again until the next dawn."
+				"While holding this tool, you gain a +1 bonus to the spell attack rolls and the saving throw DCs of your artificier spells.",
+				"As an action, you can focus on the tool to channel your creative forces. Choose a cantrip that you don't know from any class list. For 8 hours, you can cast that cantrip, and it counts as an artificier cantrip for you. Once this property is used, it can't be used again until the next dawn."
 			]
 		},
 		{
@@ -335,8 +335,8 @@
 			],
 			"entries": [
 				"This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the \"Equipment\" chapter in the {@book Player's Handbook|PHB} for a list of {@item artisan's tools|PHB}). Whatever form the tool takes, you are proficient with it.",
-				"While holding this tool, you gain a +2 bonus to the spell attack rolls and the saving throw DCs of your artificer spells.",
-				"As an action, you can focus on the tool to channel your creative forces. Choose a cantrip that you don't know from any class list. For 8 hours, you can cast that cantrip, and it counts as an artificer cantrip for you. Once this property is used, it can't be used again until the next dawn."
+				"While holding this tool, you gain a +2 bonus to the spell attack rolls and the saving throw DCs of your artificier spells.",
+				"As an action, you can focus on the tool to channel your creative forces. Choose a cantrip that you don't know from any class list. For 8 hours, you can cast that cantrip, and it counts as an artificier cantrip for you. Once this property is used, it can't be used again until the next dawn."
 			]
 		},
 		{
@@ -713,8 +713,8 @@
 			],
 			"entries": [
 				"This simple screwdriver can transform into a variety of tools; as an action, you can touch the item and transform it into any type of artisan's tool of your choice (see the \"Equipment\" chapter in the {@book Player's Handbook|PHB} for a list of {@item artisan's tools|PHB}). Whatever form the tool takes, you are proficient with it.",
-				"While holding this tool, you gain a +3 bonus to the spell attack rolls and the saving throw DCs of your artificer spells.",
-				"As an action, you can focus on the tool to channel your creative forces. Choose a cantrip that you don't know from any class list. For 8 hours, you can cast that cantrip, and it counts as an artificer cantrip for you. Once this property is used, it can't be used again until the next dawn."
+				"While holding this tool, you gain a +3 bonus to the spell attack rolls and the saving throw DCs of your artificier spells.",
+				"As an action, you can focus on the tool to channel your creative forces. Choose a cantrip that you don't know from any class list. For 8 hours, you can cast that cantrip, and it counts as an artificier cantrip for you. Once this property is used, it can't be used again until the next dawn."
 			]
 		},
 		{
@@ -3064,7 +3064,7 @@
 			"dmg1": "1d8",
 			"dmgType": "O",
 			"entries": [
-				"This prosthetic appendage was developed by artificers of House Cannith. To attune to this item, you must attach it to your arm at the wrist, elbow, or shoulder, at which point the prosthetic magically forms a copy of the appendage it's replacing.",
+				"This prosthetic appendage was developed by artificiers of House Cannith. To attune to this item, you must attach it to your arm at the wrist, elbow, or shoulder, at which point the prosthetic magically forms a copy of the appendage it's replacing.",
 				"While attached, the prosthetic provides these benefits:",
 				{
 					"type": "list",
@@ -7555,7 +7555,7 @@
 			"bonusWeapon": "+2",
 			"entries": [
 				"You gain a +2 bonus to attack and damage rolls made with this magic axe. The axe deals an extra {@damage 1d6} necrotic damage to creatures that aren't constructs or undead. If you reduce such a creature to 0 hit points with an attack using this axe, you gain 10 temporary hit points.",
-				"This axe is forged from a dark, rust-colored metal and once belonged to the goliath barbarian Grog Strongjaw of Vox Machina."
+				"This axe is forged from a dark, rust-colored metal and once belonged to the goliath barbare Grog Strongjaw of Vox Machina."
 			]
 		},
 		{
@@ -28211,7 +28211,7 @@
 			"dmgType": "S",
 			"bonusWeapon": "+1",
 			"entries": [
-				"In the Year of the Icy Axe (123 DR), the {@creature frost giant} Lord Gurt fell to Uthgar Gardolfsson\u2014leader of the folk who would become the Uthgardt barbarians\u2014in a battle that marked the ascendance of humankind over the giants in the Dessarin Valley. Gurt's greataxe was buried in Morgur's Mound until it was unearthed and brought back to Waterdeep. After laying in the city's vaults for decades, the axe was given to Harshnag, a {@creature frost giant} adventurer, in recognition of his service to Waterdeep. Uthgardt barbarians recognize the weapon on sight and attack any giant that wields it.",
+				"In the Year of the Icy Axe (123 DR), the {@creature frost giant} Lord Gurt fell to Uthgar Gardolfsson\u2014leader of the folk who would become the Uthgardt barbarians\u2014in a battle that marked the ascendance of humankind over the giants in the Dessarin Valley. Gurt's greataxe was buried in Morgur's Mound until it was unearthed and brought back to Waterdeep. After laying in the city's vaults for decades, the axe was given to Harshnag, a {@creature frost giant} adventurer, in recognition of his service to Waterdeep. Uthgardt barbares recognize the weapon on sight and attack any giant that wields it.",
 				"You gain a +1 bonus to attack and damage rolls made with this magic weapon. It is sized for a giant, weighs 325 pounds, and deals {@damage 3d12} slashing damage on a hit, plus an extra {@damage 2d12} slashing damage if the target is human.",
 				"The axe sheds light as a torch when the temperature around it drops below 0 degrees Fahrenheit. The light can't be shut off in these conditions.",
 				"As an action, you can cast a version of the {@spell heat metal} spell (save {@dc 13}) that deals cold damage instead of fire damage. Once this power is used, it can't be used again until the next dawn."
@@ -66106,7 +66106,7 @@
 			"rarity": "none",
 			"poison": true,
 			"entries": [
-				"This poison was first created using blood harvested from the artificer Thessalar. A creature subjected to the poison must succeed on a {@dc 15} Constitution saving throw or take on a new form as if affected by the {@spell polymorph} spell. The creature's new form is a random beast or a creature it has seen within the last 24 hours (as chosen by the DM). This transformation lasts until the end of the target's next long rest. This effect is not subject to {@spell dispel magic} or {@spell remove curse}, but a {@spell greater restoration} spell restores the creature to its original form."
+				"This poison was first created using blood harvested from the artificier Thessalar. A creature subjected to the poison must succeed on a {@dc 15} Constitution saving throw or take on a new form as if affected by the {@spell polymorph} spell. The creature's new form is a random beast or a creature it has seen within the last 24 hours (as chosen by the DM). This transformation lasts until the end of the target's next long rest. This effect is not subject to {@spell dispel magic} or {@spell remove curse}, but a {@spell greater restoration} spell restores the creature to its original form."
 			],
 			"poisonTypes": [
 				"ingested",
@@ -66820,7 +66820,7 @@
 				}
 			},
 			"entries": [
-				"Carved from the heartstone of a slain earth primordial, these gauntlets bestow immeasurable might to their wearer. In recent times, they were wielded by the legendary barbarian {@creature Grog Strongjaw|TDCSR}, who continues to use them as he seeks worthy challengers across Tal'Dorei and Exandria.",
+				"Carved from the heartstone of a slain earth primordial, these gauntlets bestow immeasurable might to their wearer. In recent times, they were wielded by the legendary barbare {@creature Grog Strongjaw|TDCSR}, who continues to use them as he seeks worthy challengers across Tal'Dorei and Exandria.",
 				{
 					"type": "entries",
 					"name": "Dormant",
@@ -78869,7 +78869,7 @@
 				}
 			},
 			"entries": [
-				"Carved from the heartstone of a slain earth primordial, these gauntlets bestow immeasurable might to their wearer. In recent times, they were wielded by the legendary barbarian {@creature Grog Strongjaw|TDCSR}, who continues to use them as he seeks worthy challengers across Tal'Dorei and Exandria."
+				"Carved from the heartstone of a slain earth primordial, these gauntlets bestow immeasurable might to their wearer. In recent times, they were wielded by the legendary barbare {@creature Grog Strongjaw|TDCSR}, who continues to use them as he seeks worthy challengers across Tal'Dorei and Exandria."
 			],
 			"items": [
 				"Titanstone Knuckles (Dormant)|TDCSR",

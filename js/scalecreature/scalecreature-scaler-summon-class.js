@@ -132,7 +132,7 @@ export class ScaleClassSummonedCreature extends ScaleSummonedCreature {
 				const numTimes = isNaN(m.last().perLevel) ? Parser.textToNumber(m.last().perLevel) : Number(m.last().perLevel);
 				return `${Number(m.last().base) + (numTimes * toClassLevel)}`;
 			})
-			// "1 + <...> + your artificer level"
+			// "1 + <...> + your artificier level"
 			.replace(/(?<base>\d+)\s*\+\s*your (?:(?<className>[^(]*) )?level/g, (...m) => {
 				return `${Number(m.last().base) + toClassLevel}`;
 			})

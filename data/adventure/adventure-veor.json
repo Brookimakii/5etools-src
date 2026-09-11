@@ -2241,7 +2241,7 @@
 														{
 															"type": "item",
 															"name": "Waterclock Guild",
-															"entry": "Shanzezim is bound to a portion of the catacombs once controlled by a vanished organization of artificers and geomancers called the Waterclock Guild. Additional guild catacombs lie past the collapsed portion of this room, but they hold nothing of interest."
+															"entry": "Shanzezim is bound to a portion of the catacombs once controlled by a vanished organization of artificiers and geomancers called the Waterclock Guild. Additional guild catacombs lie past the collapsed portion of this room, but they hold nothing of interest."
 														}
 													]
 												}
@@ -12484,7 +12484,7 @@
 					"name": "Landro",
 					"id": "1c7",
 					"entries": [
-						"In the Last War's climactic final years, Cyran artificers crafted massive war machines called colossi. One of the nation's greatest specimens was deployed to the battlefield just as the Day of Mourning swept over Cyre and destroyed the nation. Instead of teleporting to the front lines, this colossus, called Landro, appeared miles away, half-buried in the face of a soaring mountain. Landro's crew was killed instantly.",
+						"In the Last War's climactic final years, Cyran artificiers crafted massive war machines called colossi. One of the nation's greatest specimens was deployed to the battlefield just as the Day of Mourning swept over Cyre and destroyed the nation. Instead of teleporting to the front lines, this colossus, called Landro, appeared miles away, half-buried in the face of a soaring mountain. Landro's crew was killed instantly.",
 						"Landro now looms empty and foreboding over Mount Ironrot's eastern flank. The experimental magic that powers Landro\u2014an eldritch machine called the graymatter engine, fueled by a piece of the {@item Rod of Seven Parts|VEoR}\u2014continues to function, creating a magical force field around the colossus and altering the gravity within it. In addition to the aberrant monsters and restless Undead that haunt Landro's remains, another faction is determined to plumb the ruins' depths: violent, zealous warriors loyal to the Lord of Blades.",
 						{
 							"type": "entries",

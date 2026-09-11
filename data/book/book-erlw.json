@@ -859,12 +859,12 @@
 									"id": "026",
 									"entries": [
 										"In making an Eberron character, think about the impact the Mourning had on you. If you're from Cyre, did you lose all your family and friends? Are there heirlooms lost in the mists that you're determined to regain, or loved ones you hope to someday see again? Do you feel loyalty to your nation and hope to see it restored, or have you burned Cyre out of your heart?",
-										"Even if you're not from Cyre, the Mourning may have had a profound impact on you. Are you afraid that the Mourning could consume all of Khorvaire, or do you prefer not to dwell on such things? If you're religious, did the shocking tragedy of the Mourning cause you to question your faith, or did it reinforce it? If you're an artificer or a wizard, are you interested in studying its effects more closely. Might you even hope to unravel its mysteries yourself? Do you see it solely as a tragedy, or do you hope that this awesome power could somehow be harnessed?",
+										"Even if you're not from Cyre, the Mourning may have had a profound impact on you. Are you afraid that the Mourning could consume all of Khorvaire, or do you prefer not to dwell on such things? If you're religious, did the shocking tragedy of the Mourning cause you to question your faith, or did it reinforce it? If you're an artificier or a wizard, are you interested in studying its effects more closely. Might you even hope to unravel its mysteries yourself? Do you see it solely as a tragedy, or do you hope that this awesome power could somehow be harnessed?",
 										"Perhaps you were caught in the Mourning and survived the experience, but its effects remain with you. Consider the following aftereffects of your experience:",
 										{
 											"type": "list",
 											"items": [
-												"As a barbarian, you could have been a simple peasant caught in the Mourning. Everyone else in your community was killed, but their spirits were bound to you. Your barbarian rage represents you channeling these vengeful ghosts. Is there a way to lay these spirits to rest? Do they have unfinished business they want you to resolve?",
+												"As a barbarian, you could have been a simple peasant caught in the Mourning. Everyone else in your community was killed, but their spirits were bound to you. Your barbare rage represents you channeling these vengeful ghosts. Is there a way to lay these spirits to rest? Do they have unfinished business they want you to resolve?",
 												"As a sorcerer, your magical powers could be the result of your exposure to the Mourning. Were you physically transformed as well, or are your powers the only manifestation of the Mourning? Are you comfortable using your abilities, or are you afraid that you might be increasing the power of the Mourning with each spell you cast?",
 												"As a warlock, your patron could be interested in the Mourning and drive you to learn more about it. Your patron could even be part of the Mourning\u2014perhaps a collective of spirits killed on the Day of Mourning, or a dark and enigmatic power that might have been responsible for this tragedy. If you take the latter approach, do you feel that by using your warlock magic you are serving the Mourning? Or do you believe that you siphon power from it and weaken it with your actions?",
 												"As a member of an unusual race, you could say that you are actually a creation of the Mourning. Perhaps your dragonborn was an actual dragon transformed on the day of Mourning. Or maybe your tiefling is touched by the dark power of the Mourning instead of by an infernal power."
@@ -931,7 +931,7 @@
 						"type": "internal",
 						"path": "book/ERLW/004-1-01.webp"
 					},
-					"title": "With a homunculus on her shoulder, the gnome artificer Vi brandishes her Arcane Firearm, as a heavily armored warforged stands guard.",
+					"title": "With a homunculus on her shoulder, the gnome artificier Vi brandishes her Arcane Firearm, as a heavily armored warforged stands guard.",
 					"width": 1132,
 					"height": 1500,
 					"credit": "Ben Oliver"
@@ -940,7 +940,7 @@
 				"{@b Race}. Choose one of the playable races detailed in this chapter, or pick a race from the {@book Player's Handbook|PHB} and learn here how Eberron has affected that species' development.",
 				"{@b Dragonmark}. Decide whether your character bears one of the mystical marks associated with the dragonmarked houses.",
 				"{@b Background}. Choose the house agent background if your character has devoted themself to serving a dragonmarked house.",
-				"{@b Artificer}. You have the option of choosing the artificer as your character's class, becoming an unmatched magical inventor.",
+				"{@b Artificer}. You have the option of choosing the artificier as your character's class, becoming an unmatched magical inventor.",
 				"{@b Group Patron}. Working with the other players in your group, decide which of the great powers in the world backs your group. This decision can shape your entire campaign.",
 				{
 					"type": "section",
@@ -1394,7 +1394,7 @@
 							"id": "050",
 							"entries": [
 								"Though the Dhakaani Empire defeated the alien daelkyr, the war left seeds of corruption strewn throughout the empire. As Dhakaan began to fall, a number of generals and governors gathered their forces and retreated into shelters deep within the earth, determined to preserve their civilization until the Empire could finally be restored. After thousands of years, their descendants have finally emerged, competing among themselves to determine which leader deserves the imperial crown. Once this is settled, they will turn to the conquest of Darguun and Khorvaire.",
-								"The Dhakaani are far fewer in number than the Ghaal'dar; they had to carefully limit their population in the underground vaults they've dwelled in for the past age. However, they have held onto the martial discipline and techniques that allowed their ancestors to dominate the continent. Their weaponsmiths are superior even to the artificers of House Cannith, and they are experts in the working of adamantine and other exotic metals. Anyone who presumes to look down upon goblinoids should be surprised by the skills of the Dhakaani.",
+								"The Dhakaani are far fewer in number than the Ghaal'dar; they had to carefully limit their population in the underground vaults they've dwelled in for the past age. However, they have held onto the martial discipline and techniques that allowed their ancestors to dominate the continent. Their weaponsmiths are superior even to the artificiers of House Cannith, and they are experts in the working of adamantine and other exotic metals. Anyone who presumes to look down upon goblinoids should be surprised by the skills of the Dhakaani.",
 								"The Heirs of Dhakaan are an agnostic society and don't have clerics, paladins, or druids. Their focus is on martial excellence, and their spiritual leaders are bards, who tell tales of past glory. Among the Dhakaan, goblinoids work together. Hobgoblins are the strategists and commanders, typically having the skills of fighters, bards, or rangers. Bugbears cultivate a focused battle rage and are typically barbarians. Goblins are largely artisans and laborers, but exceptional goblins join the {@i Khesh'dar} (\"silent folk\"), learning the skills of rogues, monks, or rangers. The Khesh'dar spread agents across the Five Nations, and one can never know when a city goblin might turn out to be an assassin.",
 								"As an adventurer from a Dhakaani clan, consider why are you working with the other player characters? Are you a scout gathering information? Are you searching for allies to defeat a rival clan, or to support your own unlikely bid for the Imperial throne? Are you an exile? If so, do you hope to regain your position, or have you abandoned your ties to the Dhakaani?"
 							]
@@ -1651,7 +1651,7 @@
 							"by": "Kessler, bard of Sharn"
 						},
 						"The first human settlers came to Khorvaire about 3,000 years ago, landing in the area now known as the Lhazaar Principalities. From there, they began a slow but inexorable spread across the continent, disrupting the placid elven empire of Aerenal and leaving further ruined remnants of fallen Dhakaani goblin kingdoms in their wake. During this migration, they founded the settlements that would grow into the Five Nations. Even today humans make up the majority of the population in these countries. Despite their relatively short lifespans\u2014or perhaps because of them\u2014humans are innovative, adaptable, and aggressive, always pushing their limits and pursuing new ideas.",
-						"Humans prove extremely diverse; a barbarian from the Demon Wastes has little in common with a Brelish rogue. When creating a human character, consider where you're from and how that's reflected in your class and background. {@book Chapter 2|ERLW|5} presents an overview of the nations of Khorvaire and ideas for characters tied to those lands. Aundair is a logical place of origin for a wizard character, but your wizard could be a down-and-out arcanist from the alleys of Sharn or a Lhazaar pirate with a knack for the mystic arts.",
+						"Humans prove extremely diverse; a barbare from the Demon Wastes has little in common with a Brelish rogue. When creating a human character, consider where you're from and how that's reflected in your class and background. {@book Chapter 2|ERLW|5} presents an overview of the nations of Khorvaire and ideas for characters tied to those lands. Aundair is a logical place of origin for a wizard character, but your wizard could be a down-and-out arcanist from the alleys of Sharn or a Lhazaar pirate with a knack for the mystic arts.",
 						"If you want to jump-start your ideas for a human character's origins, you can roll on the Human Origins table.",
 						{
 							"type": "table",
@@ -1679,7 +1679,7 @@
 								],
 								[
 									"4",
-									"A barbarian from the Demon Wastes who repented from a life of cruelty and hopes to atone for past evils"
+									"A barbare from the Demon Wastes who repented from a life of cruelty and hopes to atone for past evils"
 								],
 								[
 									"5",
@@ -1893,7 +1893,7 @@
 							"by": "James Wyatt, {@i Dragon Forge}"
 						},
 						"Tieflings rarely appear in the cities and towns of Khorvaire, with most dwelling at the fringes of civilization.",
-						"Many tieflings are born to the Carrion Tribes, the barbarians who live in the Demon Wastes. Such tieflings are touched by the fiendish forces bound beneath the Wastes, and the tribes consider them to be blessed. If you're playing such a tiefling, why have you left the Wastes? It could be that you were destined for some evil purpose\u2014perhaps even serving as an avatar for an imprisoned Overlord\u2014and you are fleeing that destiny.",
+						"Many tieflings are born to the Carrion Tribes, the barbares who live in the Demon Wastes. Such tieflings are touched by the fiendish forces bound beneath the Wastes, and the tribes consider them to be blessed. If you're playing such a tiefling, why have you left the Wastes? It could be that you were destined for some evil purpose\u2014perhaps even serving as an avatar for an imprisoned Overlord\u2014and you are fleeing that destiny.",
 						"Other tieflings are shaped not by fiendish powers, but by the influence of the fiend-tainted planes. Such tieflings might be born in manifest zones, where a plane exerts influence over a region. Planar tieflings are oddities, often seen as strange but not necessarily evil.",
 						"Finally, the Venomous Demesne\u2014a city-state hidden on the far side of Droaam\u2014is populated by tieflings. These tieflings descend from Sarlonan mages who bargained with dark powers, with the Demesne's lords being powerful warlocks and wizards. The Venomous Demesne has had no significant contact with the Five Nations and few know it exists. Your character could be an envoy or exile from it, or simply an adventurer driven by a desire to see what lies beyond your homeland."
 					]
@@ -1921,7 +1921,7 @@
 					"page": 37,
 					"id": "0d5",
 					"entries": [
-						"A halfling healer touches a dying man; the mark on her forehead blazes with blue fire as his wounds close and vanish. A half-orc bounty hunter reaches out with the power of his mark to find his prey. A human artificer touches a creation forge, and the symbol on her hand flares as the eldritch machine rumbles to life. Each of these people possesses a dragonmark, a symbol etched on the skin in colors more vivid than any tattoo, magical power made flesh.",
+						"A halfling healer touches a dying man; the mark on her forehead blazes with blue fire as his wounds close and vanish. A half-orc bounty hunter reaches out with the power of his mark to find his prey. A human artificier touches a creation forge, and the symbol on her hand flares as the eldritch machine rumbles to life. Each of these people possesses a dragonmark, a symbol etched on the skin in colors more vivid than any tattoo, magical power made flesh.",
 						"A dragonmark enhances the user's ability to perform certain tasks. For example, the Mark of Making guides the hands of the smith, while the Mark of Shadows helps its bearer avoid enemies. The power of a dragonmark can also manifest in more dramatic ways. The Mark of Storms can scatter enemies with a blast of wind, while the Mark of Shadows can weave illusions.",
 						"You can't buy or choose to develop a dragonmark; each mark is tied to bloodlines within specific species, as summarized in the Dragonmarks and Their Houses table. A dragonmark appears on a person around adolescence, though not every heir manifests the mark.",
 						"Long ago, the families that carry the marks joined together to form the dragonmarked houses. Over the course of centuries, these houses have used their gifts to establish powerful monopolies. For example, only House Lyrandar heirs with the Mark of Storms can pilot airships. This control over vital services gives the houses tremendous power.",
@@ -2581,7 +2581,7 @@
 							],
 							"by": "Baron Merrix d'Cannith"
 						},
-						"The Mark of Making guides its bearer through any act of creation. The bearer of the mark can mend broken things with a touch, and always has a minor magic item they've been working on. An artificer or a wizard will get the most out of the mark, but anyone can find a use for an enchanted blade.",
+						"The Mark of Making guides its bearer through any act of creation. The bearer of the mark can mend broken things with a touch, and always has a minor magic item they've been working on. An artificier or a wizard will get the most out of the mark, but anyone can find a use for an enchanted blade.",
 						{
 							"type": "entries",
 							"name": "House Cannith",
@@ -4059,7 +4059,7 @@
 									]
 								},
 								"The Twelve facilitates communication and cooperation among the dragonmarked houses. As part of the agreements that ended the War of the Mark, the houses agreed to create an institute for the application of magic\u2014a foundation that would study dragonmarks, along with more traditional forms of magic. Over the centuries, the Twelve has been responsible for many magical advances, including the airships operated by House Lyrandar and the message stations of House Sivis",
-								"As an arm of the dragonmarked houses, the Twelve attempted to remain neutral during the Last War, but many of its wizards and artificers had national loyalties that were stronger than their ties to the institute. Now that the Twelve has resumed normal operations, it seeks to replace its lost members and make sure that each house is represented.",
+								"As an arm of the dragonmarked houses, the Twelve attempted to remain neutral during the Last War, but many of its wizards and artificiers had national loyalties that were stronger than their ties to the institute. Now that the Twelve has resumed normal operations, it seeks to replace its lost members and make sure that each house is represented.",
 								"While the Twelve provides a way for your group to work for multiple dragonmarked houses, its goals and benefits are similar to those of an individual house. Consider using the following details as a template if there's a particular dragonmarked house you wish to serve.",
 								{
 									"type": "entries",
@@ -4236,7 +4236,7 @@
 								"{@b Hunter}. The Hunter stalks humanoid prey, for purposes of assassination, abduction, or gathering information. A combination of combat prowess with stealth and interaction skills makes for well-prepared Hunters. Rôdeurs and rogues prove particularly adept at this role, as might anyone with proficiency in the {@skill Investigation}, {@skill Perception} and {@skill Stealth} skills. A high Charisma and proficiency in {@skill Deception}, {@skill Intimidation}, and {@skill Persuasion} skills can also be useful. Hunters often come from backgrounds such as outlander or urchin.",
 								"{@b Investigator}. The Investigator is the archetypal spy, a master of deductive reasoning and suave interaction. Naturally, {@skill Investigation} can be a crucial skill, which many characters in this role combine with magical means of scrying to learn about their enemies and objectives. Bardes and wizards make natural Investigators, especially if they can acquire one or more skills from among {@skill Deception}, {@skill Perception}, {@skill Persuasion}, and {@skill Stealth}. Investigators come from backgrounds as varied as charlatans, nobles, sages, and urchins.",
 								"{@b Operator}. An Operator leads or organizes a team of agents in the field. Like a military officer, the Operator issues orders and bears responsibility for the agents on the team. High Charisma and Intelligence scores help make the Operator a strong leader, especially in conjunction with skill proficiencies such as {@skill Persuasion} and {@skill Investigation}. The wide array of skills used by other agents are also valuable to the Operator, who might end up stepping into a different role when the need arises. The Operator is often a bard and might come from a soldier or noble background (being accustomed to leadership in one form or another).",
-								"{@b Saboteur}. The Saboteur interferes with the functioning of enemy assets. More than a reckless bomber, they combine a willingness to destroy with a knack for infiltration. Proficiency with thieves' tools and in skills such as {@skill Deception}, {@skill Investigation}, and {@skill Stealth} often serve the work of sabotage. The Saboteur benefits from an understanding of craft and magic items, making artificers particularly skilled in this role. Guild artisans might also disguise tools of destruction as mundane objects or works of art. Many Saboteurs come from backgrounds such as charlatans or soldiers."
+								"{@b Saboteur}. The Saboteur interferes with the functioning of enemy assets. More than a reckless bomber, they combine a willingness to destroy with a knack for infiltration. Proficiency with thieves' tools and in skills such as {@skill Deception}, {@skill Investigation}, and {@skill Stealth} often serve the work of sabotage. The Saboteur benefits from an understanding of craft and magic items, making artificiers particularly skilled in this role. Guild artisans might also disguise tools of destruction as mundane objects or works of art. Many Saboteurs come from backgrounds such as charlatans or soldiers."
 							]
 						},
 						{
@@ -4985,7 +4985,7 @@
 									"page": 85,
 									"id": "1ea",
 									"entries": [
-										"\"In the darkest night of the Dragon Below, storm and dragon are reunited, and they break together upon the legions of the Blasphemer.\" According to Thausil Kennar, a noted scholar at the Library of Korranberg, these words, translated from an ancient prophecy, foretell the course of recent events in the Eldeen Reaches, where an upstart warlord led a barbarian army from the Demon Wastes on a mission of plunder.",
+										"\"In the darkest night of the Dragon Below, storm and dragon are reunited, and they break together upon the legions of the Blasphemer.\" According to Thausil Kennar, a noted scholar at the Library of Korranberg, these words, translated from an ancient prophecy, foretell the course of recent events in the Eldeen Reaches, where an upstart warlord led a barbare army from the Demon Wastes on a mission of plunder.",
 										"For all your news needs, be they ageless riddles or breaking modern developments, keep reading the Korranberg Chronicle!"
 									]
 								},
@@ -5604,7 +5604,7 @@
 							"entries": [
 								"Every nation in Khorvaire has its military forces. In addition to the Redcloak Battalion, the following groups number among the forces most likely to make use of a team of adventurers:",
 								"{@b Blademarks Guild}. House Deneith manages mercenary activities across Khorvaire through its Blademarks Guild, with house members serving as officers, trainers, and strategists. The rank-and-file soldiers of the guild are largely human mercenaries but also includes significant numbers of hobgoblins from Darguun, elves from Valenar, and Cyran soldiers who no longer have a nation to fight for.",
-								"{@b Maruk Ghaash'kala}. Among the orc tribes of the Demon Wastes, the Maruk tribe inhabits the deadly Labyrinth that lies between the wastes and the Eldeen Reaches. In its sacred dedication to containing the threat of the Lords of Dust, it draws significant numbers of orc barbarians from the Shadow Marches, human scouts from the Eldeen Reaches, and even youths from the Carrion Tribes that live deeper in the wastes.",
+								"{@b Maruk Ghaash'kala}. Among the orc tribes of the Demon Wastes, the Maruk tribe inhabits the deadly Labyrinth that lies between the wastes and the Eldeen Reaches. In its sacred dedication to containing the threat of the Lords of Dust, it draws significant numbers of orc barbares from the Shadow Marches, human scouts from the Eldeen Reaches, and even youths from the Carrion Tribes that live deeper in the wastes.",
 								"{@b Q'barra}. The frontier nation of Q'barra has significant need for military forces to protect its communities from the lizardfolk, warbands from Valenar, Lhazaar marauders, and other dangers of the jungle.",
 								"{@b Valenar}. The elves of Valenar have no interest in peace, but they participated in the talks that led to the Treaty of Thronehold to gauge the measure of their enemies and gain acceptance in the human courts. Today, Valenar forces continue to raid the Talenta Plains and Q'barra on a regular basis, in stark defiance of the Treaty of Thronehold. A Valenar warband is unlikely to contain members of races other than elves and perhaps half-elves, but such a band could make an interesting military party.",
 								{
@@ -6092,7 +6092,7 @@
 								"{@b Prophet}. The Prophet is a visionary with a more-or-less direct connection to the divine. This character might be the driving force behind the group's quests, steering them according to divine will. Proficiency in skills such as {@skill Insight} and {@skill Religion} can help reflect this character's divine connection. The Prophet is often a cleric or druid, but could also be an NPC with no real adventuring skills, who needs the group's protection.",
 								"{@b Scholar}. The Scholar brings academic knowledge to bear in the religious order's work, often in the form of proficiency in {@skill History} and {@skill Religion}. This character might be an expert on ancient ruins or know all the weaknesses of the demons they are hunting. Characters with access to divination magic (including clerics with the Knowledge domains as well as wizards) might excel at this role. Many Scholars come from the sage background. Unlike the Prophet and Zealot, the Scholar isn't necessarily devout, just knowledgeable.",
 								"{@b Teacher}. Those in this role spread the teachings of the faith. This isn't usually an effort to win converts\u2014though it can be, especially in the case of the Church of the Silver Flame\u2014but rather the task of encouraging people to live according to the highest ideals of faith. Proficiency in skills such as {@skill Persuasion} (or sometimes {@skill Intimidation}) and {@skill Religion} can be useful for this character. Many clerics fill this role, but devout bards can also be effective Teachers. Some Teachers bring skills from the entertainer background into the service of their faith.",
-								"{@b Zealot}. Dedicated to smiting the foes of the faith, the Zealot focuses on combat above all. Clerics, druids, and paladins make iconic Zealots, but any character can play this role; there are barbarians whose fury is fueled by their devotion, and rangers sworn to track down the enemies of the faith. The soldier and folk hero backgrounds are well suited to such champions of the faith."
+								"{@b Zealot}. Dedicated to smiting the foes of the faith, the Zealot focuses on combat above all. Clerics, druids, and paladins make iconic Zealots, but any character can play this role; there are barbares whose fury is fueled by their devotion, and rangers sworn to track down the enemies of the faith. The soldier and folk hero backgrounds are well suited to such champions of the faith."
 							]
 						},
 						{
@@ -6892,7 +6892,7 @@
 									"page": 110,
 									"id": "24d",
 									"entries": [
-										"Once the seat of House Cannith, this was a place of wonders\u2014a city where \"magic comes to life.\" Marvels of the city included the Clockwork Menagerie, showcasing the golems and homunculi made by generations of artificers; production facilities that housed three creation forges (see {@book chapter 5|ERLW|12}), and the miraculous Steel Gardens, an early breakthrough that paved the way for the living warforged. If you're an artificer or have ties to House Cannith, you might have roots in Eston."
+										"Once the seat of House Cannith, this was a place of wonders\u2014a city where \"magic comes to life.\" Marvels of the city included the Clockwork Menagerie, showcasing the golems and homunculi made by generations of artificers; production facilities that housed three creation forges (see {@book chapter 5|ERLW|12}), and the miraculous Steel Gardens, an early breakthrough that paved the way for the living warforged. If you're an artificier or have ties to House Cannith, you might have roots in Eston."
 									]
 								},
 								{
@@ -7083,7 +7083,7 @@
 							"entries": [
 								"The Ghaash'kala are primarily orcs, but their numbers include a few half-orcs and members of other races. They devote their lives to guarding the Labyrinth and containing the evils of the Wastes. When creating a Ghaash'kala character, consider the following:",
 								"{@b The Binding Flame}. The Ghaash'kala worship Kalok Shash, the \"Binding Flame.\" Fundamentally the same religion as the Silver Flame, Kalok Shash is a harsh faith that requires all able-bodied folk to fight in the endless war against the forces of darkness.",
-								"{@b Sacred Champions}. As a Ghaash'kala, you are a champion of the Binding Flame. A paladin sworn to the Oath of Vengeance, a barbarian on the Path of the Zealot (found in {@book Xanathar's Guide to Everything|XGE}), and a cleric of the Light or War domain all represent a logical path for a Ghaash'kala character. Outlander and hermit are appropriate backgrounds, reflecting your harsh upbringing or religious devotion."
+								"{@b Sacred Champions}. As a Ghaash'kala, you are a champion of the Binding Flame. A paladin sworn to the Oath of Vengeance, a barbare on the Path of the Zealot (found in {@book Xanathar's Guide to Everything|XGE}), and a cleric of the Light or War domain all represent a logical path for a Ghaash'kala character. Outlander and hermit are appropriate backgrounds, reflecting your harsh upbringing or religious devotion."
 							]
 						},
 						{
@@ -7193,7 +7193,7 @@
 								"Minotaurs, orcs, gnolls, tieflings, changelings, and other monstrous species all have a place in Droaam. Consider these questions when making a Droaamite character:",
 								"{@b What Makes You Different?} The people of Droaam aren't just humans with horns or green skin. Think about the unique aspects of your people and what makes you different from humanity, both physically and culturally.",
 								"{@b What Are Your Ambitions?} Citizens of Droaam are proud of their nation. You know that the rest of Khorvaire considers you a monster. Do you intend to prove that you and your kind are capable of deeds humanity can't imagine? Or are you driven solely by your personal desires, or the goals of your family or warlord?",
-								"{@b How Does Your Background Shape You?} The diverse creatures of Droaam could include a kobold city-savvy rogue urchin, an orc outlander barbarian with little knowledge of the outside world, or a tiefling warlock sage versed in {@skill Arcana} and {@skill History}."
+								"{@b How Does Your Background Shape You?} The diverse creatures of Droaam could include a kobold city-savvy rogue urchin, an orc outlander barbare with little knowledge of the outside world, or a tiefling warlock sage versed in {@skill Arcana} and {@skill History}."
 							]
 						},
 						{
@@ -7610,7 +7610,7 @@
 									"items": [
 										"The Mror Holds contain deep reserves of gold, silver, and other rare and precious metals, along with iron and other ores. The Mror dwarves are skilled miners and artisans.",
 										"A clan of orcs called the Jhorash'tar live among the Ironroot Mountains. The Jhorash'tar have been slowly crowded into the least hospitable regions of the mountains. A few dwarven clans seek to incorporate the Jhorash'tar into Mror society, but others wish to drive them out once and for all.",
-										"The dwarves have recovered artifacts and arcane secrets from the Realm Below. Dwarf artificers are still working to master the techniques of their ancestors, while warlocks strive to harness the powers of the daelkyr. Mror communities are shaped by the artifacts they possess or by their interactions with the daelkyr. A Mror lord might serve guests from a bottomless cauldron of wine, while another studies strangers using a crown of eyes, claiming that this living artifact reveals all evil intent."
+										"The dwarves have recovered artifacts and arcane secrets from the Realm Below. Dwarf artificiers are still working to master the techniques of their ancestors, while warlocks strive to harness the powers of the daelkyr. Mror communities are shaped by the artifacts they possess or by their interactions with the daelkyr. A Mror lord might serve guests from a bottomless cauldron of wine, while another studies strangers using a crown of eyes, claiming that this living artifact reveals all evil intent."
 									]
 								}
 							]
@@ -7622,7 +7622,7 @@
 							"id": "28b",
 							"entries": [
 								"As you develop a Mror character or NPC, consider the following:",
-								"{@b Clan Focus}. The dwarf clan is the heart of Mror culture. Is your clan known for mercantile power or martial skill? Are you a noble\u2014even if you're a few steps removed from true power? Or are you a guild artisan or soldier? Most Mror have embraced modern martial techniques, but a few minor clans still cling to barbarian traditions of the past. What caused you to leave your hold? Are you serving your clan and honing your skills, or have you been exiled from your homeland?",
+								"{@b Clan Focus}. The dwarf clan is the heart of Mror culture. Is your clan known for mercantile power or martial skill? Are you a noble\u2014even if you're a few steps removed from true power? Or are you a guild artisan or soldier? Most Mror have embraced modern martial techniques, but a few minor clans still cling to barbare traditions of the past. What caused you to leave your hold? Are you serving your clan and honing your skills, or have you been exiled from your homeland?",
 								"{@b The Realm Below}. How has the Realm Below affected your family and your character? Do you oppose the foul forces that infest your ancestral halls, or do you see them as a source of power? You might be a paladin sworn to oppose the horrors that dwell in the deep, or you could be a warlock who's forged a pact with a Great Old One patron, one of the dark powers in the depths.",
 								"{@b Pride in Possessions}. From the wealthiest clan lord to the humblest miner, the Mror take great pride in their possessions. Quality is more important than appearance, and you are interested in the history of the items you carry. If you find a magic weapon, you want to know the battles it has seen and the warriors who have wielded it before you. This is especially true of the relics recovered from the Realm Below. Who forged the blade you carry? Do you bear a trinket from a forgotten age?"
 							]
@@ -7690,7 +7690,7 @@
 							"id": "292",
 							"entries": [
 								"The Mror Holds declared independence during the Last War. Many nations depend on the resource of the Holds, and the Treaty of Thronehold affirmed its sovereignty.",
-								"To the casual observer, the Mror dwarves' star appears to be rising. Their mines seem to offer limitless resources. Mror artificers make amazing strides as they study the relics of their ancestors. The dwarves are proud of their ancient past and optimistic about the future. Most Mror are generous and courageous, eager to show off their wealth and accomplishments.",
+								"To the casual observer, the Mror dwarves' star appears to be rising. Their mines seem to offer limitless resources. Mror artificiers make amazing strides as they study the relics of their ancestors. The dwarves are proud of their ancient past and optimistic about the future. Most Mror are generous and courageous, eager to show off their wealth and accomplishments.",
 								"Those who dig deeper realize that this prosperity is built on an unstable foundation. The Last War may be over, but the war against the daelkyr has barely begun. The clan lords hold their reclaimed halls in the Realm Below, but no one knows the full extent of the power of the daelkyr. A renewed assault could come at any time, whether it's a force of monsters boiling up from below or a creeping madness that infects the weak-willed.",
 								"The dwarves are also divided by their attitude toward the aberrations. Some of the clans\u2014notably Soldorak\u2014embrace symbionts and other daelkyr gifts; some even experiment with flesh-warping techniques and create their own monsters. Others\u2014notably Clan Mroranon\u2014avoid contact with the aberrations. Such dwarves treasure the relics of their ancestors but despise those who use symbionts or form pacts with the darkness.",
 								"Long ago, the dwarves engaged in vicious feuds that kept them from uniting as a nation. This new divide could reignite those rivalries, leading to a civil war on the surface even as evil gains strength in the depths.",
@@ -7891,7 +7891,7 @@
 					"entries": [
 						"{@b Capital}: Gatherhold",
 						"{@b Hallmarks}: Dinosaurs, halflings, livestock",
-						"The halflings of the Talenta Plains have no cities and no industrialized magic, but they do have dinosaurs. The halflings domesticated the dinosaurs of the plains and use these creatures as mounts, livestock, and beasts of burden. A sacred bond exists between a hunter and mount, and few people are prepared to face a raging halfling barbarian riding a furious clawfoot raptor.",
+						"The halflings of the Talenta Plains have no cities and no industrialized magic, but they do have dinosaurs. The halflings domesticated the dinosaurs of the plains and use these creatures as mounts, livestock, and beasts of burden. A sacred bond exists between a hunter and mount, and few people are prepared to face a raging halfling barbare riding a furious clawfoot raptor.",
 						"Talenta religion reveres spirits, both departed ancestors and natural spirits. Each tribe has a lath\u2014a chieftain who guides the tribe\u2014and shamans who consult the spirits and choose the paths of migration.",
 						"In the past, the tribes stood alone, but during the Last War, many halflings came together under Lathon Halpum to defend their land. Halpum won recognition for the Plains as one of the Thronehold nations, though it's still unclear what this means beyond increasing passage between the Plains and the outside world.",
 						{
@@ -7927,8 +7927,8 @@
 							"id": "2a5",
 							"entries": [
 								"See chapter 1 for quirks and other features relevant to halfling characters from the Talenta Plains. Also consider the following:",
-								"{@b Wild Warriors and Tricksters.} You were born in the wild, and your wits and your weapons helped you survive. Talenta warriors are often barbarians or rangers, relying on speed and skill. Outlander is a logical background, but you could easily be a folk hero, entertainer, or charlatan. You could even be an urchin who was stranded in a great city and adapted to life there.",
-								"{@b Surrounded by Spirits}. Fey, fiends, and the ghosts of ancestors, these are all part of the spirit world, and they're all around you. Do you believe that the spirits guide your actions? Do you show respect to the spirits of a location? Talentan shamans tend to be druids of the Circle of the Moon or the Circle of the Shepherd (from {@book Xanathar's Guide to Everything|XGE}), often assuming the form of dinosaurs. You could also reflect a strong bond to spirits by playing a warlock with an Archfey patron, a cleric with the Nature domain, a paladin sworn to the Oath of the Ancients, or a barbarian on the Path of the Totem Warrior or Path of the Ancestral Guardian (from {@book Xanathar's Guide to Everything|XGE}). Hermit and outlander are natural backgrounds, but you could be an acolyte or a sage who consults spirits instead of books. Warriors and shamans both wear masks to present a particular face to the spirit world.",
+								"{@b Wild Warriors and Tricksters.} You were born in the wild, and your wits and your weapons helped you survive. Talenta warriors are often barbares or rangers, relying on speed and skill. Outlander is a logical background, but you could easily be a folk hero, entertainer, or charlatan. You could even be an urchin who was stranded in a great city and adapted to life there.",
+								"{@b Surrounded by Spirits}. Fey, fiends, and the ghosts of ancestors, these are all part of the spirit world, and they're all around you. Do you believe that the spirits guide your actions? Do you show respect to the spirits of a location? Talentan shamans tend to be druids of the Circle of the Moon or the Circle of the Shepherd (from {@book Xanathar's Guide to Everything|XGE}), often assuming the form of dinosaurs. You could also reflect a strong bond to spirits by playing a warlock with an Archfey patron, a cleric with the Nature domain, a paladin sworn to the Oath of the Ancients, or a barbare on the Path of the Totem Warrior or Path of the Ancestral Guardian (from {@book Xanathar's Guide to Everything|XGE}). Hermit and outlander are natural backgrounds, but you could be an acolyte or a sage who consults spirits instead of books. Warriors and shamans both wear masks to present a particular face to the spirit world.",
 								"{@b Dinosaurs}. Talenta halflings have a close bond to their dinosaur companions. If you don't begin the campaign with a dinosaur mount or companion, you might acquire one over the course of your adventures. You can also consider whether a fallen dinosaur is part of your backstory; perhaps you lost your faithful mount in the Last War, but you believe its spirit is still with you."
 							]
 						},
@@ -8492,7 +8492,7 @@
 									]
 								},
 								"Few Aereni elves are interested in the world beyond their island. The Aereni see Khorvaire as a primitive backwater, and humans as dangerously impulsive. Aereni who travel to Khorvaire have a concrete purpose for the journey, which could drive an adventure.",
-								"The magewrights and artificers of Aerenal are more advanced than those of Khorvaire. Aereni artisans fashion rods, staffs, and wands, and other rare or even legendary items may come from Aerenal. However, the nation is less industrialized than Khorvaire. Legendary items aren't mass produced; some are personally crafted by members of the Undying Court.",
+								"The magewrights and artificiers of Aerenal are more advanced than those of Khorvaire. Aereni artisans fashion rods, staffs, and wands, and other rare or even legendary items may come from Aerenal. However, the nation is less industrialized than Khorvaire. Legendary items aren't mass produced; some are personally crafted by members of the Undying Court.",
 								"Aereni goods make use of exotic plants and woods. Bronzewood has the density and even some of the properties of steel; an Aereni cleric might wear a bronzewood breastplate, while a paladin of the Undying Court could wear a suit of elaborated engraved bronzewood plate armor. Bronzewood leaves are remarkably tough, and the Aereni craft \"leaf weave\" armor functionally equivalent to leather, studded leather, or chain mail. Bronzewood can also be crafted into weapons, and Aereni warriors use spears or swords made from a single piece of bronzewood.",
 								{
 									"type": "statblock",
@@ -8519,7 +8519,7 @@
 								"Discover mighty artifacts and long-lost spells."
 							]
 						},
-						"Argonnessen is home to the oldest civilization on Eberron. The dragons wield ancient magic, and they have shielded their homeland against divination and teleportation. Tribes of barbarians roam the Seren Islands and the coastlines of Argonnessen; these include members of almost every humanoid race, perhaps collected by dragons in ages past. The Seren barbarians worship the dragons and protect the coasts from invaders. To date, no one from Khorvaire has ventured into the interior of the continent and returned to speak of it.",
+						"Argonnessen is home to the oldest civilization on Eberron. The dragons wield ancient magic, and they have shielded their homeland against divination and teleportation. Tribes of barbares roam the Seren Islands and the coastlines of Argonnessen; these include members of almost every humanoid race, perhaps collected by dragons in ages past. The Seren barbares worship the dragons and protect the coasts from invaders. To date, no one from Khorvaire has ventured into the interior of the continent and returned to speak of it.",
 						"No one knows how many dragons live in Argonnessen, but stories tell of vast cavern complexes filled with the treasures of fallen civilizations, of prisons holding bound demons, of cities made from adamantine.",
 						"To those of Khorvaire, Argonnessen is a mystery space on the map. Only the most powerful characters might visit Argonnessen and return to tell the tale.",
 						{
@@ -8533,7 +8533,7 @@
 									"type": "list",
 									"items": [
 										"Prevent a villain from acquiring a powerful artifact smuggled out of Argonnessen.",
-										"Encounter a dragonborn barbarian born on the Seren islands, who shares tales of mighty wyrms.",
+										"Encounter a dragonborn barbare born on the Seren islands, who shares tales of mighty wyrms.",
 										"Battle a dragon who guards a hidden vault."
 									]
 								},
@@ -9318,7 +9318,7 @@
 								"Worse still is the Three Faces of War, a cult that worships the Sovereigns of War\u2014including the Mockery, whom they call Dol Azur. Followers of this foul faith say that the battlefield holds a place for all of these gods, explicitly embracing a deity they acknowledge as the patron of treachery and terror! This cult apparently began in the Karrnathi military but spread across the Five Nations during the Last War. So next time you're talking to a Brelish soldier, remember that they might be a devotee of the Mockery!"
 							]
 						},
-						"The Dark Six and the Sovereign Host are opposite sides of the same coin. If you believe in one, you acknowledge the existence of the other. The only question is whether you fear the Six or revere them. Those who choose to follow these sinister deities embrace darkness. A barbarian may thank the Fury for the gift of rage. An assassin walks the path of the Mockery, while a warlock's pact may be a gift of the Shadow.",
+						"The Dark Six and the Sovereign Host are opposite sides of the same coin. If you believe in one, you acknowledge the existence of the other. The only question is whether you fear the Six or revere them. Those who choose to follow these sinister deities embrace darkness. A barbare may thank the Fury for the gift of rage. An assassin walks the path of the Mockery, while a warlock's pact may be a gift of the Shadow.",
 						"The Dark Six inspire worship in different ways among diverse cultures. Temples to the Dark Six appear in Droaam, along with wild revels driven by the Fury. The Dark Six aren't worshiped openly elsewhere in Khorvaire; the gods' shrines are hidden, and it's more common to find a cult devoted to a single member of the Six than a temple dedicated to the entire pantheon.",
 						{
 							"type": "entries",
@@ -9332,7 +9332,7 @@
 								"{@b The Fury} governs both passion and revenge, rage and despair. She offers revenge to those who have been wronged, but her vengeance often leads to suffering.",
 								"{@b The Mockery} is the patron of treachery and of terror in battle. He guides those who seek victory through guile, both warriors and assassins. He was once the brother of Dol Dorn and Dol Arrah, but he was stripped of his skin and his name after betraying them.",
 								"{@b The Shadow} is the dark side of knowledge and ambition. It's said to be Aureon's shadow, given malign life when Aureon mastered magic. The Shadow is the maker of monsters and the keeper of forbidden secrets, and it offers malevolent spells to warlocks and wizards.",
-								"{@b The Traveler} asserts that chaos drives evolution and that change makes us stronger. The Traveler is a trickster and the giver of dangerous gifts. Some artificers worship the Traveler, seeing it as the lord of innovation, but the gifts of the Traveler always have unexpected consequences."
+								"{@b The Traveler} asserts that chaos drives evolution and that change makes us stronger. The Traveler is a trickster and the giver of dangerous gifts. Some artificiers worship the Traveler, seeing it as the lord of innovation, but the gifts of the Traveler always have unexpected consequences."
 							]
 						},
 						{
@@ -9804,7 +9804,7 @@
 					],
 					"by": "A newcomer to the big city"
 				},
-				"All the major themes of Eberron are manifest in the great city of Sharn. It's a place of magic, with skycoaches circling mile-high towers and mystic forges toiling endlessly in the bowels. It's a place of adventure and intrigue. A fallen angel is gathering minions in the ruins below the city. A gang war is gaining strength in Callestan. The corpse of a murdered aristocrat has just been discovered in a floating mansion. A Cannith artificer is experimenting with a planar gateway\u2014and something is about to go terribly wrong. All of these adventures and a hundred more are waiting in the City of Towers.",
+				"All the major themes of Eberron are manifest in the great city of Sharn. It's a place of magic, with skycoaches circling mile-high towers and mystic forges toiling endlessly in the bowels. It's a place of adventure and intrigue. A fallen angel is gathering minions in the ruins below the city. A gang war is gaining strength in Callestan. The corpse of a murdered aristocrat has just been discovered in a floating mansion. A Cannith artificier is experimenting with a planar gateway\u2014and something is about to go terribly wrong. All of these adventures and a hundred more are waiting in the City of Towers.",
 				"This chapter details the city for players and DMs alike. The DM can find additional information about the city in {@book chapter 4|ERLW|11}.",
 				{
 					"type": "image",
@@ -9978,7 +9978,7 @@
 										],
 										[
 											"7",
-											"You can fly! Actually, a nearby wizard or artificer casts {@spell feather fall} to save you, but for a moment it felt like you can fly. And now the spellcaster wants payment."
+											"You can fly! Actually, a nearby wizard or artificier casts {@spell feather fall} to save you, but for a moment it felt like you can fly. And now the spellcaster wants payment."
 										],
 										[
 											"8",
@@ -10452,7 +10452,7 @@
 											"page": 158,
 											"id": "342",
 											"entries": [
-												"Members of the larger of the two societies, the Esoteric Order of Aureon, take a vow to use their talents to preserve and advance civilization and to operate within the confines of the law. The Esoteric Order helped Galifar I maintain the rule of law, and many of its members served Breland during the Last War. Although its members aren't prohibited from studying any form of magic, the specialties of the order are abjuration, divination, and evocation magic. Magiciens and artificers are almost always welcome in the guild. Ensorceleurs must prove their grasp of arcane theory to earn a place, and warlocks are rarely accepted as members. The hall of the Esoteric Order of Aureon is in the district of Clifftop in Upper Dura."
+												"Members of the larger of the two societies, the Esoteric Order of Aureon, take a vow to use their talents to preserve and advance civilization and to operate within the confines of the law. The Esoteric Order helped Galifar I maintain the rule of law, and many of its members served Breland during the Last War. Although its members aren't prohibited from studying any form of magic, the specialties of the order are abjuration, divination, and evocation magic. Magiciens and artificiers are almost always welcome in the guild. Ensorceleurs must prove their grasp of arcane theory to earn a place, and warlocks are rarely accepted as members. The hall of the Esoteric Order of Aureon is in the district of Clifftop in Upper Dura."
 											]
 										},
 										{
@@ -11906,7 +11906,7 @@
 									"id": "36a",
 									"entries": [
 										"In the wake of the Mourning, our king welcomed the survivors of that tragedy into our cities. In Sharn, High Walls alone holds more Cyran refugees than Karrnath has allowed across its borders. If you read the Sharn Inquisitive or the Korranberg Chronicle, you've heard the endless litany of how difficult life is, tales of overcrowding, starvation, and disease. Although we at the Voice of Breland sympathize with all who suffer, we refuse to ignore the deadly threat in our midst. The majority of Cyrans who survived the Mourning did so because they were beyond the borders of their nation. And why is that? Because they were soldiers.",
-										"The Sharn Inquisitive talks about starving children and ailing peasants, but it doesn't mention the Cyran special forces and elite war mages who now reside in High Walls. As Brelish, we all want to show compassion to the truly innocent, but let us never forget that these people were once our enemy and could be again. And let us also remember that the cause of the Mourning remains a mystery. Was it divine punishment for Cyran sins that have yet to be washed clean? Or could it have been a premature activation of an arcane weapon\u2014and if so, could Cyran artificers already be working on an improved version in the heart of our greatest city?",
+										"The Sharn Inquisitive talks about starving children and ailing peasants, but it doesn't mention the Cyran special forces and elite war mages who now reside in High Walls. As Brelish, we all want to show compassion to the truly innocent, but let us never forget that these people were once our enemy and could be again. And let us also remember that the cause of the Mourning remains a mystery. Was it divine punishment for Cyran sins that have yet to be washed clean? Or could it have been a premature activation of an arcane weapon\u2014and if so, could Cyran artificiers already be working on an improved version in the heart of our greatest city?",
 										"Remain alert, people of Breland! Don't let the current plight of these unfortunates blind you to the danger!"
 									]
 								},
@@ -12039,7 +12039,7 @@
 								"The Cogs lie deep beneath Sharn, below the sewers and Old Sharn (described later in this chapter). Streams of Fernian lava flow through this area, and over the centuries, House Cannith has helped Breland establish vast foundries that tap this mystic resource. Ashblack and Blackbones are industrial districts, largely inhabited by warforged laborers and miserable workers of other races. It is said that House Cannith maintains a forgehold in the Ashblack district, and that this is where Baron Merrix d'Cannith conducts his experiments.",
 								"The Sharn Watch maintains a presence in the Cogs, and overseers from House Cannith are stationed here to keep things in order. Beyond these industrial districts lies the deeper tunnels of Khyber's Gate, a tenement district.",
 								"Blackbones has a number of remarkable locations. For example, the Pool of Onatar's Tears is sacred to the Sovereign of the Forge. The current caretaker is a warforged priest named Smith, who believes that Onatar has plans for the warforged, and that the warforged and creatures of flesh are meant to live together.",
-								"Most of the citizens of Sharn have never been to the Cogs. The area does house the bulk of the city's warforged population, and if you're looking for a particular warforged, it's the best place to start. Industrial espionage and labor struggles can add drama to adventures in the great foundries, not to mention the possibility of artificers with secret forges hidden in the Cogs."
+								"Most of the citizens of Sharn have never been to the Cogs. The area does house the bulk of the city's warforged population, and if you're looking for a particular warforged, it's the best place to start. Industrial espionage and labor struggles can add drama to adventures in the great foundries, not to mention the possibility of artificiers with secret forges hidden in the Cogs."
 							]
 						}
 					]
@@ -12214,7 +12214,7 @@
 										],
 										[
 											"5",
-											"{@b Cask} (changeling), an artificer and alchemist, supplies Daask with drugs and explosives and likes devising new concoctions and finding people to test them on."
+											"{@b Cask} (changeling), an artificier and alchemist, supplies Daask with drugs and explosives and likes devising new concoctions and finding people to test them on."
 										],
 										[
 											"6",
@@ -12321,7 +12321,7 @@
 					"id": "37b",
 					"entries": [
 						"In Precarious, a dwarf tries to smuggle a portable hole filled with treasures pillaged from Xen'drik past the guards of the Sharn Watch.",
-						"In Clifftop, a patrol of guards calls on two dueling barbarians to throw down their weapons; the fierce warriors just snarl and rush at each other once more.",
+						"In Clifftop, a patrol of guards calls on two dueling barbares to throw down their weapons; the fierce warriors just snarl and rush at each other once more.",
 						"In the court of Upper Central, a magistrate orders the Justiciar of Aureon to blind the prisoner in preparation for his sentence of perpetual darkness.",
 						"The law is a force to be reckoned with in Sharn. Even in places where the watch is notoriously ineffective, those who would break the law still need to be wary of zealous guards resistant to bribes or threats.",
 						{
@@ -13198,7 +13198,7 @@
 									"page": 190,
 									"id": "39e",
 									"entries": [
-										"Arcane workshops have many features in common, from workbenches and tools to diagrams etched into the floors and walls. Although most workshops are controlled by House Cannith, that house is not the only group of artificers who build and operate such locations. Zil gnomes who bind elementals and Mror dwarves who forge powerful weapons and armor must have spaces devoted to that work. The wizards of Arcanix in Aundair who create magic items and test new spells build specialized workshops for those purposes."
+										"Arcane workshops have many features in common, from workbenches and tools to diagrams etched into the floors and walls. Although most workshops are controlled by House Cannith, that house is not the only group of artificiers who build and operate such locations. Zil gnomes who bind elementals and Mror dwarves who forge powerful weapons and armor must have spaces devoted to that work. The wizards of Arcanix in Aundair who create magic items and test new spells build specialized workshops for those purposes."
 									]
 								},
 								{
@@ -13268,11 +13268,11 @@
 											"rows": [
 												[
 													"1",
-													"Steal a pattern for creating a magic item, before the workshop's artificers finish making the item."
+													"Steal a pattern for creating a magic item, before the workshop's artificiers finish making the item."
 												],
 												[
 													"2",
-													"Petition the ranking artificer for access to the workshop's specialized library."
+													"Petition the ranking artificier for access to the workshop's specialized library."
 												],
 												[
 													"3",
@@ -13284,7 +13284,7 @@
 												],
 												[
 													"5",
-													"Storm the workshop before the artificers complete a doomsday weapon."
+													"Storm the workshop before the artificiers complete a doomsday weapon."
 												],
 												[
 													"6",
@@ -13292,11 +13292,11 @@
 												],
 												[
 													"7",
-													"Defend the workshop against an invasion while the artificers try to repair a magic item."
+													"Defend the workshop against an invasion while the artificiers try to repair a magic item."
 												],
 												[
 													"8",
-													"Bring an unknown artifact to the workshop so the artificers can identify it."
+													"Bring an unknown artifact to the workshop so the artificiers can identify it."
 												],
 												[
 													"9",
@@ -13312,7 +13312,7 @@
 												],
 												[
 													"12",
-													"Request assistance from the artificers in recovering crucial memories from a destroyed construct or warforged."
+													"Request assistance from the artificiers in recovering crucial memories from a destroyed construct or warforged."
 												]
 											]
 										}
@@ -13422,7 +13422,7 @@
 									"rows": [
 										[
 											"1",
-											"A House Cannith artificer hires adventurers to steal secrets from a forge associated with a rival branch of the house."
+											"A House Cannith artificier hires adventurers to steal secrets from a forge associated with a rival branch of the house."
 										],
 										[
 											"2",
@@ -14398,7 +14398,7 @@
 					"entries": [
 						"War drums are sounding in the depths beneath Darguun. Bugbear champions hone their adamantine greatswords, and hobgoblin dirge singers call the legions to battle. The warriors of Dhakaan are preparing to reclaim their stolen lands, and the nations of Khorvaire have no idea what's coming.",
 						"During the struggle with the daelkyr, some Dhakaani leaders saw the madness spreading among their people and knew it would destroy their civilization. They led their forces into deep subterranean chambers and severed all contact with the outside world. In recent years these ancient clans\u2014who call themselves the Kech Dhakaan (\"bearers of [the traditions of] Dhakaan\")\u2014have finally returned to the surface.",
-						"The Dhakaani are utterly devoted to war, matched only by the Valenar elves in their devotion to the martial arts. Their weaponsmiths and armorers know techniques that even the artificers of House Cannith cannot duplicate. Throughout the Last War, no nation faced any other force that had the skill and resources of the resurgent Dhakaani.",
+						"The Dhakaani are utterly devoted to war, matched only by the Valenar elves in their devotion to the martial arts. Their weaponsmiths and armorers know techniques that even the artificiers of House Cannith cannot duplicate. Throughout the Last War, no nation faced any other force that had the skill and resources of the resurgent Dhakaani.",
 						"But there is one obstacle to their rise: the Heirs of Dhakaan have no emperor. The goblinoids are divided into clans, and each clan, or {@i kech}, believes its leader has the right to control all the others. And so the champions of Dhakaan continuously compete with each other to prove their right to rule. The Kech Sharaat (Bladebearers) believe that leadership is best achieved through force of arms. The Kech Volaar (Wordbearers) believe that knowledge is the greater weapon, and they seek to recover artifacts and weapons that were lost when the empire fell. These and several less influential clans are competing for overall leadership, while the spies and assassins of the Khesh'dar (Silent Folk) remain neutral in the struggle, gathering information on the modern world and serving every clan.",
 						"At the moment, the Heirs of Dhakaan are maintaining a low profile. They fight most of their battles underground, and occasionally dispatch small squads to carry out missions on the surface. Humans usually don't know enough about goblins to tell the difference between the Dhakaani and the people of Darguun. The truth of the matter is gradually spreading within Darguun, but no one yet realizes the power of the force that lies beneath their nation.",
 						{
@@ -14600,7 +14600,7 @@
 										],
 										[
 											"8",
-											"The Dhakaani begin kidnapping warforged so that their artificers can learn how to make their own construct soldiers."
+											"The Dhakaani begin kidnapping warforged so that their artificiers can learn how to make their own construct soldiers."
 										],
 										[
 											"9",
@@ -14854,7 +14854,7 @@
 									"page": 209,
 									"id": "3db",
 									"entries": [
-										"What horrific actions did the villain take during the Last War? Did they massacre civilians? Betray their comrades or their nation? A brilliant artificer might have designed arcane weapons that violated the rules of engagement. A Karrnathi {@creature bone knight|ERLW} (see {@book chapter 6|ERLW|13}) could have overseen a camp where prisoners of war were used as subjects in necromantic experiments. Is the villain infamous for their crimes, or yet to be exposed for what they did? Do they believe that their crimes were justified? Is the criminal protected by powerful people in their nation, or reviled by the people they served?"
+										"What horrific actions did the villain take during the Last War? Did they massacre civilians? Betray their comrades or their nation? A brilliant artificier might have designed arcane weapons that violated the rules of engagement. A Karrnathi {@creature bone knight|ERLW} (see {@book chapter 6|ERLW|13}) could have overseen a camp where prisoners of war were used as subjects in necromantic experiments. Is the villain infamous for their crimes, or yet to be exposed for what they did? Do they believe that their crimes were justified? Is the criminal protected by powerful people in their nation, or reviled by the people they served?"
 									]
 								},
 								{
@@ -15074,7 +15074,7 @@
 							"id": "3e3",
 							"entries": [
 								"{@creature The Lord of Blades|ERLW} didn't appear in the world until after the Day of Mourning. Only he knows what his identity was before then, but many suppositions have been put forth. Some scholars say that he was originally a warforged named Bulwark, the personal bodyguard of King Boranel of Breland. Others believe that he was the last warforged to emerge from the creation forges at Eston, completed in the last moments before the Mourning.",
-								"Perhaps the most outlandish idea is that {@creature the Lord of Blades|ERLW} is not a true warforged at all. The first warforged were created by an artificer named Aaren d'Cannith, who became furious when the house used his invention to create weapons of war. Based on that knowledge, some believe Aaren transferred his consciousness into a warforged body so that he could personally seek vengeance for the wrongs done to his children.",
+								"Perhaps the most outlandish idea is that {@creature the Lord of Blades|ERLW} is not a true warforged at all. The first warforged were created by an artificier named Aaren d'Cannith, who became furious when the house used his invention to create weapons of war. Based on that knowledge, some believe Aaren transferred his consciousness into a warforged body so that he could personally seek vengeance for the wrongs done to his children.",
 								"In the years following the war, {@creature the Lord of Blades|ERLW} is a force to be reckoned with. The warforged are some of the few beings able to thrive in the desolation of the Mournland, so the followers of {@creature the Lord of Blades|ERLW} are building a nation of their own amid the devastation. They search out and scour sites that were devastated in the Mourning to gather lost weapons and magic, all part of their preparations for full-scale war against the creatures of flesh."
 							]
 						},
@@ -15161,7 +15161,7 @@
 											"rows": [
 												[
 													"1",
-													"Rescue an artificer who is being forced to graft warforged components onto {@creature the Lord of Blades|ERLW}' warriors."
+													"Rescue an artificier who is being forced to graft warforged components onto {@creature the Lord of Blades|ERLW}' warriors."
 												],
 												[
 													"2",
@@ -15169,7 +15169,7 @@
 												],
 												[
 													"3",
-													"Capture a warforged artificer thought to be an advisor to {@creature the Lord of Blades|ERLW}, who is touring a series of ossuaries and inspecting the remains."
+													"Capture a warforged artificier thought to be an advisor to {@creature the Lord of Blades|ERLW}, who is touring a series of ossuaries and inspecting the remains."
 												],
 												[
 													"4",
@@ -15226,7 +15226,7 @@
 										],
 										[
 											"5",
-											"A mad artificer is trying to reactivate a destroyed warforged colossus."
+											"A mad artificier is trying to reactivate a destroyed warforged colossus."
 										],
 										[
 											"6",
@@ -15815,7 +15815,7 @@
 									"id": "400",
 									"entries": [
 										"House Cannith was born in Eston, and the house's labors transformed the city into a place of wonders. Clockwork birds perched and sang in silvery trees covered in steel bark. Skycoaches carried smiths and magewrights from forge to forge, and an iridescent dome protected the city from storms and harsh winds. On the proving grounds of the Cannith creation forges, cadres of newborn warforged learned the combat skills that would prepare them for active duty.",
-										"Eston began as a successful mining settlement, extracting iron and rare ores from the nearby hills. Drawing on these resources, the Cannith artificers in Eston spent decades researching all sorts of artificial creatures, which eventually gave rise to the warforged.",
+										"Eston began as a successful mining settlement, extracting iron and rare ores from the nearby hills. Drawing on these resources, the Cannith artificiers in Eston spent decades researching all sorts of artificial creatures, which eventually gave rise to the warforged.",
 										"Because of these wonders, Eston is an irresistible attraction for treasure hunters hoping to access the vaults of House Cannith. Reports suggest, however, that it has become a strange and deadly place. It's said that the city is overrun by living spells. In addition to the remnants of damaging spells (see \"{@book Living Spells|ERLW|13|Living Spells}\" in {@book chapter 6|ERLW|13}), there are stranger phenomena: living {@i continual flames} that crawl along the streets, cling to lampposts, and flee from strangers, and living {@i scrying} spells that shift and shimmer, displaying distant scenes on their amorphous skin.",
 										"Eston was renowned for its clockwork menagerie and its steel gardens, a showcase that chronicles House Cannith's centuries of work developing constructs and homunculi. These creatures have been twisted by the Mourning and have become deadly monsters. Stories tell of an enormous gorgon golem, of razor-winged swarms of silver songbirds, and many other equally strange things."
 									]
@@ -16018,7 +16018,7 @@
 									"entries": [
 										"House Cannith spent much of the war working on various kinds of constructs that could serve as soldiers, siege engines, or other weapons of war. Their earliest efforts, which lumbered onto Cyran battlefields in the late 930s YK, were barely more than golems with limited sentience, difficult to command in the field. The warforged titans were developed over the next twenty years, and the modern warforged\u2014often perceived as the pinnacle of Cannith engineering\u2014first saw battle in 965.",
 										"Successful as the warforged were, though, House Cannith never lost interest in building a better titan. Cyre didn't lose its desire for deadly weapons that could give it an edge over its enemies, and tremendous amounts of gold flowed from Cyre's coffers into the vaults of House Cannith as research and development continued, working toward a new kind of warforged that would bring an end to the war once and for all, and establish Cyre's martial supremacy for centuries to come.",
-										"With Cyre's immense wealth fueling its effort, House Cannith called upon the ingenuity of its best artificers and magewrights. Construction began on enormous new creation foundries, hundreds of feet tall, carved into the sides of mountains or secretly nestled within remote canyons.",
+										"With Cyre's immense wealth fueling its effort, House Cannith called upon the ingenuity of its best artificiers and magewrights. Construction began on enormous new creation foundries, hundreds of feet tall, carved into the sides of mountains or secretly nestled within remote canyons.",
 										"The project succeeded beyond Cyre's wildest dreams. When the original warforged colossus took its first thunderous footsteps, it was met with a reaction of equal parts awe and horror\u2014and it was almost immediately sent north toward Metrol, where armies from Karrnath were menacing the Cyran capital."
 									]
 								},
@@ -16321,7 +16321,7 @@
 										],
 										[
 											"5",
-											"An artificer is obsessed with infusing necromantic curses into their construct creations."
+											"An artificier is obsessed with infusing necromantic curses into their construct creations."
 										],
 										[
 											"6",
@@ -17033,7 +17033,7 @@
 							"page": 233,
 							"id": "431",
 							"entries": [
-								"Long ago, gnome artificers and specialists from House Cannith discovered and developed a means of magical travel. The heart of the process is a set of techniques for binding elementals that uses Khyber dragonshards. This closely guarded procedure requires delicate engineering, arcane skill, and rare materials from around the world, and different workshops employ varying esoteric techniques. Building a new vehicle can occupy a workshop for months while magical energy is painstakingly inlaid into the vessel's hull. Such work is a complicated task requiring the labor of many; it is not something that can be undertaken by a lone wizard for any amount of compensation.",
+								"Long ago, gnome artificiers and specialists from House Cannith discovered and developed a means of magical travel. The heart of the process is a set of techniques for binding elementals that uses Khyber dragonshards. This closely guarded procedure requires delicate engineering, arcane skill, and rare materials from around the world, and different workshops employ varying esoteric techniques. Building a new vehicle can occupy a workshop for months while magical energy is painstakingly inlaid into the vessel's hull. Such work is a complicated task requiring the labor of many; it is not something that can be undertaken by a lone wizard for any amount of compensation.",
 								"The construction of elemental vessels requires the use of two kinds of dragonshards. A Khyber dragonshard of the largest size and finest quality is required to bind the elemental to the vessel, and a Siberys dragonshard is needed to craft the vehicle's helm. Production of new vessels grinds to a halt without a steady supply of both kinds of dragonshards, and a workshop with an order to fill will pay a handsome fee to adventurers who can find them.",
 								{
 									"type": "entries",
@@ -17373,7 +17373,7 @@
 										],
 										[
 											"67\u201368",
-											"An artificer tinkers with a new invention."
+											"An artificier tinkers with a new invention."
 										],
 										[
 											"69\u201370",
@@ -19724,7 +19724,7 @@
 					"page": 280,
 					"id": "508",
 					"entries": [
-						"In a Cannith enclave, a team of artificers maintain a creation forge that produces warforged. In the Shadow Marches, druids guard the seals that hold the daelkyr at bay. In the sewers below Sharn, a mad necromancer puts the final touches on a device that will turn the city's residents into undead. Such contraptions are categorized as eldritch machines\u2014magical devices of immense power that are too large to be moved easily. Eldritch machines are marvels of magic and engineering that require special components and conditions to function. For example, a particular eldritch machine might function only in a manifest zone where two or more planes are coterminous.",
+						"In a Cannith enclave, a team of artificiers maintain a creation forge that produces warforged. In the Shadow Marches, druids guard the seals that hold the daelkyr at bay. In the sewers below Sharn, a mad necromancer puts the final touches on a device that will turn the city's residents into undead. Such contraptions are categorized as eldritch machines\u2014magical devices of immense power that are too large to be moved easily. Eldritch machines are marvels of magic and engineering that require special components and conditions to function. For example, a particular eldritch machine might function only in a manifest zone where two or more planes are coterminous.",
 						"Ultimately, eldritch machines are plot devices that can represent the culmination of a villain's master plan or a last defense against evil.",
 						{
 							"type": "entries",
@@ -19780,7 +19780,7 @@
 							"id": "50d",
 							"entries": [
 								"This device emanates an antimagic field (same effects as the {@spell antimagic field} spell) in a radius of 1 to 3 miles. The field can be activated or deactivated as an action with a touch by its controller.",
-								"The form that the device takes depends on the nature of its creator. The Ashbound druids despise unnatural magic, so a spell sink created by them might be a living artifact, such as a twisted tree that consumes the magical energy around it. Conversely, a spell sink created by a mad artificer might be a massive vessel composed of dragonshards and exotic metals.",
+								"The form that the device takes depends on the nature of its creator. The Ashbound druids despise unnatural magic, so a spell sink created by them might be a living artifact, such as a twisted tree that consumes the magical energy around it. Conversely, a spell sink created by a mad artificier might be a massive vessel composed of dragonshards and exotic metals.",
 								"A variant device called the spell siphon not only neutralizes magic but also absorbs all magical energy in the area, storing that power for a cataclysmic effect."
 							]
 						},
@@ -20058,7 +20058,7 @@
 													"entries": [
 														"Player characters might manifest connections to the daelkyr in many ways. The Great Old One warlock patron is an excellent match to {@creature Belashyrra|ERLW} or {@creature Dyrrn|ERLW}, but other classes can just as easily reflect a connection to this darkness. For example, a barbarian's rage might be seen as a form of daelkyr-induced madness, or a sorcerer's Sorcerous Origin could be the result of a daelkyr experiment.",
 														"When a character has a tie to a daelkyr, consider whether that tie was chosen or thrust upon them. Is the character a cultist who embraces their dark path, believing that a world transformed by the daelkyr will be a better place? Or is the character a victim of the daelkyr, consumed by the fear of what they might become?",
-														"The touch of the daelkyr might be purely mental, or it might be accompanied by a physical transformation. A barbarian touched by {@creature Belashyrra|ERLW} might serve as an eye of the All-Seer but remain physically unchanged, even as a barbarian tied to {@creature Dyrrn|ERLW} takes on aberrant features while raging. When a warlock character gains the Devil's Sight invocation, they might literally gain the fiery red eyes of a devil."
+														"The touch of the daelkyr might be purely mental, or it might be accompanied by a physical transformation. A barbare touched by {@creature Belashyrra|ERLW} might serve as an eye of the All-Seer but remain physically unchanged, even as a barbare tied to {@creature Dyrrn|ERLW} takes on aberrant features while raging. When a warlock character gains the Devil's Sight invocation, they might literally gain the fiery red eyes of a devil."
 													]
 												}
 											]

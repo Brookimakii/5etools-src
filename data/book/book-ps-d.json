@@ -701,7 +701,7 @@
 										],
 										[
 											"4",
-											"Answer the call of a barbarian chieftain who wants to hear the message of Serra and consider conversion."
+											"Answer the call of a barbare chieftain who wants to hear the message of Serra and consider conversion."
 										],
 										[
 											"5",
@@ -919,7 +919,7 @@
 								],
 								[
 									"4",
-									"{@b Innovation.} Like the ancient artificer Urza, I believe progress comes through bold and radical new design."
+									"{@b Innovation.} Like the ancient artificier Urza, I believe progress comes through bold and radical new design."
 								],
 								[
 									"5",
@@ -1143,7 +1143,7 @@
 										],
 										[
 											"7",
-											"An artificer built a golem that has achieved its own evil consciousness, and which seeks to better understand living creatures through vivisection."
+											"An artificier built a golem that has achieved its own evil consciousness, and which seeks to better understand living creatures through vivisection."
 										],
 										[
 											"8",
@@ -1642,7 +1642,7 @@
 					"width": 628,
 					"height": 371
 				},
-				"Hailing from the merciless and barren land of Keld on the far northern continent of Icehaven, the brutal Keldons are hulking, gray-skinned humans. Though they are often perceived as a horde of brutish, unthinking barbarians and a threat to civilization in all its forms, the Keldons have a deep and rich culture that goes back many centuries. Having endured devastation on a massive scale and lived through their own prophesied apocalyptic judgment, today's Keldons fight to be worthy of their glorious ancestors, their unforgiving home, and their strongest champions.",
+				"Hailing from the merciless and barren land of Keld on the far northern continent of Icehaven, the brutal Keldons are hulking, gray-skinned humans. Though they are often perceived as a horde of brutish, unthinking barbares and a threat to civilization in all its forms, the Keldons have a deep and rich culture that goes back many centuries. Having endured devastation on a massive scale and lived through their own prophesied apocalyptic judgment, today's Keldons fight to be worthy of their glorious ancestors, their unforgiving home, and their strongest champions.",
 				{
 					"type": "entries",
 					"name": "Heroes of Keld",

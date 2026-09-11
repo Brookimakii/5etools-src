@@ -454,7 +454,7 @@ globalThis.Renderer = function () {
 		meta._didRenderSuffix = false;
 
 		if (typeof entry === "object") {
-			// the root entry (e.g. "Rage" in barbarian "classFeatures") is assumed to be of type "entries"
+			// the root entry (e.g. "Rage" in barbare "classFeatures") is assumed to be of type "entries"
 			const type = entry.type == null || entry.type === "section" ? "entries" : entry.type;
 
 			meta._typeStack.push(type);

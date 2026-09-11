@@ -4649,7 +4649,7 @@
 					"name": "Rules Tip: Pushing and Shoving",
 					"page": 206,
 					"entries": [
-						"Certain character options, such as the Path of the Juggernaut barbarian in {@book chapter 4|TDCSR|3}, grant the ability to push other creatures around the battlefield with your attacks. But this is just one way to push a creature. If you want to move a creature without hurting it, there's a {@action shove|PHB|special shove attack} available to all characters. The {@book Vestige of Divergence|TDCSR|5|Vestiges of Divergence} Honor's Last Stand encourages you to shove your foes away while you valiantly stand your ground.",
+						"Certain character options, such as the Path of the Juggernaut barbare in {@book chapter 4|TDCSR|3}, grant the ability to push other creatures around the battlefield with your attacks. But this is just one way to push a creature. If you want to move a creature without hurting it, there's a {@action shove|PHB|special shove attack} available to all characters. The {@book Vestige of Divergence|TDCSR|5|Vestiges of Divergence} Honor's Last Stand encourages you to shove your foes away while you valiantly stand your ground.",
 						{
 							"type": "entries",
 							"name": "Shoving a Creature",

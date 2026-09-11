@@ -222,7 +222,7 @@
 									"page": 4,
 									"id": "00f",
 									"entries": [
-										"The Triboar Trail runs right through this abandoned town, which was sacked by barbarians years ago and now lies in ruins. A dirt road extending south of the town leads to a supposedly abandoned shrine dedicated to Savras (god of divination and fate). For more information on this location, see \"{@adventure Shrine of Savras|DIP|11}.\""
+										"The Triboar Trail runs right through this abandoned town, which was sacked by barbares years ago and now lies in ruins. A dirt road extending south of the town leads to a supposedly abandoned shrine dedicated to Savras (god of divination and fate). For more information on this location, see \"{@adventure Shrine of Savras|DIP|11}.\""
 									]
 								},
 								{
@@ -303,7 +303,7 @@
 									"page": 4,
 									"id": "018",
 									"entries": [
-										"This range of rocky knolls is so named because the area has been the impact site of a number of meteor showers over millennia. The hills are haunted by ruthless barbarian tribes, giving others little reason to visit the area."
+										"This range of rocky knolls is so named because the area has been the impact site of a number of meteor showers over millennia. The hills are haunted by ruthless barbare tribes, giving others little reason to visit the area."
 									]
 								},
 								{
@@ -881,7 +881,7 @@
 												],
 												[
 													"2",
-													"\"As the Triboar Trail runs east, it passes through the ruins of Conyberry, a town sacked by barbarians years ago. There's a ruined temple south of Conyberry where it's said the locals hid their gold.\" (If the characters visit the temple, see \"{@adventure Shrine of Savras|DIP|11}\" on page 38.)"
+													"\"As the Triboar Trail runs east, it passes through the ruins of Conyberry, a town sacked by barbares years ago. There's a ruined temple south of Conyberry where it's said the locals hid their gold.\" (If the characters visit the temple, see \"{@adventure Shrine of Savras|DIP|11}\" on page 38.)"
 												],
 												[
 													"3",
@@ -19753,8 +19753,8 @@
 					"page": 38,
 					"id": "175",
 					"entries": [
-						"Five miles south of {@area Conyberry|00f|x} is a shrine dedicated to Savras, god of divination and fate. Many years ago, the shrine's priest-seers foresaw a barbarian attack on Conyberry, giving the townsfolk time to escape. Not all the townsfolk chose to flee, but those who did went to the shrine and brought much of the town's gold with them.",
-						"The barbarians eventually tracked the townsfolk to the shrine, besieged it, and slaughtered everyone inside. In the days leading up to this final battle, the priest-seers helped the townsfolk hide their gold in plain sight. They melted down the coins and recast them into a bell, which they painted and hung in the shrine's belfry (replacing the old iron bell). The gold bell hangs there to this day.",
+						"Five miles south of {@area Conyberry|00f|x} is a shrine dedicated to Savras, god of divination and fate. Many years ago, the shrine's priest-seers foresaw a barbare attack on Conyberry, giving the townsfolk time to escape. Not all the townsfolk chose to flee, but those who did went to the shrine and brought much of the town's gold with them.",
+						"The barbares eventually tracked the townsfolk to the shrine, besieged it, and slaughtered everyone inside. In the days leading up to this final battle, the priest-seers helped the townsfolk hide their gold in plain sight. They melted down the coins and recast them into a bell, which they painted and hung in the shrine's belfry (replacing the old iron bell). The gold bell hangs there to this day.",
 						"Over the years, many other creatures have occupied the shrine. Most recently, a gang of wererats laired here until they were driven out by orcs displaced by Cryovain the white dragon. Recently, ogres wandered by the shrine, saw the orcs, and decided to join them."
 					]
 				},

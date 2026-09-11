@@ -7815,8 +7815,8 @@
 											"type": "inset",
 											"name": "Celestial Toymakers",
 											"entries": [
-												"A handful of master artificers exist among the rock gnomes who take the magic of their craft to new heights. These legendary gnomes usually reside in Bytopia and on other planes far from the Material Plane, locales where they can access and harness powerful energies. They have unlocked secrets of the multiverse that enable them to fashion mind-boggling creations\u2014their so-called \"celestial toys.\"",
-												"These master artificers are friendly to those who seek them out. They enjoy showing off their works and take great glee in watching visitors interact with their toys, while they scribble notes on how to refine their creations.",
+												"A handful of master artificiers exist among the rock gnomes who take the magic of their craft to new heights. These legendary gnomes usually reside in Bytopia and on other planes far from the Material Plane, locales where they can access and harness powerful energies. They have unlocked secrets of the multiverse that enable them to fashion mind-boggling creations\u2014their so-called \"celestial toys.\"",
+												"These master artificiers are friendly to those who seek them out. They enjoy showing off their works and take great glee in watching visitors interact with their toys, while they scribble notes on how to refine their creations.",
 												"Celestial toys can do just about anything. Many of these objects have properties not unlike those of wondrous items, such as a toy that can increase an ability score or one that can show happenings on other planes."
 											],
 											"id": "16c"
@@ -7857,7 +7857,7 @@
 									"name": "Artificers",
 									"page": 108,
 									"entries": [
-										"Rock gnome artificers construct exquisitely tooled and enameled pieces of machinery, often weaving magical properties into their work. Artificiers often develop a reputation for a particular style and type of work. For example, a friendly gnome artificer might create lovable mechanical pets and companions, while a grumpy gnome might make snapping critter constructs with sharp teeth and claws. Gnome artificers can become famous, with their works highly sought after by nobles, wizards, and other collectors.",
+										"Rock gnome artificiers construct exquisitely tooled and enameled pieces of machinery, often weaving magical properties into their work. Artificiers often develop a reputation for a particular style and type of work. For example, a friendly gnome artificier might create lovable mechanical pets and companions, while a grumpy gnome might make snapping critter constructs with sharp teeth and claws. Gnome artificiers can become famous, with their works highly sought after by nobles, wizards, and other collectors.",
 										"An artificer's inventions might include items such as a lock box that opens with a verbal command or a series of gestures, a clockwork critter designed to respond to simple commands, or a common magic item (such as those introduced in {@i Xanathar's Guide to Everything).}"
 									],
 									"id": "16f"
@@ -8324,7 +8324,7 @@
 									],
 									"by": "Delaan Winterhound"
 								},
-								"When a gnome leaves the burrow, the force behind that decision is almost always curiosity-an insatiable need to seek out and experience what the world has to offer. Sometimes the adventuring life is the natural outgrowth of a gnome's research project or experiment. A rock gnome alchemist who discovers a new form of fungus growing in a nearby cavern might wander farther afield from the burrow, looking for knowledge about other fungi in the world. A forest gnome who hears about a master illusionist in a faraway realm could embark on a journey to find that person and learn new tricks. A rock gnome artificer might become determined to locate any deposits of a rare metal, willing to travel the world high and low in search of it. Even a deep gnome might be born with an irrepressible urge to leave the Underdark and join a group to pursue a life of shared purpose.",
+								"When a gnome leaves the burrow, the force behind that decision is almost always curiosity-an insatiable need to seek out and experience what the world has to offer. Sometimes the adventuring life is the natural outgrowth of a gnome's research project or experiment. A rock gnome alchemist who discovers a new form of fungus growing in a nearby cavern might wander farther afield from the burrow, looking for knowledge about other fungi in the world. A forest gnome who hears about a master illusionist in a faraway realm could embark on a journey to find that person and learn new tricks. A rock gnome artificier might become determined to locate any deposits of a rare metal, willing to travel the world high and low in search of it. Even a deep gnome might be born with an irrepressible urge to leave the Underdark and join a group to pursue a life of shared purpose.",
 								"Some gnome communities make a practice of sending young adults away from the burrow as a rite of passage, encouraging them to explore the realms of humans, dwarves, and elves for a time, with instructions to bring back information and new ideas for the community. Most of these folk return to the burrow at the appointed time or even sooner, their curiosity having been satisfied. But a few of them take readily to life in the outside world and don't come back on schedule, returning to the burrow only after spending years or decades away as a member of an adventuring party.",
 								{
 									"type": "entries",

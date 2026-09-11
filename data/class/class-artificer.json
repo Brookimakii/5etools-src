@@ -685,7 +685,7 @@
 			"classSource": "TCE",
 			"level": 1,
 			"entries": [
-				"{@i 1st-level artificer feature}",
+				"{@i 1st-level artificier feature}",
 				"You've learned how to invest a spark of magic into mundane objects. To use this ability, you must have {@item thieves' tools|PHB} or {@item artisan's tools|PHB} in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:",
 				{
 					"type": "list",
@@ -714,7 +714,7 @@
 			"classSource": "TCE",
 			"level": 1,
 			"entries": [
-				"The secrets of creating and operating gunpowder weapons have been discovered in various corners of the D&D multiverse. If your Dungeon Master uses the rules on firearms in {@book chapter 9|DMG|9|Firearms} of the {@book Dungeon Master's Guide|DMG} and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them."
+				"The secrets of creating and operating gunpowder weapons have been discovered in various corners of the D&D multiverse. If your Dungeon Master uses the rules on firearms in {@book chapter 9|DMG|9|Firearms} of the {@book Dungeon Master's Guide|DMG} and your artificier has been exposed to the operation of such weapons, your artificier is proficient with them."
 			]
 		},
 		{
@@ -731,13 +731,13 @@
 			"classSource": "TCE",
 			"level": 1,
 			"entries": [
-				"{@i 1st-level artificer feature}",
+				"{@i 1st-level artificier feature}",
 				"You've studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don't appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions.",
 				{
 					"type": "entries",
 					"name": "Tools Required",
 					"entries": [
-						"You produce your artificer spell effects through your tools. You must have a spellcasting focus\u2014specifically {@item thieves' tools|phb} or some kind of {@item artisan's tools|phb|artisan's tool}\u2014in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See {@book chapter 5|PHB|4}, \"Equipment,\" in the {@book Player's Handbook|PHB} for descriptions of these tools.",
+						"You produce your artificier spell effects through your tools. You must have a spellcasting focus\u2014specifically {@item thieves' tools|phb} or some kind of {@item artisan's tools|phb|artisan's tool}\u2014in hand when you cast any spell with this Spellcasting feature (meaning the spell has an 'M' component when you cast it). You must be proficient with the tool to use it in this way. See {@book chapter 5|PHB|4}, \"Equipment,\" in the {@book Player's Handbook|PHB} for descriptions of these tools.",
 						"After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.",
 						{
 							"type": "inset",
@@ -754,25 +754,25 @@
 					"type": "entries",
 					"name": "Cantrips (0-Level Spells)",
 					"entries": [
-						"At 1st level, you know two cantrips of your choice from the {@filter artificer spell list|spells|level=0|class=Artificer}. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificier table.",
-						"When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list."
+						"At 1st level, you know two cantrips of your choice from the {@filter artificier spell list|spells|level=0|class=Artificer}. At higher levels, you learn additional artificier cantrips of your choice, as shown in the Cantrips Known column of the Artificier table.",
+						"When you gain a level in this class, you can replace one of the artificier cantrips you know with another cantrip from the artificier spell list."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Preparing and Casting Spells",
 					"entries": [
-						"The Artificier table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
-						"You prepare the list of artificer spells that are available for you to cast, choosing from the {@filter artificer spell list|spells|class=Artificer}. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.",
+						"The Artificier table shows how many spell slots you have to cast your artificier spells. To cast one of your artificier spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.",
+						"You prepare the list of artificier spells that are available for you to cast, choosing from the {@filter artificier spell list|spells|class=Artificer}. When you do so, choose a number of artificier spells equal to your Intelligence modifier + half your artificier level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.",
 						"For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell {@spell cure wounds}, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.",
-						"You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list."
+						"You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificier spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list."
 					]
 				},
 				{
 					"type": "entries",
 					"name": "Spellcasting Ability",
 					"entries": [
-						"Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.",
+						"Intelligence is your spellcasting ability for your artificier spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificier spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificier spell you cast and when making an attack roll with one.",
 						{
 							"type": "abilityDc",
 							"name": "Spell",
@@ -793,7 +793,7 @@
 					"type": "entries",
 					"name": "Ritual Casting",
 					"entries": [
-						"You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared."
+						"You can cast an artificier spell as a ritual if that spell has the ritual tag and you have the spell prepared."
 					]
 				}
 			]
@@ -812,7 +812,7 @@
 			"classSource": "TCE",
 			"level": 2,
 			"entries": [
-				"{@i 2nd-level artificer feature}",
+				"{@i 2nd-level artificier feature}",
 				"You've gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.",
 				{
 					"type": "refClassFeature",
@@ -822,9 +822,9 @@
 					"type": "inset",
 					"name": "Artificier Infusions",
 					"entries": [
-						"Artificiers have invented numerous magical infusions, extraordinary processes that rapidly create magic items. To many, artificers seem like wonderworkers, accomplishing in hours what others need weeks to complete.",
+						"Artificiers have invented numerous magical infusions, extraordinary processes that rapidly create magic items. To many, artificiers seem like wonderworkers, accomplishing in hours what others need weeks to complete.",
 						"The description of each of the following infusions details the type of item that can receive it, along with whether the resulting magic item requires attunement.",
-						"Some infusions specify a minimum artificer level. You can't learn such an infusion until you are at least that level.",
+						"Some infusions specify a minimum artificier level. You can't learn such an infusion until you are at least that level.",
 						"Unless an infusion's description says otherwise, you can't learn an infusion more than once."
 					]
 				},
@@ -832,7 +832,7 @@
 					"type": "entries",
 					"name": "Infusing an Item",
 					"entries": [
-						"Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see \"{@book Attunement|DMG|7|Attunement}\" in chapter 7 of the {@book Dungeon Master's Guide|DMG}).",
+						"Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificier infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see \"{@book Attunement|DMG|7|Attunement}\" in chapter 7 of the {@book Dungeon Master's Guide|DMG}).",
 						"Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days have passed equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you give up your knowledge of the infusion for another one.",
 						"You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificier table. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.",
 						"If an infusion ends on an item that contains other things, like a {@item bag of holding}, its contents harmlessly appear in and around its space."
@@ -855,8 +855,8 @@
 			"level": 2,
 			"header": 1,
 			"entries": [
-				"When you gain this feature, pick four artificer infusions to learn, choosing from the \"{@filter Artificier Infusions|optionalfeatures|feature type=ai|source=TCE}\" section at the end of the class's description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificier table.",
-				"Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one."
+				"When you gain this feature, pick four artificier infusions to learn, choosing from the \"{@filter Artificier Infusions|optionalfeatures|feature type=ai|source=TCE}\" section at the end of the class's description. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificier table.",
+				"Whenever you gain a level in this class, you can replace one of the artificier infusions you learned with a new one."
 			]
 		},
 		{
@@ -873,7 +873,7 @@
 			"classSource": "TCE",
 			"level": 3,
 			"entries": [
-				"{@i 3rd-level artificer feature}",
+				"{@i 3rd-level artificier feature}",
 				"Choose the type of specialist you are, each of which is detailed at the end of the class's description. Your choice grants you features at 5th level and again at 9th and 15th level."
 			]
 		},
@@ -891,7 +891,7 @@
 			"classSource": "TCE",
 			"level": 3,
 			"entries": [
-				"{@i 3rd-level artificer feature}",
+				"{@i 3rd-level artificier feature}",
 				"You've learned how to produce exactly the tool you need: with {@item thieves' tools|PHB} or {@item artisan's tools|PHB} in hand, you can magically create one set of {@item artisan's tools|PHB} in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again."
 			]
 		},
@@ -909,7 +909,7 @@
 			"classSource": "TCE",
 			"level": 4,
 			"entries": [
-				"{@i 4th-level artificer feature}",
+				"{@i 4th-level artificier feature}",
 				"When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
 				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
 			]
@@ -928,7 +928,7 @@
 			"classSource": "TCE",
 			"level": 5,
 			"entries": [
-				"{@i 5th-level artificer feature}",
+				"{@i 5th-level artificier feature}",
 				"You gain a feature granted by your Artificier Specialist choice."
 			]
 		},
@@ -946,7 +946,7 @@
 			"classSource": "TCE",
 			"level": 6,
 			"entries": [
-				"{@i 6th-level artificer feature}",
+				"{@i 6th-level artificier feature}",
 				"Your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool."
 			]
 		},
@@ -964,7 +964,7 @@
 			"classSource": "TCE",
 			"level": 7,
 			"entries": [
-				"{@i 7th-level artificer feature}",
+				"{@i 7th-level artificier feature}",
 				"You've gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.",
 				"You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest."
 			]
@@ -983,7 +983,7 @@
 			"classSource": "TCE",
 			"level": 8,
 			"entries": [
-				"{@i 8th-level artificer feature}",
+				"{@i 8th-level artificier feature}",
 				"When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
 				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
 			]
@@ -1002,7 +1002,7 @@
 			"classSource": "TCE",
 			"level": 9,
 			"entries": [
-				"{@i 9th-level artificer feature}",
+				"{@i 9th-level artificier feature}",
 				"You gain a feature granted by your Artificier Specialist choice."
 			]
 		},
@@ -1020,7 +1020,7 @@
 			"classSource": "TCE",
 			"level": 10,
 			"entries": [
-				"{@i 10th-level artificer feature}",
+				"{@i 10th-level artificier feature}",
 				"You've achieved a profound understanding of how to use and make magic items:",
 				{
 					"type": "list",
@@ -1045,8 +1045,8 @@
 			"classSource": "TCE",
 			"level": 11,
 			"entries": [
-				"{@i 11th-level artificer feature}",
-				"You can now store a spell in an object. Whenever you finish a long rest, you can touch one {@filter simple or martial weapon|items|source=phb|category=basic|type=martial weapon;simple weapon} or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the {@filter artificer spell list|spells|class=Artificer|cast time=action|level=1;2} that requires 1 action to cast (you needn't have it prepared).",
+				"{@i 11th-level artificier feature}",
+				"You can now store a spell in an object. Whenever you finish a long rest, you can touch one {@filter simple or martial weapon|items|source=phb|category=basic|type=martial weapon;simple weapon} or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the {@filter artificier spell list|spells|class=Artificer|cast time=action|level=1;2} that requires 1 action to cast (you needn't have it prepared).",
 				"While holding the object, a creature can take an action to produce the spell's effect from it, using your spellcasting ability modifier. If the spell requires {@status concentration}, the creature must concentrate. The spell stays in the object until it's been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object."
 			]
 		},
@@ -1064,7 +1064,7 @@
 			"classSource": "TCE",
 			"level": 12,
 			"entries": [
-				"{@i 12th-level artificer feature}",
+				"{@i 12th-level artificier feature}",
 				"When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
 				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
 			]
@@ -1083,7 +1083,7 @@
 			"classSource": "TCE",
 			"level": 14,
 			"entries": [
-				"{@i 14th-level artificer feature}",
+				"{@i 14th-level artificier feature}",
 				"Your skill with magic items deepens:",
 				{
 					"type": "list",
@@ -1108,7 +1108,7 @@
 			"classSource": "TCE",
 			"level": 15,
 			"entries": [
-				"{@i 15th-level artificer feature}",
+				"{@i 15th-level artificier feature}",
 				"You gain a feature granted by your Artificier Specialist choice."
 			]
 		},
@@ -1126,7 +1126,7 @@
 			"classSource": "TCE",
 			"level": 16,
 			"entries": [
-				"{@i 16th-level artificer feature}",
+				"{@i 16th-level artificier feature}",
 				"When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
 				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
 			]
@@ -1145,7 +1145,7 @@
 			"classSource": "TCE",
 			"level": 18,
 			"entries": [
-				"{@i 18th-level artificer feature}",
+				"{@i 18th-level artificier feature}",
 				"You can now attune to up to six magic items at once."
 			]
 		},
@@ -1163,7 +1163,7 @@
 			"classSource": "TCE",
 			"level": 19,
 			"entries": [
-				"{@i 19th-level artificer feature}",
+				"{@i 19th-level artificier feature}",
 				"When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.",
 				"If your DM allows the use of feats, you may instead take a {@5etools feat|feats.html}."
 			]
@@ -1182,13 +1182,13 @@
 			"classSource": "TCE",
 			"level": 20,
 			"entries": [
-				"{@i 20th-level artificer feature}",
+				"{@i 20th-level artificier feature}",
 				"You have developed a mystical connection to your magic items, which you can draw on for protection:",
 				{
 					"type": "list",
 					"items": [
 						"You gain a +1 bonus to all saving throws per magic item you are currently attuned to.",
-						"If you're reduced to 0 hit points but not killed outright, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0."
+						"If you're reduced to 0 hit points but not killed outright, you can use your reaction to end one of your artificier infusions, causing you to drop to 1 hit point instead of 0."
 					]
 				}
 			]
@@ -1211,7 +1211,7 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"An Alchemist is an expert at combining reagents to produce mystical effects. Alchemists use their creations to give life and to leech it away. Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.",
+				"An Alchemist is an expert at combining reagents to produce mystical effects. Alchemists use their creations to give life and to leech it away. Alchemy is the oldest of artificier traditions, and its versatility has long been valued during times of war and peace.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tool Proficiency|Artificer|TCE|Alchemist|TCE|3"
@@ -1243,7 +1243,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.",
+				"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificier spells for you, but they don't count against the number of artificier spells you prepare.",
 				{
 					"type": "table",
 					"caption": "Alchemist Spells",
@@ -1445,7 +1445,7 @@
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.",
+				"An artificier who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer's magic, unleash potent attacks, and generate a formidable defense. The artificier bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tools of the Trade|Artificer|TCE|Armorer|TCE|3"
@@ -1552,7 +1552,7 @@
 					"type": "list",
 					"items": [
 						"If the armor normally has a Strength requirement, the arcane armor lacks this requirement for you.",
-						"You can use the arcane armor as a spellcasting focus for your artificer spells.",
+						"You can use the arcane armor as a spellcasting focus for your artificier spells.",
 						"The armor attaches to you and can't be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a bonus action. The armor replaces any missing limbs, functioning identically to a limb it replaces.",
 						"You can doff or don the armor as an action. The armor continues to be Arcane Armor until you don another suit of armor or you die."
 					]
@@ -1639,7 +1639,7 @@
 			"header": 1,
 			"entries": [
 				"{@i 3rd-level Armorer feature}",
-				"You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.",
+				"You always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificier spells for you, but they don't count against the number of artificier spells you prepare.",
 				{
 					"type": "table",
 					"caption": "Armorer Spells",
@@ -1718,7 +1718,7 @@
 			"header": 2,
 			"entries": [
 				"{@i 9th-level Armorer feature}",
-				"You learn how to use your artificer infusions to specially modify your Arcane Armor. That armor now counts as separate items for the purposes of your Infuse Items feature: armor (the chest piece), boots, helmet, and the armor's special weapon. Each of those items can bear one of your infusions, and the infusions transfer over if you change your armor's model with the Armor Model feature. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your Arcane Armor."
+				"You learn how to use your artificier infusions to specially modify your Arcane Armor. That armor now counts as separate items for the purposes of your Infuse Items feature: armor (the chest piece), boots, helmet, and the armor's special weapon. Each of those items can bear one of your infusions, and the infusions transfer over if you change your armor's model with the Armor Model feature. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your Arcane Armor."
 			]
 		},
 		{
@@ -1790,7 +1790,7 @@
 			"level": 3,
 			"entries": [
 				"An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destructive power was valued by all the armies of the Last War. Now that the war is over, some members of this specialization have sought to build a more peaceful world by using their powers to fight the resurgence of strife in Khorvaire.",
-				"The gnome artificer Vi, an unlikely yet key member of House Cannith's warforged project, has been especially vocal about making things right: \"It's about time we fixed things instead of blowing them all to hell.\"",
+				"The gnome artificier Vi, an unlikely yet key member of House Cannith's warforged project, has been especially vocal about making things right: \"It's about time we fixed things instead of blowing them all to hell.\"",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tool Proficiency|Artificer|TCE|Artillerist|TCE|3"
@@ -1822,7 +1822,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.",
+				"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificier spells for you, but they don't count against the number of artificier spells you prepare.",
 				{
 					"type": "table",
 					"caption": "Artillerist Spells",
@@ -1878,7 +1878,7 @@
 			"entries": [
 				"At 3rd level, you learn how to create a magical cannon. Using {@item woodcarver's tools|PHB} or {@item smith's tools|PHB}, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.",
 				"Once you create a cannon, you can't do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.",
-				"The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the {@spell mending} spell is cast on it, it regains {@dice 2d6} hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.",
+				"The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificier level. It is immune to poison damage and psychic damage, and all conditions. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the {@spell mending} spell is cast on it, it regains {@dice 2d6} hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.",
 				"When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.",
 				{
 					"type": "table",
@@ -1946,7 +1946,7 @@
 			"header": 2,
 			"entries": [
 				"At 5th level, you know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you finish a long rest, you can use {@item woodcarver's tools|PHB} to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.",
-				"You can use your arcane firearm as a spellcasting focus for your artificer spells. When you cast an artificer spell through the firearm, roll a {@damage d8}, and you gain a bonus to one of the spell's damage rolls equal to the number rolled."
+				"You can use your arcane firearm as a spellcasting focus for your artificier spells. When you cast an artificier spell through the firearm, roll a {@damage d8}, and you gain a bonus to one of the spell's damage rolls equal to the number rolled."
 			]
 		},
 		{
@@ -2020,7 +2020,7 @@
 			"level": 3,
 			"entries": [
 				"Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both material and personnel. To aid in their work, Battle Smiths are usually accompanied by a steel defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.",
-				"Battle Smiths played a key role in House Cannith's work on battle constructs and the original warforged, and after the Last War, these artificers led efforts to aid those who were injured in the war's horrific battles.",
+				"Battle Smiths played a key role in House Cannith's work on battle constructs and the original warforged, and after the Last War, these artificiers led efforts to aid those who were injured in the war's horrific battles.",
 				{
 					"type": "refSubclassFeature",
 					"subclassFeature": "Tool Proficiency|Artificer|TCE|Battle Smith|TCE|3"
@@ -2083,7 +2083,7 @@
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.",
+				"Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificier spells for you, but they don't count against the number of artificier spells you prepare.",
 				{
 					"type": "table",
 					"caption": "Battle Smith Spells",

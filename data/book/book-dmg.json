@@ -2782,7 +2782,7 @@
 					"name": "Flavors of Fantasy",
 					"page": 38,
 					"entries": [
-						"Dungeons & Dragons is a fantasy game, but that broad category encompasses a lot of variety. Many different flavors of fantasy exist in fiction and film. Do you want a horrific campaign inspired by the works of H. P. Lovecraft or Clark Ashton Smith? Or do you envision a world of muscled barbarians and nimble thieves, along the lines of the classic sword-and-sorcery books by Robert E. Howard and Fritz Leiber? Your choice can have a impact on the flavor of your campaign.",
+						"Dungeons & Dragons is a fantasy game, but that broad category encompasses a lot of variety. Many different flavors of fantasy exist in fiction and film. Do you want a horrific campaign inspired by the works of H. P. Lovecraft or Clark Ashton Smith? Or do you envision a world of muscled barbares and nimble thieves, along the lines of the classic sword-and-sorcery books by Robert E. Howard and Fritz Leiber? Your choice can have a impact on the flavor of your campaign.",
 						{
 							"type": "entries",
 							"name": "Heroic Fantasy",
@@ -2799,7 +2799,7 @@
 							"page": 38,
 							"entries": [
 								"A grim, hulking fighter disembowels the high priest of the serpent god on his own altar. A laughing rogue spends ill-gotten gains on cheap wine in filthy taverns. Hardy adventurers venture into the unexplored jungle in search of the fabled City of Golden Masks.",
-								"A sword-and-sorcery campaign emulates some of the classic works of fantasy fiction, a tradition that goes back to the roots of the game. Here you'll find a dark, gritty world of evil sorcerers and decadent cities, where the protagonists are motivated more by greed and self-interest than by altruistic virtue. Fighter, rogue, and barbarian characters tend to be far more common than wizards, clerics, or paladins. In such a pulp fantasy setting, those who wield magic often symbolize the decadence and corruption of civilization, and wizards are the classic villains of these settings. Magic items are therefore rare and often dangerous.",
+								"A sword-and-sorcery campaign emulates some of the classic works of fantasy fiction, a tradition that goes back to the roots of the game. Here you'll find a dark, gritty world of evil sorcerers and decadent cities, where the protagonists are motivated more by greed and self-interest than by altruistic virtue. Fighter, rogue, and barbare characters tend to be far more common than wizards, clerics, or paladins. In such a pulp fantasy setting, those who wield magic often symbolize the decadence and corruption of civilization, and wizards are the classic villains of these settings. Magic items are therefore rare and often dangerous.",
 								"Certain Dungeons & Dragons novels follow in the footsteps of classic sword-and-sorcery novels. The world of Athas (as featured in numerous Dark Sun novels and game products), with its heroic gladiators and tyrannical sorcerer-kings, belongs squarely in this genre."
 							],
 							"id": "0a0"
@@ -2878,7 +2878,7 @@
 							"name": "War",
 							"page": 40,
 							"entries": [
-								"A hobgoblin army marches toward the city, leading elephants and giants to batter down the stronghold's walls and ramparts. Dragons wheel above a barbarian horde, scattering enemies as the raging warriors cut a swath through field and forest. Salamanders muster at an efreeti's command, poised to assault an astral fortress.",
+								"A hobgoblin army marches toward the city, leading elephants and giants to batter down the stronghold's walls and ramparts. Dragons wheel above a barbare horde, scattering enemies as the raging warriors cut a swath through field and forest. Salamanders muster at an efreeti's command, poised to assault an astral fortress.",
 								"Warfare in a fantasy world is rife with opportunities for adventure. A war campaign isn't generally concerned with the specifics of troop movements, but instead focuses on the heroes whose actions turn the tide of battle. The characters carry out specific missions: capture a magical standard that empowers undead armies, gather reinforcements to break a siege, or cut through the enemy's flank to reach a demonic commander. In other situations, the party supports the larger army by holding a strategic location until reinforcements arrive, killing enemy scouts before they can report, or cutting off supply lines. Information gathering and diplomatic missions can supplement the more combat-oriented adventures.",
 								"The War of the Lance in the Dragonlance Chronicles novels and the War of the Spider Queen in the novel series of the same name are prominent examples of wars in D&D novels."
 							],
@@ -18018,7 +18018,7 @@
 									"name": "Training",
 									"page": 231,
 									"entries": [
-										"A character might be offered special training in lieu of a financial reward. This kind of training isn't widely available and thus is highly desirable. It presumes the existence of a skilled trainer-perhaps a retired adventurer or champion who is willing to serve as a mentor. The trainer might be a reclusive wizard or haughty sorcerer who owes the queen a favor, the knight-commander of the King's Guard, the leader of a powerful druid circle, a quirky monk who lives in a remote mountaintop pagoda, a barbarian chieftain, a warlock living among nomads as a fortune-teller, or an absentminded bard whose plays and poetry are known throughout the land.",
+										"A character might be offered special training in lieu of a financial reward. This kind of training isn't widely available and thus is highly desirable. It presumes the existence of a skilled trainer-perhaps a retired adventurer or champion who is willing to serve as a mentor. The trainer might be a reclusive wizard or haughty sorcerer who owes the queen a favor, the knight-commander of the King's Guard, the leader of a powerful druid circle, a quirky monk who lives in a remote mountaintop pagoda, a barbare chieftain, a warlock living among nomads as a fortune-teller, or an absentminded bard whose plays and poetry are known throughout the land.",
 										"A character who agrees to training as a reward must spend downtime with the trainer (see chapter 6 for more information on downtime activities). In exchange, the character is guaranteed to receive a special benefit. Possible training benefits include the following:",
 										{
 											"type": "list",
@@ -23658,7 +23658,7 @@
 							"name": "Monsters with Classes",
 							"page": 283,
 							"entries": [
-								"You can use the rules in chapter 3 of the Player's Handbook to give class levels to a monster. For example, you can turn an ordinary werewolf into a werewolf with four levels of the barbarian class (such a monster would be expressed as \"Werewolf, 4th-level barbarian\").",
+								"You can use the rules in chapter 3 of the Player's Handbook to give class levels to a monster. For example, you can turn an ordinary werewolf into a werewolf with four levels of the barbare class (such a monster would be expressed as \"Werewolf, 4th-level barbarian\").",
 								"Start with the monster's stat block. The monster gains all the class features for every class level you add, with the following exceptions:",
 								{
 									"type": "list",
@@ -23669,7 +23669,7 @@
 									]
 								},
 								"Once you finish adding class levels to a monster, feel free to tweak its ability scores as you see fit (for example, raising the monster's Intelligence score so that the monster is a more effective wizard), and make whatever other adjustments are needed. You'll need to recalculate its challenge rating as though you had designed the monster from scratch.",
-								"Depending on the monster and the number of class levels you add to it, its challenge rating might change very little or increase dramatically. For example, a werewolf that gains four barbarian levels is a much greater threat than it was before. In contrast, the hit points, spells, and other class features that an ancient red dragon gains from five levels of wizard don't increase its challenge rating."
+								"Depending on the monster and the number of class levels you add to it, its challenge rating might change very little or increase dramatically. For example, a werewolf that gains four barbare levels is a much greater threat than it was before. In contrast, the hit points, spells, and other class features that an ancient red dragon gains from five levels of wizard don't increase its challenge rating."
 							],
 							"id": "378"
 						}

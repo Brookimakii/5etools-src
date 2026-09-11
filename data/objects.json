@@ -313,7 +313,7 @@
 			"objectType": "U",
 			"ac": 18,
 			"hp": {
-				"special": "equal to five times your artificer level"
+				"special": "equal to five times your artificier level"
 			},
 			"str": 10,
 			"dex": 10,
@@ -371,7 +371,7 @@
 			"objectType": "U",
 			"ac": 18,
 			"hp": {
-				"special": "equal to five times your artificer level"
+				"special": "equal to five times your artificier level"
 			},
 			"str": 10,
 			"dex": 10,
@@ -429,7 +429,7 @@
 			"objectType": "U",
 			"ac": 18,
 			"hp": {
-				"special": "equal to five times your artificer level"
+				"special": "equal to five times your artificier level"
 			},
 			"str": 10,
 			"dex": 10,
